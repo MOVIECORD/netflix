@@ -1,9 +1,0 @@
-[vlive]
-title = "V MOVIE"
-url = "https://www.vlive.tv/channel/C077D7/board/5513?lang=ko"
-entrySelector = "li[class^='post_item']"
-titleSelector = "strong[class^='title_text']"
-linkSelector = "a[class^='post_area']"
-contentSelector = "span[class^='upload_time']"
-waitUntil = "networkidle"
-onFail = "stale"
