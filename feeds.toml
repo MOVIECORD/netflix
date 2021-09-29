@@ -1,3 +1,13 @@
+[navertv]
+title = "Netflix Korea ─ 네이버TV"
+url = "https://tv.naver.com/netflixkr/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+
 [vlive]
 title = "V MOVIE"
 url = "https://www.vlive.tv/channel/C077D7/board/5513?lang=ko"
