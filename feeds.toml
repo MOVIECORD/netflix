@@ -9,7 +9,7 @@ contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
 [vlive]
-title = "V MOVIE"
+title = "Netflix Korea ─ V LIVE"
 url = "https://www.vlive.tv/channel/C077D7/board/5513?lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong[class^='title_text']"
