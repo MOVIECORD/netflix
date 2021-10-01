@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-09-30T17:39:08.843Z</updated>
+    <updated>2021-10-01T05:33:12.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 레인코트 킬러: 유영철을 추격하다 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-25698852</id>
+        <link href="https://www.vlive.tv/post/0-25698852"/>
+        <updated>2021-10-01T05:33:11.797Z</updated>
+        <content type="html"><![CDATA[3시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 마이 네임 | 메인 예고편]]></title>
         <id>https://www.vlive.tv/post/1-25691614</id>
         <link href="https://www.vlive.tv/post/1-25691614"/>
         <updated>2021-09-30T05:33:40.243Z</updated>
-        <content type="html"><![CDATA[17시간 전]]></content>
+        <content type="html"><![CDATA[9.30.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 더 하더 데이 폴 | 공식 예고편]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/0-25590110"/>
         <updated>2021-09-29T08:08:33.682Z</updated>
         <content type="html"><![CDATA[9.24.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 마이 네임 | 티저 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-25448153</id>
-        <link href="https://www.vlive.tv/post/1-25448153"/>
-        <updated>2021-09-29T08:08:33.683Z</updated>
-        <content type="html"><![CDATA[9.20.]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 17:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 05:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 레인코트 킬러: 유영철을 추격하다 | 공식 예고편 (Netflix Korea ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/22698449</link>
+            <guid>https://tv.naver.com/v/22698449</guid>
+            <pubDate>Fri, 01 Oct 2021 05:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_33/VE8A7_16330540729088Ba4t_JPEG/1633054071481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 하더 데이 폴 | 공식 예고편 (Netflix Korea ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/22681314</link>
@@ -240,19 +248,18 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_260/gp7an_1631241748362EGK9r_JPEG/1631241687619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 더 길티 | 공식 예고편 | 제이크 질렌할 (Netflix Korea ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/22356264</link>
-            <guid>https://tv.naver.com/v/22356264</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210909_23/Mhs8S_1631164513978grbPU_JPEG/1631164060561.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 레인코트 킬러: 유영철을 추격하다 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-25698852</link>
+            <guid>https://www.vlive.tv/post/0-25698852</guid>
+            <pubDate>Fri, 01 Oct 2021 05:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이 네임 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-25691614</link>
             <guid>https://www.vlive.tv/post/1-25691614</guid>
             <pubDate>Thu, 30 Sep 2021 05:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9.30.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 하더 데이 폴 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -379,13 +386,6 @@
             <guid>https://www.vlive.tv/post/0-25590110</guid>
             <pubDate>Wed, 29 Sep 2021 08:08:33 GMT</pubDate>
             <content:encoded><![CDATA[9.24.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25448153</link>
-            <guid>https://www.vlive.tv/post/1-25448153</guid>
-            <pubDate>Wed, 29 Sep 2021 08:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[9.20.]]></content:encoded>
         </item>
     </channel>
 </rss>
