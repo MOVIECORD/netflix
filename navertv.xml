@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 17:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 05:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이 네임 | 제작기 영상]]></title>
+            <link>https://tv.naver.com/v/22787759</link>
+            <guid>https://tv.naver.com/v/22787759</guid>
+            <pubDate>Tue, 05 Oct 2021 05:33:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211005_172/zlgRG_1633401077076JNNQS_JPEG/1633401021040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 레인코트 킬러: 유영철을 추격하다 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/22698449</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_33/3kCHO_16312587967544ygOr_JPEG/1631258732439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 디피 정해인, 구교환, 한준희 감독😎의 🌟스포주의🌟D.P. 코멘터리 | 디피]]></title>
-            <link>https://tv.naver.com/v/22376277</link>
-            <guid>https://tv.naver.com/v/22376277</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[25:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210910_260/gp7an_1631241748362EGK9r_JPEG/1631241687619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

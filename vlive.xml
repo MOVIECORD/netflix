@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-10-04T17:41:47.448Z</updated>
+    <updated>2021-10-05T05:33:33.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 마이 네임 | 제작기 영상]]></title>
+        <id>https://www.vlive.tv/post/0-25786724</id>
+        <link href="https://www.vlive.tv/post/0-25786724"/>
+        <updated>2021-10-05T05:33:33.048Z</updated>
+        <content type="html"><![CDATA[3시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 레인코트 킬러: 유영철을 추격하다 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/0-25698852</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[[넷플릭스] 오징어 게임 | 하이라이트 | 사람들이 게임에 참가할 수밖에 없는 이유]]></title>
         <id>https://www.vlive.tv/post/0-25592717</id>
         <link href="https://www.vlive.tv/post/0-25592717"/>
-        <updated>2021-09-29T08:08:33.682Z</updated>
-        <content type="html"><![CDATA[9.24.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 오징어 게임 | 제작기 영상]]></title>
-        <id>https://www.vlive.tv/post/0-25590110</id>
-        <link href="https://www.vlive.tv/post/0-25590110"/>
         <updated>2021-09-29T08:08:33.682Z</updated>
         <content type="html"><![CDATA[9.24.]]></content>
     </entry>
