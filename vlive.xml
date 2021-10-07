@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-10-06T17:38:40.549Z</updated>
+    <updated>2021-10-07T05:24:35.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 로크 앤 키 예고편 | 시즌 2]]></title>
+        <id>https://www.vlive.tv/post/0-25817617</id>
+        <link href="https://www.vlive.tv/post/0-25817617"/>
+        <updated>2021-10-07T05:24:34.810Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 매기 스미스, 헨리 로풀 | 티저 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-25825455</id>
+        <link href="https://www.vlive.tv/post/1-25825455"/>
+        <updated>2021-10-07T05:24:34.811Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 마야와 3인의 용사 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-25825456</id>
+        <link href="https://www.vlive.tv/post/1-25825456"/>
+        <updated>2021-10-07T05:24:34.814Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 틱, 틱... 붐! | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-25825457</id>
+        <link href="https://www.vlive.tv/post/1-25825457"/>
+        <updated>2021-10-07T05:24:34.815Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 마이 네임 | 제작기 영상]]></title>
         <id>https://www.vlive.tv/post/0-25786724</id>
@@ -116,33 +144,5 @@
         <link href="https://www.vlive.tv/post/0-25592491"/>
         <updated>2021-09-29T08:08:33.676Z</updated>
         <content type="html"><![CDATA[9.25.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 마이 네임 | 클립 영상]]></title>
-        <id>https://www.vlive.tv/post/0-25592493</id>
-        <link href="https://www.vlive.tv/post/0-25592493"/>
-        <updated>2021-09-29T08:08:33.678Z</updated>
-        <content type="html"><![CDATA[9.25.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 신세계로부터 | 공개일 발표]]></title>
-        <id>https://www.vlive.tv/post/1-25599401</id>
-        <link href="https://www.vlive.tv/post/1-25599401"/>
-        <updated>2021-09-29T08:08:33.680Z</updated>
-        <content type="html"><![CDATA[9.25.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 오징어 게임 | 하이라이트 | 사람이 죽자, 상금이 올라갔다]]></title>
-        <id>https://www.vlive.tv/post/0-25592715</id>
-        <link href="https://www.vlive.tv/post/0-25592715"/>
-        <updated>2021-09-29T08:08:33.681Z</updated>
-        <content type="html"><![CDATA[9.24.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 오징어 게임 | 하이라이트 | 사람들이 게임에 참가할 수밖에 없는 이유]]></title>
-        <id>https://www.vlive.tv/post/0-25592717</id>
-        <link href="https://www.vlive.tv/post/0-25592717"/>
-        <updated>2021-09-29T08:08:33.682Z</updated>
-        <content type="html"><![CDATA[9.24.]]></content>
     </entry>
 </feed>

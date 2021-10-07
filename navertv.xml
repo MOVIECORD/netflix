@@ -4,9 +4,41 @@
         <title>Netflix Korea ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 17:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 05:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 로크 앤 키 예고편 | 시즌 2]]></title>
+            <link>https://tv.naver.com/v/22833563</link>
+            <guid>https://tv.naver.com/v/22833563</guid>
+            <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_246/GKr3Q_1633578098236tW8vf_JPEG/1633578045655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 매기 스미스, 헨리 로풀 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/22833535</link>
+            <guid>https://tv.naver.com/v/22833535</guid>
+            <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_170/75qO8_1633578017417DJsan_JPEG/1633577889384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마야와 3인의 용사 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/22833484</link>
+            <guid>https://tv.naver.com/v/22833484</guid>
+            <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_292/3aHAY_1633577868182j9CGq_JPEG/1633577761377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 틱, 틱... 붐! | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/22833444</link>
+            <guid>https://tv.naver.com/v/22833444</guid>
+            <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_14/2XCqf_1633577737630rr6Yf_JPEG/1633577674490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이 네임 | 제작기 영상]]></title>
             <link>https://tv.naver.com/v/22787759</link>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_186/NU1En_1631771142944ESXtY_JPEG/1631771083964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/22485049</link>
-            <guid>https://tv.naver.com/v/22485049</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_256/drAci_1631768492728vteel_JPEG/1631768490411.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 디피 조석봉, 황장수, 류이강, 문영옥 본캐 등판🌟 D.P. 특별 인터뷰 | 디피]]></title>
-            <link>https://tv.naver.com/v/22416329</link>
-            <guid>https://tv.naver.com/v/22416329</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[14:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_213/U9izo_16315011766047wS13_JPEG/1631500818879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] D.P. | 스페셜 M/V 'Shine your blue' | 디피]]></title>
-            <link>https://tv.naver.com/v/22386130</link>
-            <guid>https://tv.naver.com/v/22386130</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210910_102/IzKbB_1631261308563YeUlL_JPEG/1631261110565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 신민아, 김선호! 나 보조개 커플 선호하네? 좋퍼 시즌1 마지막회🎁]]></title>
-            <link>https://tv.naver.com/v/22384316</link>
-            <guid>https://tv.naver.com/v/22384316</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210910_33/3kCHO_16312587967544ygOr_JPEG/1631258732439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
