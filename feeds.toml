@@ -7,6 +7,7 @@ linkSelector = "dt.title a"
 imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [vlive]
 title = "Netflix Korea ─ V LIVE"
