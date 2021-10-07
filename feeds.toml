@@ -1,5 +1,5 @@
 [navertv]
-title = "Netflix Korea ─ 네이버TV"
+title = "Netflix Korea ─ NAVER TV"
 url = "https://tv.naver.com/netflixkr/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
 titleSelector = "dt.title"
