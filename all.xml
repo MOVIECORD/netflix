@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 02:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 03:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 나르코스: 멕시코 | 시즌 3 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22909539</link>
+            <guid>https://tv.naver.com/v/22909539</guid>
+            <pubDate>Tue, 12 Oct 2021 03:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_263/xhfHg_1634006504627RlITi_JPEG/1634006114334.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 로빈 로빈 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22909489</link>
+            <guid>https://tv.naver.com/v/22909489</guid>
+            <pubDate>Tue, 12 Oct 2021 03:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_93/PlA5Z_1634006365743jcPKQ_JPEG/1634006111395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 체스트넛 맨 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22909465</link>
+            <guid>https://tv.naver.com/v/22909465</guid>
+            <pubDate>Tue, 12 Oct 2021 03:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_20/b25wp_1634006275679rCsfL_JPEG/1634006108508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 로크 앤 키 예고편 | 시즌 2 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/22833563</link>
@@ -224,28 +248,25 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_260/6pli8_163177141990145q2f_JPEG/1631771354921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 네 집에 누군가 있다 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22486235</link>
-            <guid>https://tv.naver.com/v/22486235</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_44/ExPRy_1631771325551NDu4M_JPEG/1631771275728.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 나르코스: 멕시코 | 시즌 3 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-25897684</link>
+            <guid>https://www.vlive.tv/post/0-25897684</guid>
+            <pubDate>Tue, 12 Oct 2021 03:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[26분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 로크 앤 키 시즌 2 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22486199</link>
-            <guid>https://tv.naver.com/v/22486199</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_112/vmxmF_16317712447285p4Kb_JPEG/1631771198054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 로빈 로빈 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-25897685</link>
+            <guid>https://www.vlive.tv/post/0-25897685</guid>
+            <pubDate>Tue, 12 Oct 2021 03:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 우리는 모두 어른이 될 수 없었다 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22486155</link>
-            <guid>https://tv.naver.com/v/22486155</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_186/NU1En_1631771142944ESXtY_JPEG/1631771083964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 더 체스트넛 맨 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-25905002</link>
+            <guid>https://www.vlive.tv/post/1-25905002</guid>
+            <pubDate>Tue, 12 Oct 2021 03:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 로크 앤 키 예고편 | 시즌 2 (Netflix Korea ─ V LIVE)]]></title>
@@ -365,27 +386,6 @@
             <guid>https://www.vlive.tv/post/0-25649374</guid>
             <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
             <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 시즌 2 퍼스트룩 영상: 니벨렌 | 위쳐 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25656443</link>
-            <guid>https://www.vlive.tv/post/1-25656443</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 시즌 2 퍼스트룩 영상: 게롤트 & 시리 | 위쳐 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25649375</link>
-            <guid>https://www.vlive.tv/post/0-25649375</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 공개일 발표 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25592491</link>
-            <guid>https://www.vlive.tv/post/0-25592491</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.25.]]></content:encoded>
         </item>
     </channel>
 </rss>
