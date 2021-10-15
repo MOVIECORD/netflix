@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 06:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 07:07:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 한소희, 두 개의 이름을 갖게 된 이유 | 마이 네임 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/22975443</link>
+            <guid>https://tv.naver.com/v/22975443</guid>
+            <pubDate>Fri, 15 Oct 2021 07:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_77/PTT1o_16342751083257QXt0_JPEG/1634275105259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 콜린: 흑과 백의 인생 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/22951180</link>
@@ -240,12 +248,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210924_29/STk1n_1632455826899p4BmR_JPEG/1632451841615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임 | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22590929</link>
-            <guid>https://tv.naver.com/v/22590929</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[7:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210924_34/ucZQQ_1632445117076D8j4w_JPEG/1632444975785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 한소희, 두 개의 이름을 갖게 된 이유 | 마이 네임 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-25993337</link>
+            <guid>https://www.vlive.tv/post/0-25993337</guid>
+            <pubDate>Fri, 15 Oct 2021 07:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 | 2부 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -377,13 +384,6 @@
             <title><![CDATA[[넷플릭스] 브리저튼 | TUDUM: 시즌 2 퍼스트룩 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-25649376</link>
             <guid>https://www.vlive.tv/post/0-25649376</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 플립 어 코인: 원 오크 록 다큐멘터리 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25649372</link>
-            <guid>https://www.vlive.tv/post/0-25649372</guid>
             <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
             <content:encoded><![CDATA[9.27.]]></content:encoded>
         </item>
