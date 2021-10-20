@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-10-20T05:06:24.719Z</updated>
+    <updated>2021-10-20T06:08:23.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 마이 네임 X 프라우드먼, 놀라운 퍼포먼스의 완결판 | 마이 네임 MY NAME]]></title>
+        <id>https://www.vlive.tv/post/1-26076351</id>
+        <link href="https://www.vlive.tv/post/1-26076351"/>
+        <updated>2021-10-20T06:08:23.217Z</updated>
+        <content type="html"><![CDATA[51분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 오자크: 시즌 4 | 공개 발표]]></title>
+        <id>https://www.vlive.tv/post/0-26069930</id>
+        <link href="https://www.vlive.tv/post/0-26069930"/>
+        <updated>2021-10-20T06:08:23.217Z</updated>
+        <content type="html"><![CDATA[53분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 티저 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-26076337</id>
+        <link href="https://www.vlive.tv/post/1-26076337"/>
+        <updated>2021-10-20T06:08:23.218Z</updated>
+        <content type="html"><![CDATA[54분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 티저 예고편 “로스트 세션”]]></title>
+        <id>https://www.vlive.tv/post/0-26069931</id>
+        <link href="https://www.vlive.tv/post/0-26069931"/>
+        <updated>2021-10-20T06:08:23.218Z</updated>
+        <content type="html"><![CDATA[57분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 빅 마우스 | 시즌 5 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-26076338</id>
+        <link href="https://www.vlive.tv/post/1-26076338"/>
+        <updated>2021-10-20T06:08:23.221Z</updated>
+        <content type="html"><![CDATA[59분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 재키의 링 | 할리 베리 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-26076339</id>
+        <link href="https://www.vlive.tv/post/1-26076339"/>
+        <updated>2021-10-20T06:08:23.222Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 한소희, 두 개의 이름을 갖게 된 이유 | 마이 네임]]></title>
         <id>https://www.vlive.tv/post/0-25993337</id>
@@ -102,47 +144,5 @@
         <link href="https://www.vlive.tv/post/1-25693732"/>
         <updated>2021-10-11T07:07:18.032Z</updated>
         <content type="html"><![CDATA[9.29.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 피버 드림 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-25649563</id>
-        <link href="https://www.vlive.tv/post/0-25649563"/>
-        <updated>2021-10-11T07:07:18.033Z</updated>
-        <content type="html"><![CDATA[9.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 기묘한 이야기 4 | 크릴의 집]]></title>
-        <id>https://www.vlive.tv/post/1-25656446</id>
-        <link href="https://www.vlive.tv/post/1-25656446"/>
-        <updated>2021-10-11T07:07:18.035Z</updated>
-        <content type="html"><![CDATA[9.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 너의 모든 것 시즌 3 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-25649378</id>
-        <link href="https://www.vlive.tv/post/0-25649378"/>
-        <updated>2021-10-11T07:07:18.036Z</updated>
-        <content type="html"><![CDATA[9.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 돈 룩 업 | 특별 영상: "일단 지켜보고 판단합시다"]]></title>
-        <id>https://www.vlive.tv/post/0-25649377</id>
-        <link href="https://www.vlive.tv/post/0-25649377"/>
-        <updated>2021-10-11T07:07:18.037Z</updated>
-        <content type="html"><![CDATA[9.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 바이킹스: 발할라 | 퍼스트룩]]></title>
-        <id>https://www.vlive.tv/post/1-25656445</id>
-        <link href="https://www.vlive.tv/post/1-25656445"/>
-        <updated>2021-10-11T07:07:18.038Z</updated>
-        <content type="html"><![CDATA[9.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 브리저튼 | TUDUM: 시즌 2 퍼스트룩]]></title>
-        <id>https://www.vlive.tv/post/0-25649376</id>
-        <link href="https://www.vlive.tv/post/0-25649376"/>
-        <updated>2021-10-11T07:07:18.039Z</updated>
-        <content type="html"><![CDATA[9.27.]]></content>
     </entry>
 </feed>

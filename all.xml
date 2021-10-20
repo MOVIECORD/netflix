@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 06:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 오자크: 시즌 4 | 공개 발표 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23064230</link>
+            <guid>https://tv.naver.com/v/23064230</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_242/hG9pc_1634706938408NxaXS_JPEG/1634706868003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23064185</link>
+            <guid>https://tv.naver.com/v/23064185</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_289/t54uO_16347068467752ct1v_JPEG/1634706743396.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 티저 예고편 “로스트 세션” (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23064112</link>
+            <guid>https://tv.naver.com/v/23064112</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_11/thK06_1634706686621XY1td_JPEG/1634706621299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 빅 마우스 | 시즌 5 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23064076</link>
+            <guid>https://tv.naver.com/v/23064076</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_162/u48bX_1634706592022VjAYN_JPEG/1634706517730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 재키의 링 | 할리 베리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23063980</link>
@@ -216,36 +248,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_12/mLBsQ_1632706737755HwB8N_JPEG/1632706696961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 기묘한 이야기 4 | 크릴의 집 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22634422</link>
-            <guid>https://tv.naver.com/v/22634422</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_231/AFD4d_1632706671278CMNlJ_JPEG/1632706667709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 마이 네임 X 프라우드먼, 놀라운 퍼포먼스의 완결판 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26076351</link>
+            <guid>https://www.vlive.tv/post/1-26076351</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임 | 하이라이트 | 사람이 죽었다, 그러자 상금이 추가되었다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22595276</link>
-            <guid>https://tv.naver.com/v/22595276</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210924_276/g547S_1632456347532YrakV_JPEG/1632456288992.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 오자크: 시즌 4 | 공개 발표 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-26069930</link>
+            <guid>https://www.vlive.tv/post/0-26069930</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[53분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임 | 하이라이트 |  인생 마지막 기회를 잡으시겠습니까? (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22595258</link>
-            <guid>https://tv.naver.com/v/22595258</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210924_218/HoZ6G_1632456263378dwTpM_JPEG/1632456254496.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26076337</link>
+            <guid>https://www.vlive.tv/post/1-26076337</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[54분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22595224</link>
-            <guid>https://tv.naver.com/v/22595224</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210924_241/o0bB9_1632456021883u3Hnd_JPEG/1632451875437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 티저 예고편 “로스트 세션” (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-26069931</link>
+            <guid>https://www.vlive.tv/post/0-26069931</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[57분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 빅 마우스 | 시즌 5 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26076338</link>
+            <guid>https://www.vlive.tv/post/1-26076338</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[59분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 재키의 링 | 할리 베리 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26076339</link>
+            <guid>https://www.vlive.tv/post/1-26076339</guid>
+            <pubDate>Wed, 20 Oct 2021 06:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 한소희, 두 개의 이름을 갖게 된 이유 | 마이 네임 (Netflix Korea ─ V LIVE)]]></title>
@@ -344,48 +386,6 @@
             <guid>https://www.vlive.tv/post/1-25693732</guid>
             <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
             <content:encoded><![CDATA[9.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 피버 드림 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25649563</link>
-            <guid>https://www.vlive.tv/post/0-25649563</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 기묘한 이야기 4 | 크릴의 집 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25656446</link>
-            <guid>https://www.vlive.tv/post/1-25656446</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너의 모든 것 시즌 3 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25649378</link>
-            <guid>https://www.vlive.tv/post/0-25649378</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 돈 룩 업 | 특별 영상: "일단 지켜보고 판단합시다" (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25649377</link>
-            <guid>https://www.vlive.tv/post/0-25649377</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 바이킹스: 발할라 | 퍼스트룩 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25656445</link>
-            <guid>https://www.vlive.tv/post/1-25656445</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 브리저튼 | TUDUM: 시즌 2 퍼스트룩 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25649376</link>
-            <guid>https://www.vlive.tv/post/0-25649376</guid>
-            <pubDate>Mon, 11 Oct 2021 07:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[9.27.]]></content:encoded>
         </item>
     </channel>
 </rss>
