@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-10-21T09:07:41.448Z</updated>
+    <updated>2021-10-21T09:44:59.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[9.30.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[넷플릭스] 더 하더 데이 폴 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-25693732</id>
-        <link href="https://www.vlive.tv/post/1-25693732"/>
-        <updated>2021-10-11T07:07:18.032Z</updated>
-        <content type="html"><![CDATA[9.29.]]></content>
+        <title type="html"><![CDATA[[넷플릭스] 피버 드림 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-25649563</id>
+        <link href="https://www.vlive.tv/post/0-25649563"/>
+        <updated>2021-10-21T09:44:58.900Z</updated>
+        <content type="html"><![CDATA[9.27.]]></content>
     </entry>
 </feed>
