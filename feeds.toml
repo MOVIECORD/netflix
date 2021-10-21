@@ -1,3 +1,13 @@
+[naverpost]
+title = "Netflix Korea ─ NAVER POST"
+url = "https://m.post.naver.com/my.naver?memberNo=25425763"
+entrySelector = "ul.lst_feed li._cds.check_visible"
+titleSelector = "strong.tit_feed.ell"
+linkSelector = "div.text_area a.link_end"
+imageSelector = "div.image_area a img"
+contentSelector = "p.text_feed.ell"
+waitUntil = "networkidle"
+
 [navertv]
 title = "Netflix Korea ─ NAVER TV"
 url = "https://tv.naver.com/netflixkr/clips"
