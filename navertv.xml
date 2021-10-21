@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 13:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 14:07:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 레드 노티스 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23102050</link>
+            <guid>https://tv.naver.com/v/23102050</guid>
+            <pubDate>Thu, 21 Oct 2021 14:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_227/up56Y_1634822756614GjSXA_JPEG/1634822731352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 하더 데이 폴 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/23096841</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_155/Vowwo_1632706812974oDEtJ_JPEG/1632706756096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너의 모든 것 시즌 3 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/22634436</link>
-            <guid>https://tv.naver.com/v/22634436</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_12/mLBsQ_1632706737755HwB8N_JPEG/1632706696961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
