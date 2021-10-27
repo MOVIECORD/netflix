@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 01:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 02:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -453,7 +453,7 @@ KBS 전설의 19기 개그맨들의
             <link>https://www.vlive.tv/post/1-26183664</link>
             <guid>https://www.vlive.tv/post/1-26183664</guid>
             <pubDate>Wed, 27 Oct 2021 00:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 레드 노티스 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
