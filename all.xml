@@ -4,9 +4,18 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가 이 지옥을 만들었는가
+넷플릭스 <지옥> 메인 예고편 공개 (Netflix Korea ─ NAVER POST)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32633553&amp;memberNo=25425763</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32633553&amp;memberNo=25425763</guid>
+            <pubDate>Wed, 27 Oct 2021 07:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[살인인가 천벌인가공개 전부터 국내외 각종 영화제에 초청되며 전 세계의 기대를 한 몸에 받고 있는 넷플릭스 하반기 최고 기대작 &lt;지옥&gt;연상호 감독이 보여 줄 지옥의 모습은 과연 어떨지? 드디어 ▼ 메인 예···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMTA2/MDAxNjM1MzA0NDI2NjY2.X7YuDHUdr8niYDmJX1FY2SGAxhlbt17MVknJsuT_gNQg.1GR5JwqUQ_se2GEJeAnnxhKPpfPxXGdI-Df5ZvDkiDsg.GIF/IBdl-UZGE_IF7UAJtoJXODwYBiJQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이것은 살인인가 천벌인가,
 넷플릭스 시리즈 <지옥>
@@ -199,14 +208,12 @@ KBS 전설의 19기 개그맨들의
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjdfMSAg/MDAxNjMwMDU0MTQ1NTkz.ytl1--PbL2UJs-N_CxMBBoum1OdVOqpQsrhEOLTE6ZEg.XMmESbK2PSbvTFFEGI3ZbD2eEmgChXJinCHF_t6tQTkg.GIF/I9LXQNsxmxQ5un6BMb9qgOcZsdig.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왜 그들은 탈영병이 되었나,
-정해인X구교환X김성균X손석구
-탈영병 잡는 군인 '디피' 공개! (Netflix Korea ─ NAVER POST)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32253184&amp;memberNo=25425763</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32253184&amp;memberNo=25425763</guid>
-            <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계도 몰랐다?! 한국의 특.수.군.인. 탈영병 잡는 ‘디피’!각잡고 나온 이들의 신선한 모습에 모두가 기대 만발 중인 넷플릭스 시리즈 &lt;D.P.&gt;마침내 오늘! D.P.가 되어 현실과 마주하는 &amp;lsquo···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjdfMTEy/MDAxNjMwMDQ3NTY4MDgx.-srC4pMNDh7g9zFSYsQkYLJ0LDcfhFz2Ptr30mT2VmQg.ALZrQsrpNOvglnKLYnu0ecgRZhiL5buKTMMJu8xhpxwg.GIF/IulkowpLEAbXP89Zk0mMbRvrJM7g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 마이 네임 코멘터리, 작감배가 직접 밝히는 뒷 이야기 | 마이 네임 MY NAME (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23198177</link>
+            <guid>https://tv.naver.com/v/23198177</guid>
+            <pubDate>Wed, 27 Oct 2021 07:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[26:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_64/7BH9n_16353146239403Qeoc_JPEG/1635314464835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이 네임 박희순, 눈빛 하나로 액션 누아르 완성 | 마이 네임 MY NAME (Netflix Korea ─ NAVER TV)]]></title>
@@ -441,33 +448,53 @@ KBS 전설의 19기 개그맨들의
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_251/NmKXg_16327081525041rWoi_JPEG/1632708094432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 카우보이 비밥 | 오프닝 크레딧 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22634821</link>
-            <guid>https://tv.naver.com/v/22634821</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_160/UAO1O_16327080468989kTjt_JPEG/1632707738069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 마이 네임 한소희, 폐차장에서 액션 찢었다😎 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26195656</link>
+            <guid>https://www.vlive.tv/post/1-26195656</guid>
+            <pubDate>Wed, 27 Oct 2021 07:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[49분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 한소희 눈물이 곧 서사다! 한소희 연기 명장면 모음 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-26189407</link>
+            <guid>https://www.vlive.tv/post/0-26189407</guid>
+            <pubDate>Wed, 27 Oct 2021 07:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[49분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이 네임 박희순, 눈빛 하나로 액션 누아르 완성 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-26189406</link>
+            <guid>https://www.vlive.tv/post/0-26189406</guid>
+            <pubDate>Wed, 27 Oct 2021 07:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[49분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이 네임 코멘터리, 작감배가 직접 밝히는 뒷 이야기 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-26189405</link>
+            <guid>https://www.vlive.tv/post/0-26189405</guid>
+            <pubDate>Wed, 27 Oct 2021 07:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26194820</link>
             <guid>https://www.vlive.tv/post/1-26194820</guid>
             <pubDate>Wed, 27 Oct 2021 05:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 언포기버블 | 산드라 블록 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26188450</link>
             <guid>https://www.vlive.tv/post/0-26188450</guid>
             <pubDate>Wed, 27 Oct 2021 05:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26183664</link>
             <guid>https://www.vlive.tv/post/1-26183664</guid>
             <pubDate>Wed, 27 Oct 2021 00:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 레드 노티스 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -559,34 +586,6 @@ KBS 전설의 19기 개그맨들의
             <guid>https://www.vlive.tv/post/1-25905002</guid>
             <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
             <content:encoded><![CDATA[10.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 로크 앤 키 예고편 | 시즌 2 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25817617</link>
-            <guid>https://www.vlive.tv/post/0-25817617</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 매기 스미스, 헨리 로풀 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25825455</link>
-            <guid>https://www.vlive.tv/post/1-25825455</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마야와 3인의 용사 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25825456</link>
-            <guid>https://www.vlive.tv/post/1-25825456</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 틱, 틱... 붐! | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25825457</link>
-            <guid>https://www.vlive.tv/post/1-25825457</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.7.]]></content:encoded>
         </item>
     </channel>
 </rss>

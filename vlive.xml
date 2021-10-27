@@ -2,29 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-10-27T06:09:07.380Z</updated>
+    <updated>2021-10-27T07:07:32.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 마이 네임 한소희, 폐차장에서 액션 찢었다😎 | 마이 네임 MY NAME]]></title>
+        <id>https://www.vlive.tv/post/1-26195656</id>
+        <link href="https://www.vlive.tv/post/1-26195656"/>
+        <updated>2021-10-27T07:07:32.247Z</updated>
+        <content type="html"><![CDATA[49분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 한소희 눈물이 곧 서사다! 한소희 연기 명장면 모음 | 마이 네임 MY NAME]]></title>
+        <id>https://www.vlive.tv/post/0-26189407</id>
+        <link href="https://www.vlive.tv/post/0-26189407"/>
+        <updated>2021-10-27T07:07:32.254Z</updated>
+        <content type="html"><![CDATA[49분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 마이 네임 박희순, 눈빛 하나로 액션 누아르 완성 | 마이 네임 MY NAME]]></title>
+        <id>https://www.vlive.tv/post/0-26189406</id>
+        <link href="https://www.vlive.tv/post/0-26189406"/>
+        <updated>2021-10-27T07:07:32.254Z</updated>
+        <content type="html"><![CDATA[49분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 마이 네임 코멘터리, 작감배가 직접 밝히는 뒷 이야기 | 마이 네임 MY NAME]]></title>
+        <id>https://www.vlive.tv/post/0-26189405</id>
+        <link href="https://www.vlive.tv/post/0-26189405"/>
+        <updated>2021-10-27T07:07:32.255Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/1-26194820</id>
         <link href="https://www.vlive.tv/post/1-26194820"/>
         <updated>2021-10-27T05:06:28.744Z</updated>
-        <content type="html"><![CDATA[1시간 전]]></content>
+        <content type="html"><![CDATA[2시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 언포기버블 | 산드라 블록 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/0-26188450</id>
         <link href="https://www.vlive.tv/post/0-26188450"/>
         <updated>2021-10-27T05:06:28.745Z</updated>
-        <content type="html"><![CDATA[1시간 전]]></content>
+        <content type="html"><![CDATA[2시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 지옥 | 메인 예고편]]></title>
         <id>https://www.vlive.tv/post/1-26183664</id>
         <link href="https://www.vlive.tv/post/1-26183664"/>
         <updated>2021-10-27T00:21:42.299Z</updated>
-        <content type="html"><![CDATA[6시간 전]]></content>
+        <content type="html"><![CDATA[7시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 레드 노티스 | 공식 예고편]]></title>
@@ -116,33 +144,5 @@
         <link href="https://www.vlive.tv/post/1-25905002"/>
         <updated>2021-10-25T08:08:23.620Z</updated>
         <content type="html"><![CDATA[10.12.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 로크 앤 키 예고편 | 시즌 2]]></title>
-        <id>https://www.vlive.tv/post/0-25817617</id>
-        <link href="https://www.vlive.tv/post/0-25817617"/>
-        <updated>2021-10-25T08:08:23.621Z</updated>
-        <content type="html"><![CDATA[10.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 매기 스미스, 헨리 로풀 | 티저 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-25825455</id>
-        <link href="https://www.vlive.tv/post/1-25825455"/>
-        <updated>2021-10-25T08:08:23.623Z</updated>
-        <content type="html"><![CDATA[10.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 마야와 3인의 용사 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-25825456</id>
-        <link href="https://www.vlive.tv/post/1-25825456"/>
-        <updated>2021-10-25T08:08:23.624Z</updated>
-        <content type="html"><![CDATA[10.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 틱, 틱... 붐! | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-25825457</id>
-        <link href="https://www.vlive.tv/post/1-25825457"/>
-        <updated>2021-10-25T08:08:23.625Z</updated>
-        <content type="html"><![CDATA[10.7.]]></content>
     </entry>
 </feed>
