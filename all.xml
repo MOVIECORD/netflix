@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 04:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 05:06:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,22 @@ KBS 전설의 19기 개그맨들의
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[전 세계도 몰랐다?! 한국의 특.수.군.인. 탈영병 잡는 ‘디피’!각잡고 나온 이들의 신선한 모습에 모두가 기대 만발 중인 넷플릭스 시리즈 &lt;D.P.&gt;마침내 오늘! D.P.가 되어 현실과 마주하는 &amp;lsquo···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjdfMTEy/MDAxNjMwMDQ3NTY4MDgx.-srC4pMNDh7g9zFSYsQkYLJ0LDcfhFz2Ptr30mT2VmQg.ALZrQsrpNOvglnKLYnu0ecgRZhiL5buKTMMJu8xhpxwg.GIF/IulkowpLEAbXP89Zk0mMbRvrJM7g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23196409</link>
+            <guid>https://tv.naver.com/v/23196409</guid>
+            <pubDate>Wed, 27 Oct 2021 05:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_243/mFoCv_1635310735462DnLFn_JPEG/1635310568441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 언포기버블 | 산드라 블록 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23196272</link>
+            <guid>https://tv.naver.com/v/23196272</guid>
+            <pubDate>Wed, 27 Oct 2021 05:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_103/DSOp0_16353104699361eko7_JPEG/1635310128508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -433,27 +449,25 @@ KBS 전설의 19기 개그맨들의
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_200/6EqJZ_16327071619908nCHV_JPEG/1632707126329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 브리저튼 | TUDUM: 시즌 2 퍼스트룩 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22634533</link>
-            <guid>https://tv.naver.com/v/22634533</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_12/n4vrP_1632707013189xwj0U_JPEG/1632706927537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26194820</link>
+            <guid>https://www.vlive.tv/post/1-26194820</guid>
+            <pubDate>Wed, 27 Oct 2021 05:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 바이킹스: 발할라 | 퍼스트룩 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22634485</link>
-            <guid>https://tv.naver.com/v/22634485</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_246/ZzvvY_16327068919509s9Cj_JPEG/1632706836319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 언포기버블 | 산드라 블록 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-26188450</link>
+            <guid>https://www.vlive.tv/post/0-26188450</guid>
+            <pubDate>Wed, 27 Oct 2021 05:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26183664</link>
             <guid>https://www.vlive.tv/post/1-26183664</guid>
             <pubDate>Wed, 27 Oct 2021 00:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 레드 노티스 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -573,20 +587,6 @@ KBS 전설의 19기 개그맨들의
             <guid>https://www.vlive.tv/post/1-25825457</guid>
             <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
             <content:encoded><![CDATA[10.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 | 제작기 영상 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25786724</link>
-            <guid>https://www.vlive.tv/post/0-25786724</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 레인코트 킬러: 유영철을 추격하다 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25698852</link>
-            <guid>https://www.vlive.tv/post/0-25698852</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.1.]]></content:encoded>
         </item>
     </channel>
 </rss>
