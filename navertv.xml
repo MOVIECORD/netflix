@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 05:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 06:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이 네임 박희순, 눈빛 하나로 액션 누아르 완성 | 마이 네임 MY NAME]]></title>
+            <link>https://tv.naver.com/v/23198105</link>
+            <guid>https://tv.naver.com/v/23198105</guid>
+            <pubDate>Wed, 27 Oct 2021 06:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[6:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_94/SYsm3_1635314434334W6B7d_JPEG/1635314378150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 한소희 눈물이 곧 서사다! 한소희 연기 명장면 모음 | 마이 네임 MY NAME]]></title>
+            <link>https://tv.naver.com/v/23198013</link>
+            <guid>https://tv.naver.com/v/23198013</guid>
+            <pubDate>Wed, 27 Oct 2021 06:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[9:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_253/pSwPG_1635314229555z0fIr_JPEG/1635314093056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이 네임 한소희, 폐차장에서 액션 찢었다😎 | 마이 네임 MY NAME]]></title>
+            <link>https://tv.naver.com/v/23197933</link>
+            <guid>https://tv.naver.com/v/23197933</guid>
+            <pubDate>Wed, 27 Oct 2021 06:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_15/oXV3F_1635314061949C97pk_JPEG/1635314030846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/23196409</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_160/UAO1O_16327080468989kTjt_JPEG/1632707738069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 에밀리, 파리에 가다 시즌 2 | 공개 발표 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/22634662</link>
-            <guid>https://tv.naver.com/v/22634662</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_69/NkZ6v_1632707403963WOvzT_JPEG/1632707277816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 시즌 2 퍼스트룩 영상: 니벨렌 | 위쳐]]></title>
-            <link>https://tv.naver.com/v/22634625</link>
-            <guid>https://tv.naver.com/v/22634625</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_111/Pepgj_16327072449169Vq23_JPEG/1632707214186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 시즌 2 퍼스트룩 영상: 게롤트 & 시리 | 위쳐]]></title>
-            <link>https://tv.naver.com/v/22634582</link>
-            <guid>https://tv.naver.com/v/22634582</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_200/6EqJZ_16327071619908nCHV_JPEG/1632707126329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
