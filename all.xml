@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 01:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 02:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@ KBS 전설의 19기 개그맨들의
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[요즘 미슐랭 3스타급이라는 게스트 맛집 좋아하면 퍼주는아이돌 게스트로 달달해진 우리 마음 여름 가기 전에 뜨거운 마라맛으로 한 번 채워봐야죠 그래서 준비한 !대망의 19금 특집!시작부터 감당불가 수위 조절 불···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjdfMSAg/MDAxNjMwMDU0MTQ1NTkz.ytl1--PbL2UJs-N_CxMBBoum1OdVOqpQsrhEOLTE6ZEg.XMmESbK2PSbvTFFEGI3ZbD2eEmgChXJinCHF_t6tQTkg.GIF/I9LXQNsxmxQ5un6BMb9qgOcZsdig.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23272081</link>
+            <guid>https://tv.naver.com/v/23272081</guid>
+            <pubDate>Mon, 01 Nov 2021 02:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211101_171/VkFzU_1635732285500llKMS_JPEG/1635729849368.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이 네임 코멘터리, 작감배가 직접 밝히는 뒷 이야기 | 마이 네임 MY NAME (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,12 +448,11 @@ KBS 전설의 19기 개그맨들의
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_152/u5lLf_1632709085760UGyJY_JPEG/1632709038110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 플립 어 코인: 원 오크 록 다큐멘터리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22634850</link>
-            <guid>https://tv.naver.com/v/22634850</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_251/NmKXg_16327081525041rWoi_JPEG/1632708094432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26268192</link>
+            <guid>https://www.vlive.tv/post/1-26268192</guid>
+            <pubDate>Mon, 01 Nov 2021 02:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이 네임 한소희, 폐차장에서 액션 찢었다😎 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
@@ -577,13 +584,6 @@ KBS 전설의 19기 개그맨들의
             <title><![CDATA[[넷플릭스] 로빈 로빈 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-25897685</link>
             <guid>https://www.vlive.tv/post/0-25897685</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 체스트넛 맨 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25905002</link>
-            <guid>https://www.vlive.tv/post/1-25905002</guid>
             <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
             <content:encoded><![CDATA[10.12.]]></content:encoded>
         </item>

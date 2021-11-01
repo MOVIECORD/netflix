@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 01:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 02:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23272081</link>
+            <guid>https://tv.naver.com/v/23272081</guid>
+            <pubDate>Mon, 01 Nov 2021 02:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211101_171/VkFzU_1635732285500llKMS_JPEG/1635729849368.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이 네임 코멘터리, 작감배가 직접 밝히는 뒷 이야기 | 마이 네임 MY NAME]]></title>
             <link>https://tv.naver.com/v/23198177</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_152/u5lLf_1632709085760UGyJY_JPEG/1632709038110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 플립 어 코인: 원 오크 록 다큐멘터리 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/22634850</link>
-            <guid>https://tv.naver.com/v/22634850</guid>
-            <pubDate>Wed, 29 Sep 2021 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_251/NmKXg_16327081525041rWoi_JPEG/1632708094432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
