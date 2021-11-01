@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 08:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 09:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,22 @@ X라이언 레이놀즈,
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[어릴 적 추억의 게임이 목숨을 건 서바이벌로 바뀌는넷플릭스 시리즈 &lt;오징어 게임&gt; 넷플릭스 국내 시리즈 사상 역대급 스케일이 엿보이는 메인 예고편 공개!○△□ 삶의 벼랑 끝에서 발견한 의문의 명함 한 장 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDFfODYg/MDAxNjMwNDkxNzgwNzk5.Skcb8LU8_yF5jfzocvTQLga6bimMJQhgAjsoT6bOjuMg.fzOpEXQCz3BT7lEQ1EhwQFuIfxO8ajh1wCyqihyBxpwg.JPEG/Ife0SYsWK3RCpqK3HxlsdNyy1FQ4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 트루 스토리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23279699</link>
+            <guid>https://tv.naver.com/v/23279699</guid>
+            <pubDate>Mon, 01 Nov 2021 09:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211101_281/0RHv2_1635755659299153Ry_JPEG/1635755556212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 아케인 | 파이널 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23279685</link>
+            <guid>https://tv.naver.com/v/23279685</guid>
+            <pubDate>Mon, 01 Nov 2021 09:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211101_147/Q0A7v_1635755608207agfzf_JPEG/1635755553996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -431,27 +447,25 @@ X라이언 레이놀즈,
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_33/VE8A7_16330540729088Ba4t_JPEG/1633054071481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22677093</link>
-            <guid>https://tv.naver.com/v/22677093</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_39/KyCkg_1632885787591SR588_JPEG/1632885617495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 트루 스토리 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-26266249</link>
+            <guid>https://www.vlive.tv/post/0-26266249</guid>
+            <pubDate>Mon, 01 Nov 2021 09:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[33분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 피버 드림 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22635121</link>
-            <guid>https://tv.naver.com/v/22635121</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_152/u5lLf_1632709085760UGyJY_JPEG/1632709038110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 아케인 | 파이널 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26273004</link>
+            <guid>https://www.vlive.tv/post/1-26273004</guid>
+            <pubDate>Mon, 01 Nov 2021 09:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[34분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26268192</link>
             <guid>https://www.vlive.tv/post/1-26268192</guid>
             <pubDate>Mon, 01 Nov 2021 02:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이 네임 한소희, 폐차장에서 액션 찢었다😎 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
@@ -571,20 +585,6 @@ X라이언 레이놀즈,
             <guid>https://www.vlive.tv/post/1-25982443</guid>
             <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
             <content:encoded><![CDATA[10.14.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나르코스: 멕시코 | 시즌 3 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25897684</link>
-            <guid>https://www.vlive.tv/post/0-25897684</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 로빈 로빈 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-25897685</link>
-            <guid>https://www.vlive.tv/post/0-25897685</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.12.]]></content:encoded>
         </item>
     </channel>
 </rss>
