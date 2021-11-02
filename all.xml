@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 23:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 00:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ X라이언 레이놀즈,
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[어릴 적 추억의 게임이 목숨을 건 서바이벌로 바뀌는넷플릭스 시리즈 &lt;오징어 게임&gt; 넷플릭스 국내 시리즈 사상 역대급 스케일이 엿보이는 메인 예고편 공개!○△□ 삶의 벼랑 끝에서 발견한 의문의 명함 한 장 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDFfODYg/MDAxNjMwNDkxNzgwNzk5.Skcb8LU8_yF5jfzocvTQLga6bimMJQhgAjsoT6bOjuMg.fzOpEXQCz3BT7lEQ1EhwQFuIfxO8ajh1wCyqihyBxpwg.JPEG/Ife0SYsWK3RCpqK3HxlsdNyy1FQ4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 신세계로부터 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23291480</link>
+            <guid>https://tv.naver.com/v/23291480</guid>
+            <pubDate>Tue, 02 Nov 2021 00:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211102_22/vmzQt_16358118665020b5J4_JPEG/1635811742694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 트루 스토리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -439,33 +447,32 @@ X라이언 레이놀즈,
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_172/zlgRG_1633401077076JNNQS_JPEG/1633401021040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 레인코트 킬러: 유영철을 추격하다 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22698449</link>
-            <guid>https://tv.naver.com/v/22698449</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_33/VE8A7_16330540729088Ba4t_JPEG/1633054071481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 신세계로부터 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-26276287</link>
+            <guid>https://www.vlive.tv/post/0-26276287</guid>
+            <pubDate>Tue, 02 Nov 2021 00:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[11분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 트루 스토리 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26266249</link>
             <guid>https://www.vlive.tv/post/0-26266249</guid>
             <pubDate>Mon, 01 Nov 2021 09:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 아케인 | 파이널 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26273004</link>
             <guid>https://www.vlive.tv/post/1-26273004</guid>
             <pubDate>Mon, 01 Nov 2021 09:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26268192</link>
             <guid>https://www.vlive.tv/post/1-26268192</guid>
             <pubDate>Mon, 01 Nov 2021 02:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이 네임 한소희, 폐차장에서 액션 찢었다😎 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
@@ -576,13 +583,6 @@ X라이언 레이놀즈,
             <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 | 2부 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-25975036</link>
             <guid>https://www.vlive.tv/post/0-25975036</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.14.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 콜린: 흑과 백의 인생 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-25982443</link>
-            <guid>https://www.vlive.tv/post/1-25982443</guid>
             <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
             <content:encoded><![CDATA[10.14.]]></content:encoded>
         </item>
