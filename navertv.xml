@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 03:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 04:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 - 2부 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23334247</link>
+            <guid>https://tv.naver.com/v/23334247</guid>
+            <pubDate>Thu, 04 Nov 2021 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_242/WkHkI_1635991698421GDg8o_JPEG/1635990361795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 아사쿠사 키드 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/23333964</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_170/75qO8_1633578017417DJsan_JPEG/1633577889384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마야와 3인의 용사 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/22833484</link>
-            <guid>https://tv.naver.com/v/22833484</guid>
-            <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_292/3aHAY_1633577868182j9CGq_JPEG/1633577761377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

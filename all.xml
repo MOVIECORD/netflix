@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 03:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 04:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ X라이언 레이놀즈,
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[어릴 적 추억의 게임이 목숨을 건 서바이벌로 바뀌는넷플릭스 시리즈 &lt;오징어 게임&gt; 넷플릭스 국내 시리즈 사상 역대급 스케일이 엿보이는 메인 예고편 공개!○△□ 삶의 벼랑 끝에서 발견한 의문의 명함 한 장 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDFfODYg/MDAxNjMwNDkxNzgwNzk5.Skcb8LU8_yF5jfzocvTQLga6bimMJQhgAjsoT6bOjuMg.fzOpEXQCz3BT7lEQ1EhwQFuIfxO8ajh1wCyqihyBxpwg.JPEG/Ife0SYsWK3RCpqK3HxlsdNyy1FQ4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 - 2부 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23334247</link>
+            <guid>https://tv.naver.com/v/23334247</guid>
+            <pubDate>Thu, 04 Nov 2021 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_242/WkHkI_1635991698421GDg8o_JPEG/1635990361795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 아사쿠사 키드 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -439,26 +447,25 @@ X라이언 레이놀즈,
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_170/75qO8_1633578017417DJsan_JPEG/1633577889384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 마야와 3인의 용사 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22833484</link>
-            <guid>https://tv.naver.com/v/22833484</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_292/3aHAY_1633577868182j9CGq_JPEG/1633577761377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 - 2부 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26311883</link>
+            <guid>https://www.vlive.tv/post/1-26311883</guid>
+            <pubDate>Thu, 04 Nov 2021 04:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 아사쿠사 키드 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26305511</link>
             <guid>https://www.vlive.tv/post/0-26305511</guid>
             <pubDate>Thu, 04 Nov 2021 02:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26305512</link>
             <guid>https://www.vlive.tv/post/0-26305512</guid>
             <pubDate>Thu, 04 Nov 2021 02:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 신세계로부터 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -576,13 +583,6 @@ X라이언 레이놀즈,
             <title><![CDATA[[넷플릭스] 빅 마우스 | 시즌 5 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26076338</link>
             <guid>https://www.vlive.tv/post/1-26076338</guid>
-            <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[10.20.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 재키의 링 | 할리 베리 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-26076339</link>
-            <guid>https://www.vlive.tv/post/1-26076339</guid>
             <pubDate>Mon, 25 Oct 2021 08:08:23 GMT</pubDate>
             <content:encoded><![CDATA[10.20.]]></content:encoded>
         </item>
