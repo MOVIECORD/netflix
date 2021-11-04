@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 01:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 02:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 아사쿠사 키드 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23333964</link>
+            <guid>https://tv.naver.com/v/23333964</guid>
+            <pubDate>Thu, 04 Nov 2021 02:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_185/kWSfN_1635990820937QcLkb_JPEG/1635990753700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/23333937</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_292/3aHAY_1633577868182j9CGq_JPEG/1633577761377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 틱, 틱... 붐! | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/22833444</link>
-            <guid>https://tv.naver.com/v/22833444</guid>
-            <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_14/2XCqf_1633577737630rr6Yf_JPEG/1633577674490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
