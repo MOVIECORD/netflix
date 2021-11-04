@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 00:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 01:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ X라이언 레이놀즈,
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[어릴 적 추억의 게임이 목숨을 건 서바이벌로 바뀌는넷플릭스 시리즈 &lt;오징어 게임&gt; 넷플릭스 국내 시리즈 사상 역대급 스케일이 엿보이는 메인 예고편 공개!○△□ 삶의 벼랑 끝에서 발견한 의문의 명함 한 장 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDFfODYg/MDAxNjMwNDkxNzgwNzk5.Skcb8LU8_yF5jfzocvTQLga6bimMJQhgAjsoT6bOjuMg.fzOpEXQCz3BT7lEQ1EhwQFuIfxO8ajh1wCyqihyBxpwg.JPEG/Ife0SYsWK3RCpqK3HxlsdNyy1FQ4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23333937</link>
+            <guid>https://tv.naver.com/v/23333937</guid>
+            <pubDate>Thu, 04 Nov 2021 01:52:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_24/QiQoQ_1635990731289XRUWw_JPEG/1635990612793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 신세계로부터 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ X라이언 레이놀즈,
             <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_14/2XCqf_1633577737630rr6Yf_JPEG/1633577674490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22787759</link>
-            <guid>https://tv.naver.com/v/22787759</guid>
-            <pubDate>Thu, 07 Oct 2021 12:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211005_172/zlgRG_1633401077076JNNQS_JPEG/1633401021040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 신세계로부터 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
