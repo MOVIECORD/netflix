@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 23:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 00:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 | 파이널 예고편]]></title>
+            <link>https://tv.naver.com/v/23369153</link>
+            <guid>https://tv.naver.com/v/23369153</guid>
+            <pubDate>Mon, 08 Nov 2021 00:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211105_69/xJhxF_1636097059987WM7a5_PNG/1636096895531.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 - 2부 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/23334247</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_246/GKr3Q_1633578098236tW8vf_JPEG/1633578045655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 매기 스미스, 헨리 로풀 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/22833535</link>
-            <guid>https://tv.naver.com/v/22833535</guid>
-            <pubDate>Thu, 07 Oct 2021 05:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_170/75qO8_1633578017417DJsan_JPEG/1633577889384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
