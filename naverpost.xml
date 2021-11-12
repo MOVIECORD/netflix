@@ -4,9 +4,19 @@
         <title>Netflix Korea ─ NAVER POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 07:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 08:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[※금요일 수배 경보※
+초.호.화 팝콘 액션 무비!
+<레드 노티스> 오늘 대공개!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32738945&amp;memberNo=25425763</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32738945&amp;memberNo=25425763</guid>
+            <pubDate>Fri, 12 Nov 2021 08:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 불금엔 뭐?실패하지 않을 금요일 저녁을 선사할&lt;레드 노티스&gt; 동영상  버튼을 누르면 현재 화면에서 재생됩니다. 레드 노티스 | 공식 예고편 | 넷플릭스 선수와 사기꾼의 화끈한 대결레드 노티스. 인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMTQ0/MDAxNjM2NjgyNzAxNjg4.UP3sFdwMIed5tGdS2EU3WJUzOhXbDx5hNpX8vVeBXhkg.ybAY64_H6t5oxZWHoHuaASfzR9pW8_j8ZcS6G7TpZFkg.GIF/I41QMmTDK2Ifdz8QynV_iG-YxQgg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숨 막히는 현장감, 완벽한 캐스팅!
 지옥으로 초대합니다.
@@ -196,16 +206,6 @@
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[※경고 심쿵짤 대량 주의※ 다들 스트레칭과 심호흡 한 번 해주세요 예비 심장도 챙기시구요.( ͡~ ͜ʖ ͡°)♥&lt;좋아하면 퍼주는&gt;에 요즘 가장 사랑받는 군 부대가 행차하셨습니다!!!넷플릭스 시···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDNfNzEg/MDAxNjMwNjQ2NzE2MzM2.vDJ_q_cdxdkLA04z99Fyevt5iiSzJNq8zqvxUmO7Jzog.RGqUcBdKfdcDdW1pbZBgARGKXZ84c8yHMRElh5pvYpkg.GIF/ITLvY7wXJlO-nmye0ezKhGwdYufk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터졌다! 만장일치 역대급 호평!
-<D.P.> MV & ‘조석봉 일병’
-스페셜 캐릭터 포스터]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32300168&amp;memberNo=25425763</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32300168&amp;memberNo=25425763</guid>
-            <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[“美친 수작의 탄생. 탈영병의 개별 에피소드는 각각 탄탄한 완결성을 갖고 저마다 묵직한 메시지를 던진다”(ize_김수정)미친 몰입감! 주조연 배우들의 특급 케미와 열연! 각 탈영병들 사연을 바···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDNfOSAg/MDAxNjMwNjYzMzY1OTEz.Exg0Aicdbn2anJjyS5mVPmFb0HPiM5pk1gzdvKGRM_sg.gAX8ER1GPd1ldU2UNQTlx_-JHTRt-2giZW8HejtNsVsg.JPEG/I85DWuSbNWRGBHwY-H6UkyeiQ0tM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
