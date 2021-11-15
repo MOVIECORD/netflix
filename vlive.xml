@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-11-15T07:07:57.829Z</updated>
+    <updated>2021-11-15T08:09:20.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스]《기묘한 이야기》 시즌 4 | 캘리포니아에 오신 걸 환영합니다.]]></title>
+        <id>https://www.vlive.tv/post/0-26459645</id>
+        <link href="https://www.vlive.tv/post/0-26459645"/>
+        <updated>2021-11-15T08:09:20.120Z</updated>
+        <content type="html"><![CDATA[23분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 타이틀 티저 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-26459644</id>
+        <link href="https://www.vlive.tv/post/0-26459644"/>
+        <updated>2021-11-15T08:09:20.121Z</updated>
+        <content type="html"><![CDATA[23분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 로스트 인 스페이스 | 공식 예고편 | 마지막 시즌]]></title>
+        <id>https://www.vlive.tv/post/1-26466192</id>
+        <link href="https://www.vlive.tv/post/1-26466192"/>
+        <updated>2021-11-15T08:09:20.121Z</updated>
+        <content type="html"><![CDATA[23분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 미래일기 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-26459643</id>
+        <link href="https://www.vlive.tv/post/0-26459643"/>
+        <updated>2021-11-15T08:09:20.127Z</updated>
+        <content type="html"><![CDATA[23분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 신문기자 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-26466191</id>
+        <link href="https://www.vlive.tv/post/1-26466191"/>
+        <updated>2021-11-15T08:09:20.127Z</updated>
+        <content type="html"><![CDATA[23분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 애니멀 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-26459641</id>
+        <link href="https://www.vlive.tv/post/0-26459641"/>
+        <updated>2021-11-15T08:09:20.127Z</updated>
+        <content type="html"><![CDATA[23분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-26459640</id>
+        <link href="https://www.vlive.tv/post/0-26459640"/>
+        <updated>2021-11-15T08:09:20.127Z</updated>
+        <content type="html"><![CDATA[23분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 먹보와 털보｜티저 예고편]]></title>
         <id>https://www.vlive.tv/post/0-26362992</id>
@@ -95,54 +144,5 @@
         <link href="https://www.vlive.tv/post/0-26189405"/>
         <updated>2021-11-15T01:49:28.241Z</updated>
         <content type="html"><![CDATA[10.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-26194820</id>
-        <link href="https://www.vlive.tv/post/1-26194820"/>
-        <updated>2021-11-15T01:49:28.242Z</updated>
-        <content type="html"><![CDATA[10.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 언포기버블 | 산드라 블록 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-26188450</id>
-        <link href="https://www.vlive.tv/post/0-26188450"/>
-        <updated>2021-11-15T01:49:28.243Z</updated>
-        <content type="html"><![CDATA[10.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 지옥 | 메인 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-26183664</id>
-        <link href="https://www.vlive.tv/post/1-26183664"/>
-        <updated>2021-11-15T01:49:28.247Z</updated>
-        <content type="html"><![CDATA[10.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 레드 노티스 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-26094042</id>
-        <link href="https://www.vlive.tv/post/0-26094042"/>
-        <updated>2021-11-15T01:49:28.248Z</updated>
-        <content type="html"><![CDATA[10.21.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 마이 네임 X 프라우드먼, 놀라운 퍼포먼스의 완결판 | 마이 네임 MY NAME]]></title>
-        <id>https://www.vlive.tv/post/1-26076351</id>
-        <link href="https://www.vlive.tv/post/1-26076351"/>
-        <updated>2021-11-15T01:49:28.249Z</updated>
-        <content type="html"><![CDATA[10.20.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 오자크: 시즌 4 | 공개 발표]]></title>
-        <id>https://www.vlive.tv/post/0-26069930</id>
-        <link href="https://www.vlive.tv/post/0-26069930"/>
-        <updated>2021-11-15T01:49:28.251Z</updated>
-        <content type="html"><![CDATA[10.20.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 티저 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-26076337</id>
-        <link href="https://www.vlive.tv/post/1-26076337"/>
-        <updated>2021-11-15T01:49:28.252Z</updated>
-        <content type="html"><![CDATA[10.20.]]></content>
     </entry>
 </feed>

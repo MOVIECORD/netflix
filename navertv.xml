@@ -4,9 +4,65 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 07:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 08:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23532414</link>
+            <guid>https://tv.naver.com/v/23532414</guid>
+            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_118/ZDZgF_1636955153468YedOQ_JPEG/1636950294842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 애니멀 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23532409</link>
+            <guid>https://tv.naver.com/v/23532409</guid>
+            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_43/gjNPb_1636955149294JDDWw_JPEG/1636950290838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 신문기자 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23532406</link>
+            <guid>https://tv.naver.com/v/23532406</guid>
+            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_53/HukFX_1636955144924wf1NJ_JPEG/1636950286817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 미래일기 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23532397</link>
+            <guid>https://tv.naver.com/v/23532397</guid>
+            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_234/MjdDb_1636955134649CYDA4_JPEG/1636950281793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 로스트 인 스페이스 | 공식 예고편 | 마지막 시즌]]></title>
+            <link>https://tv.naver.com/v/23532394</link>
+            <guid>https://tv.naver.com/v/23532394</guid>
+            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_79/dSCV5_1636955130727dLAQs_JPEG/1636950276826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 타이틀 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/23532391</link>
+            <guid>https://tv.naver.com/v/23532391</guid>
+            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_126/BjHo4_1636955125286Sa9Dj_JPEG/1636950273219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스]《기묘한 이야기》 시즌 4 | 캘리포니아에 오신 걸 환영합니다.]]></title>
+            <link>https://tv.naver.com/v/23531238</link>
+            <guid>https://tv.naver.com/v/23531238</guid>
+            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_203/LSVkR_1636952212635tcjJJ_JPEG/1636950269486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 먹보와 털보｜티저 예고편]]></title>
             <link>https://tv.naver.com/v/23411377</link>
@@ -190,62 +246,6 @@
             <pubDate>Wed, 20 Oct 2021 05:06:13 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_27/6RV3N_1634706345258YY1y9_JPEG/1634706296311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 X 프라우드먼, 놀라운 퍼포먼스의 완결판 | 마이 네임 MY NAME]]></title>
-            <link>https://tv.naver.com/v/23045803</link>
-            <guid>https://tv.naver.com/v/23045803</guid>
-            <pubDate>Tue, 19 Oct 2021 09:06:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211019_227/R7Nuq_1634625066368TGIT5_JPEG/1634625022071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 한소희, 두 개의 이름을 갖게 된 이유 | 마이 네임]]></title>
-            <link>https://tv.naver.com/v/22975443</link>
-            <guid>https://tv.naver.com/v/22975443</guid>
-            <pubDate>Fri, 15 Oct 2021 07:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211015_77/PTT1o_16342751083257QXt0_JPEG/1634275105259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 콜린: 흑과 백의 인생 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/22951180</link>
-            <guid>https://tv.naver.com/v/22951180</guid>
-            <pubDate>Thu, 14 Oct 2021 03:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_14/USmFt_1634178608911sEMxR_JPEG/1634177951963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 | 2부 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/22949994</link>
-            <guid>https://tv.naver.com/v/22949994</guid>
-            <pubDate>Thu, 14 Oct 2021 03:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211014_146/zID6X_1634174459088hgeAo_JPEG/1634174255919.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나르코스: 멕시코 | 시즌 3 예고편]]></title>
-            <link>https://tv.naver.com/v/22909539</link>
-            <guid>https://tv.naver.com/v/22909539</guid>
-            <pubDate>Tue, 12 Oct 2021 03:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_263/xhfHg_1634006504627RlITi_JPEG/1634006114334.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 로빈 로빈 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/22909489</link>
-            <guid>https://tv.naver.com/v/22909489</guid>
-            <pubDate>Tue, 12 Oct 2021 03:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_93/PlA5Z_1634006365743jcPKQ_JPEG/1634006111395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 체스트넛 맨 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/22909465</link>
-            <guid>https://tv.naver.com/v/22909465</guid>
-            <pubDate>Tue, 12 Oct 2021 03:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211012_20/b25wp_1634006275679rCsfL_JPEG/1634006108508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
