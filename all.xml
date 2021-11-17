@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 01:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 02:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -449,6 +449,13 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_162/u48bX_1634706592022VjAYN_JPEG/1634706517730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 돈 룩 업 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26490509</link>
+            <guid>https://www.vlive.tv/post/1-26490509</guid>
+            <pubDate>Wed, 17 Nov 2021 02:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[33분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스]《기묘한 이야기》 시즌 4 | 캘리포니아에 오신 걸 환영합니다. (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26459645</link>
             <guid>https://www.vlive.tv/post/0-26459645</guid>
@@ -578,13 +585,6 @@
             <title><![CDATA[[넷플릭스] 마이 네임 박희순, 눈빛 하나로 액션 누아르 완성 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26189406</link>
             <guid>https://www.vlive.tv/post/0-26189406</guid>
-            <pubDate>Mon, 15 Nov 2021 01:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[10.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 코멘터리, 작감배가 직접 밝히는 뒷 이야기 | 마이 네임 MY NAME (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-26189405</link>
-            <guid>https://www.vlive.tv/post/0-26189405</guid>
             <pubDate>Mon, 15 Nov 2021 01:49:28 GMT</pubDate>
             <content:encoded><![CDATA[10.27.]]></content:encoded>
         </item>

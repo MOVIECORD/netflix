@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-11-17T01:50:12.197Z</updated>
+    <updated>2021-11-17T02:22:26.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 돈 룩 업 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-26490509</id>
+        <link href="https://www.vlive.tv/post/1-26490509"/>
+        <updated>2021-11-17T02:22:26.083Z</updated>
+        <content type="html"><![CDATA[33분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스]《기묘한 이야기》 시즌 4 | 캘리포니아에 오신 걸 환영합니다.]]></title>
         <id>https://www.vlive.tv/post/0-26459645</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-26189406</id>
         <link href="https://www.vlive.tv/post/0-26189406"/>
         <updated>2021-11-15T01:49:28.240Z</updated>
-        <content type="html"><![CDATA[10.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 마이 네임 코멘터리, 작감배가 직접 밝히는 뒷 이야기 | 마이 네임 MY NAME]]></title>
-        <id>https://www.vlive.tv/post/0-26189405</id>
-        <link href="https://www.vlive.tv/post/0-26189405"/>
-        <updated>2021-11-15T01:49:28.241Z</updated>
         <content type="html"><![CDATA[10.27.]]></content>
     </entry>
 </feed>
