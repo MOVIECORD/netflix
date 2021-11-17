@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 00:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 01:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,14 @@
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[파격적인 설정과 심장쫄깃한 완성도 높은 연출로 호평 받은 &lt;인간수업&gt;의 김진민 감독의 주목받고 있는 차기작이자전세계 시청자들 과몰입하게 만든 로맨스로 &lt;스위트홈&gt; 송강 배우와 함께 우리의 심장···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDZfMTQ1/MDAxNjMwODk5MjcyNjA3.ui4HJaENtDkGC3sYgWC_g58TZ9UiUtUNw58Bwn0hgzIg.14v3ethV0eu0qZaFkpaDlyrQPIWIFXrb8wy9v4nSSeUg.GIF/I_1NKB-TWGTipDcxnMWnfJ808rSk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 돈 룩 업 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23571953</link>
+            <guid>https://tv.naver.com/v/23571953</guid>
+            <pubDate>Wed, 17 Nov 2021 01:50:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211117_112/K6W0j_1637113739883FjuHA_PNG/1637113560594.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -439,14 +447,6 @@
             <pubDate>Wed, 20 Oct 2021 06:08:14 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_162/u48bX_1634706592022VjAYN_JPEG/1634706517730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 재키의 링 | 할리 베리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23063980</link>
-            <guid>https://tv.naver.com/v/23063980</guid>
-            <pubDate>Wed, 20 Oct 2021 05:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_27/6RV3N_1634706345258YY1y9_JPEG/1634706296311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스]《기묘한 이야기》 시즌 4 | 캘리포니아에 오신 걸 환영합니다. (Netflix Korea ─ V LIVE)]]></title>
