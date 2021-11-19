@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-11-19T06:08:49.538Z</updated>
+    <updated>2021-11-19T07:08:08.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 에밀리, 파리에 가다 시즌 2 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-26521471</id>
+        <link href="https://www.vlive.tv/post/1-26521471"/>
+        <updated>2021-11-19T07:08:07.408Z</updated>
+        <content type="html"><![CDATA[12분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 엘리트들, 못다 한 이야기 2 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-26521470</id>
+        <link href="https://www.vlive.tv/post/1-26521470"/>
+        <updated>2021-11-19T07:08:07.409Z</updated>
+        <content type="html"><![CDATA[12분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 돈 룩 업 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/1-26490509</id>
@@ -129,20 +143,6 @@
         <id>https://www.vlive.tv/post/1-26195656</id>
         <link href="https://www.vlive.tv/post/1-26195656"/>
         <updated>2021-11-15T01:49:28.237Z</updated>
-        <content type="html"><![CDATA[10.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 한소희 눈물이 곧 서사다! 한소희 연기 명장면 모음 | 마이 네임 MY NAME]]></title>
-        <id>https://www.vlive.tv/post/0-26189407</id>
-        <link href="https://www.vlive.tv/post/0-26189407"/>
-        <updated>2021-11-15T01:49:28.239Z</updated>
-        <content type="html"><![CDATA[10.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 마이 네임 박희순, 눈빛 하나로 액션 누아르 완성 | 마이 네임 MY NAME]]></title>
-        <id>https://www.vlive.tv/post/0-26189406</id>
-        <link href="https://www.vlive.tv/post/0-26189406"/>
-        <updated>2021-11-15T01:49:28.240Z</updated>
         <content type="html"><![CDATA[10.27.]]></content>
     </entry>
 </feed>
