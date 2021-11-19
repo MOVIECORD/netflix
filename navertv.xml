@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 07:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 08:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 19 Nov 2021 07:07:56 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211119_204/8BEe0_1637288578729GzMww_JPEG/1637287100316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/23598815</link>
+            <guid>https://tv.naver.com/v/23598815</guid>
+            <pubDate>Fri, 19 Nov 2021 08:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_72/SlZ2P_1637219718191kYFqK_JPEG/1637219551979.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 돈 룩 업 | 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Oct 2021 06:08:14 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_242/hG9pc_1634706938408NxaXS_JPEG/1634706868003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/23064185</link>
-            <guid>https://tv.naver.com/v/23064185</guid>
-            <pubDate>Wed, 20 Oct 2021 06:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_289/t54uO_16347068467752ct1v_JPEG/1634706743396.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
