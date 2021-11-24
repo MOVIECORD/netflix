@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 23:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 00:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,14 @@ SF 미스터리 스릴러
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[요즘 어딜가나 빠질 수 없다는! 안 보면 섭한! 바로 그 Hot한 작품! 올해 필람 시리즈로 손꼽히며 입소문 제대로 타고 있는 넷플릭스 시리즈 &lt;D.P.&gt;(요즘 내 알고리즘 온통 디피 뿐,,) 헤어나올 수 없···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfOTAg/MDAxNjMxMjMzNzI0Nzk4.PH9xUuu9A8EOB8HXZ9vSq5Dwyzbu3-Phwlfm3kc0LQsg.pd1zgnQV2uRGsUle4sw9Z3x5kgdSFhm8XzoNyjtJzj8g.JPEG/Im0RI2ipKoUoN5yHSe7JS-5vE5gY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 | 전 세계 1위 시리즈! 충격의 지옥행 생중계 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23696409</link>
+            <guid>https://tv.naver.com/v/23696409</guid>
+            <pubDate>Wed, 24 Nov 2021 00:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_140/UeGYa_1637656619222JLxxJ_PNG/1637656616477.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애나 만들기 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -441,19 +449,11 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_227/up56Y_1634822756614GjSXA_JPEG/1634822731352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 더 하더 데이 폴 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23096841</link>
-            <guid>https://tv.naver.com/v/23096841</guid>
-            <pubDate>Thu, 21 Oct 2021 09:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_184/nZM2H_1634807980992IKqjj_JPEG/1634807861537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 애나 만들기 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26585077</link>
             <guid>https://www.vlive.tv/post/1-26585077</guid>
             <pubDate>Tue, 23 Nov 2021 08:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>

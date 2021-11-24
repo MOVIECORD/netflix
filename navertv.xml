@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 23:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 00:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 | 전 세계 1위 시리즈! 충격의 지옥행 생중계]]></title>
+            <link>https://tv.naver.com/v/23696409</link>
+            <guid>https://tv.naver.com/v/23696409</guid>
+            <pubDate>Wed, 24 Nov 2021 00:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_140/UeGYa_1637656619222JLxxJ_PNG/1637656616477.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 애나 만들기 | 공식 티저 예고편]]></title>
             <link>https://tv.naver.com/v/23695427</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Oct 2021 14:06:55 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_227/up56Y_1634822756614GjSXA_JPEG/1634822731352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 하더 데이 폴 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/23096841</link>
-            <guid>https://tv.naver.com/v/23096841</guid>
-            <pubDate>Thu, 21 Oct 2021 09:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_184/nZM2H_1634807980992IKqjj_JPEG/1634807861537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
