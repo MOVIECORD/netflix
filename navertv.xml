@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 23:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 00:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 24 Nov 2021 00:23:16 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211123_140/UeGYa_1637656619222JLxxJ_PNG/1637656616477.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 | 하이라이트 | 몰입도 300% 연기神들의 숨막히는 연기 대결]]></title>
+            <link>https://tv.naver.com/v/23696407</link>
+            <guid>https://tv.naver.com/v/23696407</guid>
+            <pubDate>Thu, 25 Nov 2021 00:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211123_142/2UDmb_1637656609716flNQR_PNG/1637656607834.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애나 만들기 | 공식 티저 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Oct 2021 00:21:32 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_154/5AOzk_1635297943540pgY8x_JPEG/1635297939430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 레드 노티스 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/23102050</link>
-            <guid>https://tv.naver.com/v/23102050</guid>
-            <pubDate>Thu, 21 Oct 2021 14:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_227/up56Y_1634822756614GjSXA_JPEG/1634822731352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
