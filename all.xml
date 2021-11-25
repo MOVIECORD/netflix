@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 01:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 02:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,14 @@ SF 미스터리 스릴러
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[요즘 어딜가나 빠질 수 없다는! 안 보면 섭한! 바로 그 Hot한 작품! 올해 필람 시리즈로 손꼽히며 입소문 제대로 타고 있는 넷플릭스 시리즈 &lt;D.P.&gt;(요즘 내 알고리즘 온통 디피 뿐,,) 헤어나올 수 없···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfOTAg/MDAxNjMxMjMzNzI0Nzk4.PH9xUuu9A8EOB8HXZ9vSq5Dwyzbu3-Phwlfm3kc0LQsg.pd1zgnQV2uRGsUle4sw9Z3x5kgdSFhm8XzoNyjtJzj8g.JPEG/Im0RI2ipKoUoN5yHSe7JS-5vE5gY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 | 비하인드 컷 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23731045</link>
+            <guid>https://tv.naver.com/v/23731045</guid>
+            <pubDate>Thu, 25 Nov 2021 02:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[8:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_54/vMB5b_16378038760044UNVI_JPEG/1637803186432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 | 하이라이트 | 전 세계 1위 시리즈! 충격의 지옥행 생중계 (Netflix Korea ─ NAVER TV)]]></title>
@@ -441,12 +449,11 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_103/DSOp0_16353104699361eko7_JPEG/1635310128508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23182136</link>
-            <guid>https://tv.naver.com/v/23182136</guid>
-            <pubDate>Wed, 27 Oct 2021 00:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_154/5AOzk_1635297943540pgY8x_JPEG/1635297939430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 지옥 | 비하인드 컷 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26608145</link>
+            <guid>https://www.vlive.tv/post/1-26608145</guid>
+            <pubDate>Thu, 25 Nov 2021 02:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[24분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애나 만들기 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -578,13 +585,6 @@ SF 미스터리 스릴러
             <title><![CDATA[[넷플릭스] 트루 스토리 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26266249</link>
             <guid>https://www.vlive.tv/post/0-26266249</guid>
-            <pubDate>Mon, 15 Nov 2021 01:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[11.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아케인 | 파이널 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-26273004</link>
-            <guid>https://www.vlive.tv/post/1-26273004</guid>
             <pubDate>Mon, 15 Nov 2021 01:49:28 GMT</pubDate>
             <content:encoded><![CDATA[11.1.]]></content:encoded>
         </item>

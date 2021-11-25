@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 01:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 02:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 | 비하인드 컷]]></title>
+            <link>https://tv.naver.com/v/23731045</link>
+            <guid>https://tv.naver.com/v/23731045</guid>
+            <pubDate>Thu, 25 Nov 2021 02:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[8:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_54/vMB5b_16378038760044UNVI_JPEG/1637803186432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 | 하이라이트 | 전 세계 1위 시리즈! 충격의 지옥행 생중계]]></title>
             <link>https://tv.naver.com/v/23696409</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Oct 2021 05:06:18 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_103/DSOp0_16353104699361eko7_JPEG/1635310128508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/23182136</link>
-            <guid>https://tv.naver.com/v/23182136</guid>
-            <pubDate>Wed, 27 Oct 2021 00:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_154/5AOzk_1635297943540pgY8x_JPEG/1635297939430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
