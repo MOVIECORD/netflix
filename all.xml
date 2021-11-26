@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 23:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 00:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,14 @@ SF 미스터리 스릴러
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[요즘 어딜가나 빠질 수 없다는! 안 보면 섭한! 바로 그 Hot한 작품! 올해 필람 시리즈로 손꼽히며 입소문 제대로 타고 있는 넷플릭스 시리즈 &lt;D.P.&gt;(요즘 내 알고리즘 온통 디피 뿐,,) 헤어나올 수 없···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTBfOTAg/MDAxNjMxMjMzNzI0Nzk4.PH9xUuu9A8EOB8HXZ9vSq5Dwyzbu3-Phwlfm3kc0LQsg.pd1zgnQV2uRGsUle4sw9Z3x5kgdSFhm8XzoNyjtJzj8g.JPEG/Im0RI2ipKoUoN5yHSe7JS-5vE5gY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 고요의 바다 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23742179</link>
+            <guid>https://tv.naver.com/v/23742179</guid>
+            <pubDate>Fri, 26 Nov 2021 00:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_244/ryMh2_1637832060507dNjAG_JPEG/1637832052287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 | 비하인드 컷 (Netflix Korea ─ NAVER TV)]]></title>
@@ -441,19 +449,25 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_243/mFoCv_1635310735462DnLFn_JPEG/1635310568441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 언포기버블 | 산드라 블록 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23196272</link>
-            <guid>https://tv.naver.com/v/23196272</guid>
-            <pubDate>Wed, 27 Oct 2021 05:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_103/DSOp0_16353104699361eko7_JPEG/1635310128508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 고요의 바다 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26612504</link>
+            <guid>https://www.vlive.tv/post/1-26612504</guid>
+            <pubDate>Fri, 26 Nov 2021 00:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 고요의 바다 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-26591699</link>
+            <guid>https://www.vlive.tv/post/0-26591699</guid>
+            <pubDate>Fri, 26 Nov 2021 00:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 | 비하인드 컷 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26608145</link>
             <guid>https://www.vlive.tv/post/1-26608145</guid>
             <pubDate>Thu, 25 Nov 2021 02:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애나 만들기 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -573,20 +587,6 @@ SF 미스터리 스릴러
             <guid>https://www.vlive.tv/post/0-26305512</guid>
             <pubDate>Mon, 15 Nov 2021 01:49:28 GMT</pubDate>
             <content:encoded><![CDATA[11.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 신세계로부터 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-26276287</link>
-            <guid>https://www.vlive.tv/post/0-26276287</guid>
-            <pubDate>Mon, 15 Nov 2021 01:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[11.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 트루 스토리 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-26266249</link>
-            <guid>https://www.vlive.tv/post/0-26266249</guid>
-            <pubDate>Mon, 15 Nov 2021 01:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[11.1.]]></content:encoded>
         </item>
     </channel>
 </rss>
