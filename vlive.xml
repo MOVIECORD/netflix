@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-11-29T01:50:19.713Z</updated>
+    <updated>2021-11-29T02:23:26.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 솔로지옥 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-26618069</id>
+        <link href="https://www.vlive.tv/post/0-26618069"/>
+        <updated>2021-11-29T02:23:25.909Z</updated>
+        <content type="html"><![CDATA[23분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 고요의 바다 | 티저 예고편]]></title>
         <id>https://www.vlive.tv/post/1-26612504</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[[넷플릭스] 아사쿠사 키드 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/0-26305511</id>
         <link href="https://www.vlive.tv/post/0-26305511"/>
-        <updated>2021-11-15T01:49:28.232Z</updated>
-        <content type="html"><![CDATA[11.4.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-26305512</id>
-        <link href="https://www.vlive.tv/post/0-26305512"/>
         <updated>2021-11-15T01:49:28.232Z</updated>
         <content type="html"><![CDATA[11.4.]]></content>
     </entry>
