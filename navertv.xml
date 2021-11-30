@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 23:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 00:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 먹보와 털보｜공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23798508</link>
+            <guid>https://tv.naver.com/v/23798508</guid>
+            <pubDate>Tue, 30 Nov 2021 00:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_238/u4YAH_16381691377807aHR8_JPEG/1638168974293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 솔로지옥 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/23762236</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Oct 2021 06:08:55 GMT</pubDate>
             <content:encoded><![CDATA[9:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_253/pSwPG_1635314229555z0fIr_JPEG/1635314093056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 한소희, 폐차장에서 액션 찢었다😎 | 마이 네임 MY NAME]]></title>
-            <link>https://tv.naver.com/v/23197933</link>
-            <guid>https://tv.naver.com/v/23197933</guid>
-            <pubDate>Wed, 27 Oct 2021 06:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_15/oXV3F_1635314061949C97pk_JPEG/1635314030846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
