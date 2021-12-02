@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 00:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 01:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 먹보와 털보 | 비 정지훈 'On The Way' 뮤직 비디오]]></title>
+            <link>https://tv.naver.com/v/23852122</link>
+            <guid>https://tv.naver.com/v/23852122</guid>
+            <pubDate>Thu, 02 Dec 2021 01:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_190/5GGRG_1638405069610oDJaj_JPEG/1638404949701.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 먹보와 털보｜공식 예고편]]></title>
             <link>https://tv.naver.com/v/23798508</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Oct 2021 06:08:55 GMT</pubDate>
             <content:encoded><![CDATA[6:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_94/SYsm3_1635314434334W6B7d_JPEG/1635314378150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 한소희 눈물이 곧 서사다! 한소희 연기 명장면 모음 | 마이 네임 MY NAME]]></title>
-            <link>https://tv.naver.com/v/23198013</link>
-            <guid>https://tv.naver.com/v/23198013</guid>
-            <pubDate>Wed, 27 Oct 2021 06:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[9:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_253/pSwPG_1635314229555z0fIr_JPEG/1635314093056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

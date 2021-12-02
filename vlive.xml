@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-12-02T00:23:52.844Z</updated>
+    <updated>2021-12-02T01:51:35.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 먹보와 털보 | 비 정지훈 'On The Way' 뮤직 비디오]]></title>
+        <id>https://www.vlive.tv/post/1-26717394</id>
+        <link href="https://www.vlive.tv/post/1-26717394"/>
+        <updated>2021-12-02T01:51:34.830Z</updated>
+        <content type="html"><![CDATA[21분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 먹보와 털보｜공식 예고편]]></title>
         <id>https://www.vlive.tv/post/1-26670353</id>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-26328731"/>
         <updated>2021-11-15T01:49:28.232Z</updated>
         <content type="html"><![CDATA[11.8.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 종이의 집: 파트 5 - 2부 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-26311883</id>
-        <link href="https://www.vlive.tv/post/1-26311883"/>
-        <updated>2021-11-15T01:49:28.232Z</updated>
-        <content type="html"><![CDATA[11.4.]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 00:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 01:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@ SF 미스터리 스릴러
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[경찰? 조직원? 누구도 생각하지 못한 새로운 언더커버의 등장 마침내, 넷플릭스의 새로운 액션 누아르 &lt;마이 네임&gt;의 ↓↓메인 예고편 공개↓↓모든 일의 시작인 그 날 지우(한소희)···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjlfMjI2/MDAxNjMyOTEyMzUyOTcx.cqBFom5stDA6evAIwFLlKfgDPwGWQHRZxb1HLETajWUg.GN7Y0KBsXcMG8_QC1LhVRvcp6DBgag-UJyqqspDAO5Eg.GIF/I1A-urgas9SZaadyVkm_8OQtDhg4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 먹보와 털보 | 비 정지훈 'On The Way' 뮤직 비디오 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23852122</link>
+            <guid>https://tv.naver.com/v/23852122</guid>
+            <pubDate>Thu, 02 Dec 2021 01:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_190/5GGRG_1638405069610oDJaj_JPEG/1638404949701.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 먹보와 털보｜공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,12 +448,11 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211027_94/SYsm3_1635314434334W6B7d_JPEG/1635314378150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 한소희 눈물이 곧 서사다! 한소희 연기 명장면 모음 | 마이 네임 MY NAME (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23198013</link>
-            <guid>https://tv.naver.com/v/23198013</guid>
-            <pubDate>Wed, 27 Oct 2021 06:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[9:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_253/pSwPG_1635314229555z0fIr_JPEG/1635314093056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 먹보와 털보 | 비 정지훈 'On The Way' 뮤직 비디오 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26717394</link>
+            <guid>https://www.vlive.tv/post/1-26717394</guid>
+            <pubDate>Thu, 02 Dec 2021 01:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 먹보와 털보｜공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -579,13 +586,6 @@ SF 미스터리 스릴러
             <guid>https://www.vlive.tv/post/1-26328731</guid>
             <pubDate>Mon, 15 Nov 2021 01:49:28 GMT</pubDate>
             <content:encoded><![CDATA[11.8.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 - 2부 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-26311883</link>
-            <guid>https://www.vlive.tv/post/1-26311883</guid>
-            <pubDate>Mon, 15 Nov 2021 01:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[11.4.]]></content:encoded>
         </item>
     </channel>
 </rss>
