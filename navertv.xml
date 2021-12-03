@@ -4,9 +4,57 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 04:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥사자가 서울에 떴다? 지옥 사자 만나러 가는 길 | 지옥 HELLBOUND]]></title>
+            <link>https://tv.naver.com/v/23877476</link>
+            <guid>https://tv.naver.com/v/23877476</guid>
+            <pubDate>Fri, 03 Dec 2021 05:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_234/uzTD9_1638497566183FSFY9_JPEG/1638497480071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 유아인이 유아인했다! 정진수 의장 모음 | 지옥 HELLBOUND]]></title>
+            <link>https://tv.naver.com/v/23877455</link>
+            <guid>https://tv.naver.com/v/23877455</guid>
+            <pubDate>Fri, 03 Dec 2021 05:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[7:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_113/SxNUA_16384974728753eOtq_JPEG/1638497385298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 자꾸 눈길 가는 꼴뵈기시르미 3인방 화살촉, 유지사제 그리고 교주 | 지옥]]></title>
+            <link>https://tv.naver.com/v/23877430</link>
+            <guid>https://tv.naver.com/v/23877430</guid>
+            <pubDate>Fri, 03 Dec 2021 05:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[6:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_119/kFFTi_1638497377941oAHHQ_JPEG/1638496990979.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [지옥 하이라이트] 지옥 시연 생중계료 30억원? 박정자씨의 사연 | 지옥 HELLBOUND]]></title>
+            <link>https://tv.naver.com/v/23877341</link>
+            <guid>https://tv.naver.com/v/23877341</guid>
+            <pubDate>Fri, 03 Dec 2021 05:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[9:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_256/33ILW_1638496982163NKrgo_JPEG/1638496409289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 짜증 연기 갑, 박정민의 배영재 모음 | 지옥 HELLBOUND]]></title>
+            <link>https://tv.naver.com/v/23877136</link>
+            <guid>https://tv.naver.com/v/23877136</guid>
+            <pubDate>Fri, 03 Dec 2021 05:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[7:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_139/FgyXa_1638496403717amYHK_JPEG/1638496312173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥사자가 스위트홈에 등장하면 생기는 일 | 지옥 X 스위트홈]]></title>
+            <link>https://tv.naver.com/v/23877097</link>
+            <guid>https://tv.naver.com/v/23877097</guid>
+            <pubDate>Fri, 03 Dec 2021 05:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_100/c2CbX_1638496305109LTh9m_JPEG/1638496098573.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 올해의 엄마상이 있다면, 원진아가 받을 거야! 키워드인터뷰 | 지옥]]></title>
             <link>https://tv.naver.com/v/23862131</link>
@@ -198,54 +246,6 @@
             <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211115_126/BjHo4_1636955125286Sa9Dj_JPEG/1636950273219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스]《기묘한 이야기》 시즌 4 | 캘리포니아에 오신 걸 환영합니다.]]></title>
-            <link>https://tv.naver.com/v/23531238</link>
-            <guid>https://tv.naver.com/v/23531238</guid>
-            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_203/LSVkR_1636952212635tcjJJ_JPEG/1636950269486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 먹보와 털보｜티저 예고편]]></title>
-            <link>https://tv.naver.com/v/23411377</link>
-            <guid>https://tv.naver.com/v/23411377</guid>
-            <pubDate>Tue, 09 Nov 2021 00:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_252/GMLN3_1636363402256RfTWd_JPEG/1636363088711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 파이널 예고편]]></title>
-            <link>https://tv.naver.com/v/23369153</link>
-            <guid>https://tv.naver.com/v/23369153</guid>
-            <pubDate>Mon, 08 Nov 2021 00:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_59/LaI7z_16363359589539Edhu_JPEG/1636335952752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 - 2부 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/23334247</link>
-            <guid>https://tv.naver.com/v/23334247</guid>
-            <pubDate>Thu, 04 Nov 2021 04:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_242/WkHkI_1635991698421GDg8o_JPEG/1635990361795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아사쿠사 키드 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/23333964</link>
-            <guid>https://tv.naver.com/v/23333964</guid>
-            <pubDate>Thu, 04 Nov 2021 02:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_185/kWSfN_1635990820937QcLkb_JPEG/1635990753700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/23333937</link>
-            <guid>https://tv.naver.com/v/23333937</guid>
-            <pubDate>Thu, 04 Nov 2021 01:52:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_24/QiQoQ_1635990731289XRUWw_JPEG/1635990612793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
