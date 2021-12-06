@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 07:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 08:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,22 @@ SF 미스터리 스릴러
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[★배우님들 총출동★ 지난 주 부산국제영화제에서 에피소드 1- 3화까지 최초 공개하며 뜨거운 매진 행렬을 선보인 넷플릭스 시리즈 &lt;마이 네임&gt; 스크리닝 후, 관객들의 반응은?"한소희라는 장르의 탄생&amp;quo···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTRfMjU1/MDAxNjM0MTkzNDQ1NTQ3.vEG1GBLtpnEuWlLImpB3zq3aZjKWjy-rhlj_0_BKlU0g.LACiKWKYGNQIhDVQ8Zm73Hy3f_FZBlAOZYlfy7D1RG0g.JPEG/IRJ9zlGoUtnpslXzwmkVoWJ5Imb4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥사자 넷플릭스가 직접 만나봄, 다음 시연 공개 | 지옥 HELLBOUND (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23928553</link>
+            <guid>https://tv.naver.com/v/23928553</guid>
+            <pubDate>Mon, 06 Dec 2021 08:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_147/VnC3J_1638777318845YLs4D_JPEG/1638776968275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 캐릭터 박정자, 화살촉, 진경훈, 유지사제 본캐 등판🌟 | 지옥 HELLBOUND (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23928531</link>
+            <guid>https://tv.naver.com/v/23928531</guid>
+            <pubDate>Mon, 06 Dec 2021 08:09:02 GMT</pubDate>
+            <content:encoded><![CDATA[13:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_46/DCxVq_1638777269881UkvM8_JPEG/1638776962954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥사자가 서울에 떴다? 지옥 사자 만나러 가는 길 | 지옥 HELLBOUND (Netflix Korea ─ NAVER TV)]]></title>
@@ -428,22 +444,6 @@ SF 미스터리 스릴러
             <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
             <content:encoded><![CDATA[1:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211115_234/MjdDb_1636955134649CYDA4_JPEG/1636950281793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 로스트 인 스페이스 | 공식 예고편 | 마지막 시즌 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23532394</link>
-            <guid>https://tv.naver.com/v/23532394</guid>
-            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_79/dSCV5_1636955130727dLAQs_JPEG/1636950276826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 타이틀 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23532391</link>
-            <guid>https://tv.naver.com/v/23532391</guid>
-            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_126/BjHo4_1636955125286Sa9Dj_JPEG/1636950273219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집 | 시리즈 예고편 (Netflix Korea ─ V LIVE)]]></title>
