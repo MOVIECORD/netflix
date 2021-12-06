@@ -4,17 +4,9 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 10:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 11:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[넷플릭스] 먹보와 털보｜OST 미리 듣기]]></title>
-            <link>https://tv.naver.com/v/23928750</link>
-            <guid>https://tv.naver.com/v/23928750</guid>
-            <pubDate>Mon, 06 Dec 2021 09:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_99/KFRUH_1638777708895KKL7j_JPEG/1638777605355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥사자 넷플릭스가 직접 만나봄, 다음 시연 공개 | 지옥 HELLBOUND]]></title>
             <link>https://tv.naver.com/v/23928553</link>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211115_53/HukFX_1636955144924wf1NJ_JPEG/1636950286817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 미래일기 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/23532397</link>
+            <guid>https://tv.naver.com/v/23532397</guid>
+            <pubDate>Mon, 06 Dec 2021 11:05:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_234/MjdDb_1636955134649CYDA4_JPEG/1636950281793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
