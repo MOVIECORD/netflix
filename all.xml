@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 08:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 09:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,6 +203,14 @@ SF 미스터리 스릴러
             <pubDate>Thu, 21 Oct 2021 09:44:40 GMT</pubDate>
             <content:encoded><![CDATA[때로는 귀엽게때로는 오싹하게큐티뽀짝한 존재감으로 전 세계를 홀린넷플릭스 시리즈 &lt;오징어 게임&gt; 무궁화 꽃이 피었습니다의 진짜 주인공, 술래 영희!필리핀 길거리에서도 실감할 수 있는 영희의 ★미친 인기···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTVfMjE3/MDAxNjM0MjkxMjU3MzA1.z-LzQngfV4oSE59hLrbhutVvCkRkOt3hxbsRVwwpX5Mg.Xjwf17Xhcv_tAliUr-lVchgypeGNpLKZPwGxIc11XZgg.JPEG/I_YSkKgTdq9V0cWTf3kycFoRWSdA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 먹보와 털보｜OST 미리 듣기 #2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23992329</link>
+            <guid>https://tv.naver.com/v/23992329</guid>
+            <pubDate>Thu, 09 Dec 2021 09:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_196/euBvT_1639027426116wh4v6_JPEG/1639027404731.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 뮌헨: 전쟁의 문턱에서 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,12 +445,11 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211117_112/K6W0j_1637113739883FjuHA_PNG/1637113560594.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23532414</link>
-            <guid>https://tv.naver.com/v/23532414</guid>
-            <pubDate>Mon, 15 Nov 2021 08:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_118/ZDZgF_1636955153468YedOQ_JPEG/1636950294842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 먹보와 털보｜OST 미리 듣기 #2 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-26866496</link>
+            <guid>https://www.vlive.tv/post/1-26866496</guid>
+            <pubDate>Thu, 09 Dec 2021 09:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스]<위쳐>시즌 2 | 입문 가이드: 김재우가 들려주는 <위쳐> 초보들을 위한 간단 요약 (Netflix Korea ─ V LIVE)]]></title>
@@ -574,13 +581,6 @@ SF 미스터리 스릴러
             <title><![CDATA[[넷플릭스] 신문기자 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26466191</link>
             <guid>https://www.vlive.tv/post/1-26466191</guid>
-            <pubDate>Mon, 15 Nov 2021 08:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[11.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 애니멀 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-26459641</link>
-            <guid>https://www.vlive.tv/post/0-26459641</guid>
             <pubDate>Mon, 15 Nov 2021 08:09:20 GMT</pubDate>
             <content:encoded><![CDATA[11.15.]]></content:encoded>
         </item>
