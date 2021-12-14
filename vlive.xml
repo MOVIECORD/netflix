@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-12-14T07:07:50.726Z</updated>
+    <updated>2021-12-14T08:09:15.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] D.P. 시즌2 제작 확정]]></title>
+        <id>https://www.vlive.tv/post/1-26939410</id>
+        <link href="https://www.vlive.tv/post/1-26939410"/>
+        <updated>2021-12-14T08:09:14.675Z</updated>
+        <content type="html"><![CDATA[17분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 그 여자의 집 건너편 창가에 웬 소녀가 있다 | 티저 예고편]]></title>
         <id>https://www.vlive.tv/post/0-26918313</id>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-26490509"/>
         <updated>2021-11-17T02:22:26.083Z</updated>
         <content type="html"><![CDATA[11.17.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스]《기묘한 이야기》 시즌 4 | 캘리포니아에 오신 걸 환영합니다.]]></title>
-        <id>https://www.vlive.tv/post/0-26459645</id>
-        <link href="https://www.vlive.tv/post/0-26459645"/>
-        <updated>2021-11-15T08:09:20.120Z</updated>
-        <content type="html"><![CDATA[11.15.]]></content>
     </entry>
 </feed>
