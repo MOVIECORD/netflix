@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 07:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 08:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 결혼에 대해 다시 생각해봐야겠어 | 먹보와 털보]]></title>
+            <link>https://tv.naver.com/v/24110560</link>
+            <guid>https://tv.naver.com/v/24110560</guid>
+            <pubDate>Thu, 16 Dec 2021 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_247/bQPK4_16396387708107YKcC_JPEG/1639638679650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 경주월드 놀이기구 쫄? | 먹보와 털보]]></title>
+            <link>https://tv.naver.com/v/24103382</link>
+            <guid>https://tv.naver.com/v/24103382</guid>
+            <pubDate>Thu, 16 Dec 2021 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[5:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_71/gfsnH_1639619175639KwvmX_JPEG/1639619110587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스트레스가 내려가는 영상 | 먹보와 털보]]></title>
+            <link>https://tv.naver.com/v/24103339</link>
+            <guid>https://tv.naver.com/v/24103339</guid>
+            <pubDate>Thu, 16 Dec 2021 08:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[8:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_146/rw8Bj_1639619072323ipI9w_JPEG/1639618949581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 마요네즈로 소고기 국적 바꾸기 | 먹보와 털보]]></title>
             <link>https://tv.naver.com/v/24090709</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 06 Dec 2021 12:10:57 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_16/dJTbB_163878891600353XpR_JPEG/1638788841382.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥사자 넷플릭스가 직접 만나봄, 다음 시연 공개 | 지옥 HELLBOUND]]></title>
-            <link>https://tv.naver.com/v/23928553</link>
-            <guid>https://tv.naver.com/v/23928553</guid>
-            <pubDate>Mon, 06 Dec 2021 08:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_147/VnC3J_1638777318845YLs4D_JPEG/1638776968275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 캐릭터 박정자, 화살촉, 진경훈, 유지사제 본캐 등판🌟 | 지옥 HELLBOUND]]></title>
-            <link>https://tv.naver.com/v/23928531</link>
-            <guid>https://tv.naver.com/v/23928531</guid>
-            <pubDate>Mon, 06 Dec 2021 08:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[13:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_46/DCxVq_1638777269881UkvM8_JPEG/1638776962954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥사자가 서울에 떴다? 지옥 사자 만나러 가는 길 | 지옥 HELLBOUND]]></title>
-            <link>https://tv.naver.com/v/23877476</link>
-            <guid>https://tv.naver.com/v/23877476</guid>
-            <pubDate>Fri, 03 Dec 2021 05:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_234/uzTD9_1638497566183FSFY9_JPEG/1638497480071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
