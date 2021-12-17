@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 07:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 08:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 넷플릭스 CEO가 비 노홍철에게 영상편지? | 먹보와 털보]]></title>
+            <link>https://tv.naver.com/v/24130311</link>
+            <guid>https://tv.naver.com/v/24130311</guid>
+            <pubDate>Fri, 17 Dec 2021 08:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[6:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_243/RUJMO_1639727070338D56iC_JPEG/1639727009417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 김태호PD에게 나영석PD란...? | 먹보와 털보]]></title>
+            <link>https://tv.naver.com/v/24130277</link>
+            <guid>https://tv.naver.com/v/24130277</guid>
+            <pubDate>Fri, 17 Dec 2021 08:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[5:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_120/cI290_1639727002205u8kR6_JPEG/1639726934221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 넷플릭스 공식 인정 먹보 클래스 | 먹보와 털보]]></title>
+            <link>https://tv.naver.com/v/24130242</link>
+            <guid>https://tv.naver.com/v/24130242</guid>
+            <pubDate>Fri, 17 Dec 2021 08:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[10:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_300/9sxe1_1639726928784TGGPC_JPEG/1639726836613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 결혼에 대해 다시 생각해봐야겠어 | 먹보와 털보]]></title>
             <link>https://tv.naver.com/v/24110560</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 10 Dec 2021 00:23:49 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_110/qBJsC_1638931977672cvC8h_JPEG/1638931969178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 뮌헨: 전쟁의 문턱에서 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/23948749</link>
-            <guid>https://tv.naver.com/v/23948749</guid>
-            <pubDate>Tue, 07 Dec 2021 08:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_144/a3JTL_1638856888637YAAim_JPEG/1638856373421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 입문 가이드: 김재우가 들려주는 <위쳐> 초보들을 위한 간단 요약]]></title>
-            <link>https://tv.naver.com/v/23948433</link>
-            <guid>https://tv.naver.com/v/23948433</guid>
-            <pubDate>Tue, 07 Dec 2021 09:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[6:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211207_223/9pTVx_1638856323313jQgeL_JPEG/1638853834690.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 먹보와 털보｜OST 미리 듣기]]></title>
-            <link>https://tv.naver.com/v/23932750</link>
-            <guid>https://tv.naver.com/v/23932750</guid>
-            <pubDate>Mon, 06 Dec 2021 12:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211206_16/dJTbB_163878891600353XpR_JPEG/1638788841382.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
