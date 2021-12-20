@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 08:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 09:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 청순 투명 vs 섹시 큐티 | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24168126</link>
+            <guid>https://tv.naver.com/v/24168126</guid>
+            <pubDate>Mon, 20 Dec 2021 09:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[4:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_72/i4fZ8_16399880859816UlNH_JPEG/1639988017446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [최초 공개] 솔로 탈출을 위해 무인도에 모인 출연자들 | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24168100</link>
+            <guid>https://tv.naver.com/v/24168100</guid>
+            <pubDate>Mon, 20 Dec 2021 09:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[5:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_157/3dtjq_1639988009876sFdoq_JPEG/1639987760466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 효리의 거친 눈빛과 불안한 상순과 그걸지켜보는 먹털 | 먹보와 털보]]></title>
+            <link>https://tv.naver.com/v/24168018</link>
+            <guid>https://tv.naver.com/v/24168018</guid>
+            <pubDate>Mon, 20 Dec 2021 09:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[6:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211220_199/kPqZ1_1639987751072J2var_JPEG/1639987668772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 넷플릭스 CEO가 비 노홍철에게 영상편지? | 먹보와 털보]]></title>
             <link>https://tv.naver.com/v/24130311</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 13 Dec 2021 06:11:02 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211213_15/f8yVG_1639367863094udphD_JPEG/1639362302524.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 그 여자의 집 건너편 창가에 웬 소녀가 있다 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/24049588</link>
-            <guid>https://tv.naver.com/v/24049588</guid>
-            <pubDate>Mon, 13 Dec 2021 06:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211213_175/bfhtd_1639367670399H5tYu_JPEG/1639362306684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 먹보와 털보｜OST 미리 듣기 #2]]></title>
-            <link>https://tv.naver.com/v/23992329</link>
-            <guid>https://tv.naver.com/v/23992329</guid>
-            <pubDate>Thu, 09 Dec 2021 09:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_196/euBvT_1639027426116wh4v6_JPEG/1639027404731.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 고요의 바다 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/23968867</link>
-            <guid>https://tv.naver.com/v/23968867</guid>
-            <pubDate>Fri, 10 Dec 2021 00:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_110/qBJsC_1638931977672cvC8h_JPEG/1638931969178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
