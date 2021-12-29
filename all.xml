@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 12:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 13:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_178/2BA8b_1640761478826ElztJ_JPEG/1640761476310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 대원들에게 일어난 비상상황, 수찬의 운명은? | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24334240</link>
+            <guid>https://tv.naver.com/v/24334240</guid>
+            <pubDate>Wed, 29 Dec 2021 13:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_141/5FW9l_1640759616494NSxH1_JPEG/1640759609311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 송지아에게 완전히 빠져버린 최시훈 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24295309</link>
             <guid>https://tv.naver.com/v/24295309</guid>
@@ -440,12 +448,11 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_33/4o8eK_1639531720579XRvTL_JPEG/1639531631392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 목욕탕에서는 엉덩이를 조심해야지 | 먹보와 털보 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24069754</link>
-            <guid>https://tv.naver.com/v/24069754</guid>
-            <pubDate>Tue, 14 Dec 2021 08:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[4:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_292/OcBMR_16394594859727GMyF_JPEG/1639459418400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 대원들에게 일어난 비상상황, 수찬의 운명은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27139806</link>
+            <guid>https://www.vlive.tv/post/1-27139806</guid>
+            <pubDate>Wed, 29 Dec 2021 13:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[24분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
@@ -466,14 +473,14 @@ SF 미스터리 스릴러
             <link>https://www.vlive.tv/post/0-27133928</link>
             <guid>https://www.vlive.tv/post/0-27133928</guid>
             <pubDate>Wed, 29 Dec 2021 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27138425</link>
             <guid>https://www.vlive.tv/post/1-27138425</guid>
             <pubDate>Wed, 29 Dec 2021 08:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
@@ -579,13 +586,6 @@ SF 미스터리 스릴러
             <guid>https://www.vlive.tv/post/1-26717394</guid>
             <pubDate>Thu, 02 Dec 2021 01:51:34 GMT</pubDate>
             <content:encoded><![CDATA[12.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 먹보와 털보｜공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-26670353</link>
-            <guid>https://www.vlive.tv/post/1-26670353</guid>
-            <pubDate>Tue, 30 Nov 2021 00:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[11.30.]]></content:encoded>
         </item>
     </channel>
 </rss>
