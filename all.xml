@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 07:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 08:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -448,6 +448,13 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211214_292/OcBMR_16394594859727GMyF_JPEG/1639459418400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27138425</link>
+            <guid>https://www.vlive.tv/post/1-27138425</guid>
+            <pubDate>Wed, 29 Dec 2021 08:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-27101006</link>
             <guid>https://www.vlive.tv/post/0-27101006</guid>
@@ -579,13 +586,6 @@ SF 미스터리 스릴러
             <guid>https://www.vlive.tv/post/0-26591699</guid>
             <pubDate>Fri, 26 Nov 2021 00:23:09 GMT</pubDate>
             <content:encoded><![CDATA[11.26.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 비하인드 컷 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-26608145</link>
-            <guid>https://www.vlive.tv/post/1-26608145</guid>
-            <pubDate>Thu, 25 Nov 2021 02:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[11.25.]]></content:encoded>
         </item>
     </channel>
 </rss>

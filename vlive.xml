@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2021-12-29T07:16:11.378Z</updated>
+    <updated>2021-12-29T08:20:11.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다]]></title>
+        <id>https://www.vlive.tv/post/1-27138425</id>
+        <link href="https://www.vlive.tv/post/1-27138425"/>
+        <updated>2021-12-29T08:20:11.292Z</updated>
+        <content type="html"><![CDATA[44분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 고요의 바다 | 절찬 스트리밍 중]]></title>
         <id>https://www.vlive.tv/post/0-27101006</id>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/0-26591699"/>
         <updated>2021-11-26T00:23:09.577Z</updated>
         <content type="html"><![CDATA[11.26.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 지옥 | 비하인드 컷]]></title>
-        <id>https://www.vlive.tv/post/1-26608145</id>
-        <link href="https://www.vlive.tv/post/1-26608145"/>
-        <updated>2021-11-25T02:24:14.347Z</updated>
-        <content type="html"><![CDATA[11.25.]]></content>
     </entry>
 </feed>
