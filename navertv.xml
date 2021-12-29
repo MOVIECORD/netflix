@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 06:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 07:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다]]></title>
+            <link>https://tv.naver.com/v/24335506</link>
+            <guid>https://tv.naver.com/v/24335506</guid>
+            <pubDate>Wed, 29 Dec 2021 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_87/Apc0B_1640761852224GPAwq_JPEG/1640761679352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [Ep2] 연기 꽤 하는 배우들끼리 연기 대결?! (배두나vs공유) | 고요의바다]]></title>
+            <link>https://tv.naver.com/v/24335390</link>
+            <guid>https://tv.naver.com/v/24335390</guid>
+            <pubDate>Wed, 29 Dec 2021 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[14:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_23/JTNJa_1640761630863Wgeb7_JPEG/1640761624139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [Ep1] 공유 '고요의 바다' 홍보하랬더니 예능 찍고 갔다... | 고요의바다]]></title>
+            <link>https://tv.naver.com/v/24335303</link>
+            <guid>https://tv.naver.com/v/24335303</guid>
+            <pubDate>Wed, 29 Dec 2021 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[16:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_178/2BA8b_1640761478826ElztJ_JPEG/1640761476310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 송지아에게 완전히 빠져버린 최시훈 | 솔로지옥]]></title>
             <link>https://tv.naver.com/v/24295309</link>
@@ -72,12 +96,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_141/yhxwM_1640570163329lISni_JPEG/1640569920375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 고요의 바다 | 하이라이트]]></title>
+            <title><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다]]></title>
             <link>https://tv.naver.com/v/24244490</link>
             <guid>https://tv.naver.com/v/24244490</guid>
             <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
             <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_279/geLtK_1640324572780lPaRv_JPEG/6723b105-647b-11ec-ae23-a0369ff95ec0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_18/2Vl7H_1640759149156gbzmr_JPEG/1640759125485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 절찬 스트리밍 중]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 14 Dec 2021 08:09:04 GMT</pubDate>
             <content:encoded><![CDATA[4:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211214_292/OcBMR_16394594859727GMyF_JPEG/1639459418400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] D.P. 시즌2 제작 확정]]></title>
-            <link>https://tv.naver.com/v/24069703</link>
-            <guid>https://tv.naver.com/v/24069703</guid>
-            <pubDate>Tue, 14 Dec 2021 08:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_206/vFHA9_16394592793954gI94_JPEG/1639458998860.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] YMCA 아기스포츠단 뭔가 보여드리겠습니다 | 먹보와 털보]]></title>
-            <link>https://tv.naver.com/v/24069600</link>
-            <guid>https://tv.naver.com/v/24069600</guid>
-            <pubDate>Tue, 14 Dec 2021 08:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[5:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_278/pDuUx_1639458963600AwMpi_JPEG/1639458891919.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 한국인 특) 아침밥은 못 참지 | 먹보와 털보]]></title>
-            <link>https://tv.naver.com/v/24069555</link>
-            <guid>https://tv.naver.com/v/24069555</guid>
-            <pubDate>Tue, 14 Dec 2021 08:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[5:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_21/5P5ch_1639458841813b2aPr_JPEG/1639458777894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
