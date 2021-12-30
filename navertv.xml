@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 06:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 07:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -133,7 +133,7 @@
             <guid>https://tv.naver.com/v/24202121</guid>
             <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_217/PTTlo_1640153379671aqHWV_JPEG/1640153145155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_46/5ZN3q_16408484815732M0WI_JPEG/1640848479724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 하이라이트 | 정주행 열풍! 강력한 괴물과 마주친 위쳐와 시리]]></title>
@@ -141,7 +141,7 @@
             <guid>https://tv.naver.com/v/24202119</guid>
             <pubDate>Thu, 30 Dec 2021 00:54:04 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_200/XIThe_1640153376386YYlkN_JPEG/1640153147900.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_282/kXwYt_16408484703632l1si_JPEG/1640848467606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 제작기 영상]]></title>
