@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 03:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 04:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 고요의 바다 | 비하인드 컷]]></title>
+            <link>https://tv.naver.com/v/24350246</link>
+            <guid>https://tv.naver.com/v/24350246</guid>
+            <pubDate>Thu, 30 Dec 2021 04:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_108/Xo42X_1640837291382BDSiQ_JPEG/1640837288735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다]]></title>
             <link>https://tv.naver.com/v/24335506</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Dec 2021 08:08:17 GMT</pubDate>
             <content:encoded><![CDATA[6:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_212/O3wbD_16395512450582HAlP_JPEG/1639551061128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 서울대 동문 이하늬가 본 김태희 결혼 이유 | 먹보와 털보]]></title>
-            <link>https://tv.naver.com/v/24083443</link>
-            <guid>https://tv.naver.com/v/24083443</guid>
-            <pubDate>Wed, 15 Dec 2021 08:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[8:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_62/SKY90_1639532103175x0GJb_JPEG/1639531775495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
