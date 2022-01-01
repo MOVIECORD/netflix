@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 23:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 00:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 29 Dec 2021 07:16:01 GMT</pubDate>
             <content:encoded><![CDATA[16:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_178/2BA8b_1640761478826ElztJ_JPEG/1640761476310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 공유의 목숨이 위험하다 | 고요의바다]]></title>
+            <link>https://tv.naver.com/v/24334673</link>
+            <guid>https://tv.naver.com/v/24334673</guid>
+            <pubDate>Sat, 01 Jan 2022 00:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_2/iBOmH_1640760394168ldkRg_JPEG/1640760361287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 대원들에게 일어난 비상상황, 수찬의 운명은? | 고요의바다]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Dec 2021 08:12:19 GMT</pubDate>
             <content:encoded><![CDATA[5:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211216_71/gfsnH_1639619175639KwvmX_JPEG/1639619110587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스트레스가 내려가는 영상 | 먹보와 털보]]></title>
-            <link>https://tv.naver.com/v/24103339</link>
-            <guid>https://tv.naver.com/v/24103339</guid>
-            <pubDate>Thu, 16 Dec 2021 08:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[8:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_146/rw8Bj_1639619072323ipI9w_JPEG/1639618949581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

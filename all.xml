@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 23:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 00:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,14 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_178/2BA8b_1640761478826ElztJ_JPEG/1640761476310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 공유의 목숨이 위험하다 | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24334673</link>
+            <guid>https://tv.naver.com/v/24334673</guid>
+            <pubDate>Sat, 01 Jan 2022 00:56:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_2/iBOmH_1640760394168ldkRg_JPEG/1640760361287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 대원들에게 일어난 비상상황, 수찬의 운명은? | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24334240</link>
             <guid>https://tv.naver.com/v/24334240</guid>
@@ -440,152 +448,144 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211216_71/gfsnH_1639619175639KwvmX_JPEG/1639619110587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 스트레스가 내려가는 영상 | 먹보와 털보 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24103339</link>
-            <guid>https://tv.naver.com/v/24103339</guid>
-            <pubDate>Thu, 16 Dec 2021 08:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[8:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_146/rw8Bj_1639619072323ipI9w_JPEG/1639618949581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 공유의 목숨이 위험하다 | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-27133726</link>
+            <guid>https://www.vlive.tv/post/0-27133726</guid>
+            <pubDate>Sat, 01 Jan 2022 00:56:46 GMT</pubDate>
+            <content:encoded><![CDATA[56분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는｜공개일 발표 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27180930</link>
             <guid>https://www.vlive.tv/post/1-27180930</guid>
             <pubDate>Fri, 31 Dec 2021 00:55:49 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.31.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 비하인드 컷 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27173008</link>
             <guid>https://www.vlive.tv/post/1-27173008</guid>
             <pubDate>Thu, 30 Dec 2021 04:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[12.30.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.30.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 대원들에게 일어난 비상상황, 수찬의 운명은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27139806</link>
             <guid>https://www.vlive.tv/post/1-27139806</guid>
             <pubDate>Wed, 29 Dec 2021 13:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[12.29.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27139960</link>
             <guid>https://www.vlive.tv/post/1-27139960</guid>
             <pubDate>Wed, 29 Dec 2021 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[12.29.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [Ep2] 연기 꽤 하는 배우들끼리 연기 대결?! (배두나vs공유) | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27139938</link>
             <guid>https://www.vlive.tv/post/1-27139938</guid>
             <pubDate>Wed, 29 Dec 2021 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[12.29.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [Ep1] 공유 '고요의 바다' 홍보하랬더니 예능 찍고 갔다... | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-27133928</link>
             <guid>https://www.vlive.tv/post/0-27133928</guid>
             <pubDate>Wed, 29 Dec 2021 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[12.29.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27138425</link>
             <guid>https://www.vlive.tv/post/1-27138425</guid>
             <pubDate>Wed, 29 Dec 2021 08:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[12.29.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-27101006</link>
             <guid>https://www.vlive.tv/post/0-27101006</guid>
             <pubDate>Wed, 29 Dec 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[12.27.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.27.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 브리저튼 | 시즌 2 공개 발표 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27106737</link>
             <guid>https://www.vlive.tv/post/1-27106737</guid>
             <pubDate>Wed, 29 Dec 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[12.27.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.27.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 미드나잇 아시아: 먹다 · 춤추다 · 꿈꾸다 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-27100817</link>
             <guid>https://www.vlive.tv/post/0-27100817</guid>
             <pubDate>Wed, 29 Dec 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[12.27.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.27.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 제작기 영상 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27038837</link>
             <guid>https://www.vlive.tv/post/1-27038837</guid>
             <pubDate>Wed, 29 Dec 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[12.22.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.22.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐: 블러드 오리진 | 쿠키 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27028832</link>
             <guid>https://www.vlive.tv/post/1-27028832</guid>
             <pubDate>Wed, 29 Dec 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[12.21.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.21.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] D.P. 시즌2 제작 확정 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26939410</link>
             <guid>https://www.vlive.tv/post/1-26939410</guid>
             <pubDate>Tue, 14 Dec 2021 08:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[12.14.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.14.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 그 여자의 집 건너편 창가에 웬 소녀가 있다 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26918313</link>
             <guid>https://www.vlive.tv/post/0-26918313</guid>
             <pubDate>Mon, 13 Dec 2021 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[12.13.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.13.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집 | 저항의 불꽃이여 영원하라 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26924293</link>
             <guid>https://www.vlive.tv/post/1-26924293</guid>
             <pubDate>Mon, 13 Dec 2021 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[12.13.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.13.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 코브라 카이 시즌 4 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26918312</link>
             <guid>https://www.vlive.tv/post/0-26918312</guid>
             <pubDate>Mon, 13 Dec 2021 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[12.13.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.13.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26861410</link>
             <guid>https://www.vlive.tv/post/0-26861410</guid>
             <pubDate>Fri, 10 Dec 2021 00:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[12.10.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.10.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 먹보와 털보｜OST 미리 듣기 #2 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-26866496</link>
             <guid>https://www.vlive.tv/post/1-26866496</guid>
             <pubDate>Thu, 09 Dec 2021 09:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[12.9.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.9.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스]<위쳐>시즌 2 | 입문 가이드: 김재우가 들려주는 <위쳐> 초보들을 위한 간단 요약 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-26829756</link>
             <guid>https://www.vlive.tv/post/0-26829756</guid>
             <pubDate>Tue, 07 Dec 2021 09:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[12.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 먹보와 털보｜OST 미리 듣기 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-26816329</link>
-            <guid>https://www.vlive.tv/post/0-26816329</guid>
-            <pubDate>Mon, 06 Dec 2021 12:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[12.6.]]></content:encoded>
+            <content:encoded><![CDATA[2021.12.7.]]></content:encoded>
         </item>
     </channel>
 </rss>
