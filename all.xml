@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 00:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 02:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@ SF 미스터리 스릴러
             <pubDate>Fri, 12 Nov 2021 11:05:26 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 71개국 TOP 10을 달성하며 글로벌 신드롬의 시작을 알리고있는 넷플릭스 시리즈 &lt;지옥&gt;! 단 3일만에 전 세계를 사로잡은 웰메이드 작품의 탄생! 현재 대한민국 어디서나 지옥사자를 만날 수 있다는 사···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjk4/MDAxNjM2NzEwNDA1MzA0.JuNyH1Ji--2LmhptqEIEvZnFfDznMv9OuTtLT8FubBUg.ie6ZH51MnNgvH6wDfSk_r3dFQN-vCrr1KvyUO9GXMlEg.PNG/IKM8yoMnpVm6D8ksSf8GaKfK5K8E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 꼭 봐야 하는 관전 포인트 알려드립니다 | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24403157</link>
+            <guid>https://tv.naver.com/v/24403157</guid>
+            <pubDate>Mon, 03 Jan 2022 02:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[6:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_288/esNcz_16411740610951tWIj_JPEG/1641174057867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는｜공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
@@ -438,14 +446,6 @@ SF 미스터리 스릴러
             <pubDate>Thu, 16 Dec 2021 08:12:19 GMT</pubDate>
             <content:encoded><![CDATA[4:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211216_247/bQPK4_16396387708107YKcC_JPEG/1639638679650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 경주월드 놀이기구 쫄? | 먹보와 털보 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24103382</link>
-            <guid>https://tv.naver.com/v/24103382</guid>
-            <pubDate>Thu, 16 Dec 2021 08:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_71/gfsnH_1639619175639KwvmX_JPEG/1639619110587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 공유의 목숨이 위험하다 | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
