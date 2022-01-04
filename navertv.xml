@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 00:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 02:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 드디어 문세훈에게도 운명의 여자가? (문세훈♥성민지) | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24419736</link>
+            <guid>https://tv.naver.com/v/24419736</guid>
+            <pubDate>Tue, 04 Jan 2022 02:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_217/6opNa_1641258232542M5tG8_JPEG/1641258132923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 송지아에게 눈을 떼지 못하는 최시훈 [미공개 클립] | 솔로지옥]]></title>
             <link>https://tv.naver.com/v/24403814</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
             <content:encoded><![CDATA[5:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_162/dHs6c_1640145529915HCwg6_JPEG/1640145401493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 비주얼 모델 급 커플 탄생? | 솔로지옥]]></title>
-            <link>https://tv.naver.com/v/24197106</link>
-            <guid>https://tv.naver.com/v/24197106</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[6:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_239/ZrAwt_1640138393928w90OT_JPEG/1640138282491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
