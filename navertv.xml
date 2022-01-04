@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 08:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 송지아에게 호감을 보이는 차현승 | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24428607</link>
+            <guid>https://tv.naver.com/v/24428607</guid>
+            <pubDate>Tue, 04 Jan 2022 09:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[6:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_234/GRB0k_1641284905777RIIkw_JPEG/1641284807891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 역대급 제작비 세트장 공개 (feat.이준) | 고요의바다]]></title>
             <link>https://tv.naver.com/v/24423572</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_46/5ZN3q_16408484815732M0WI_JPEG/1640848479724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 하이라이트 | 정주행 열풍! 강력한 괴물과 마주친 위쳐와 시리]]></title>
-            <link>https://tv.naver.com/v/24202119</link>
-            <guid>https://tv.naver.com/v/24202119</guid>
-            <pubDate>Thu, 30 Dec 2021 00:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_282/kXwYt_16408484703632l1si_JPEG/1640848467606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

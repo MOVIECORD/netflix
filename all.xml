@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 08:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@ SF 미스터리 스릴러
             <pubDate>Fri, 12 Nov 2021 11:05:26 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 71개국 TOP 10을 달성하며 글로벌 신드롬의 시작을 알리고있는 넷플릭스 시리즈 &lt;지옥&gt;! 단 3일만에 전 세계를 사로잡은 웰메이드 작품의 탄생! 현재 대한민국 어디서나 지옥사자를 만날 수 있다는 사···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjk4/MDAxNjM2NzEwNDA1MzA0.JuNyH1Ji--2LmhptqEIEvZnFfDznMv9OuTtLT8FubBUg.ie6ZH51MnNgvH6wDfSk_r3dFQN-vCrr1KvyUO9GXMlEg.PNG/IKM8yoMnpVm6D8ksSf8GaKfK5K8E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 송지아에게 호감을 보이는 차현승 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24428607</link>
+            <guid>https://tv.naver.com/v/24428607</guid>
+            <pubDate>Tue, 04 Jan 2022 09:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[6:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_234/GRB0k_1641284905777RIIkw_JPEG/1641284807891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 역대급 제작비 세트장 공개 (feat.이준) | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,19 +448,11 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_46/5ZN3q_16408484815732M0WI_JPEG/1640848479724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 위쳐 시즌 2 | 하이라이트 | 정주행 열풍! 강력한 괴물과 마주친 위쳐와 시리 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24202119</link>
-            <guid>https://tv.naver.com/v/24202119</guid>
-            <pubDate>Thu, 30 Dec 2021 00:54:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_282/kXwYt_16408484703632l1si_JPEG/1640848467606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 역대급 제작비 세트장 공개 (feat.이준) | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27279614</link>
             <guid>https://www.vlive.tv/post/1-27279614</guid>
             <pubDate>Tue, 04 Jan 2022 05:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 꼭 봐야 하는 관전 포인트 알려드립니다 | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
