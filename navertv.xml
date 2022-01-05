@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 09:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 안예원 앞에서 녹아버리는 차현승 | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24449460</link>
+            <guid>https://tv.naver.com/v/24449460</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_289/S0qZJ_1641373197995UUw6E_JPEG/1641373065630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 그 여자의 집 건너편 창가에 웬 소녀가 있다 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/24439225</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_141/yhxwM_1640570163329lISni_JPEG/1640569920375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다]]></title>
-            <link>https://tv.naver.com/v/24244490</link>
-            <guid>https://tv.naver.com/v/24244490</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_18/2Vl7H_1640759149156gbzmr_JPEG/1640759125485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

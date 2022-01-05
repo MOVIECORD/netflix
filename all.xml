@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 09:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@ SF 미스터리 스릴러
             <pubDate>Fri, 12 Nov 2021 11:05:26 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 71개국 TOP 10을 달성하며 글로벌 신드롬의 시작을 알리고있는 넷플릭스 시리즈 &lt;지옥&gt;! 단 3일만에 전 세계를 사로잡은 웰메이드 작품의 탄생! 현재 대한민국 어디서나 지옥사자를 만날 수 있다는 사···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTJfMjk4/MDAxNjM2NzEwNDA1MzA0.JuNyH1Ji--2LmhptqEIEvZnFfDznMv9OuTtLT8FubBUg.ie6ZH51MnNgvH6wDfSk_r3dFQN-vCrr1KvyUO9GXMlEg.PNG/IKM8yoMnpVm6D8ksSf8GaKfK5K8E.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 안예원 앞에서 녹아버리는 차현승 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24449460</link>
+            <guid>https://tv.naver.com/v/24449460</guid>
+            <pubDate>Wed, 05 Jan 2022 09:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_289/S0qZJ_1641373197995UUw6E_JPEG/1641373065630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 그 여자의 집 건너편 창가에 웬 소녀가 있다 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,26 +448,18 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_141/yhxwM_1640570163329lISni_JPEG/1640569920375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24244490</link>
-            <guid>https://tv.naver.com/v/24244490</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_18/2Vl7H_1640759149156gbzmr_JPEG/1640759125485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 그 여자의 집 건너편 창가에 웬 소녀가 있다 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27292294</link>
             <guid>https://www.vlive.tv/post/1-27292294</guid>
             <pubDate>Wed, 05 Jan 2022 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스루 마이 윈도 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27292283</link>
             <guid>https://www.vlive.tv/post/1-27292283</guid>
             <pubDate>Wed, 05 Jan 2022 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 역대급 제작비 세트장 공개 (feat.이준) | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
