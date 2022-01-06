@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 07:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 08:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 전혀 다른 매력의 두 여자, 문세훈의 선택은? | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24466863</link>
+            <guid>https://tv.naver.com/v/24466863</guid>
+            <pubDate>Thu, 06 Jan 2022 08:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_3/BMMqp_1641453400185DPOcx_JPEG/1641453288841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 과몰입 방지를 위한 영상 | 고요의바다]]></title>
             <link>https://tv.naver.com/v/24459702</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
             <content:encoded><![CDATA[5:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_150/nygX4_1640570751772m9WhN_JPEG/1640570680352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 우리 뭔가 잘 안 맞는 것 같아 | 솔로지옥]]></title>
-            <link>https://tv.naver.com/v/24286099</link>
-            <guid>https://tv.naver.com/v/24286099</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_273/vqfQ4_16405706417965AlGF_JPEG/1640570550134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
