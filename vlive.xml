@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-01-06T01:02:27.700Z</updated>
+    <updated>2022-01-06T02:17:54.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 과몰입 방지를 위한 영상 | 고요의바다]]></title>
+        <id>https://www.vlive.tv/post/0-27299489</id>
+        <link href="https://www.vlive.tv/post/0-27299489"/>
+        <updated>2022-01-06T02:17:53.495Z</updated>
+        <content type="html"><![CDATA[31분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 촬영 비하인드 | 고요의바다]]></title>
+        <id>https://www.vlive.tv/post/1-27306139</id>
+        <link href="https://www.vlive.tv/post/1-27306139"/>
+        <updated>2022-01-06T02:17:53.496Z</updated>
+        <content type="html"><![CDATA[32분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 그 여자의 집 건너편 창가에 웬 소녀가 있다 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/1-27292294</id>
         <link href="https://www.vlive.tv/post/1-27292294"/>
         <updated>2022-01-05T03:17:36.035Z</updated>
-        <content type="html"><![CDATA[22시간 전]]></content>
+        <content type="html"><![CDATA[23시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 스루 마이 윈도 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/1-27292283</id>
         <link href="https://www.vlive.tv/post/1-27292283"/>
         <updated>2022-01-05T03:17:36.036Z</updated>
-        <content type="html"><![CDATA[22시간 전]]></content>
+        <content type="html"><![CDATA[23시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 역대급 제작비 세트장 공개 (feat.이준) | 고요의바다]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.vlive.tv/post/1-27028832"/>
         <updated>2021-12-29T03:16:35.247Z</updated>
         <content type="html"><![CDATA[2021.12.21.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] D.P. 시즌2 제작 확정]]></title>
-        <id>https://www.vlive.tv/post/1-26939410</id>
-        <link href="https://www.vlive.tv/post/1-26939410"/>
-        <updated>2021-12-14T08:09:14.675Z</updated>
-        <content type="html"><![CDATA[2021.12.14.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 그 여자의 집 건너편 창가에 웬 소녀가 있다 | 티저 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-26918313</id>
-        <link href="https://www.vlive.tv/post/0-26918313"/>
-        <updated>2021-12-13T06:11:11.438Z</updated>
-        <content type="html"><![CDATA[2021.12.13.]]></content>
     </entry>
 </feed>
