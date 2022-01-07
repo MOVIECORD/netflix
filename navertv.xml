@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 01:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 02:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 문세훈♥성민지 몰아주기 (feat.현중♥지아) | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24482192</link>
+            <guid>https://tv.naver.com/v/24482192</guid>
+            <pubDate>Fri, 07 Jan 2022 02:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_214/9t0fC_1641521515981837Q1_JPEG/1641521366526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] ❗스포주의❗ 모든 것을 까발리는 비하인드 코멘터리 | 고요의바다]]></title>
+            <link>https://tv.naver.com/v/24482109</link>
+            <guid>https://tv.naver.com/v/24482109</guid>
+            <pubDate>Fri, 07 Jan 2022 02:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[21:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_259/DXzLj_16415212853925Gp5z_JPEG/1641521191064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 전혀 다른 매력의 두 여자, 문세훈의 선택은? | 솔로지옥]]></title>
             <link>https://tv.naver.com/v/24466863</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_162/zZLTN_1640571646442rzN0C_JPEG/1640571566737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 송지아 = 패션 유튜버 free지아 | 솔로지옥 Single’s Inferno]]></title>
-            <link>https://tv.naver.com/v/24286475</link>
-            <guid>https://tv.naver.com/v/24286475</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_163/jjoK7_1640571529227eUcai_JPEG/1640571459210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 브리저튼 | 시즌 2 공개 발표]]></title>
-            <link>https://tv.naver.com/v/24286436</link>
-            <guid>https://tv.naver.com/v/24286436</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_226/7FxMx_1640574065272h4NGL_JPEG/1640574062794.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
