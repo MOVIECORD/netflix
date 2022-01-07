@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 06:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 07:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,12 +215,20 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_214/9t0fC_1641521515981837Q1_JPEG/1641521366526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] ❗스포주의❗ 모든 것을 까발리는 비하인드 코멘터리 | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24482109</link>
-            <guid>https://tv.naver.com/v/24482109</guid>
-            <pubDate>Fri, 07 Jan 2022 02:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[21:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_259/DXzLj_16415212853925Gp5z_JPEG/1641521191064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 오자크: 시즌 4 | 파트 1 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24482089</link>
+            <guid>https://tv.naver.com/v/24482089</guid>
+            <pubDate>Fri, 07 Jan 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_181/4ddAT_1641521306629OQygQ_JPEG/1641521303813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 울트라맨 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24481948</link>
+            <guid>https://tv.naver.com/v/24481948</guid>
+            <pubDate>Fri, 07 Jan 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_81/yxFWZ_1641520944549PuSIb_JPEG/1641520129113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 전혀 다른 매력의 두 여자, 문세훈의 선택은? | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
@@ -439,26 +447,25 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211227_235/hT72K_1640593105734MWgsg_JPEG/1640593015152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 세계 20위권 대학 생명공학 전공자 신지연 | 솔로지옥 Single’s Inferno (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24286534</link>
-            <guid>https://tv.naver.com/v/24286534</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_162/zZLTN_1640571646442rzN0C_JPEG/1640571566737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 울트라맨 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27321660</link>
+            <guid>https://www.vlive.tv/post/1-27321660</guid>
+            <pubDate>Fri, 07 Jan 2022 07:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] ❗스포주의❗ 모든 것을 까발리는 비하인드 코멘터리 | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27321740</link>
-            <guid>https://www.vlive.tv/post/1-27321740</guid>
-            <pubDate>Fri, 07 Jan 2022 02:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <title><![CDATA[오자크: 시즌 4 | 파트 1 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27321708</link>
+            <guid>https://www.vlive.tv/post/1-27321708</guid>
+            <pubDate>Fri, 07 Jan 2022 07:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-27289328</link>
             <guid>https://www.vlive.tv/post/0-27289328</guid>
             <pubDate>Fri, 07 Jan 2022 01:00:51 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 과몰입 방지를 위한 영상 | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
@@ -576,13 +583,6 @@ SF 미스터리 스릴러
             <title><![CDATA[[넷플릭스] 브리저튼 | 시즌 2 공개 발표 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27106737</link>
             <guid>https://www.vlive.tv/post/1-27106737</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 미드나잇 아시아: 먹다 · 춤추다 · 꿈꾸다 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27100817</link>
-            <guid>https://www.vlive.tv/post/0-27100817</guid>
             <pubDate>Wed, 29 Dec 2021 03:16:35 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.27.]]></content:encoded>
         </item>
