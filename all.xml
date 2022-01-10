@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 02:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,54 @@ SF 미스터리 스릴러
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjY1/MDAxNjM3MzAwOTE2NDUy.DExAfWqkdQ43dpN4kXtkiHT0Vw_CCno79pnd9XeahtIg.T-n_kcJIw8q1OxCm295iVgSKKR4fL6MazMFgSQluNe0g.JPEG/IIuapyE6IYnlVc5x1O1ALhbxfahU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 역대급 스케일의 CG | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24518882</link>
+            <guid>https://tv.naver.com/v/24518882</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_77/bFjcn_16417787848397Pm8x_JPEG/1641778703583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 뉴페이스들의 직업 공개 (차현승, 김수민, 성민지) | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24518869</link>
+            <guid>https://tv.naver.com/v/24518869</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_126/s7PCp_1641778754277uVbwm_JPEG/1641778751992.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 문세훈의 직업 공개 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24518845</link>
+            <guid>https://tv.naver.com/v/24518845</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_129/kG4kj_16417786440510lzca_JPEG/1641778553061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 배우들이 추천하는 넷플릭스 최애 작품 | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24518843</link>
+            <guid>https://tv.naver.com/v/24518843</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[8:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_257/NeROU_1641778641004xNQrA_JPEG/1641778544405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 예원♥준식 사이에 낀 슬픈 문세훈... (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24518813</link>
+            <guid>https://tv.naver.com/v/24518813</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_148/UCBxD_1641778523461CDBK4_JPEG/1641778458758.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 신지연이 문세훈 때문에 눈물 흘린 사연 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24518777</link>
+            <guid>https://tv.naver.com/v/24518777</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[7:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_52/auq8E_1641778414138LSDws_JPEG/1641778408030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] [선공개] 차현승, 우정보다 송지아를 선택하다 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24489863</link>
             <guid>https://tv.naver.com/v/24489863</guid>
@@ -399,52 +447,39 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_201/62X1r_1640848472990Wy6c2_JPEG/1640848118480.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 고요의 바다 | 비하인드 컷 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24350246</link>
-            <guid>https://tv.naver.com/v/24350246</guid>
-            <pubDate>Thu, 30 Dec 2021 04:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_108/Xo42X_1640837291382BDSiQ_JPEG/1640837288735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-27361969</link>
+            <guid>https://www.vlive.tv/post/0-27361969</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24335506</link>
-            <guid>https://tv.naver.com/v/24335506</guid>
-            <pubDate>Wed, 29 Dec 2021 07:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[5:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_87/Apc0B_1640761852224GPAwq_JPEG/1640761679352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] [Ep2] 연기 꽤 하는 배우들끼리 연기 대결?! (배두나vs공유) | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27368567</link>
+            <guid>https://www.vlive.tv/post/1-27368567</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[18분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] [Ep2] 연기 꽤 하는 배우들끼리 연기 대결?! (배두나vs공유) | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24335390</link>
-            <guid>https://tv.naver.com/v/24335390</guid>
-            <pubDate>Wed, 29 Dec 2021 07:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[14:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_23/JTNJa_1640761630863Wgeb7_JPEG/1640761624139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] [Ep1] 공유 '고요의 바다' 홍보하랬더니 예능 찍고 갔다... | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27368561</link>
+            <guid>https://www.vlive.tv/post/1-27368561</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] [Ep1] 공유 '고요의 바다' 홍보하랬더니 예능 찍고 갔다... | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24335303</link>
-            <guid>https://tv.naver.com/v/24335303</guid>
-            <pubDate>Wed, 29 Dec 2021 07:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[16:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_178/2BA8b_1640761478826ElztJ_JPEG/1640761476310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 역대급 스케일의 CG | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-27361922</link>
+            <guid>https://www.vlive.tv/post/0-27361922</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 공유의 목숨이 위험하다 | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24334673</link>
-            <guid>https://tv.naver.com/v/24334673</guid>
-            <pubDate>Sat, 01 Jan 2022 00:56:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_2/iBOmH_1640760394168ldkRg_JPEG/1640760361287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 대원들에게 일어난 비상상황, 수찬의 운명은? | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24334240</link>
-            <guid>https://tv.naver.com/v/24334240</guid>
-            <pubDate>Wed, 29 Dec 2021 13:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_94/0L1ZC_1640849997462HXhul_JPEG/1640849993139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 배우들이 추천하는 넷플릭스 최애 작품 | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-27361895</link>
+            <guid>https://www.vlive.tv/post/0-27361895</guid>
+            <pubDate>Mon, 10 Jan 2022 02:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 울트라맨 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -545,46 +580,11 @@ SF 미스터리 스릴러
             <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27139960</link>
-            <guid>https://www.vlive.tv/post/1-27139960</guid>
-            <pubDate>Wed, 29 Dec 2021 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [Ep2] 연기 꽤 하는 배우들끼리 연기 대결?! (배두나vs공유) | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27139938</link>
-            <guid>https://www.vlive.tv/post/1-27139938</guid>
-            <pubDate>Wed, 29 Dec 2021 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [Ep1] 공유 '고요의 바다' 홍보하랬더니 예능 찍고 갔다... | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27133928</link>
-            <guid>https://www.vlive.tv/post/0-27133928</guid>
-            <pubDate>Wed, 29 Dec 2021 10:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27138425</link>
             <guid>https://www.vlive.tv/post/1-27138425</guid>
             <pubDate>Wed, 29 Dec 2021 08:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 고요의 바다 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27101006</link>
-            <guid>https://www.vlive.tv/post/0-27101006</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 브리저튼 | 시즌 2 공개 발표 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27106737</link>
-            <guid>https://www.vlive.tv/post/1-27106737</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.27.]]></content:encoded>
         </item>
     </channel>
 </rss>
