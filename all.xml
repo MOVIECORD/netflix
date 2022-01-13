@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 06:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 07:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,12 +207,28 @@ SF 미스터리 스릴러
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMTlfMjY1/MDAxNjM3MzAwOTE2NDUy.DExAfWqkdQ43dpN4kXtkiHT0Vw_CCno79pnd9XeahtIg.T-n_kcJIw8q1OxCm295iVgSKKR4fL6MazMFgSQluNe0g.JPEG/IIuapyE6IYnlVc5x1O1ALhbxfahU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24576830</link>
+            <guid>https://tv.naver.com/v/24576830</guid>
+            <pubDate>Thu, 13 Jan 2022 07:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_124/mFpmR_1642039972076ztuqu_JPEG/1642039682877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 만화 주인공 같은 커플 최시훈♥김수민 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24576604</link>
             <guid>https://tv.naver.com/v/24576604</guid>
             <pubDate>Thu, 13 Jan 2022 02:13:15 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220113_25/Mz21E_1642039436252iXUzO_JPEG/1642039433759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 데이트 앱 사기: 당신을 노린다 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24576539</link>
+            <guid>https://tv.naver.com/v/24576539</guid>
+            <pubDate>Thu, 13 Jan 2022 07:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_138/AyjYX_1642039223671mjPFM_JPEG/1642038691045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마지막 천국도는 당신과 함께 강소연♥오진택 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
@@ -431,20 +447,18 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_10/i3cVf_1641176741149OmDoR_JPEG/1641176485659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 이 짝사랑의 끝 (송지아♥최시훈) | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24403768</link>
-            <guid>https://tv.naver.com/v/24403768</guid>
-            <pubDate>Mon, 03 Jan 2022 03:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[5:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_22/NYf3E_1641176689975rfBwB_JPEG/1641176482678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 데이트 앱 사기: 당신을 노린다 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27411792</link>
+            <guid>https://www.vlive.tv/post/1-27411792</guid>
+            <pubDate>Thu, 13 Jan 2022 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 문세훈 씨 포기 괜찮겠어요? | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24403759</link>
-            <guid>https://tv.naver.com/v/24403759</guid>
-            <pubDate>Mon, 03 Jan 2022 03:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_282/DGVnQ_1641176658213Acmoh_JPEG/1641176477576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-27405614</link>
+            <guid>https://www.vlive.tv/post/0-27405614</guid>
+            <pubDate>Thu, 13 Jan 2022 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
@@ -571,20 +585,6 @@ SF 미스터리 스릴러
             <guid>https://www.vlive.tv/post/1-27173008</guid>
             <pubDate>Thu, 30 Dec 2021 04:21:32 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 대원들에게 일어난 비상상황, 수찬의 운명은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27139806</link>
-            <guid>https://www.vlive.tv/post/1-27139806</guid>
-            <pubDate>Wed, 29 Dec 2021 13:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27138425</link>
-            <guid>https://www.vlive.tv/post/1-27138425</guid>
-            <pubDate>Wed, 29 Dec 2021 08:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.29.]]></content:encoded>
         </item>
     </channel>
 </rss>

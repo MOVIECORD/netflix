@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-01-13T06:20:23.353Z</updated>
+    <updated>2022-01-13T07:16:45.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 데이트 앱 사기: 당신을 노린다 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-27411792</id>
+        <link href="https://www.vlive.tv/post/1-27411792"/>
+        <updated>2022-01-13T07:16:44.910Z</updated>
+        <content type="html"><![CDATA[38분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-27405614</id>
+        <link href="https://www.vlive.tv/post/0-27405614"/>
+        <updated>2022-01-13T07:16:44.911Z</updated>
+        <content type="html"><![CDATA[38분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다]]></title>
         <id>https://www.vlive.tv/post/0-27361969</id>
@@ -130,19 +144,5 @@
         <link href="https://www.vlive.tv/post/1-27173008"/>
         <updated>2021-12-30T04:21:32.364Z</updated>
         <content type="html"><![CDATA[2021.12.30.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 대원들에게 일어난 비상상황, 수찬의 운명은? | 고요의바다]]></title>
-        <id>https://www.vlive.tv/post/1-27139806</id>
-        <link href="https://www.vlive.tv/post/1-27139806"/>
-        <updated>2021-12-29T13:24:15.790Z</updated>
-        <content type="html"><![CDATA[2021.12.29.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 우주선도 산소도 없는 상황, 공유의 선택은? | 고요의바다]]></title>
-        <id>https://www.vlive.tv/post/1-27138425</id>
-        <link href="https://www.vlive.tv/post/1-27138425"/>
-        <updated>2021-12-29T08:20:11.292Z</updated>
-        <content type="html"><![CDATA[2021.12.29.]]></content>
     </entry>
 </feed>
