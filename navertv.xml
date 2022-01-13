@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 09:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 10:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마지막 커플 선정의 시간 | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24587539</link>
+            <guid>https://tv.naver.com/v/24587539</guid>
+            <pubDate>Thu, 13 Jan 2022 10:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_201/6PUeb_1642067939403s0FTm_JPEG/1642067935123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/24576830</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Jan 2022 03:17:14 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_73/Q7Mca_1641176785939YTB9b_JPEG/1641176489678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 레오나르도 디카프리오의 스페셜 코멘터리 | 돈 룩 업 Don't Look Up]]></title>
-            <link>https://tv.naver.com/v/24403777</link>
-            <guid>https://tv.naver.com/v/24403777</guid>
-            <pubDate>Mon, 03 Jan 2022 03:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_10/i3cVf_1641176741149OmDoR_JPEG/1641176485659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
