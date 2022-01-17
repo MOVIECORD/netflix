@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 23:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 00:57:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 모럴센스 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/24606856</link>
+            <guid>https://tv.naver.com/v/24606856</guid>
+            <pubDate>Mon, 17 Jan 2022 00:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_13/hkb2T_1642155172480e1t25_JPEG/1642154873736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 마지막 커플 선정의 시간 | 솔로지옥]]></title>
             <link>https://tv.naver.com/v/24587539</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Jan 2022 03:17:14 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220103_101/xPMAZ_1641176865331Uegvn_JPEG/1641176496259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 뉴 페이스 등장, 흔들리는 남자들?! | 솔로지옥]]></title>
-            <link>https://tv.naver.com/v/24403801</link>
-            <guid>https://tv.naver.com/v/24403801</guid>
-            <pubDate>Mon, 03 Jan 2022 03:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_283/Y16yH_1641176828924llcJ6_JPEG/1641176492771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
