@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 04:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@ SF 미스터리 스릴러
             <pubDate>Mon, 22 Nov 2021 01:50:51 GMT</pubDate>
             <content:encoded><![CDATA[막강 캐스팅 X 국내 첫 우주 SF 시리즈 &lt;고요의 바다&gt;배두나, 공유가 한 작품에 모였다! 믿고 보는 배우 앙상블로 제작 확정 당시부터 시선 집중 여기에, K-시리즈 최초로 SF 미스터리 스릴러 장르에 도전, 달···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjJfNjMg/MDAxNjM3NTQ0ODcyNTY3.kErr9OUldiyr0Ait3o1_V6BaxRIs4Yw_wEHYnBqBovwg.lD82Z8QwJ4q3rYiO3O7_3zB7Vq1HeHEPPzRaTydPmLsg.JPEG/IFfji5ex1fgeA4cVrFtrr41sn1Po.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 애나 만들기 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24641922</link>
+            <guid>https://tv.naver.com/v/24641922</guid>
+            <pubDate>Mon, 17 Jan 2022 05:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_159/LhQ5b_16423951672153a5DN_JPEG/1642395162520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥도 요리의 달인 문세훈 셰프 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,19 +448,11 @@ SF 미스터리 스릴러
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_300/XUPDs_1641349314137VaaQC_JPEG/1641348572382.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 스루 마이 윈도 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24439050</link>
-            <guid>https://tv.naver.com/v/24439050</guid>
-            <pubDate>Wed, 05 Jan 2022 03:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_32/TuIhv_1641348834365ijr21_JPEG/1641348579211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 모럴센스 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27431018</link>
             <guid>https://www.vlive.tv/post/1-27431018</guid>
             <pubDate>Mon, 17 Jan 2022 00:57:07 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
