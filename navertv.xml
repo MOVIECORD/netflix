@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 23:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 00:58:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 스페셜 티저]]></title>
+            <link>https://tv.naver.com/v/24652995</link>
+            <guid>https://tv.naver.com/v/24652995</guid>
+            <pubDate>Tue, 18 Jan 2022 00:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_281/SLkiT_16424642034216GAGo_JPEG/1642464201894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 홍진경 과몰입 리액션 모음 | 솔로지옥]]></title>
             <link>https://tv.naver.com/v/24648694</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jan 2022 09:17:21 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_289/S0qZJ_1641373197995UUw6E_JPEG/1641373065630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/24447206</link>
-            <guid>https://tv.naver.com/v/24447206</guid>
-            <pubDate>Fri, 07 Jan 2022 01:00:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_29/lu7QS_1641368322722t896d_JPEG/1641368071807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
