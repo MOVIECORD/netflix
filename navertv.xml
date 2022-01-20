@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 08:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 09:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 널 기다리는 게 어렵지 않았어 (문세훈♥신지연) | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24710880</link>
+            <guid>https://tv.naver.com/v/24710880</guid>
+            <pubDate>Thu, 20 Jan 2022 09:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[15:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_91/fkEO4_1642669503327fUeBQ_JPEG/1642669501284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 톨 걸 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/24706102</link>
+            <guid>https://tv.naver.com/v/24706102</guid>
+            <pubDate>Thu, 20 Jan 2022 09:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_166/KrvBq_1642658849016rVDBM_JPEG/1642658679570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/24706023</link>
+            <guid>https://tv.naver.com/v/24706023</guid>
+            <pubDate>Thu, 20 Jan 2022 09:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_235/5YE0F_1642658673586Cbc5J_JPEG/1642658668975.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 2022년 신작 라인업 공개]]></title>
             <link>https://tv.naver.com/v/24688494</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 07 Jan 2022 07:15:57 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_181/4ddAT_1641521306629OQygQ_JPEG/1641521303813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 울트라맨 시즌 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/24481948</link>
-            <guid>https://tv.naver.com/v/24481948</guid>
-            <pubDate>Fri, 07 Jan 2022 07:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_81/yxFWZ_1641520944549PuSIb_JPEG/1641520129113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 전혀 다른 매력의 두 여자, 문세훈의 선택은? | 솔로지옥]]></title>
-            <link>https://tv.naver.com/v/24466863</link>
-            <guid>https://tv.naver.com/v/24466863</guid>
-            <pubDate>Thu, 06 Jan 2022 08:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_3/BMMqp_1641453400185DPOcx_JPEG/1641453288841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 과몰입 방지를 위한 영상 | 고요의바다]]></title>
-            <link>https://tv.naver.com/v/24459702</link>
-            <guid>https://tv.naver.com/v/24459702</guid>
-            <pubDate>Thu, 06 Jan 2022 02:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_104/3eRsl_1641431654291ed21L_JPEG/1641431302621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
