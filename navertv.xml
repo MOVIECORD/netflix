@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 06:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 07:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 우정에서 한 발만 더 나가면 사랑이야 (안예원♥김준식) | 솔로지옥]]></title>
+            <link>https://tv.naver.com/v/24780491</link>
+            <guid>https://tv.naver.com/v/24780491</guid>
+            <pubDate>Tue, 25 Jan 2022 07:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[7:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_214/m6lkb_1643079997459V2rqI_JPEG/1643079895718.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 소년심판 | 티저 예고편]]></title>
             <link>https://tv.naver.com/v/24762300</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jan 2022 09:17:03 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_74/DaWiC_1641544680347EgGVa_JPEG/1641544595035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 문세훈♥성민지 몰아주기 (feat.현중♥지아) | 솔로지옥]]></title>
-            <link>https://tv.naver.com/v/24482192</link>
-            <guid>https://tv.naver.com/v/24482192</guid>
-            <pubDate>Fri, 07 Jan 2022 02:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_214/9t0fC_1641521515981837Q1_JPEG/1641521366526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
