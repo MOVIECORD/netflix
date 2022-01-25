@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-01-24T23:16:05.290Z</updated>
+    <updated>2022-01-25T00:58:43.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 소년심판 | 티저 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-27583521</id>
+        <link href="https://www.vlive.tv/post/1-27583521"/>
+        <updated>2022-01-25T00:58:42.637Z</updated>
+        <content type="html"><![CDATA[58분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 절찬 스트리밍 중]]></title>
         <id>https://www.vlive.tv/post/1-27521855</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-27299489</id>
         <link href="https://www.vlive.tv/post/0-27299489"/>
         <updated>2022-01-06T02:17:53.495Z</updated>
-        <content type="html"><![CDATA[1.6.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 촬영 비하인드 | 고요의바다]]></title>
-        <id>https://www.vlive.tv/post/1-27306139</id>
-        <link href="https://www.vlive.tv/post/1-27306139"/>
-        <updated>2022-01-06T02:17:53.496Z</updated>
         <content type="html"><![CDATA[1.6.]]></content>
     </entry>
 </feed>

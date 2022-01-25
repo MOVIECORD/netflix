@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 00:58:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 소년심판 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/24762300</link>
+            <guid>https://tv.naver.com/v/24762300</guid>
+            <pubDate>Tue, 25 Jan 2022 00:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_293/NFzgZ_1643020806592r6PvG_JPEG/1643020803868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 널 기다리는 게 어렵지 않았어 (문세훈♥신지연) | 솔로지옥]]></title>
             <link>https://tv.naver.com/v/24710880</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jan 2022 02:16:53 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_214/9t0fC_1641521515981837Q1_JPEG/1641521366526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오자크: 시즌 4 | 파트 1 예고편]]></title>
-            <link>https://tv.naver.com/v/24482089</link>
-            <guid>https://tv.naver.com/v/24482089</guid>
-            <pubDate>Fri, 07 Jan 2022 07:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_181/4ddAT_1641521306629OQygQ_JPEG/1641521303813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
