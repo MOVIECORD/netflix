@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 23:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 00:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@
             <pubDate>Fri, 26 Nov 2021 06:08:51 GMT</pubDate>
             <content:encoded><![CDATA[배두나X공유X이준X김선영X이무생 정체불명의 막중한 임무를 안고 달로 향한 정예 대원들 생존 확률 10%의 미션이 시작된다!한국 SF장르의 새로운 세계 매 순간 도사리는 서늘한 긴장감달의 가장 어두운 공간 '고요의···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjZfMjI2/MDAxNjM3OTAyNzMzNjc0.C2mH_tUgb6SKG68KSqC3upX0p0anCIp6j-djTdlLF_wg.d6abP-hfhk0ro6KsDpGUINvbig4tGK6VboHaiz2HZD8g.JPEG/I7q2gFQ-1X4xdS_xNrAkAIW8oo9M.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 모럴센스 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24807572</link>
+            <guid>https://tv.naver.com/v/24807572</guid>
+            <pubDate>Thu, 27 Jan 2022 00:53:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_143/1Knaq_1643182775974xyUhs_JPEG/1643182444864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 메이킹 영상 (Netflix Korea ─ NAVER TV)]]></title>
@@ -439,19 +447,18 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_129/kG4kj_16417786440510lzca_JPEG/1641778553061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 배우들이 추천하는 넷플릭스 최애 작품 | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24518843</link>
-            <guid>https://tv.naver.com/v/24518843</guid>
-            <pubDate>Mon, 10 Jan 2022 02:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[8:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_257/NeROU_1641778641004xNQrA_JPEG/1641778544405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 모럴센스 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-27614491</link>
+            <guid>https://www.vlive.tv/post/0-27614491</guid>
+            <pubDate>Thu, 27 Jan 2022 00:53:51 GMT</pubDate>
+            <content:encoded><![CDATA[53분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 메이킹 영상 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27604223</link>
             <guid>https://www.vlive.tv/post/1-27604223</guid>
             <pubDate>Wed, 26 Jan 2022 02:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 연애 실험: 블라인드 러브 일본편 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -578,13 +585,6 @@
             <guid>https://www.vlive.tv/post/0-27361895</guid>
             <pubDate>Mon, 10 Jan 2022 02:10:15 GMT</pubDate>
             <content:encoded><![CDATA[1.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 울트라맨 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27321660</link>
-            <guid>https://www.vlive.tv/post/1-27321660</guid>
-            <pubDate>Fri, 07 Jan 2022 07:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[1.7.]]></content:encoded>
         </item>
     </channel>
 </rss>
