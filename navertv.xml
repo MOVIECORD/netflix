@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 00:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 01:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 좀비에게 욕하고 살아남는 법 | 지금 우리 학교는 | 넷플릭스]]></title>
+            <link>https://tv.naver.com/v/24843458</link>
+            <guid>https://tv.naver.com/v/24843458</guid>
+            <pubDate>Sat, 29 Jan 2022 01:52:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_277/pqP0s_1643340940952cn0yA_JPEG/1643340886695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 학교에 좀비보다 무서운 게 있다 | 지금 우리 학교는 | 넷플릭스]]></title>
             <link>https://tv.naver.com/v/24843327</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Jan 2022 02:09:55 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_30/CFNmb_1641865360960xOCRM_JPEG/1641865266207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 역대급 스케일의 CG | 고요의바다]]></title>
-            <link>https://tv.naver.com/v/24518882</link>
-            <guid>https://tv.naver.com/v/24518882</guid>
-            <pubDate>Mon, 10 Jan 2022 02:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_77/bFjcn_16417787848397Pm8x_JPEG/1641778703583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

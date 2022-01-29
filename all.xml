@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 00:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 01:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 29 Nov 2021 08:10:27 GMT</pubDate>
             <content:encoded><![CDATA[이제껏 보지 못한 전무후무한 캐스팅 라인업 티저 예고편 공개 이후 처음 보는 강렬한 비주얼과 분위기로 폭발적 관심을 모은넷플릭스 시리즈 &lt;고요의 바다&gt; 필수 자원이 고갈된 근미래의 지구 생존 확률 10%···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNTcg/MDAxNjM4MTcxNzM0MDMy.FACx7wFNneBV_8RwNe7-Acxn_ZTHu8XKBbPvuxahuw8g.eCfC-Xk8uWx1Il_xp0NPpDR3C5zQXVMh1bMoEt4Hg_Yg.JPEG/IeZlGTE3JpJvvp9Qe3ULkVVVRNZU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 좀비에게 욕하고 살아남는 법 | 지금 우리 학교는 | 넷플릭스 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24843458</link>
+            <guid>https://tv.naver.com/v/24843458</guid>
+            <pubDate>Sat, 29 Jan 2022 01:52:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_277/pqP0s_1643340940952cn0yA_JPEG/1643340886695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 학교에 좀비보다 무서운 게 있다 | 지금 우리 학교는 | 넷플릭스 (Netflix Korea ─ NAVER TV)]]></title>
@@ -439,19 +447,11 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_30/CFNmb_1641865360960xOCRM_JPEG/1641865266207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 역대급 스케일의 CG | 고요의바다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24518882</link>
-            <guid>https://tv.naver.com/v/24518882</guid>
-            <pubDate>Mon, 10 Jan 2022 02:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_77/bFjcn_16417787848397Pm8x_JPEG/1641778703583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27639028</link>
             <guid>https://www.vlive.tv/post/1-27639028</guid>
             <pubDate>Fri, 28 Jan 2022 08:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 모럴센스 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
