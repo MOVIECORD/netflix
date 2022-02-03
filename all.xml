@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 29 Nov 2021 08:10:27 GMT</pubDate>
             <content:encoded><![CDATA[이제껏 보지 못한 전무후무한 캐스팅 라인업 티저 예고편 공개 이후 처음 보는 강렬한 비주얼과 분위기로 폭발적 관심을 모은넷플릭스 시리즈 &lt;고요의 바다&gt; 필수 자원이 고갈된 근미래의 지구 생존 확률 10%···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNTcg/MDAxNjM4MTcxNzM0MDMy.FACx7wFNneBV_8RwNe7-Acxn_ZTHu8XKBbPvuxahuw8g.eCfC-Xk8uWx1Il_xp0NPpDR3C5zQXVMh1bMoEt4Hg_Yg.JPEG/IeZlGTE3JpJvvp9Qe3ULkVVVRNZU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 텍사스 전기톱 학살 2022 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24907186</link>
+            <guid>https://tv.naver.com/v/24907186</guid>
+            <pubDate>Thu, 03 Feb 2022 05:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_111/jvcKm_1643863735419NGfIz_JPEG/1643863287471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 생존자 학생들의 분열 위기 | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,12 +448,11 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_87/SkSVM_1642386598265Wob4w_JPEG/1642384100174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 모럴센스 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24606856</link>
-            <guid>https://tv.naver.com/v/24606856</guid>
-            <pubDate>Mon, 17 Jan 2022 00:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_13/hkb2T_1642155172480e1t25_JPEG/1642154873736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 텍사스 전기톱 학살 2022 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-27735703</link>
+            <guid>https://www.vlive.tv/post/0-27735703</guid>
+            <pubDate>Thu, 03 Feb 2022 05:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
@@ -577,13 +584,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] [Ep1] 공유 '고요의 바다' 홍보하랬더니 예능 찍고 갔다... | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27368561</link>
             <guid>https://www.vlive.tv/post/1-27368561</guid>
-            <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[1.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 역대급 스케일의 CG | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27361922</link>
-            <guid>https://www.vlive.tv/post/0-27361922</guid>
             <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
             <content:encoded><![CDATA[1.10.]]></content:encoded>
         </item>
