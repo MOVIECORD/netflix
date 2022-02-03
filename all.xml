@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 03:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 04:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,54 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNTcg/MDAxNjM4MTcxNzM0MDMy.FACx7wFNneBV_8RwNe7-Acxn_ZTHu8XKBbPvuxahuw8g.eCfC-Xk8uWx1Il_xp0NPpDR3C5zQXVMh1bMoEt4Hg_Yg.JPEG/IeZlGTE3JpJvvp9Qe3ULkVVVRNZU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 생존자 학생들의 분열 위기 | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24906248</link>
+            <guid>https://tv.naver.com/v/24906248</guid>
+            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[7:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_6/nGu6z_164385930237199VDW_JPEG/1643859226388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 고속터미널에 좀비가 나타났다! | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24906219</link>
+            <guid>https://tv.naver.com/v/24906219</guid>
+            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_28/x1S9H_1643859130879fKK3m_JPEG/1643859128445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 좀비들의 특성을 알아냈다 | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24906168</link>
+            <guid>https://tv.naver.com/v/24906168</guid>
+            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[5:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_127/qOkk6_1643858842742vCz0k_JPEG/1643858744252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 5초 후.. 우리 중 누군가는 좀비가 된다! | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24906140</link>
+            <guid>https://tv.naver.com/v/24906140</guid>
+            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_200/9qP12_1643859177791k2Qct_JPEG/1643859175395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 제일 친한 친구가 좀비가 된다면 어떻게 할까? | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24906057</link>
+            <guid>https://tv.naver.com/v/24906057</guid>
+            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_113/R2vqv_1643858475853bUsLI_JPEG/1643858383739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 좀비 학교에서 탈출할 수 있을까? | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24906026</link>
+            <guid>https://tv.naver.com/v/24906026</guid>
+            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[7:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_156/Vdatr_16438583768315igFA_JPEG/1643858270278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 좀비보다 더 무서운 인간 | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24905962</link>
             <guid>https://tv.naver.com/v/24905962</guid>
@@ -398,54 +446,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 17 Jan 2022 00:56:57 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_13/hkb2T_1642155172480e1t25_JPEG/1642154873736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마지막 커플 선정의 시간 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24587539</link>
-            <guid>https://tv.naver.com/v/24587539</guid>
-            <pubDate>Thu, 13 Jan 2022 10:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_201/6PUeb_1642067939403s0FTm_JPEG/1642067935123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24577623</link>
-            <guid>https://tv.naver.com/v/24577623</guid>
-            <pubDate>Fri, 14 Jan 2022 00:57:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_250/ehWPD_1642042234823pAC6s_PNG/1642041790547.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24576830</link>
-            <guid>https://tv.naver.com/v/24576830</guid>
-            <pubDate>Thu, 13 Jan 2022 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_124/mFpmR_1642039972076ztuqu_JPEG/1642039682877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 만화 주인공 같은 커플 최시훈♥김수민 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24576604</link>
-            <guid>https://tv.naver.com/v/24576604</guid>
-            <pubDate>Thu, 13 Jan 2022 02:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_25/Mz21E_1642039436252iXUzO_JPEG/1642039433759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 데이트 앱 사기: 당신을 노린다 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24576539</link>
-            <guid>https://tv.naver.com/v/24576539</guid>
-            <pubDate>Thu, 13 Jan 2022 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_138/AyjYX_1642039223671mjPFM_JPEG/1642038691045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마지막 천국도는 당신과 함께 강소연♥오진택 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24546607</link>
-            <guid>https://tv.naver.com/v/24546607</guid>
-            <pubDate>Tue, 11 Jan 2022 09:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[6:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_251/PLB3z_1641889770361gIs2C_JPEG/1641889674884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
