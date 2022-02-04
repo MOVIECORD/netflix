@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 06:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 29 Nov 2021 08:10:27 GMT</pubDate>
             <content:encoded><![CDATA[이제껏 보지 못한 전무후무한 캐스팅 라인업 티저 예고편 공개 이후 처음 보는 강렬한 비주얼과 분위기로 폭발적 관심을 모은넷플릭스 시리즈 &lt;고요의 바다&gt; 필수 자원이 고갈된 근미래의 지구 생존 확률 10%···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNTcg/MDAxNjM4MTcxNzM0MDMy.FACx7wFNneBV_8RwNe7-Acxn_ZTHu8XKBbPvuxahuw8g.eCfC-Xk8uWx1Il_xp0NPpDR3C5zQXVMh1bMoEt4Hg_Yg.JPEG/IeZlGTE3JpJvvp9Qe3ULkVVVRNZU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 캐릭터 소개 특별 영상 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24937221</link>
+            <guid>https://tv.naver.com/v/24937221</guid>
+            <pubDate>Fri, 04 Feb 2022 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[10:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_235/HVoI2_1643954646273iSc95_PNG/1643954111273.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 텍사스 전기톱 학살 2022 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -438,14 +446,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 17 Jan 2022 03:19:40 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_191/8JLh1_1642386719563C6Hm4_JPEG/1642386717291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 우리는 진짜 사랑을 찾았을까? | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24639324</link>
-            <guid>https://tv.naver.com/v/24639324</guid>
-            <pubDate>Mon, 17 Jan 2022 03:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_87/SkSVM_1642386598265Wob4w_JPEG/1642384100174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 텍사스 전기톱 학살 2022 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
