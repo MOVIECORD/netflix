@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 06:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 07:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 29 Nov 2021 08:10:27 GMT</pubDate>
             <content:encoded><![CDATA[이제껏 보지 못한 전무후무한 캐스팅 라인업 티저 예고편 공개 이후 처음 보는 강렬한 비주얼과 분위기로 폭발적 관심을 모은넷플릭스 시리즈 &lt;고요의 바다&gt; 필수 자원이 고갈된 근미래의 지구 생존 확률 10%···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNTcg/MDAxNjM4MTcxNzM0MDMy.FACx7wFNneBV_8RwNe7-Acxn_ZTHu8XKBbPvuxahuw8g.eCfC-Xk8uWx1Il_xp0NPpDR3C5zQXVMh1bMoEt4Hg_Yg.JPEG/IeZlGTE3JpJvvp9Qe3ULkVVVRNZU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 2022년 영화 미리보기 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24937333</link>
+            <guid>https://tv.naver.com/v/24937333</guid>
+            <pubDate>Fri, 04 Feb 2022 07:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_156/JH2fI_1643954885480RqvEL_JPEG/1643953797008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 캐릭터 소개 특별 영상 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,12 +448,18 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_170/hnR7s_16423868097048xBGp_JPEG/1642386734764.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 사랑은 언제나 타이밍이 맞아야 한다 | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24639362</link>
-            <guid>https://tv.naver.com/v/24639362</guid>
-            <pubDate>Mon, 17 Jan 2022 03:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_191/8JLh1_1642386719563C6Hm4_JPEG/1642386717291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 캐릭터 소개 특별 영상 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27758651</link>
+            <guid>https://www.vlive.tv/post/1-27758651</guid>
+            <pubDate>Fri, 04 Feb 2022 07:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 2022년 영화 미리보기 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27758401</link>
+            <guid>https://www.vlive.tv/post/1-27758401</guid>
+            <pubDate>Fri, 04 Feb 2022 07:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[53분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 텍사스 전기톱 학살 2022 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -570,20 +584,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-27361969</link>
             <guid>https://www.vlive.tv/post/0-27361969</guid>
-            <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[1.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [Ep2] 연기 꽤 하는 배우들끼리 연기 대결?! (배두나vs공유) | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27368567</link>
-            <guid>https://www.vlive.tv/post/1-27368567</guid>
-            <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[1.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [Ep1] 공유 '고요의 바다' 홍보하랬더니 예능 찍고 갔다... | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27368561</link>
-            <guid>https://www.vlive.tv/post/1-27368561</guid>
             <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
             <content:encoded><![CDATA[1.10.]]></content:encoded>
         </item>
