@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 09:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 10:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,22 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 29 Nov 2021 08:10:27 GMT</pubDate>
             <content:encoded><![CDATA[이제껏 보지 못한 전무후무한 캐스팅 라인업 티저 예고편 공개 이후 처음 보는 강렬한 비주얼과 분위기로 폭발적 관심을 모은넷플릭스 시리즈 &lt;고요의 바다&gt; 필수 자원이 고갈된 근미래의 지구 생존 확률 10%···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfNTcg/MDAxNjM4MTcxNzM0MDMy.FACx7wFNneBV_8RwNe7-Acxn_ZTHu8XKBbPvuxahuw8g.eCfC-Xk8uWx1Il_xp0NPpDR3C5zQXVMh1bMoEt4Hg_Yg.JPEG/IeZlGTE3JpJvvp9Qe3ULkVVVRNZU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 이런 친구 있으면 그래도 함께 간다? 버린다? | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24986907</link>
+            <guid>https://tv.naver.com/v/24986907</guid>
+            <pubDate>Mon, 07 Feb 2022 10:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_13/Vlkg5_1644226151264rUexP_JPEG/1644226149221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지-니어스: 카니예 3부작 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24980366</link>
+            <guid>https://tv.naver.com/v/24980366</guid>
+            <pubDate>Mon, 07 Feb 2022 10:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_87/DuXL8_1644210589062FXk4G_JPEG/1644203340894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 제작&비하인드 코멘터리 | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
@@ -432,20 +448,11 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_292/4wahK_1642578366696tkBhO_JPEG/1642578274079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 바이킹스: 발할라 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24688470</link>
-            <guid>https://tv.naver.com/v/24688470</guid>
-            <pubDate>Wed, 19 Jan 2022 10:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_5/uEXEt_1642578265649Q18Tf_JPEG/1642578256993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 스페셜 티저 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24652995</link>
-            <guid>https://tv.naver.com/v/24652995</guid>
-            <pubDate>Tue, 18 Jan 2022 00:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_281/SLkiT_16424642034216GAGo_JPEG/1642464201894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 지-니어스: 카니예 3부작 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27806454</link>
+            <guid>https://www.vlive.tv/post/1-27806454</guid>
+            <pubDate>Mon, 07 Feb 2022 10:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[49분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 캐릭터 소개 특별 영상 (Netflix Korea ─ V LIVE)]]></title>
@@ -579,13 +586,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/0-27405614</guid>
             <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
             <content:encoded><![CDATA[1.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27361969</link>
-            <guid>https://www.vlive.tv/post/0-27361969</guid>
-            <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[1.10.]]></content:encoded>
         </item>
     </channel>
 </rss>
