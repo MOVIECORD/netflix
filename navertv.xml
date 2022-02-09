@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 23:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 00:58:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 07 Feb 2022 10:16:27 GMT</pubDate>
             <content:encoded><![CDATA[4:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220207_13/Vlkg5_1644226151264rUexP_JPEG/1644226149221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 소년심판 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/24982953</link>
+            <guid>https://tv.naver.com/v/24982953</guid>
+            <pubDate>Wed, 09 Feb 2022 00:58:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_165/ra3fN_1644216213630tIPuy_JPEG/1644216117461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지-니어스: 카니예 3부작 | 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Jan 2022 09:16:40 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_166/KrvBq_1642658849016rVDBM_JPEG/1642658679570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.naver.com/v/24706023</link>
-            <guid>https://tv.naver.com/v/24706023</guid>
-            <pubDate>Thu, 20 Jan 2022 09:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_235/5YE0F_1642658673586Cbc5J_JPEG/1642658668975.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
