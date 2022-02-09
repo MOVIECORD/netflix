@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 04:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 30 Nov 2021 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[11월 19일 공개 후 24시간 만에 전 세계 1위를 기록한 넷플릭스 시리즈 &lt;지옥&gt;작품이 핫한 만큼 다양한 반응을 제보 받았는데! 핫한 반응 모음집 슷타뜨 ★ [1] 유지사제 도플갱어 썰 지옥에 장성규님이 출연한···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTg3/MDAxNjM4MTc0NzcxOTcz.1N8VfLqSKjhC2NFPto1NtJSOOAf_PMlsfsZnHTXG7sQg.s596r8WYJy164tnkv-N5oj3bx1RypfQQJlsT_m63J9Qg.JPEG/IAWfj0qJb7w6gZ0VUehrli_uhG-I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 효산고 최종 보스 빌런 | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25023009</link>
+            <guid>https://tv.naver.com/v/25023009</guid>
+            <pubDate>Wed, 09 Feb 2022 05:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_73/0raUu_1644383327449wPfv9_JPEG/1644382962904.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 좀비 세계관 완벽 정리 (Netflix Korea ─ NAVER TV)]]></title>
@@ -444,19 +452,11 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_91/fkEO4_1642669503327fUeBQ_JPEG/1642669501284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 톨 걸 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24706102</link>
-            <guid>https://tv.naver.com/v/24706102</guid>
-            <pubDate>Thu, 20 Jan 2022 09:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_166/KrvBq_1642658849016rVDBM_JPEG/1642658679570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 소년심판 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27822489</link>
             <guid>https://www.vlive.tv/post/1-27822489</guid>
             <pubDate>Wed, 09 Feb 2022 00:58:34 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 좀비 세계관 완벽 정리 (Netflix Korea ─ V LIVE)]]></title>
