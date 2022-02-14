@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-02-14T00:53:33.079Z</updated>
+    <updated>2022-02-14T01:57:00.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 티저 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-27911040</id>
+        <link href="https://www.vlive.tv/post/0-27911040"/>
+        <updated>2022-02-14T01:56:59.407Z</updated>
+        <content type="html"><![CDATA[6분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 휴먼 리소스 | 공식 클립 영상]]></title>
         <id>https://www.vlive.tv/post/1-27843564</id>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-27484359"/>
         <updated>2022-01-27T08:18:51.258Z</updated>
         <content type="html"><![CDATA[1.18.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 애나 만들기 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-27469457</id>
-        <link href="https://www.vlive.tv/post/0-27469457"/>
-        <updated>2022-01-27T08:18:51.260Z</updated>
-        <content type="html"><![CDATA[1.17.]]></content>
     </entry>
 </feed>

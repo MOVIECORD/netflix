@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 00:53:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 01:57:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,30 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 30 Nov 2021 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[11월 19일 공개 후 24시간 만에 전 세계 1위를 기록한 넷플릭스 시리즈 &lt;지옥&gt;작품이 핫한 만큼 다양한 반응을 제보 받았는데! 핫한 반응 모음집 슷타뜨 ★ [1] 유지사제 도플갱어 썰 지옥에 장성규님이 출연한···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTg3/MDAxNjM4MTc0NzcxOTcz.1N8VfLqSKjhC2NFPto1NtJSOOAf_PMlsfsZnHTXG7sQg.s596r8WYJy164tnkv-N5oj3bx1RypfQQJlsT_m63J9Qg.JPEG/IAWfj0qJb7w6gZ0VUehrli_uhG-I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25110081</link>
+            <guid>https://tv.naver.com/v/25110081</guid>
+            <pubDate>Mon, 14 Feb 2022 01:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_47/yHBU9_16448032349748O6IK_JPEG/1644801810366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 서현&이준영 키워드 인터뷰 | 모럴센스 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25109491</link>
+            <guid>https://tv.naver.com/v/25109491</guid>
+            <pubDate>Mon, 14 Feb 2022 01:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_260/Vjo6f_1644801544165q3gbt_JPEG/1644801541952.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 아닙니다 애견용 목줄 입니다💦 | 모럴센스 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25109466</link>
+            <guid>https://tv.naver.com/v/25109466</guid>
+            <pubDate>Mon, 14 Feb 2022 01:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220214_169/wWjPO_1644801464368j9oM3_JPEG/1644801453342.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 휴먼 리소스 | 공식 클립 영상 (Netflix Korea ─ NAVER TV)]]></title>
@@ -428,28 +452,11 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220125_258/jnzzM_1643096515169RLO1J_JPEG/1643096308348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 기예르모 델토로의 피노키오 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24785353</link>
-            <guid>https://tv.naver.com/v/24785353</guid>
-            <pubDate>Tue, 25 Jan 2022 09:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_61/dPunH_1643095421648Qrc4e_JPEG/1643095170168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 연애 실험: 블라인드 러브 일본편 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24785242</link>
-            <guid>https://tv.naver.com/v/24785242</guid>
-            <pubDate>Tue, 25 Jan 2022 09:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_246/ad2e8_1643095162187NjW51_JPEG/1643095156516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 우정에서 한 발만 더 나가면 사랑이야 (안예원♥김준식) | 솔로지옥 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24780491</link>
-            <guid>https://tv.naver.com/v/24780491</guid>
-            <pubDate>Tue, 25 Jan 2022 07:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[7:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_214/m6lkb_1643079997459V2rqI_JPEG/1643079895718.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-27911040</link>
+            <guid>https://www.vlive.tv/post/0-27911040</guid>
+            <pubDate>Mon, 14 Feb 2022 01:56:59 GMT</pubDate>
+            <content:encoded><![CDATA[6분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 휴먼 리소스 | 공식 클립 영상 (Netflix Korea ─ V LIVE)]]></title>
@@ -583,13 +590,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/1-27484359</guid>
             <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
             <content:encoded><![CDATA[1.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 애나 만들기 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27469457</link>
-            <guid>https://www.vlive.tv/post/0-27469457</guid>
-            <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[1.17.]]></content:encoded>
         </item>
     </channel>
 </rss>
