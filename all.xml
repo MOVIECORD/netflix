@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 04:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 05:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 30 Nov 2021 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[11월 19일 공개 후 24시간 만에 전 세계 1위를 기록한 넷플릭스 시리즈 &lt;지옥&gt;작품이 핫한 만큼 다양한 반응을 제보 받았는데! 핫한 반응 모음집 슷타뜨 ★ [1] 유지사제 도플갱어 썰 지옥에 장성규님이 출연한···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTg3/MDAxNjM4MTc0NzcxOTcz.1N8VfLqSKjhC2NFPto1NtJSOOAf_PMlsfsZnHTXG7sQg.s596r8WYJy164tnkv-N5oj3bx1RypfQQJlsT_m63J9Qg.JPEG/IAWfj0qJb7w6gZ0VUehrli_uhG-I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 서현님께 욕 듣고 싶은 사람 | 모럴센스 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25139744</link>
+            <guid>https://tv.naver.com/v/25139744</guid>
+            <pubDate>Tue, 15 Feb 2022 05:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220215_263/hHE6S_1644901308398pizKX_JPEG/1644901188773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -442,14 +450,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 27 Jan 2022 00:53:42 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220126_143/1Knaq_1643182775974xyUhs_JPEG/1643182444864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 메이킹 영상 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24785823</link>
-            <guid>https://tv.naver.com/v/24785823</guid>
-            <pubDate>Wed, 26 Jan 2022 02:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[6:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_258/jnzzM_1643096515169RLO1J_JPEG/1643096308348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
