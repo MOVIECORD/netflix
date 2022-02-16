@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 04:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 신 테르마이 로마이 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/25161077</link>
+            <guid>https://tv.naver.com/v/25161077</guid>
+            <pubDate>Wed, 16 Feb 2022 05:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_86/2N8HJ_16449865325604hVdT_JPEG/1644986366956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 조각들 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/25160982</link>
+            <guid>https://tv.naver.com/v/25160982</guid>
+            <pubDate>Wed, 16 Feb 2022 05:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_215/4Xy9B_1644986337103rOULa_JPEG/1644986151835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 울보 강아지와 쿨한 주인님 | 모럴센스]]></title>
             <link>https://tv.naver.com/v/25156750</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 03 Feb 2022 03:16:50 GMT</pubDate>
             <content:encoded><![CDATA[4:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_123/Icc8Y_1643858002073Ejd8C_JPEG/1643857643554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 좀비에게 욕하고 살아남는 법 | 지금 우리 학교는 | 넷플릭스]]></title>
-            <link>https://tv.naver.com/v/24843458</link>
-            <guid>https://tv.naver.com/v/24843458</guid>
-            <pubDate>Sat, 29 Jan 2022 01:52:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_277/pqP0s_1643340940952cn0yA_JPEG/1643340886695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 학교에 좀비보다 무서운 게 있다 | 지금 우리 학교는 | 넷플릭스]]></title>
-            <link>https://tv.naver.com/v/24843327</link>
-            <guid>https://tv.naver.com/v/24843327</guid>
-            <pubDate>Fri, 28 Jan 2022 07:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_25/JZo6X_1643341454812xcyGI_JPEG/1643341442157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 04:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,22 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 30 Nov 2021 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[11월 19일 공개 후 24시간 만에 전 세계 1위를 기록한 넷플릭스 시리즈 &lt;지옥&gt;작품이 핫한 만큼 다양한 반응을 제보 받았는데! 핫한 반응 모음집 슷타뜨 ★ [1] 유지사제 도플갱어 썰 지옥에 장성규님이 출연한···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjlfMTg3/MDAxNjM4MTc0NzcxOTcz.1N8VfLqSKjhC2NFPto1NtJSOOAf_PMlsfsZnHTXG7sQg.s596r8WYJy164tnkv-N5oj3bx1RypfQQJlsT_m63J9Qg.JPEG/IAWfj0qJb7w6gZ0VUehrli_uhG-I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 신 테르마이 로마이 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25161077</link>
+            <guid>https://tv.naver.com/v/25161077</guid>
+            <pubDate>Wed, 16 Feb 2022 05:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_86/2N8HJ_16449865325604hVdT_JPEG/1644986366956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 조각들 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25160982</link>
+            <guid>https://tv.naver.com/v/25160982</guid>
+            <pubDate>Wed, 16 Feb 2022 05:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_215/4Xy9B_1644986337103rOULa_JPEG/1644986151835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 울보 강아지와 쿨한 주인님 | 모럴센스 (Netflix Korea ─ NAVER TV)]]></title>
@@ -436,27 +452,25 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_123/Icc8Y_1643858002073Ejd8C_JPEG/1643857643554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 좀비에게 욕하고 살아남는 법 | 지금 우리 학교는 | 넷플릭스 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24843458</link>
-            <guid>https://tv.naver.com/v/24843458</guid>
-            <pubDate>Sat, 29 Jan 2022 01:52:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_277/pqP0s_1643340940952cn0yA_JPEG/1643340886695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 신 테르마이 로마이 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-27944550</link>
+            <guid>https://www.vlive.tv/post/1-27944550</guid>
+            <pubDate>Wed, 16 Feb 2022 05:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 학교에 좀비보다 무서운 게 있다 | 지금 우리 학교는 | 넷플릭스 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24843327</link>
-            <guid>https://tv.naver.com/v/24843327</guid>
-            <pubDate>Fri, 28 Jan 2022 07:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_25/JZo6X_1643341454812xcyGI_JPEG/1643341442157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 너의 조각들 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-27937839</link>
+            <guid>https://www.vlive.tv/post/0-27937839</guid>
+            <pubDate>Wed, 16 Feb 2022 05:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 브리저튼 시즌 2 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-27925906</link>
             <guid>https://www.vlive.tv/post/0-27925906</guid>
             <pubDate>Tue, 15 Feb 2022 06:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -576,20 +590,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/0-27515833</guid>
             <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
             <content:encoded><![CDATA[1.20.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 바이킹스: 발할라 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27508682</link>
-            <guid>https://www.vlive.tv/post/1-27508682</guid>
-            <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[1.19.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 2022년 신작 라인업 공개 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27502591</link>
-            <guid>https://www.vlive.tv/post/0-27502591</guid>
-            <pubDate>Thu, 27 Jan 2022 08:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[1.19.]]></content:encoded>
         </item>
     </channel>
 </rss>
