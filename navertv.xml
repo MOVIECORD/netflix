@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 00:56:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 02:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 지-니어스: 카니예 3부작 | 2막 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/25255246</link>
+            <guid>https://tv.naver.com/v/25255246</guid>
+            <pubDate>Mon, 21 Feb 2022 02:00:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_38/cC8vQ_1645407344391Tsrlg_JPEG/1645407224664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 허슬 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/25254857</link>
+            <guid>https://tv.naver.com/v/25254857</guid>
+            <pubDate>Mon, 21 Feb 2022 02:00:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_104/I90eI_1645405748708Yy0Jq_JPEG/1645405612569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 바이킹스: 발할라 | 새로운 시대]]></title>
+            <link>https://tv.naver.com/v/25254830</link>
+            <guid>https://tv.naver.com/v/25254830</guid>
+            <pubDate>Mon, 21 Feb 2022 02:00:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_5/SkoQk_1645405605567X0geo_JPEG/1645405443837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 신 테르마이 로마이 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/25161077</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_113/R2vqv_1643858475853bUsLI_JPEG/1643858383739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 좀비 학교에서 탈출할 수 있을까? | 지금 우리 학교는]]></title>
-            <link>https://tv.naver.com/v/24906026</link>
-            <guid>https://tv.naver.com/v/24906026</guid>
-            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[7:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_156/Vdatr_16438583768315igFA_JPEG/1643858270278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 좀비보다 더 무서운 인간 | 지금 우리 학교는]]></title>
-            <link>https://tv.naver.com/v/24905962</link>
-            <guid>https://tv.naver.com/v/24905962</guid>
-            <pubDate>Thu, 03 Feb 2022 03:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_119/Waygf_1643858121268eSSPY_JPEG/1643858009386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 점심시간, 급식실로 몰려온 좀비들 | 지금 우리 학교는]]></title>
-            <link>https://tv.naver.com/v/24905934</link>
-            <guid>https://tv.naver.com/v/24905934</guid>
-            <pubDate>Thu, 03 Feb 2022 03:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_123/Icc8Y_1643858002073Ejd8C_JPEG/1643857643554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
