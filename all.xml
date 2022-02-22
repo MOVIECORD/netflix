@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 03 Dec 2021 02:23:13 GMT</pubDate>
             <content:encoded><![CDATA[비(정지훈) X 노홍철의 만남으로 기대를 모으고 있는 넷플릭스 로드트립 버라이어티~ &lt;먹보와 털보&gt; 여행 뽐뿌 제대로 자극하는 'On the way' 뮤직비디오 공개! ☞ 뮤직비디오 바로가기 ☜시작부터 요란···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDNfMzQg/MDAxNjM4NDkzNTQ5NzAw.o_MZAsTiBp4smtqXrYgJJNJ7Zy4o6DyJbJAFifoCntsg.csnH_QB7eP4ZJXDKo6mkk4TUA2fwVROYo8fFzAkITdYg.GIF/IBZEZ01AygIMM1M87Q-_Yo7frKx0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 제작기 특별 영상 | 소년심판 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25275397</link>
+            <guid>https://tv.naver.com/v/25275397</guid>
+            <pubDate>Tue, 22 Feb 2022 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[6:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220222_164/i7Mh3_16454970645755Jpo9_JPEG/1645497062184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 레전드 캐릭터 확실한 배우들과 골든벨 퀴즈 | 스물다섯 스물하나 (Netflix Korea ─ NAVER TV)]]></title>
@@ -445,12 +453,11 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_127/qOkk6_1643858842742vCz0k_JPEG/1643858744252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 5초 후.. 우리 중 누군가는 좀비가 된다! | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24906140</link>
-            <guid>https://tv.naver.com/v/24906140</guid>
-            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_200/9qP12_1643859177791k2Qct_JPEG/1643859175395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 제작기 특별 영상 | 소년심판 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-28044799</link>
+            <guid>https://www.vlive.tv/post/1-28044799</guid>
+            <pubDate>Tue, 22 Feb 2022 03:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 신 테르마이 로마이 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -582,13 +589,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27521855</link>
             <guid>https://www.vlive.tv/post/1-27521855</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[1.20.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 톨 걸 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27515833</link>
-            <guid>https://www.vlive.tv/post/0-27515833</guid>
             <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
             <content:encoded><![CDATA[1.20.]]></content:encoded>
         </item>
