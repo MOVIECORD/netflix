@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 00:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 레전드 캐릭터 확실한 배우들과 골든벨 퀴즈 | 스물다섯 스물하나]]></title>
+            <link>https://tv.naver.com/v/25274605</link>
+            <guid>https://tv.naver.com/v/25274605</guid>
+            <pubDate>Tue, 22 Feb 2022 02:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[14:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220222_257/hGlJy_16454946346604Q7mt_JPEG/1645493769440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 지-니어스: 카니예 3부작 | 2막 티저 예고편]]></title>
             <link>https://tv.naver.com/v/25255246</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_200/9qP12_1643859177791k2Qct_JPEG/1643859175395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 제일 친한 친구가 좀비가 된다면 어떻게 할까? | 지금 우리 학교는]]></title>
-            <link>https://tv.naver.com/v/24906057</link>
-            <guid>https://tv.naver.com/v/24906057</guid>
-            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_113/R2vqv_1643858475853bUsLI_JPEG/1643858383739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
