@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 09:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 10:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스](선공개) 소년판사 김혜수의 소름 돋는 카리스마 | 소년심판]]></title>
+            <link>https://tv.naver.com/v/25318744</link>
+            <guid>https://tv.naver.com/v/25318744</guid>
+            <pubDate>Thu, 24 Feb 2022 10:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_195/o51LS_1645680233068EM6ot_JPEG/1645680148203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 제작기 특별 영상 | 소년심판]]></title>
             <link>https://tv.naver.com/v/25282552</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_28/x1S9H_1643859130879fKK3m_JPEG/1643859128445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 좀비들의 특성을 알아냈다 | 지금 우리 학교는]]></title>
-            <link>https://tv.naver.com/v/24906168</link>
-            <guid>https://tv.naver.com/v/24906168</guid>
-            <pubDate>Thu, 03 Feb 2022 04:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[5:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_127/qOkk6_1643858842742vCz0k_JPEG/1643858744252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
