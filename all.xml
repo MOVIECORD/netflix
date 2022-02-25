@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 12:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 13:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -454,6 +454,13 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_6/nGu6z_164385930237199VDW_JPEG/1643859226388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 소년심판 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-28083758</link>
+            <guid>https://www.vlive.tv/post/0-28083758</guid>
+            <pubDate>Fri, 25 Feb 2022 13:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[11분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스](선공개)소년판사 김혜수의 소름 돋는 카리스마 | 소년심판 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-28068922</link>
             <guid>https://www.vlive.tv/post/0-28068922</guid>
@@ -583,13 +590,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] 기예르모 델토로의 피노키오 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-27603968</link>
             <guid>https://www.vlive.tv/post/1-27603968</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[1.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 소년심판 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27583521</link>
-            <guid>https://www.vlive.tv/post/1-27583521</guid>
             <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
             <content:encoded><![CDATA[1.25.]]></content:encoded>
         </item>
