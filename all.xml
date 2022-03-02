@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 09:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 10:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -454,6 +454,41 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220207_168/NusoP_1644201665712nxYJG_JPEG/1644201574238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-28157189</link>
+            <guid>https://www.vlive.tv/post/0-28157189</guid>
+            <pubDate>Wed, 02 Mar 2022 10:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지-니어스: 카니예 3부작 | 3막 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-28157172</link>
+            <guid>https://www.vlive.tv/post/0-28157172</guid>
+            <pubDate>Wed, 02 Mar 2022 10:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 버블 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-28164007</link>
+            <guid>https://www.vlive.tv/post/1-28164007</guid>
+            <pubDate>Wed, 02 Mar 2022 10:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 공각기동대 에스에이씨_2045 시즌 2 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-28163996</link>
+            <guid>https://www.vlive.tv/post/1-28163996</guid>
+            <pubDate>Wed, 02 Mar 2022 10:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 벚꽃 같은 나의 연인 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-28157123</link>
+            <guid>https://www.vlive.tv/post/0-28157123</guid>
+            <pubDate>Wed, 02 Mar 2022 10:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 천적을 만난 김혜수 | 소년심판 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-28068998</link>
             <guid>https://www.vlive.tv/post/0-28068998</guid>
@@ -557,41 +592,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/1-27758651</guid>
             <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
             <content:encoded><![CDATA[2.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 2022년 영화 미리보기 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27758401</link>
-            <guid>https://www.vlive.tv/post/1-27758401</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[2.4.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 텍사스 전기톱 학살 2022 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27735703</link>
-            <guid>https://www.vlive.tv/post/0-27735703</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[2.3.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27639028</link>
-            <guid>https://www.vlive.tv/post/1-27639028</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[1.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 모럴센스 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-27614491</link>
-            <guid>https://www.vlive.tv/post/0-27614491</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[1.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 메이킹 영상 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27604223</link>
-            <guid>https://www.vlive.tv/post/1-27604223</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[1.26.]]></content:encoded>
         </item>
     </channel>
 </rss>

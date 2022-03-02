@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-03-02T09:16:03.874Z</updated>
+    <updated>2022-03-02T10:18:05.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-28157189</id>
+        <link href="https://www.vlive.tv/post/0-28157189"/>
+        <updated>2022-03-02T10:18:04.484Z</updated>
+        <content type="html"><![CDATA[42분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 지-니어스: 카니예 3부작 | 3막 티저 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-28157172</id>
+        <link href="https://www.vlive.tv/post/0-28157172"/>
+        <updated>2022-03-02T10:18:04.485Z</updated>
+        <content type="html"><![CDATA[43분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 버블 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-28164007</id>
+        <link href="https://www.vlive.tv/post/1-28164007"/>
+        <updated>2022-03-02T10:18:04.486Z</updated>
+        <content type="html"><![CDATA[44분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 공각기동대 에스에이씨_2045 시즌 2 | 티저 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-28163996</id>
+        <link href="https://www.vlive.tv/post/1-28163996"/>
+        <updated>2022-03-02T10:18:04.487Z</updated>
+        <content type="html"><![CDATA[45분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 벚꽃 같은 나의 연인 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-28157123</id>
+        <link href="https://www.vlive.tv/post/0-28157123"/>
+        <updated>2022-03-02T10:18:04.489Z</updated>
+        <content type="html"><![CDATA[46분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 천적을 만난 김혜수 | 소년심판]]></title>
         <id>https://www.vlive.tv/post/0-28068998</id>
@@ -109,40 +144,5 @@
         <link href="https://www.vlive.tv/post/1-27758651"/>
         <updated>2022-02-17T16:22:22.977Z</updated>
         <content type="html"><![CDATA[2.4.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 2022년 영화 미리보기 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-27758401</id>
-        <link href="https://www.vlive.tv/post/1-27758401"/>
-        <updated>2022-02-17T16:22:22.978Z</updated>
-        <content type="html"><![CDATA[2.4.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 텍사스 전기톱 학살 2022 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-27735703</id>
-        <link href="https://www.vlive.tv/post/0-27735703"/>
-        <updated>2022-02-17T16:22:22.979Z</updated>
-        <content type="html"><![CDATA[2.3.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 지금 우리 학교는 | 절찬 스트리밍 중]]></title>
-        <id>https://www.vlive.tv/post/1-27639028</id>
-        <link href="https://www.vlive.tv/post/1-27639028"/>
-        <updated>2022-02-17T16:22:22.980Z</updated>
-        <content type="html"><![CDATA[1.28.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 모럴센스 | 메인 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-27614491</id>
-        <link href="https://www.vlive.tv/post/0-27614491"/>
-        <updated>2022-02-17T16:22:22.981Z</updated>
-        <content type="html"><![CDATA[1.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 지금 우리 학교는 | 메이킹 영상]]></title>
-        <id>https://www.vlive.tv/post/1-27604223</id>
-        <link href="https://www.vlive.tv/post/1-27604223"/>
-        <updated>2022-02-17T16:22:22.982Z</updated>
-        <content type="html"><![CDATA[1.26.]]></content>
     </entry>
 </feed>
