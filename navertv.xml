@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 07:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 08:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 소년심판 다른 나라에서 어떻게 더빙했을까?  | 소년심판]]></title>
+            <link>https://tv.naver.com/v/25517895</link>
+            <guid>https://tv.naver.com/v/25517895</guid>
+            <pubDate>Mon, 07 Mar 2022 08:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[7:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_188/AeRaB_1646640461150mo2hj_JPEG/1646640457689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/25422294</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Feb 2022 10:16:27 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220207_87/DuXL8_1644210589062FXk4G_JPEG/1644203340894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는 제작&비하인드 코멘터리 | 지금 우리 학교는]]></title>
-            <link>https://tv.naver.com/v/24977089</link>
-            <guid>https://tv.naver.com/v/24977089</guid>
-            <pubDate>Mon, 07 Feb 2022 03:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[26:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_168/NusoP_1644201665712nxYJG_JPEG/1644201574238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
