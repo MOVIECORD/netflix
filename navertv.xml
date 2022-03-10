@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 01:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 02:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 브리저튼 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/25565369</link>
+            <guid>https://tv.naver.com/v/25565369</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_88/qFTDn_1646879682369UhUIK_JPEG/1646879478831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 버블 | 주드 아패토우 코미디 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/25565287</link>
+            <guid>https://tv.naver.com/v/25565287</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_176/1UTxB_1646879470960zbvfa_JPEG/1646879256653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 이브가 노래하는 아담: 라이브 인 애니메이션 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/25565208</link>
+            <guid>https://tv.naver.com/v/25565208</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_227/pWqSe_16468792479102uqro_JPEG/1646879077109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 셀럽은 회의 중 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/25542382</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 09 Feb 2022 05:13:48 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220209_73/0raUu_1644383327449wPfv9_JPEG/1644382962904.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 좀비 세계관 완벽 정리]]></title>
-            <link>https://tv.naver.com/v/24996887</link>
-            <guid>https://tv.naver.com/v/24996887</guid>
-            <pubDate>Tue, 08 Feb 2022 02:00:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220208_247/aLAXn_1644284952246FWtdb_PNG/1644284899526.PNG?type=f194_109_blend" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이런 친구 있으면 그래도 함께 간다? 버린다? | 지금 우리 학교는]]></title>
-            <link>https://tv.naver.com/v/24986907</link>
-            <guid>https://tv.naver.com/v/24986907</guid>
-            <pubDate>Mon, 07 Feb 2022 10:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[4:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_13/Vlkg5_1644226151264rUexP_JPEG/1644226149221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 소년심판 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/24982953</link>
-            <guid>https://tv.naver.com/v/24982953</guid>
-            <pubDate>Wed, 09 Feb 2022 00:58:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_165/ra3fN_1644216213630tIPuy_JPEG/1644216117461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

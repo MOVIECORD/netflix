@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 01:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 02:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,30 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 07 Dec 2021 09:07:45 GMT</pubDate>
             <content:encoded><![CDATA[드디어 12월 17일 공개되는 넷플릭스 시리즈 &lt;위쳐&gt; 시즌 2 베스트셀러 원작을 바탕으로 한 판타지 블록버스터 &lt;위쳐&gt; 더 거대해진 스케일로 돌아온다는데!그전에 앞서 기다린 팬들을 위해 넷플릭스가 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDdfMjcw/MDAxNjM4ODYwNTQ1NDUy.uHVU7U94oz18KcZvt1Hx5kUNHagdGdEmHhrO_-Bhom4g.wxelR3Wc4t-d8msrUIEaedlvbCCu5ML0LHFqMgPrHycg.JPEG/Izw-h95sxhVpT6Pn4U086JKsDGC8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 브리저튼 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25565369</link>
+            <guid>https://tv.naver.com/v/25565369</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_88/qFTDn_1646879682369UhUIK_JPEG/1646879478831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 버블 | 주드 아패토우 코미디 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25565287</link>
+            <guid>https://tv.naver.com/v/25565287</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_176/1UTxB_1646879470960zbvfa_JPEG/1646879256653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 이브가 노래하는 아담: 라이브 인 애니메이션 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25565208</link>
+            <guid>https://tv.naver.com/v/25565208</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_227/pWqSe_16468792479102uqro_JPEG/1646879077109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 셀럽은 회의 중 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -431,35 +455,32 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220209_73/0raUu_1644383327449wPfv9_JPEG/1644382962904.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 좀비 세계관 완벽 정리 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24996887</link>
-            <guid>https://tv.naver.com/v/24996887</guid>
-            <pubDate>Tue, 08 Feb 2022 02:00:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220208_247/aLAXn_1644284952246FWtdb_PNG/1644284899526.PNG?type=f194_109_blend" length="0" type="image/PNG"/>
+            <title><![CDATA[[넷플릭스] 브리저튼 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-28291766</link>
+            <guid>https://www.vlive.tv/post/1-28291766</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 이런 친구 있으면 그래도 함께 간다? 버린다? | 지금 우리 학교는 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24986907</link>
-            <guid>https://tv.naver.com/v/24986907</guid>
-            <pubDate>Mon, 07 Feb 2022 10:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[4:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_13/Vlkg5_1644226151264rUexP_JPEG/1644226149221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 더 버블 | 주드 아패토우 코미디 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-28291759</link>
+            <guid>https://www.vlive.tv/post/1-28291759</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 소년심판 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24982953</link>
-            <guid>https://tv.naver.com/v/24982953</guid>
-            <pubDate>Wed, 09 Feb 2022 00:58:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_165/ra3fN_1644216213630tIPuy_JPEG/1644216117461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 이브가 노래하는 아담: 라이브 인 애니메이션 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-28291754</link>
+            <guid>https://www.vlive.tv/post/1-28291754</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 셀럽은 회의 중 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-28249420</link>
             <guid>https://www.vlive.tv/post/0-28249420</guid>
             <pubDate>Thu, 10 Mar 2022 01:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -572,27 +593,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/1-27843548</guid>
             <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
             <content:encoded><![CDATA[2.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 소년심판 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27822489</link>
-            <guid>https://www.vlive.tv/post/1-27822489</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[2.9.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 좀비 세계관 완벽 정리 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27821920</link>
-            <guid>https://www.vlive.tv/post/1-27821920</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[2.8.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지-니어스: 카니예 3부작 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-27806454</link>
-            <guid>https://www.vlive.tv/post/1-27806454</guid>
-            <pubDate>Thu, 17 Feb 2022 16:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[2.7.]]></content:encoded>
         </item>
     </channel>
 </rss>
