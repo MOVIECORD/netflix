@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-03-14T04:25:42.553Z</updated>
+    <updated>2022-03-14T05:35:56.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 타이거 앤 버니 2 | 메인 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-28345041</id>
+        <link href="https://www.vlive.tv/post/0-28345041"/>
+        <updated>2022-03-14T05:35:56.124Z</updated>
+        <content type="html"><![CDATA[11분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 야차 | 티저 예고편]]></title>
         <id>https://www.vlive.tv/post/0-28285161</id>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/0-27911040"/>
         <updated>2022-02-17T16:22:22.961Z</updated>
         <content type="html"><![CDATA[2.14.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 휴먼 리소스 | 공식 클립 영상]]></title>
-        <id>https://www.vlive.tv/post/1-27843564</id>
-        <link href="https://www.vlive.tv/post/1-27843564"/>
-        <updated>2022-02-17T16:22:22.964Z</updated>
-        <content type="html"><![CDATA[2.9.]]></content>
     </entry>
 </feed>
