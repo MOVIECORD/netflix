@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] Tekken: Bloodline | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/25802892</link>
+            <guid>https://tv.naver.com/v/25802892</guid>
+            <pubDate>Wed, 23 Mar 2022 03:28:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_200/eql5C_1648005298120IeDPd_JPEG/1648005116366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 안효섭, 김세정 통제불가 폭로전 | 사내맞선]]></title>
+            <link>https://tv.naver.com/v/25802837</link>
+            <guid>https://tv.naver.com/v/25802837</guid>
+            <pubDate>Wed, 23 Mar 2022 03:28:52 GMT</pubDate>
+            <content:encoded><![CDATA[12:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_92/Ao7BR_1648005100839iuhg1_JPEG/1648004959781.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 히야마 켄타로의 임신 | 메인 예고편]]></title>
             <link>https://tv.naver.com/v/25695454</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 16 Feb 2022 02:09:44 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_284/0S1yw_1644973403324QJaoN_JPEG/1644973307319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 브리저튼 시즌 2 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/25140703</link>
-            <guid>https://tv.naver.com/v/25140703</guid>
-            <pubDate>Tue, 15 Feb 2022 06:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220215_70/RMxxs_16449033638510ms55_JPEG/1644903156793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 서현님께 욕 듣고 싶은 사람 | 모럴센스]]></title>
-            <link>https://tv.naver.com/v/25139744</link>
-            <guid>https://tv.naver.com/v/25139744</guid>
-            <pubDate>Tue, 15 Feb 2022 05:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220215_263/hHE6S_1644901308398pizKX_JPEG/1644901188773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
