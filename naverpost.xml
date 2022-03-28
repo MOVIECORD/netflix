@@ -4,9 +4,20 @@
         <title>Netflix Korea ─ NAVER POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 01:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 6일, 환상의 세계로 
+당신을 초대합니다!
+판타지 뮤직 드라마 
+<안나라수마나라>]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33516188&amp;memberNo=25425763</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33516188&amp;memberNo=25425763</guid>
+            <pubDate>Mon, 28 Mar 2022 01:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[언제부턴가 마을에 나타나버려진 유원지에서 살고 있는미스터리한 마술사,'리을'을 아시나요?때로는 버거운 현실로방황하는 우리에게그가 건네는 눈부신 순간!" 당신... 마술을 믿습니까? "넷플릭스의 판타지 뮤직 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjVfMTA2/MDAxNjQ4MTk5MzcwODc4.lE-a8tdg5e9VSoVJxfvPpstjDpgddIXgmtjIo_8Ght0g.zKI4Plw0xOQVoUF20Hz43-t2q27eJzqihnXzmV9nlA8g.JPEG/IiIeP5gO0K5J5lX-xzb1rMXF6unA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무자비한 스파이들의 전쟁! 
 긴장감 MAX!
@@ -204,17 +215,6 @@ KILL포인트 족집게 정리!]]></title>
             <pubDate>Wed, 15 Dec 2021 00:24:02 GMT</pubDate>
             <content:encoded><![CDATA[메인 예고편 공개 직후 쏟아진 뜨거운 관심! 마침내 연말 최고 기대작에 오른 2021년 넷플릭스의 마지막 K-시리즈SF 미스터리 스릴러 &lt;고요의 바다&gt; 공개까지 열흘도 채 남지 않은 지금 (두근두근...)···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMTRfNzkg/MDAxNjM5NDYzNzc5OTA0.pOKDvok2ZojI97JqSn4jm-7s0ktksu5Ful9HQT51dBwg.W1mDIrNTVjbu3AOZy0jh6dvp6Mx_GsV7DJRL2G5nNd4g.JPEG/I4IWfeALonx1IIlHK8Q9X3tY6XRY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폐쇄 달 기지를 덮친 
-충격적 미스터리
-<고요의 바다> 메인 예고편 
-전격 공개!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32913096&amp;memberNo=25425763</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32913096&amp;memberNo=25425763</guid>
-            <pubDate>Fri, 10 Dec 2021 00:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[올해 하반기, 독보적 재미로 전 세계를 뜨겁게 달구었던 넷플릭스 K-시리즈2021년 신드롬의 피날레를 강렬하게 장식할 SF 미스터리 스릴러 &lt;고요의 바다&gt; " 폐쇄된 달 기지 생존확률 10%의 미션! 대원들···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDlfMTAg/MDAxNjM5MDI3MDUzNDQ1.1H0nCvusBj7QKIy7RAOPfRiJYbsAr1fl_y63kVhaSG8g.CL_VSyn-RUUwK9GugAi2ftlTzbcoDnUNYTqnKCCduisg.GIF/IPhKLfQGsqnRBev5LtMX6tJ2XnpA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
