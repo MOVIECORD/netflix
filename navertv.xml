@@ -4,9 +4,41 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 08:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 09:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 공각기동대 에스에이씨_2045 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/25921024</link>
+            <guid>https://tv.naver.com/v/25921024</guid>
+            <pubDate>Tue, 29 Mar 2022 09:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_194/Qrvwy_16485450402446CShO_JPEG/1648544878291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 정원의 뱀파이어 | 예고편]]></title>
+            <link>https://tv.naver.com/v/25920948</link>
+            <guid>https://tv.naver.com/v/25920948</guid>
+            <pubDate>Tue, 29 Mar 2022 09:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_63/9rQiD_1648544840247USLS4_JPEG/1648544755366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 엘리트들 - 시즌 5 | 자유]]></title>
+            <link>https://tv.naver.com/v/25920895</link>
+            <guid>https://tv.naver.com/v/25920895</guid>
+            <pubDate>Tue, 29 Mar 2022 09:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_124/NNOWU_16485447098958k86F_JPEG/1648544596580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 명탐정 코난: 제로의 일상 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/25920835</link>
+            <guid>https://tv.naver.com/v/25920835</guid>
+            <pubDate>Tue, 29 Mar 2022 09:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_197/kRQ1W_1648544544918CQ2GT_JPEG/1648544313341.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 야차 | 공식 메인 예고편]]></title>
             <link>https://tv.naver.com/v/25809957</link>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 21 Feb 2022 02:00:10 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_38/cC8vQ_1645407344391Tsrlg_JPEG/1645407224664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 허슬 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/25254857</link>
-            <guid>https://tv.naver.com/v/25254857</guid>
-            <pubDate>Mon, 21 Feb 2022 02:00:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_104/I90eI_1645405748708Yy0Jq_JPEG/1645405612569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 바이킹스: 발할라 | 새로운 시대]]></title>
-            <link>https://tv.naver.com/v/25254830</link>
-            <guid>https://tv.naver.com/v/25254830</guid>
-            <pubDate>Mon, 21 Feb 2022 02:00:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220221_5/SkoQk_1645405605567X0geo_JPEG/1645405443837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 신 테르마이 로마이 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/25161077</link>
-            <guid>https://tv.naver.com/v/25161077</guid>
-            <pubDate>Wed, 16 Feb 2022 05:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_86/2N8HJ_16449865325604hVdT_JPEG/1644986366956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너의 조각들 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/25160982</link>
-            <guid>https://tv.naver.com/v/25160982</guid>
-            <pubDate>Wed, 16 Feb 2022 05:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_215/4Xy9B_1644986337103rOULa_JPEG/1644986151835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
