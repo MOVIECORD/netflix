@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 09:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 10:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,25 +457,32 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220221_38/cC8vQ_1645407344391Tsrlg_JPEG/1645407224664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 공각기동대 에스에이씨_2045 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-28560810</link>
+            <guid>https://www.vlive.tv/post/0-28560810</guid>
+            <pubDate>Tue, 29 Mar 2022 10:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 정원의 뱀파이어 | 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-28566457</link>
             <guid>https://www.vlive.tv/post/1-28566457</guid>
             <pubDate>Tue, 29 Mar 2022 09:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 엘리트들 - 시즌 5 | 자유 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-28566449</link>
             <guid>https://www.vlive.tv/post/1-28566449</guid>
             <pubDate>Tue, 29 Mar 2022 09:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 명탐정 코난: 제로의 일상 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-28566431</link>
             <guid>https://www.vlive.tv/post/1-28566431</guid>
             <pubDate>Tue, 29 Mar 2022 09:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 야차 | 공식 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -588,13 +595,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/0-28068998</guid>
             <pubDate>Tue, 01 Mar 2022 01:08:43 GMT</pubDate>
             <content:encoded><![CDATA[3.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 훈육과 가정폭력 | 소년심판 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-28075599</link>
-            <guid>https://www.vlive.tv/post/1-28075599</guid>
-            <pubDate>Sun, 27 Feb 2022 01:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[2.27.]]></content:encoded>
         </item>
     </channel>
 </rss>
