@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-04-07T23:17:14.095Z</updated>
+    <updated>2022-04-08T01:10:14.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 포뮬러 원의 위험천만한 순간들 | F1, 본능의 질주]]></title>
+        <id>https://www.vlive.tv/post/0-28685722</id>
+        <link href="https://www.vlive.tv/post/0-28685722"/>
+        <updated>2022-04-08T01:10:13.738Z</updated>
+        <content type="html"><![CDATA[49분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 마릴린 먼로 미스터리: 비공개 테이프 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-28685702</id>
+        <link href="https://www.vlive.tv/post/0-28685702"/>
+        <updated>2022-04-08T01:10:13.738Z</updated>
+        <content type="html"><![CDATA[49분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 엘리트들 시즌 5 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/1-28605356</id>
@@ -129,20 +143,6 @@
         <id>https://www.vlive.tv/post/0-28157189</id>
         <link href="https://www.vlive.tv/post/0-28157189"/>
         <updated>2022-04-04T05:16:43.551Z</updated>
-        <content type="html"><![CDATA[3.2.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 지-니어스: 카니예 3부작 | 3막 티저 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-28157172</id>
-        <link href="https://www.vlive.tv/post/0-28157172"/>
-        <updated>2022-04-04T05:16:43.552Z</updated>
-        <content type="html"><![CDATA[3.2.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 버블 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-28164007</id>
-        <link href="https://www.vlive.tv/post/1-28164007"/>
-        <updated>2022-04-04T05:16:43.554Z</updated>
         <content type="html"><![CDATA[3.2.]]></content>
     </entry>
 </feed>
