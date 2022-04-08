@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 06:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 07:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 08 Apr 2022 01:10:03 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_53/E2kQi_1649341628712dGrmm_JPEG/1649341623705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 야차 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/26026226</link>
+            <guid>https://tv.naver.com/v/26026226</guid>
+            <pubDate>Fri, 08 Apr 2022 07:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_47/xG6xA_1649058071103j3Jqq_JPEG/1649058067867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 드디어 봉인 풀린 셀럽 파이브 | 셀럽은 회의 중]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 08:20:07 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_231/v6FW2_1646205457592ElS7o_JPEG/1646205454967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 소년심판 I 절찬 스트리밍 중]]></title>
-            <link>https://tv.naver.com/v/25341117</link>
-            <guid>https://tv.naver.com/v/25341117</guid>
-            <pubDate>Fri, 25 Feb 2022 11:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_223/Vdwoe_1645787113868VzI6y_JPEG/1645787111644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

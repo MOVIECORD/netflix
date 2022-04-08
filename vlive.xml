@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-04-08T06:21:12.208Z</updated>
+    <updated>2022-04-08T07:17:39.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 야차 | 절찬 스트리밍 중]]></title>
+        <id>https://www.vlive.tv/post/0-28644270</id>
+        <link href="https://www.vlive.tv/post/0-28644270"/>
+        <updated>2022-04-08T07:17:39.027Z</updated>
+        <content type="html"><![CDATA[17분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 포뮬러 원의 위험천만한 순간들 | F1, 본능의 질주]]></title>
         <id>https://www.vlive.tv/post/0-28685722</id>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/0-28249420"/>
         <updated>2022-04-04T05:16:43.550Z</updated>
         <content type="html"><![CDATA[3.10.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 애덤 프로젝트 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-28157189</id>
-        <link href="https://www.vlive.tv/post/0-28157189"/>
-        <updated>2022-04-04T05:16:43.551Z</updated>
-        <content type="html"><![CDATA[3.2.]]></content>
     </entry>
 </feed>
