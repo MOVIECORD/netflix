@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-04-09T08:19:50.658Z</updated>
+    <updated>2022-04-09T09:15:58.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 야차 | 배신자는 용서하지 않는 설경구의 자동차 액션 신]]></title>
+        <id>https://www.vlive.tv/post/1-28703758</id>
+        <link href="https://www.vlive.tv/post/1-28703758"/>
+        <updated>2022-04-09T09:15:57.798Z</updated>
+        <content type="html"><![CDATA[15분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 야차 | 절찬 스트리밍 중]]></title>
         <id>https://www.vlive.tv/post/0-28644270</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-28291754</id>
         <link href="https://www.vlive.tv/post/1-28291754"/>
         <updated>2022-04-04T05:16:43.549Z</updated>
-        <content type="html"><![CDATA[3.10.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 셀럽은 회의 중 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-28249420</id>
-        <link href="https://www.vlive.tv/post/0-28249420"/>
-        <updated>2022-04-04T05:16:43.550Z</updated>
         <content type="html"><![CDATA[3.10.]]></content>
     </entry>
 </feed>

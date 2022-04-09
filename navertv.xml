@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 08:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 09:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 야차 | 배신자는 용서하지 않는 설경구의 자동차 액션 신]]></title>
+            <link>https://tv.naver.com/v/26119593</link>
+            <guid>https://tv.naver.com/v/26119593</guid>
+            <pubDate>Sat, 09 Apr 2022 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_73/ghODc_1649409228305O9m38_JPEG/1649409062794.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 포뮬러 원의 위험천만한 순간들 | F1, 본능의 질주]]></title>
             <link>https://tv.naver.com/v/26103402</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 08:20:07 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_218/VDYnD_1646205835354XeUv3_JPEG/1646205833401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 벚꽃 같은 나의 연인 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/25419076</link>
-            <guid>https://tv.naver.com/v/25419076</guid>
-            <pubDate>Wed, 02 Mar 2022 08:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_231/v6FW2_1646205457592ElS7o_JPEG/1646205454967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

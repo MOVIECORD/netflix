@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 08:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 09:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 29 Dec 2021 03:16:18 GMT</pubDate>
             <content:encoded><![CDATA[전 세계가 주목하고 있는 K-시리즈 최초의 SF 미스터리 스릴러 &lt;고요의 바다&gt;일생일대의 임무를 완수하기 위해 달 기지로 떠난 최정예 탐사대 지금. 즉시. 당신도 합류할 수 있습니다" 폐쇄된 달 기지 대···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMTc1/MDAxNjQwMDcxMzUxNjcz.I4u2vQcACiSOYLLbYu5oI_ELoO7ndPlCWGN_APGnDMcg.Bsc8YZSjJBb3ueYRFgjKfRPJgshh_nx5MsETeLoXulog.JPEG/Ie4BXupNX386lSCRN3kdtf2BCXgk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 야차 | 배신자는 용서하지 않는 설경구의 자동차 액션 신 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26119593</link>
+            <guid>https://tv.naver.com/v/26119593</guid>
+            <pubDate>Sat, 09 Apr 2022 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_73/ghODc_1649409228305O9m38_JPEG/1649409062794.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 포뮬러 원의 위험천만한 순간들 | F1, 본능의 질주 (Netflix Korea ─ NAVER TV)]]></title>
@@ -452,12 +460,11 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_218/VDYnD_1646205835354XeUv3_JPEG/1646205833401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 벚꽃 같은 나의 연인 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25419076</link>
-            <guid>https://tv.naver.com/v/25419076</guid>
-            <pubDate>Wed, 02 Mar 2022 08:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_231/v6FW2_1646205457592ElS7o_JPEG/1646205454967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 야차 | 배신자는 용서하지 않는 설경구의 자동차 액션 신 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-28703758</link>
+            <guid>https://www.vlive.tv/post/1-28703758</guid>
+            <pubDate>Sat, 09 Apr 2022 09:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[15분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 야차 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
@@ -589,13 +596,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] 이브가 노래하는 아담: 라이브 인 애니메이션 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-28291754</link>
             <guid>https://www.vlive.tv/post/1-28291754</guid>
-            <pubDate>Mon, 04 Apr 2022 05:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[3.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 셀럽은 회의 중 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-28249420</link>
-            <guid>https://www.vlive.tv/post/0-28249420</guid>
             <pubDate>Mon, 04 Apr 2022 05:16:43 GMT</pubDate>
             <content:encoded><![CDATA[3.10.]]></content:encoded>
         </item>
