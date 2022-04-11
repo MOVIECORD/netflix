@@ -4,9 +4,20 @@
         <title>Netflix Korea ─ NAVER POST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 01:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마술과 음악의 특별한 시너지!
+판타지 뮤직 드라마 
+<안나라수마나라>
+티저 예고편 공개]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33597725&amp;memberNo=25425763</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33597725&amp;memberNo=25425763</guid>
+            <pubDate>Mon, 11 Apr 2022 01:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[버거운 현실의 무게에꿈을 잊은지 오래인고등학생 '아이'와 '일등' 그 앞에 나타난때로는 미스터리하고,때로는 순수한 마술사이들 앞에 펼쳐진마법 같은 이야기판타지 뮤직 드라마&lt;안나라수마나라&gt;마침내 오늘···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMjc0/MDAxNjQ5NDE3NTIyNzEx.QymEEXcQ_MeygDSjqr99Gvx-29PFwHCLlZKMPON-Hi0g.9s8dJByakd-U3ztJVxfDoKpW9jMHAuI-PM-CcdCqBIsg.JPEG/IuYEF9_HQDAvypxxF67_pduUz0Go.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘찐’스파이들의 
 첩보 전쟁 D-day! 
@@ -207,17 +218,6 @@ KILL포인트 족집게 정리!]]></title>
             <pubDate>Wed, 29 Dec 2021 03:16:18 GMT</pubDate>
             <content:encoded><![CDATA[생존확률조차 희박한 '달 기지' 임무 그곳에서 대원들이 목격한 의문의 시체들과 미확인 생체 신호 그리고 살해당하기 시작한 대원들 발해기지를 집어삼킨 충격적 미스터리 넷플릭스 시리즈 &lt;고요의 바다&gt; ▼마···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjRfMzYg/MDAxNjQwMzE2NjE0MTA0.KlOBN-SplI8ooLbqVZcT_d188yhVL-Qvt2bek3dNI-Ug.36aQsTYL1E1Gz8rPI4HnHXfgu4XanplUIXcro6o9bXcg.GIF/ImZhuZSfHbbxPwRlkHZsXrsdKx78.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폐쇄된 달 기지를 
-직접 확인하라! 
-<고요의 바다> 테마 
-달탈출 오픈]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=32976824&amp;memberNo=25425763</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=32976824&amp;memberNo=25425763</guid>
-            <pubDate>Wed, 29 Dec 2021 03:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계가 주목하고 있는 K-시리즈 최초의 SF 미스터리 스릴러 &lt;고요의 바다&gt;일생일대의 임무를 완수하기 위해 달 기지로 떠난 최정예 탐사대 지금. 즉시. 당신도 합류할 수 있습니다" 폐쇄된 달 기지 대···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfMTc1/MDAxNjQwMDcxMzUxNjcz.I4u2vQcACiSOYLLbYu5oI_ELoO7ndPlCWGN_APGnDMcg.Bsc8YZSjJBb3ueYRFgjKfRPJgshh_nx5MsETeLoXulog.JPEG/Ie4BXupNX386lSCRN3kdtf2BCXgk.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
