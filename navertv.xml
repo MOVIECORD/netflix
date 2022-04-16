@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 23:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 01:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 15 Apr 2022 04:36:02 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_119/gJ0vR_16499512856057Mc4T_JPEG/1649951281968.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 야차 | 위기일발! 첩보 현장에서 철수하라]]></title>
+            <link>https://tv.naver.com/v/26219337</link>
+            <guid>https://tv.naver.com/v/26219337</guid>
+            <pubDate>Sat, 16 Apr 2022 01:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_44/mCzFR_1649903539159zCtCH_PNG/1649903526181.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 솔로지옥 시즌2 제작 확정]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Mar 2022 05:35:46 GMT</pubDate>
             <content:encoded><![CDATA[11:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_164/QCk5Z_1647234489465WR6lk_JPEG/1647234412565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 야차 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/25566063</link>
-            <guid>https://tv.naver.com/v/25566063</guid>
-            <pubDate>Fri, 11 Mar 2022 01:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_192/HERNo_1646881927380S8T7q_PNG/1646881923535.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
