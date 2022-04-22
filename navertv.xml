@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 23:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 01:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 안나라수마나라 | 공식 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/26360455</link>
+            <guid>https://tv.naver.com/v/26360455</guid>
+            <pubDate>Fri, 22 Apr 2022 01:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_120/OYiWO_1650519363055AmQt7_JPEG/1650519081564.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 스토리 예고편]]></title>
             <link>https://tv.naver.com/v/26345878</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Mar 2022 02:40:27 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_259/EspLn_1647479098150p2WNY_JPEG/1647478908597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《엘리트들》 시즌 5 | 공개 발표]]></title>
-            <link>https://tv.naver.com/v/25695381</link>
-            <guid>https://tv.naver.com/v/25695381</guid>
-            <pubDate>Thu, 17 Mar 2022 01:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_55/ddNxV_1647478901279mp4KI_JPEG/1647478657337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

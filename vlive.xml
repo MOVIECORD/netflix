@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-04-21T23:17:26.730Z</updated>
+    <updated>2022-04-22T01:28:13.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 안나라수마나라 | 공식 메인 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-28863490</id>
+        <link href="https://www.vlive.tv/post/0-28863490"/>
+        <updated>2022-04-22T01:28:12.761Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 안나라수마나라 | 스토리 예고편]]></title>
         <id>https://www.vlive.tv/post/0-28852834</id>
         <link href="https://www.vlive.tv/post/0-28852834"/>
         <updated>2022-04-21T01:23:54.992Z</updated>
-        <content type="html"><![CDATA[23시간 전]]></content>
+        <content type="html"><![CDATA[4.21.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] <미래일기> 시즌 2 | 공식 예고편]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-28605343"/>
         <updated>2022-04-04T05:16:43.539Z</updated>
         <content type="html"><![CDATA[4.1.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 공각기동대 에스에이씨_2045 시즌 2 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-28560810</id>
-        <link href="https://www.vlive.tv/post/0-28560810"/>
-        <updated>2022-04-04T05:16:43.540Z</updated>
-        <content type="html"><![CDATA[3.29.]]></content>
     </entry>
 </feed>
