@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 23:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 01:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 07 Jan 2022 01:00:35 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스의 새로운 시리즈! 역대급 기대감을 조성중인 &lt;지금 우리 학교는&gt;지난 주, 짧지만 임팩트 있는 영상을 공개하며 다시 한번 강력한 K-좀비 장르의 힘을 예고! 바로 오늘! 팬들의 기대감 로켓 배송=33으···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDZfNzgg/MDAxNjQxNDYxNjE0Nzcz.HQs8C3PsAgnhG0elZ7nx3YKf40S8pRbRoGmO2aH7RDog.Cx56dzDiicea-i_Z5uygm2WvyAzlAaeyi2UJ7MNuTa8g.GIF/IHR2uTSSbGUke9CdLNjickdZVlto.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26494388</link>
+            <guid>https://tv.naver.com/v/26494388</guid>
+            <pubDate>Fri, 29 Apr 2022 01:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_161/PYVDS_1651127378205Ur74O_JPEG/1651127366479.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 공식 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -453,12 +461,11 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_92/Ao7BR_1648005100839iuhg1_JPEG/1648004959781.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 히야마 켄타로의 임신 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25695454</link>
-            <guid>https://tv.naver.com/v/25695454</guid>
-            <pubDate>Thu, 17 Mar 2022 02:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_259/EspLn_1647479098150p2WNY_JPEG/1647478908597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 공개일 발표 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-28958433</link>
+            <guid>https://www.vlive.tv/post/1-28958433</guid>
+            <pubDate>Fri, 29 Apr 2022 01:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 공식 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -590,13 +597,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] 씨 비스트 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-28599672</link>
             <guid>https://www.vlive.tv/post/0-28599672</guid>
-            <pubDate>Mon, 04 Apr 2022 05:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[4.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오자크: 시즌 4 | 파트 2 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-28605343</link>
-            <guid>https://www.vlive.tv/post/1-28605343</guid>
             <pubDate>Mon, 04 Apr 2022 05:16:43 GMT</pubDate>
             <content:encoded><![CDATA[4.1.]]></content:encoded>
         </item>

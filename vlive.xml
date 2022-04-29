@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-04-28T23:18:01.044Z</updated>
+    <updated>2022-04-29T01:24:51.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 공개일 발표]]></title>
+        <id>https://www.vlive.tv/post/1-28958433</id>
+        <link href="https://www.vlive.tv/post/1-28958433"/>
+        <updated>2022-04-29T01:24:50.960Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 안나라수마나라 | 공식 메인 예고편]]></title>
         <id>https://www.vlive.tv/post/0-28863490</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-28599672</id>
         <link href="https://www.vlive.tv/post/0-28599672"/>
         <updated>2022-04-04T05:16:43.538Z</updated>
-        <content type="html"><![CDATA[4.1.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 오자크: 시즌 4 | 파트 2 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-28605343</id>
-        <link href="https://www.vlive.tv/post/1-28605343"/>
-        <updated>2022-04-04T05:16:43.539Z</updated>
         <content type="html"><![CDATA[4.1.]]></content>
     </entry>
 </feed>
