@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] <표류단지> | 공식 티저 예고편 #2]]></title>
+            <link>https://tv.naver.com/v/26559381</link>
+            <guid>https://tv.naver.com/v/26559381</guid>
+            <pubDate>Mon, 02 May 2022 07:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_199/REcXw_16514736718226p8Cn_JPEG/1651473431462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 공개일 발표]]></title>
             <link>https://tv.naver.com/v/26494388</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 03:28:52 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_200/eql5C_1648005298120IeDPd_JPEG/1648005116366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 안효섭, 김세정 통제불가 폭로전 | 사내맞선]]></title>
-            <link>https://tv.naver.com/v/25802837</link>
-            <guid>https://tv.naver.com/v/25802837</guid>
-            <pubDate>Wed, 23 Mar 2022 03:28:52 GMT</pubDate>
-            <content:encoded><![CDATA[12:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_92/Ao7BR_1648005100839iuhg1_JPEG/1648004959781.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
