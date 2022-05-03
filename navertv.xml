@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 23:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 01:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 안나라수마나라 | 제작기 영상]]></title>
+            <link>https://tv.naver.com/v/26568993</link>
+            <guid>https://tv.naver.com/v/26568993</guid>
+            <pubDate>Tue, 03 May 2022 01:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_33/VZg1G_1651500801336Xh4DH_JPEG/1651500798822.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 사이버 지옥: n번방을 무너뜨려라 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/26563625</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 09:16:29 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220329_197/kRQ1W_1648544544918CQ2GT_JPEG/1648544313341.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 야차 | 공식 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/25809957</link>
-            <guid>https://tv.naver.com/v/25809957</guid>
-            <pubDate>Fri, 25 Mar 2022 01:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_250/DUohG_1648023367955JqS99_PNG/1648023350999.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
