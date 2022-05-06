@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 06:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 07:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 배우 지창욱이 직접 소개하는 안나라수마나라 초반 스토리 정리 | N리뷰]]></title>
+            <link>https://tv.naver.com/v/26632707</link>
+            <guid>https://tv.naver.com/v/26632707</guid>
+            <pubDate>Fri, 06 May 2022 07:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[15:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_63/LFa7q_1651819088525l6Lte_JPEG/1651818975426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 제작기 영상]]></title>
             <link>https://tv.naver.com/v/26568993</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 09:16:28 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220329_124/NNOWU_16485447098958k86F_JPEG/1648544596580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 명탐정 코난: 제로의 일상 | 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/25920835</link>
-            <guid>https://tv.naver.com/v/25920835</guid>
-            <pubDate>Tue, 29 Mar 2022 09:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_197/kRQ1W_1648544544918CQ2GT_JPEG/1648544313341.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
