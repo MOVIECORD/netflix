@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 08:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 09:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,6 +239,14 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_63/LFa7q_1651819088525l6Lte_JPEG/1651818975426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 안나라수마나라 | 마술을 믿지 않는 최성은과 신비한 마술사 지창욱 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26602808</link>
+            <guid>https://tv.naver.com/v/26602808</guid>
+            <pubDate>Sun, 08 May 2022 09:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_180/qzedC_1651651422738KivLM_JPEG/1651651070307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26568993</link>
             <guid>https://tv.naver.com/v/26568993</guid>
@@ -455,12 +463,11 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220329_194/Qrvwy_16485450402446CShO_JPEG/1648544878291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 정원의 뱀파이어 | 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25920948</link>
-            <guid>https://tv.naver.com/v/25920948</guid>
-            <pubDate>Tue, 29 Mar 2022 09:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_63/9rQiD_1648544840247USLS4_JPEG/1648544755366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 안나라수마나라 | 마술을 믿지 않는 최성은과 신비한 마술사 지창욱 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-29026953</link>
+            <guid>https://www.vlive.tv/post/0-29026953</guid>
+            <pubDate>Sun, 08 May 2022 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 제작기 영상 (Netflix Korea ─ V LIVE)]]></title>
@@ -592,13 +599,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] 야차 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-28644270</link>
             <guid>https://www.vlive.tv/post/0-28644270</guid>
-            <pubDate>Sat, 07 May 2022 22:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[4.8.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 포뮬러 원의 위험천만한 순간들 | F1, 본능의 질주 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-28685722</link>
-            <guid>https://www.vlive.tv/post/0-28685722</guid>
             <pubDate>Sat, 07 May 2022 22:16:57 GMT</pubDate>
             <content:encoded><![CDATA[4.8.]]></content:encoded>
         </item>
