@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-05-09T08:23:04.299Z</updated>
+    <updated>2022-05-09T09:19:12.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 안나라수마나라 | 위기의 최성은 앞에 나타난 마술사 지창욱]]></title>
+        <id>https://www.vlive.tv/post/1-29033058</id>
+        <link href="https://www.vlive.tv/post/1-29033058"/>
+        <updated>2022-05-09T09:19:11.978Z</updated>
+        <content type="html"><![CDATA[19분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 안나라수마나라 | 마술을 믿지 않는 최성은과 신비한 마술사 지창욱]]></title>
         <id>https://www.vlive.tv/post/0-29026953</id>
         <link href="https://www.vlive.tv/post/0-29026953"/>
         <updated>2022-05-08T09:17:31.495Z</updated>
-        <content type="html"><![CDATA[23시간 전]]></content>
+        <content type="html"><![CDATA[5.8.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 안나라수마나라 | 제작기 영상]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-28703758"/>
         <updated>2022-05-07T22:16:57.611Z</updated>
         <content type="html"><![CDATA[4.9.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 야차 | 절찬 스트리밍 중]]></title>
-        <id>https://www.vlive.tv/post/0-28644270</id>
-        <link href="https://www.vlive.tv/post/0-28644270"/>
-        <updated>2022-05-07T22:16:57.613Z</updated>
-        <content type="html"><![CDATA[4.8.]]></content>
     </entry>
 </feed>
