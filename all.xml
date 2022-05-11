@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 01:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 03:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,6 +223,54 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMzFfMTMy/MDAxNjQzNjM5NjY3MzY3.18nC4g51SrQb5yh82miDWD72DUQ0mjtWw8D0t9zC10og.jAeSlX5zhXSS1Fo30g9AX1Q6A-zIMsnCqhjyhr68nd8g.JPEG/Ijp91NfKeKxiapUI7M2WrZ6PbCEQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 안나라수마나라 | 최성은을 향한 츤데레 황인엽의 짝사랑 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26708775</link>
+            <guid>https://tv.naver.com/v/26708775</guid>
+            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_6/sSQk4_1652236386548QIHVz_JPEG/1652236227537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 애덤 샌들러 주연의 <허슬> | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26707909</link>
+            <guid>https://tv.naver.com/v/26707909</guid>
+            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_179/j7X1x_1652233791327gvnLE_JPEG/1652233687240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <도전! 용암 위를 건너라> 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26707873</link>
+            <guid>https://tv.naver.com/v/26707873</guid>
+            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_108/lucdh_1652233654543XqFlp_JPEG/1652233553736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 러브, 데스 + 로봇 3부 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26707821</link>
+            <guid>https://tv.naver.com/v/26707821</guid>
+            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_226/Mv9Ps_1652233500813PmivV_JPEG/1652233335932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <코브라 카이> 시즌 5 | 공개 발표 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26707694</link>
+            <guid>https://tv.naver.com/v/26707694</guid>
+            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_249/8M4UZ_1652233096613ivWCD_JPEG/1652232940072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 인터셉터 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26707632</link>
+            <guid>https://tv.naver.com/v/26707632</guid>
+            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_84/Bt6YG_1652232886987p63vU_JPEG/1652232603428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 지창욱 황인엽의 촬영장 브이로그 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26638654</link>
             <guid>https://tv.naver.com/v/26638654</guid>
@@ -415,52 +463,46 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_53/E2kQi_1649341628712dGrmm_JPEG/1649341623705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26102858</link>
-            <guid>https://tv.naver.com/v/26102858</guid>
-            <pubDate>Mon, 11 Apr 2022 01:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_197/ZC5Fq_1649339134583hqWrh_JPEG/1649338964276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 안나라수마나라 | 최성은을 향한 츤데레 황인엽의 짝사랑 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-29111069</link>
+            <guid>https://www.vlive.tv/post/0-29111069</guid>
+            <pubDate>Wed, 11 May 2022 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[32분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 야차 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26026226</link>
-            <guid>https://tv.naver.com/v/26026226</guid>
-            <pubDate>Fri, 08 Apr 2022 07:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_47/xG6xA_1649058071103j3Jqq_JPEG/1649058067867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 애덤 샌들러 주연의 <허슬> | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-29110789</link>
+            <guid>https://www.vlive.tv/post/0-29110789</guid>
+            <pubDate>Wed, 11 May 2022 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 드디어 봉인 풀린 셀럽 파이브 | 셀럽은 회의 중 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25980610</link>
-            <guid>https://tv.naver.com/v/25980610</guid>
-            <pubDate>Fri, 01 Apr 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_41/NOrUT_1648797596565Pf0hR_JPEG/1648797361911.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] <도전! 용암 위를 건너라> 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29116606</link>
+            <guid>https://www.vlive.tv/post/1-29116606</guid>
+            <pubDate>Wed, 11 May 2022 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 엘리트들 시즌 5 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25980439</link>
-            <guid>https://tv.naver.com/v/25980439</guid>
-            <pubDate>Fri, 01 Apr 2022 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_12/Nrx9w_1648797346180pN07f_JPEG/1648797343751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 러브, 데스 + 로봇 3부 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29116601</link>
+            <guid>https://www.vlive.tv/post/1-29116601</guid>
+            <pubDate>Wed, 11 May 2022 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 씨 비스트 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25979997</link>
-            <guid>https://tv.naver.com/v/25979997</guid>
-            <pubDate>Fri, 01 Apr 2022 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_63/CUNl3_1648796661811uczWQ_JPEG/1648796659760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] <코브라 카이> 시즌 5 | 공개 발표 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29116598</link>
+            <guid>https://www.vlive.tv/post/1-29116598</guid>
+            <pubDate>Wed, 11 May 2022 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 오자크: 시즌 4 | 파트 2 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25979936</link>
-            <guid>https://tv.naver.com/v/25979936</guid>
-            <pubDate>Fri, 01 Apr 2022 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_139/HTvji_1648796546988gX9Qv_JPEG/1648796542023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 인터셉터 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29116593</link>
+            <guid>https://www.vlive.tv/post/1-29116593</guid>
+            <pubDate>Wed, 11 May 2022 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 위기의 최성은 앞에 나타난 마술사 지창욱 (Netflix Korea ─ V LIVE)]]></title>
@@ -559,48 +601,6 @@ KILL포인트 족집게 정리! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/0-28776367</guid>
             <pubDate>Sat, 07 May 2022 22:16:57 GMT</pubDate>
             <content:encoded><![CDATA[4.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 솔로지옥 시즌2 모집 공고 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-28782006</link>
-            <guid>https://www.vlive.tv/post/1-28782006</guid>
-            <pubDate>Sat, 07 May 2022 22:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[4.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 솔로지옥 시즌2 제작 확정 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-28756421</link>
-            <guid>https://www.vlive.tv/post/0-28756421</guid>
-            <pubDate>Sat, 07 May 2022 22:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[4.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 기묘한 이야기 시즌 4 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-28761837</link>
-            <guid>https://www.vlive.tv/post/1-28761837</guid>
-            <pubDate>Sat, 07 May 2022 22:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[4.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 야차 | 중국 길거리에서 설경구와 박해수의 주먹다짐 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-28735890</link>
-            <guid>https://www.vlive.tv/post/0-28735890</guid>
-            <pubDate>Sat, 07 May 2022 22:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[4.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-28690711</link>
-            <guid>https://www.vlive.tv/post/1-28690711</guid>
-            <pubDate>Sat, 07 May 2022 22:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[4.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 야차 | 배신자는 용서하지 않는 설경구의 자동차 액션 신 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-28703758</link>
-            <guid>https://www.vlive.tv/post/1-28703758</guid>
-            <pubDate>Sat, 07 May 2022 22:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[4.9.]]></content:encoded>
         </item>
     </channel>
 </rss>
