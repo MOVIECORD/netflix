@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 23:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 01:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/26728896</link>
+            <guid>https://tv.naver.com/v/26728896</guid>
+            <pubDate>Thu, 12 May 2022 01:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_37/FKovt_1652318315063deQG5_JPEG/1652318312585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 최성은을 향한 츤데레 황인엽의 짝사랑]]></title>
             <link>https://tv.naver.com/v/26708775</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 01:10:03 GMT</pubDate>
             <content:encoded><![CDATA[8:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_168/pESgI_1649341755614UbY5c_JPEG/1649341636402.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마릴린 먼로 미스터리: 비공개 테이프 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26103370</link>
-            <guid>https://tv.naver.com/v/26103370</guid>
-            <pubDate>Fri, 08 Apr 2022 01:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_53/E2kQi_1649341628712dGrmm_JPEG/1649341623705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
