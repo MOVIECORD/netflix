@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-05-26T09:19:04.038Z</updated>
+    <updated>2022-05-26T10:19:43.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 기묘한 이야기 정주행 대신 해드립니다]]></title>
+        <id>https://www.vlive.tv/post/0-29280531</id>
+        <link href="https://www.vlive.tv/post/0-29280531"/>
+        <updated>2022-05-26T10:19:43.338Z</updated>
+        <content type="html"><![CDATA[14분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 그레이 맨 | 메인 예고편]]></title>
         <id>https://www.vlive.tv/post/0-29261150</id>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-29033058"/>
         <updated>2022-05-09T09:19:11.978Z</updated>
         <content type="html"><![CDATA[5.9.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 안나라수마나라 | 마술을 믿지 않는 최성은과 신비한 마술사 지창욱]]></title>
-        <id>https://www.vlive.tv/post/0-29026953</id>
-        <link href="https://www.vlive.tv/post/0-29026953"/>
-        <updated>2022-05-26T01:39:24.600Z</updated>
-        <content type="html"><![CDATA[5.8.]]></content>
     </entry>
 </feed>
