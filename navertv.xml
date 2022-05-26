@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 01:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220523_120/3anUV_1653292307482axy5R_JPEG/1653292304776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 초반 8분 영상]]></title>
-            <link>https://tv.naver.com/v/26929960</link>
-            <guid>https://tv.naver.com/v/26929960</guid>
-            <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[8:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_99/DPgIk_1653272971960ipooP_JPEG/1653272336683.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이쿠타 토마의 도전 | 공식 예고편]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 21 Apr 2022 01:23:44 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_96/wF1Eq_16504475578144yqe9_JPEG/1650447245904.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 죠죠의 기묘한 모험: 스톤 오션 | 공식 예고편 2]]></title>
+            <link>https://tv.naver.com/v/26283910</link>
+            <guid>https://tv.naver.com/v/26283910</guid>
+            <pubDate>Thu, 26 May 2022 01:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_10/wcHHv_1650200190183zdGeU_JPEG/1650200039152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

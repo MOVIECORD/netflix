@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 01:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,14 +247,6 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220523_120/3anUV_1653292307482axy5R_JPEG/1653292304776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 초반 8분 영상 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26929960</link>
-            <guid>https://tv.naver.com/v/26929960</guid>
-            <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[8:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_99/DPgIk_1653272971960ipooP_JPEG/1653272336683.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 이쿠타 토마의 도전 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26875310</link>
             <guid>https://tv.naver.com/v/26875310</guid>
@@ -463,11 +455,19 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_96/wF1Eq_16504475578144yqe9_JPEG/1650447245904.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 죠죠의 기묘한 모험: 스톤 오션 | 공식 예고편 2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26283910</link>
+            <guid>https://tv.naver.com/v/26283910</guid>
+            <pubDate>Thu, 26 May 2022 01:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_10/wcHHv_1650200190183zdGeU_JPEG/1650200039152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 그레이 맨 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-29261150</link>
             <guid>https://www.vlive.tv/post/0-29261150</guid>
             <pubDate>Wed, 25 May 2022 01:38:13 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5.25.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 1부 최종 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -480,13 +480,6 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] 엄브렐러 아카데미 시즌 3 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-29247746</link>
             <guid>https://www.vlive.tv/post/0-29247746</guid>
-            <pubDate>Tue, 24 May 2022 02:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[5.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 초반 8분 영상 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29251975</link>
-            <guid>https://www.vlive.tv/post/1-29251975</guid>
             <pubDate>Tue, 24 May 2022 02:44:29 GMT</pubDate>
             <content:encoded><![CDATA[5.23.]]></content:encoded>
         </item>
@@ -601,6 +594,13 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/1-29033058</guid>
             <pubDate>Mon, 09 May 2022 09:19:11 GMT</pubDate>
             <content:encoded><![CDATA[5.9.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 안나라수마나라 | 마술을 믿지 않는 최성은과 신비한 마술사 지창욱 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-29026953</link>
+            <guid>https://www.vlive.tv/post/0-29026953</guid>
+            <pubDate>Thu, 26 May 2022 01:39:24 GMT</pubDate>
+            <content:encoded><![CDATA[5.8.]]></content:encoded>
         </item>
     </channel>
 </rss>
