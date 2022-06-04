@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 23:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 01:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 25 Feb 2022 03:16:50 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 시리즈 &lt;소년심판&gt; 드디어, 공개! ▼▼ 지금 바로 보러가기 ▼▼대한민국 판사 3300여 명 중 소년부 판사 총 20여 명 그들이 매년 만나는 3만 명의 소년범 더 이상 외면할 수 없는 단 하나의 이야기소년···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjVfMTY5/MDAxNjQ1NzUyNzE2NTc2.3c3uCzpecYYIbrSOWHdQHGMqEbTEM9A3AuIa7cSNSPog.fOJrZBJ8I0DSw9fI5bfkLtb3DnKkuTT7Eu-ERIYhdCYg.GIF/IBApWngYEKxdQJdU4d6Z_A2LBYgM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 전 세계가 입틀막한 화제의 명장면 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27141252</link>
+            <guid>https://tv.naver.com/v/27141252</guid>
+            <pubDate>Sat, 04 Jun 2022 01:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_119/8G1WB_1654249381645216Tl_JPEG/1654249378754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -453,19 +461,11 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220502_151/7b0EN_1651482793979J5LhT_JPEG/1651482659881.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] <표류단지> | 공식 티저 예고편 #2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26559381</link>
-            <guid>https://tv.naver.com/v/26559381</guid>
-            <pubDate>Mon, 02 May 2022 07:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_199/REcXw_16514736718226p8Cn_JPEG/1651473431462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-29357930</link>
             <guid>https://www.vlive.tv/post/0-29357930</guid>
             <pubDate>Fri, 03 Jun 2022 01:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6.3.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 세븐틴 버논이 리뷰하는 <기묘한 이야기> 시즌 4 | N리뷰 (Netflix Korea ─ V LIVE)]]></title>
