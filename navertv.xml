@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 21:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 22:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 시즌2 제작 확정]]></title>
+            <link>https://tv.naver.com/v/27145697</link>
+            <guid>https://tv.naver.com/v/27145697</guid>
+            <pubDate>Mon, 06 Jun 2022 22:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_122/ZyPb5_1654255882843C0JMR_JPEG/1654255881063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 전 세계가 입틀막한 화제의 명장면]]></title>
             <link>https://tv.naver.com/v/27141252</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 08 May 2022 09:17:22 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_180/qzedC_1651651422738KivLM_JPEG/1651651070307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 제작기 영상]]></title>
-            <link>https://tv.naver.com/v/26568993</link>
-            <guid>https://tv.naver.com/v/26568993</guid>
-            <pubDate>Tue, 03 May 2022 01:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[6:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_33/VZg1G_1651500801336Xh4DH_JPEG/1651500798822.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
