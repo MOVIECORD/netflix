@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 22:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 23:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 25 Feb 2022 03:16:50 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 시리즈 &lt;소년심판&gt; 드디어, 공개! ▼▼ 지금 바로 보러가기 ▼▼대한민국 판사 3300여 명 중 소년부 판사 총 20여 명 그들이 매년 만나는 3만 명의 소년범 더 이상 외면할 수 없는 단 하나의 이야기소년···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjVfMTY5/MDAxNjQ1NzUyNzE2NTc2.3c3uCzpecYYIbrSOWHdQHGMqEbTEM9A3AuIa7cSNSPog.fOJrZBJ8I0DSw9fI5bfkLtb3DnKkuTT7Eu-ERIYhdCYg.GIF/IBApWngYEKxdQJdU4d6Z_A2LBYgM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 그레이 맨 | 고슬링 vs. 에반스 독점 영상 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27209948</link>
+            <guid>https://tv.naver.com/v/27209948</guid>
+            <pubDate>Tue, 07 Jun 2022 23:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_149/LRdSa_1654587328086U80T8_JPEG/1654587003843.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 시즌2 제작 확정 (Netflix Korea ─ NAVER TV)]]></title>
@@ -453,12 +461,11 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_294/zZ56F_1651651574382QLNmp_JPEG/1651651471995.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 마술을 믿지 않는 최성은과 신비한 마술사 지창욱 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26602808</link>
-            <guid>https://tv.naver.com/v/26602808</guid>
-            <pubDate>Sun, 08 May 2022 09:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_180/qzedC_1651651422738KivLM_JPEG/1651651070307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 그레이 맨 | 고슬링 vs. 에반스 독점 영상 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29418332</link>
+            <guid>https://www.vlive.tv/post/1-29418332</guid>
+            <pubDate>Tue, 07 Jun 2022 23:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 시즌2 제작 확정 (Netflix Korea ─ V LIVE)]]></title>
@@ -590,13 +597,6 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] 애덤 샌들러 주연의 <허슬> | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-29110789</link>
             <guid>https://www.vlive.tv/post/0-29110789</guid>
-            <pubDate>Wed, 11 May 2022 03:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[5.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] <도전! 용암 위를 건너라> 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29116606</link>
-            <guid>https://www.vlive.tv/post/1-29116606</guid>
             <pubDate>Wed, 11 May 2022 03:21:22 GMT</pubDate>
             <content:encoded><![CDATA[5.11.]]></content:encoded>
         </item>
