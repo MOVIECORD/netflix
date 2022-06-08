@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 23:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 01:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,46 @@
             <pubDate>Tue, 07 Jun 2022 23:16:47 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220607_149/LRdSa_1654587328086U80T8_JPEG/1654587003843.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 시즌2 발표]]></title>
+            <link>https://tv.naver.com/v/27203766</link>
+            <guid>https://tv.naver.com/v/27203766</guid>
+            <pubDate>Wed, 08 Jun 2022 01:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_102/iPYdR_16545699603273XDw9_JPEG/1654569843337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 1899 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/27200142</link>
+            <guid>https://tv.naver.com/v/27200142</guid>
+            <pubDate>Wed, 08 Jun 2022 01:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_107/8VcWk_16545579144049fpiL_JPEG/1654557866249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <페이트: 윙스의 전설> 시즌 2 | 퍼스트룩]]></title>
+            <link>https://tv.naver.com/v/27200116</link>
+            <guid>https://tv.naver.com/v/27200116</guid>
+            <pubDate>Wed, 08 Jun 2022 01:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_226/FvtQU_1654557796055xnTtB_JPEG/1654557793667.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 카케구루이 트윈 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/27200084</link>
+            <guid>https://tv.naver.com/v/27200084</guid>
+            <pubDate>Wed, 08 Jun 2022 01:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_27/sqjv6_1654557582409aD0cs_JPEG/1654557395782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <기묘한 이야기> 시즌 4 | 과거의 트라우마에서 온 진짜 공포]]></title>
+            <link>https://tv.naver.com/v/27200034</link>
+            <guid>https://tv.naver.com/v/27200034</guid>
+            <pubDate>Wed, 08 Jun 2022 01:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_142/tV50w_1654557278208ob82W_JPEG/1654556918899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 시즌2 제작 확정]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_226/Mv9Ps_1652233500813PmivV_JPEG/1652233335932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] <코브라 카이> 시즌 5 | 공개 발표]]></title>
-            <link>https://tv.naver.com/v/26707694</link>
-            <guid>https://tv.naver.com/v/26707694</guid>
-            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_249/8M4UZ_1652233096613ivWCD_JPEG/1652232940072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 인터셉터 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26707632</link>
-            <guid>https://tv.naver.com/v/26707632</guid>
-            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_84/Bt6YG_1652232886987p63vU_JPEG/1652232603428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 지창욱 황인엽의 촬영장 브이로그]]></title>
-            <link>https://tv.naver.com/v/26638654</link>
-            <guid>https://tv.naver.com/v/26638654</guid>
-            <pubDate>Sat, 07 May 2022 10:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[5:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_148/fa6TB_1651834325266t2Csj_JPEG/1651834228339.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 배우 지창욱이 직접 소개하는 안나라수마나라 초반 스토리 정리 | N리뷰]]></title>
-            <link>https://tv.naver.com/v/26632707</link>
-            <guid>https://tv.naver.com/v/26632707</guid>
-            <pubDate>Fri, 06 May 2022 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[15:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_63/LFa7q_1651819088525l6Lte_JPEG/1651818975426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 위기의 최성은 앞에 나타난 마술사 지창욱]]></title>
-            <link>https://tv.naver.com/v/26602874</link>
-            <guid>https://tv.naver.com/v/26602874</guid>
-            <pubDate>Mon, 09 May 2022 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_294/zZ56F_1651651574382QLNmp_JPEG/1651651471995.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
