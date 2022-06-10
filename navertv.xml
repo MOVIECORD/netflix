@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 01:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 03:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] <기묘한 이야기> 시즌 4 2부 | 2부 미리보기]]></title>
+            <link>https://tv.naver.com/v/27267770</link>
+            <guid>https://tv.naver.com/v/27267770</guid>
+            <pubDate>Fri, 10 Jun 2022 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_202/vRl4m_1654824476070pz2h8_JPEG/1654824473426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 허슬 | 애덤 샌들러, 르브론 제임스 참여!]]></title>
+            <link>https://tv.naver.com/v/27247103</link>
+            <guid>https://tv.naver.com/v/27247103</guid>
+            <pubDate>Fri, 10 Jun 2022 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_14/5QKuh_1654740768382qtD5e_JPEG/1654740757259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <기묘한 이야기> 시즌 4 | 역대급 공포 크리시의 악몽]]></title>
+            <link>https://tv.naver.com/v/27222534</link>
+            <guid>https://tv.naver.com/v/27222534</guid>
+            <pubDate>Fri, 10 Jun 2022 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_100/z1e64_1654651038611CcCnx_JPEG/1654650389120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 그레이 맨 | 고슬링 vs. 에반스 독점 영상]]></title>
             <link>https://tv.naver.com/v/27209948</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_6/sSQk4_1652236386548QIHVz_JPEG/1652236227537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 애덤 샌들러 주연의 <허슬> | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26707909</link>
-            <guid>https://tv.naver.com/v/26707909</guid>
-            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_179/j7X1x_1652233791327gvnLE_JPEG/1652233687240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] <도전! 용암 위를 건너라> 시즌 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26707873</link>
-            <guid>https://tv.naver.com/v/26707873</guid>
-            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_108/lucdh_1652233654543XqFlp_JPEG/1652233553736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 러브, 데스 + 로봇 3부 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26707821</link>
-            <guid>https://tv.naver.com/v/26707821</guid>
-            <pubDate>Wed, 11 May 2022 03:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_226/Mv9Ps_1652233500813PmivV_JPEG/1652233335932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
