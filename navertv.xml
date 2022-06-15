@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 23:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 01:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 스위트홈 | 시즌2 & 3 제작 확정]]></title>
+            <link>https://tv.naver.com/v/27356690</link>
+            <guid>https://tv.naver.com/v/27356690</guid>
+            <pubDate>Wed, 15 Jun 2022 01:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_298/HMqWo_16552562727741lub4_JPEG/1655255935790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오징어 게임 Squid Game | 시즌 2 발표]]></title>
             <link>https://tv.naver.com/v/27313812</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220513_87/gtpjm_1652432644373lPFOp_JPEG/1652432139260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26728896</link>
-            <guid>https://tv.naver.com/v/26728896</guid>
-            <pubDate>Thu, 12 May 2022 01:26:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_37/FKovt_1652318315063deQG5_JPEG/1652318312585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
