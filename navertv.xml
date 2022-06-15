@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Wed, 15 Jun 2022 01:28:50 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_298/HMqWo_16552562727741lub4_JPEG/1655255935790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 유령인데 어쩌라고 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/27333913</link>
+            <guid>https://tv.naver.com/v/27333913</guid>
+            <pubDate>Wed, 15 Jun 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_101/DeT4k_1655168696991XvkwO_JPEG/1655168695796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] GEEKED WEEK 2022 | 게임 미리보기 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/27316889</link>
+            <guid>https://tv.naver.com/v/27316889</guid>
+            <pubDate>Wed, 15 Jun 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_42/uUKL3_1655091462734n0faS_JPEG/1655091421904.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 이세계 삼촌 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/27316788</link>
+            <guid>https://tv.naver.com/v/27316788</guid>
+            <pubDate>Wed, 15 Jun 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_172/0vIyW_1655091115356Nn2Sn_JPEG/1655091112938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 허슬 | 스페인의 길거리 농구 천재와 스카우터의 첫 만남]]></title>
+            <link>https://tv.naver.com/v/27316633</link>
+            <guid>https://tv.naver.com/v/27316633</guid>
+            <pubDate>Wed, 15 Jun 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[5:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_27/SYrhU_1655090680913q5Ysd_JPEG/1655090677790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 오징어 게임 Squid Game | 시즌 2 발표]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
             <content:encoded><![CDATA[1:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220518_190/nm64t_1652839731222HhsBw_JPEG/1652839254951.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 지창욱 최성은 황인엽 문제 풀다 극대노]]></title>
-            <link>https://tv.naver.com/v/26801444</link>
-            <guid>https://tv.naver.com/v/26801444</guid>
-            <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[14:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220516_188/tip6Z_1652680122316uvbdL_JPEG/1652680015103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] <오자크> 시즌 4 파트 2 | 루스]]></title>
-            <link>https://tv.naver.com/v/26762665</link>
-            <guid>https://tv.naver.com/v/26762665</guid>
-            <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220513_255/tPVTR_1652433394287XqPTy_JPEG/1652433278742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 퍼스트 킬 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/26762523</link>
-            <guid>https://tv.naver.com/v/26762523</guid>
-            <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220513_187/D4u3f_1652432918959XQIGQ_JPEG/1652432916577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 바이오하자드: 더 시리즈 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/26762425</link>
-            <guid>https://tv.naver.com/v/26762425</guid>
-            <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220513_87/gtpjm_1652432644373lPFOp_JPEG/1652432139260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
