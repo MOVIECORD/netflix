@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-06-15T05:23:44.870Z</updated>
+    <updated>2022-06-15T06:21:09.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.vlive.tv/post/1-29523939</id>
         <link href="https://www.vlive.tv/post/1-29523939"/>
         <updated>2022-06-15T01:29:00.286Z</updated>
-        <content type="html"><![CDATA[4시간 전]]></content>
+        <content type="html"><![CDATA[5시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 오징어 게임 Squid Game | 시즌 2 발표]]></title>
