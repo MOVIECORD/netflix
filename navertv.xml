@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 블랙의 신부 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/27363062</link>
+            <guid>https://tv.naver.com/v/27363062</guid>
+            <pubDate>Thu, 16 Jun 2022 03:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_255/Uc8j2_1655275856603DE1q5_JPEG/1655275854590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 | 시즌2 & 3 제작 확정]]></title>
             <link>https://tv.naver.com/v/27356690</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220519_196/UkRak_16529522018881KVR2_JPEG/1652951894935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/26841584</link>
-            <guid>https://tv.naver.com/v/26841584</guid>
-            <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_190/nm64t_1652839731222HhsBw_JPEG/1652839254951.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
