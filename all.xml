@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 23:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 01:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 25 Mar 2022 01:04:45 GMT</pubDate>
             <content:encoded><![CDATA[질문! 다가오는 봄의 다른 말은? 중간고사? 벚꽃? . . . A. 바로 &lt;야차&gt; - ! (맞음. 암튼 그럼.)COUNT DOWN 스파이들의 전쟁 임박!!4월 8일, 무자비한 스파이들의 세계로 우릴 초대한넷플릭스 영화 &amp;l···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjRfMTU2/MDAxNjQ4MTIwNjQ5NTk0.TT0bZaLggdF2NUo6c8Ub4TZAxCwsQ8-qwxAdHiTYbykg.cybNo4hoMoGuXwku2j_BO2Oxc5-NIPXrsho5eMT2RMUg.GIF/I7WNfF7WNy9Il5u3rDXJvKLzGDjo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스]  종이의 집: 공동경제구역 | 캐릭터 소개 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27387393</link>
+            <guid>https://tv.naver.com/v/27387393</guid>
+            <pubDate>Fri, 17 Jun 2022 01:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_248/iNNGU_1655370562747lfAhh_PNG/1655369978237.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -453,19 +461,18 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220519_119/aE9cj_1652952376705M2SuB_JPEG/1652952211191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] GEEKED WEEK 2022 | 공식 예고편 | 6월 6일 ~ 10일 공개 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/26875132</link>
-            <guid>https://tv.naver.com/v/26875132</guid>
-            <pubDate>Tue, 24 May 2022 02:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220519_196/UkRak_16529522018881KVR2_JPEG/1652951894935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스]  종이의 집: 공동경제구역 | 캐릭터 소개 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29541128</link>
+            <guid>https://www.vlive.tv/post/1-29541128</guid>
+            <pubDate>Fri, 17 Jun 2022 01:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29526444</link>
             <guid>https://www.vlive.tv/post/1-29526444</guid>
             <pubDate>Thu, 16 Jun 2022 03:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6.16.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이세계 삼촌 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -590,13 +597,6 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <title><![CDATA[[넷플릭스] 세븐틴 버논이 리뷰하는 <기묘한 이야기> 시즌 4 | N리뷰 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-29324205</link>
             <guid>https://www.vlive.tv/post/0-29324205</guid>
-            <pubDate>Mon, 30 May 2022 10:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[5.30.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스프리건 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-29288263</link>
-            <guid>https://www.vlive.tv/post/0-29288263</guid>
             <pubDate>Mon, 30 May 2022 10:20:19 GMT</pubDate>
             <content:encoded><![CDATA[5.30.]]></content:encoded>
         </item>
