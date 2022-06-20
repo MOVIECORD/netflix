@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 06:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 07:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | [선공개] 남한이 북한을, 북한이 남한을 감시한다]]></title>
+            <link>https://tv.naver.com/v/27440393</link>
+            <guid>https://tv.naver.com/v/27440393</guid>
+            <pubDate>Mon, 20 Jun 2022 07:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_221/TgnfO_1655688330657kXGfT_JPEG/1655688022948.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스파이더헤드 | 사람의 마음을 컨트롤 할 수 있는 약물이 있다면?]]></title>
             <link>https://tv.naver.com/v/27440137</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 10:19:33 GMT</pubDate>
             <content:encoded><![CDATA[14:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_201/TFi8S_16535578961239oke7_JPEG/1653557561506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 그레이 맨 | 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/26960182</link>
-            <guid>https://tv.naver.com/v/26960182</guid>
-            <pubDate>Wed, 25 May 2022 01:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_281/52DE3_1653400196742fUXiY_JPEG/1653400185945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
