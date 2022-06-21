@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 13:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 21 Jun 2022 03:29:09 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220621_96/WkTAt_1655777800825GmfNR_JPEG/1655777515057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <기묘한 이야기> 시즌 4 2부 | 2부 예고편]]></title>
+            <link>https://tv.naver.com/v/27447729</link>
+            <guid>https://tv.naver.com/v/27447729</guid>
+            <pubDate>Tue, 21 Jun 2022 14:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_297/lisqb_1655708435431I7GxU_JPEG/1655708429536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | [선공개] 남한이 북한을, 북한이 남한을 감시한다]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 May 2022 10:20:08 GMT</pubDate>
             <content:encoded><![CDATA[13:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_75/jqW4x_1653874428021ey6IU_JPEG/1653874424219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스프리건 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/27012401</link>
-            <guid>https://tv.naver.com/v/27012401</guid>
-            <pubDate>Mon, 30 May 2022 10:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_6/8H0mZ_1653619204338daxrU_JPEG/1653619144692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
