@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 18:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 19:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/27511453</link>
+            <guid>https://tv.naver.com/v/27511453</guid>
+            <pubDate>Thu, 23 Jun 2022 19:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_216/dNgIw_1655948124858HJttS_PNG/1655947914698.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 제작기 영상]]></title>
             <link>https://tv.naver.com/v/27494543</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Jun 2022 01:25:58 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220603_22/PAOQG_1654249394807t6Y4V_JPEG/1654249390720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/27116949</link>
-            <guid>https://tv.naver.com/v/27116949</guid>
-            <pubDate>Fri, 03 Jun 2022 01:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_115/COdxj_1654159662448V6GqH_JPEG/1654158582309.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
