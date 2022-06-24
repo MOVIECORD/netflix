@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-06-24T06:21:36.019Z</updated>
+    <updated>2022-06-24T07:16:32.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중]]></title>
+        <id>https://www.vlive.tv/post/1-29619403</id>
+        <link href="https://www.vlive.tv/post/1-29619403"/>
+        <updated>2022-06-24T07:16:32.341Z</updated>
+        <content type="html"><![CDATA[16분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 제작기 영상]]></title>
         <id>https://www.vlive.tv/post/1-29610409</id>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-29495018"/>
         <updated>2022-06-13T01:43:11.350Z</updated>
         <content type="html"><![CDATA[6.13.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 애덤 샌들러, 르브론 제임스 참여! 실제 농구선수들과 연기한 스포츠 영화 | 허슬]]></title>
-        <id>https://www.vlive.tv/post/1-29443844</id>
-        <link href="https://www.vlive.tv/post/1-29443844"/>
-        <updated>2022-06-10T03:20:40.476Z</updated>
-        <content type="html"><![CDATA[6.10.]]></content>
     </entry>
 </feed>

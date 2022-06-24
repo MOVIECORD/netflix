@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 06:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 07:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,12 +219,12 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMTk5/MDAxNjQ5Mzk3NTQ5NTkw.suaDJyLZSlNRgvuDTGaHdo-zKkhDxPnO3JXss6RE5mcg.qYyOdxL3yhW6ndwRIZDltNA3mslsw5MVOLsXIFG6vCwg.GIF/I3jZHn9I1pek329hreMQlVVgZ-zQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[종이의집 쇼클립 #2 계획과는 다른 실제상황 (Netflix Korea ─ NAVER TV)]]></title>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 계획과는 다른 실제상황 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27520601</link>
             <guid>https://tv.naver.com/v/27520601</guid>
             <pubDate>Fri, 24 Jun 2022 01:26:22 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_234/QVKYu_1655970914844EaqNw_JPEG/dca451cb-f2c8-11ec-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_14/jRfv1_1656054020080NWcYE_PNG/1656053884283.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
@@ -459,6 +459,13 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220603_119/8G1WB_1654249381645216Tl_JPEG/1654249378754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29619403</link>
+            <guid>https://www.vlive.tv/post/1-29619403</guid>
+            <pubDate>Fri, 24 Jun 2022 07:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 제작기 영상 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29610409</link>
             <guid>https://www.vlive.tv/post/1-29610409</guid>
@@ -590,13 +597,6 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/1-29495018</guid>
             <pubDate>Mon, 13 Jun 2022 01:43:11 GMT</pubDate>
             <content:encoded><![CDATA[6.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 애덤 샌들러, 르브론 제임스 참여! 실제 농구선수들과 연기한 스포츠 영화 | 허슬 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29443844</link>
-            <guid>https://www.vlive.tv/post/1-29443844</guid>
-            <pubDate>Fri, 10 Jun 2022 03:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[6.10.]]></content:encoded>
         </item>
     </channel>
 </rss>
