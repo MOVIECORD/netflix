@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 23:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 01:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 쇼클립 | 스마트 워치 발각]]></title>
+            <link>https://tv.naver.com/v/27520882</link>
+            <guid>https://tv.naver.com/v/27520882</guid>
+            <pubDate>Sat, 25 Jun 2022 01:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_26/Zv6Oi_1656055166109GJWkv_JPEG/1656055134099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 쇼클립 | 계획과는 다른 실제상황]]></title>
             <link>https://tv.naver.com/v/27520601</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Jun 2022 22:17:06 GMT</pubDate>
             <content:encoded><![CDATA[0:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220603_122/ZyPb5_1654255882843C0JMR_JPEG/1654255881063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 전 세계가 입틀막한 화제의 명장면]]></title>
-            <link>https://tv.naver.com/v/27141252</link>
-            <guid>https://tv.naver.com/v/27141252</guid>
-            <pubDate>Sat, 04 Jun 2022 01:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_119/8G1WB_1654249381645216Tl_JPEG/1654249378754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

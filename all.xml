@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 23:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 01:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 11 Apr 2022 01:15:12 GMT</pubDate>
             <content:encoded><![CDATA[버거운 현실의 무게에 꿈을 잊은지 오래인 고등학생 '아이'와 '일등'그 앞에 나타난 때로는 미스터리하고, 때로는 순수한 마술사 이들 앞에 펼쳐진 마법 같은 이야기 판타지 뮤직 드라마 &lt;안나라수마나라&gt; 마···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMjc0/MDAxNjQ5NDE3NTIyNzEx.QymEEXcQ_MeygDSjqr99Gvx-29PFwHCLlZKMPON-Hi0g.9s8dJByakd-U3ztJVxfDoKpW9jMHAuI-PM-CcdCqBIsg.JPEG/IuYEF9_HQDAvypxxF67_pduUz0Go.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 쇼클립 | 스마트 워치 발각 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27520882</link>
+            <guid>https://tv.naver.com/v/27520882</guid>
+            <pubDate>Sat, 25 Jun 2022 01:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_26/Zv6Oi_1656055166109GJWkv_JPEG/1656055134099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 쇼클립 | 계획과는 다른 실제상황 (Netflix Korea ─ NAVER TV)]]></title>
@@ -450,19 +458,11 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220603_122/ZyPb5_1654255882843C0JMR_JPEG/1654255881063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 전 세계가 입틀막한 화제의 명장면 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27141252</link>
-            <guid>https://tv.naver.com/v/27141252</guid>
-            <pubDate>Sat, 04 Jun 2022 01:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_119/8G1WB_1654249381645216Tl_JPEG/1654249378754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29619403</link>
             <guid>https://www.vlive.tv/post/1-29619403</guid>
             <pubDate>Fri, 24 Jun 2022 07:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 제작기 영상 (Netflix Korea ─ V LIVE)]]></title>
