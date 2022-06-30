@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 01:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,14 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 22 Apr 2022 03:45:21 GMT</pubDate>
             <content:encoded><![CDATA[그야말로 입.틀.막... 1화부터 시선 고정하게 되는 ★눈부신 영상미★부터얼었던 귀마저 녹이는 ★환상적 하모니★지창욱 X 최성은 X 황인엽 잠든 동심을 깨우는 배우들의 흡입력 있는 연기까지! 올 봄, 넷플릭스가 감성···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjFfMTM3/MDAxNjUwNTQ5NDMwNTM4.sWnmkDpmtz5QA7rPuMrLL5UMJtf2b0pjMHvceH2GUV4g.CLaXREq4Ky-VpezPqFDuSGIeD8TkloazMvSsHsSfaWcg.GIF/Iv65wKL9PP5dyyShvMWWWjFSj9Dc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 인질을 지키기 위해 배신한 덴버? | 종이의 집: 공동경제구역 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27667741</link>
+            <guid>https://tv.naver.com/v/27667741</guid>
+            <pubDate>Thu, 30 Jun 2022 03:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_85/4hGAh_1656556239431zDhop_JPEG/1656556227429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 쇼클립 | 교수의 계획 (Netflix Korea ─ NAVER TV)]]></title>
@@ -449,12 +457,11 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220607_27/sqjv6_1654557582409aD0cs_JPEG/1654557395782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] <기묘한 이야기> 시즌 4 | 과거의 트라우마에서 온 진짜 공포 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27200034</link>
-            <guid>https://tv.naver.com/v/27200034</guid>
-            <pubDate>Wed, 08 Jun 2022 01:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_142/tV50w_1654557278208ob82W_JPEG/1654556918899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 인질을 지키기 위해 배신한 덴버? | 종이의 집: 공동경제구역 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-29688450</link>
+            <guid>https://www.vlive.tv/post/0-29688450</guid>
+            <pubDate>Thu, 30 Jun 2022 03:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
@@ -588,13 +595,6 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://www.vlive.tv/post/1-29523939</guid>
             <pubDate>Wed, 15 Jun 2022 01:29:00 GMT</pubDate>
             <content:encoded><![CDATA[6.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임 Squid Game | 시즌 2 발표 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29495018</link>
-            <guid>https://www.vlive.tv/post/1-29495018</guid>
-            <pubDate>Mon, 13 Jun 2022 01:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[6.13.]]></content:encoded>
         </item>
     </channel>
 </rss>
