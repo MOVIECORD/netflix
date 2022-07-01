@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-06-30T23:17:02.037Z</updated>
+    <updated>2022-07-01T08:23:32.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 블랙의 신부 | 메인 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-29688176</id>
+        <link href="https://www.vlive.tv/post/0-29688176"/>
+        <updated>2022-07-01T08:23:31.712Z</updated>
+        <content type="html"><![CDATA[8시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 인질을 지키기 위해 배신한 덴버? | 종이의 집: 공동경제구역]]></title>
         <id>https://www.vlive.tv/post/0-29688450</id>
         <link href="https://www.vlive.tv/post/0-29688450"/>
         <updated>2022-06-30T03:42:58.608Z</updated>
-        <content type="html"><![CDATA[20시간 전]]></content>
+        <content type="html"><![CDATA[6.30.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중]]></title>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/0-29490039</id>
         <link href="https://www.vlive.tv/post/0-29490039"/>
         <updated>2022-06-15T07:17:19.004Z</updated>
-        <content type="html"><![CDATA[6.15.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 스위트홈 | 시즌2 & 3 제작 확정]]></title>
-        <id>https://www.vlive.tv/post/1-29523939</id>
-        <link href="https://www.vlive.tv/post/1-29523939"/>
-        <updated>2022-06-15T01:29:00.286Z</updated>
         <content type="html"><![CDATA[6.15.]]></content>
     </entry>
 </feed>
