@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 09:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 10:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,14 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 28 Apr 2022 01:59:22 GMT</pubDate>
             <content:encoded><![CDATA[" 하기 싫은 일도 하는 만큼 네가 하고 싶은 일도 하라는 거지" " 네 마음이 고장 났을 땐 주문을 외우면 돼 "메인 예고편 공개 이후, 보기만 해도 뭉클한 명대사의 향연으로 공개 전부터 왈칵-···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MjdfMTIw/MDAxNjUxMDU4OTIyMzcx.TvDMrKqQzwWduJMcjamBxlq_sCIKKpQ83C6HYLKnyoAg.pft2HAqX4xmZAjwS31HaVQ7ApmfnHr-0GdTOYkiTYUsg.GIF/IUwtiMADUC9pP9C1UxadczVHLTno.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 블랙의 신부 | 스캔들 과몰입 #01 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27768292</link>
+            <guid>https://tv.naver.com/v/27768292</guid>
+            <pubDate>Tue, 05 Jul 2022 10:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_154/aYYev_1657014049923Cn28r_JPEG/1657013987222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 스캔들 과몰입 #02 (Netflix Korea ─ NAVER TV)]]></title>
@@ -447,14 +455,6 @@ OPEN! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 08 Jun 2022 01:23:19 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220607_102/iPYdR_16545699603273XDw9_JPEG/1654569843337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 1899 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27200142</link>
-            <guid>https://tv.naver.com/v/27200142</guid>
-            <pubDate>Wed, 08 Jun 2022 01:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_107/8VcWk_16545579144049fpiL_JPEG/1654557866249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
