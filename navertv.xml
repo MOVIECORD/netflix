@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 23:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 01:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 카터 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/27807190</link>
+            <guid>https://tv.naver.com/v/27807190</guid>
+            <pubDate>Fri, 08 Jul 2022 01:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_138/8kdHD_1657178392355mIKOH_PNG/1657175822957.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 스캔들 과몰입 #01]]></title>
             <link>https://tv.naver.com/v/27768292</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Jun 2022 03:20:31 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_202/vRl4m_1654824476070pz2h8_JPEG/1654824473426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 허슬 | 애덤 샌들러, 르브론 제임스 참여!]]></title>
-            <link>https://tv.naver.com/v/27247103</link>
-            <guid>https://tv.naver.com/v/27247103</guid>
-            <pubDate>Fri, 10 Jun 2022 03:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_14/5QKuh_1654740768382qtD5e_JPEG/1654740757259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
