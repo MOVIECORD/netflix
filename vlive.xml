@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-07-14T09:18:31.370Z</updated>
+    <updated>2022-07-14T10:20:47.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] [선공개] 김희선, 그녀의 복수극이 시작된다 | 블랙의 신부]]></title>
+        <id>https://www.vlive.tv/post/0-29845026</id>
+        <link href="https://www.vlive.tv/post/0-29845026"/>
+        <updated>2022-07-14T10:20:46.622Z</updated>
+        <content type="html"><![CDATA[42분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 표류단지 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-29848298</id>
+        <link href="https://www.vlive.tv/post/1-29848298"/>
+        <updated>2022-07-14T10:20:46.637Z</updated>
+        <content type="html"><![CDATA[42분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 모범가족 | 티저 예고편]]></title>
         <id>https://www.vlive.tv/post/1-29840692</id>
         <link href="https://www.vlive.tv/post/1-29840692"/>
         <updated>2022-07-14T01:52:19.123Z</updated>
-        <content type="html"><![CDATA[9시간 전]]></content>
+        <content type="html"><![CDATA[10시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 데이 시프트 | 제이미 폭스, 데이브 프랭코, 스눕 독 | 공식 예고편]]></title>
@@ -128,20 +142,6 @@
         <title type="html"><![CDATA[[넷플릭스] 바스타드: 암흑의 파괴신 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/1-29540155</id>
         <link href="https://www.vlive.tv/post/1-29540155"/>
-        <updated>2022-06-20T06:23:51.168Z</updated>
-        <content type="html"><![CDATA[6.20.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 스파이더헤드 | 사람의 마음을 컨트롤 할 수 있는 약물이 있다면?]]></title>
-        <id>https://www.vlive.tv/post/0-29579748</id>
-        <link href="https://www.vlive.tv/post/0-29579748"/>
-        <updated>2022-06-20T06:23:51.168Z</updated>
-        <content type="html"><![CDATA[6.20.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 쿵푸팬더: 용의 기사 🐻‍❄️🐉 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-29543944</id>
-        <link href="https://www.vlive.tv/post/0-29543944"/>
         <updated>2022-06-20T06:23:51.168Z</updated>
         <content type="html"><![CDATA[6.20.]]></content>
     </entry>

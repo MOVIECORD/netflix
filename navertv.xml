@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 09:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 10:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 김희선, 그녀의 복수극이 시작된다 | 블랙의 신부]]></title>
+            <link>https://tv.naver.com/v/27946084</link>
+            <guid>https://tv.naver.com/v/27946084</guid>
+            <pubDate>Thu, 14 Jul 2022 10:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_63/LrYwo_1657790092004w8s5f_JPEG/1657790026092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 표류단지 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/27932357</link>
+            <guid>https://tv.naver.com/v/27932357</guid>
+            <pubDate>Thu, 14 Jul 2022 10:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_240/qK8wr_16577606635713cym3_JPEG/1657760661943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 모범가족 | 티저 예고편]]></title>
             <link>https://tv.naver.com/v/27920822</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 01:28:50 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_298/HMqWo_16552562727741lub4_JPEG/1655255935790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 유령인데 어쩌라고 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/27333913</link>
-            <guid>https://tv.naver.com/v/27333913</guid>
-            <pubDate>Wed, 15 Jun 2022 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_101/DeT4k_1655168696991XvkwO_JPEG/1655168695796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] GEEKED WEEK 2022 | 게임 미리보기 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/27316889</link>
-            <guid>https://tv.naver.com/v/27316889</guid>
-            <pubDate>Wed, 15 Jun 2022 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_42/uUKL3_1655091462734n0faS_JPEG/1655091421904.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
