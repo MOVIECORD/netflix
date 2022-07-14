@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-07-13T23:17:47.155Z</updated>
+    <updated>2022-07-14T01:52:19.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 모범가족 | 티저 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-29840692</id>
+        <link href="https://www.vlive.tv/post/1-29840692"/>
+        <updated>2022-07-14T01:52:19.123Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 데이 시프트 | 제이미 폭스, 데이브 프랭코, 스눕 독 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/1-29829249</id>
         <link href="https://www.vlive.tv/post/1-29829249"/>
         <updated>2022-07-13T01:42:58.282Z</updated>
-        <content type="html"><![CDATA[21시간 전]]></content>
+        <content type="html"><![CDATA[7.13.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] <버진리버> 시즌 4 | 공식 예고편]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/0-29543944"/>
         <updated>2022-06-20T06:23:51.168Z</updated>
         <content type="html"><![CDATA[6.20.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 메인 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-29545600</id>
-        <link href="https://www.vlive.tv/post/0-29545600"/>
-        <updated>2022-06-17T06:21:28.348Z</updated>
-        <content type="html"><![CDATA[6.17.]]></content>
     </entry>
 </feed>
