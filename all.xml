@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 13:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 14:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -459,7 +459,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/1-29859334</link>
             <guid>https://www.vlive.tv/post/1-29859334</guid>
             <pubDate>Fri, 15 Jul 2022 01:55:27 GMT</pubDate>
-            <content:encoded><![CDATA[11시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 표류단지 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
