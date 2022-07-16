@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 23:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 01:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,14 @@ Skip 절대 불가,
             <pubDate>Tue, 24 May 2022 02:44:11 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 하면 떠오르는 대표 오리지널 시리즈 &lt;종이의 집&gt; 한국판으로 만들어진다더니… 대체 언제 나와…? 수근수근~수근수근~ 드디어, &lt;종이의 집: 공동경제구역&gt; Part1. 6월 24일 공개 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTNfMjQ5/MDAxNjUyNDA2ODU0NjUx.F7FhiA5ylIq7JxkxJFK2YC9ZRcpB0mPH9tmNZAz7vxcg.s9gGTNFaCDo_HpuDpFSw4fbloVfEvdIGy3MrNGokER4g.JPEG/IVcULhroOJcnUY6-y3C240BSCApw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 독기 vs 독기! 무릎 갈리는 기싸움 | 블랙의 신부 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27959730</link>
+            <guid>https://tv.naver.com/v/27959730</guid>
+            <pubDate>Sat, 16 Jul 2022 01:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_140/y0Fae_1657851698722gXPeV_JPEG/1657850988797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 김희선, 그녀의 복수극이 시작된다 | 블랙의 신부 (Netflix Korea ─ NAVER TV)]]></title>
@@ -447,19 +455,11 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_255/Uc8j2_1655275856603DE1q5_JPEG/1655275854590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 | 시즌2 & 3 제작 확정 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27356690</link>
-            <guid>https://tv.naver.com/v/27356690</guid>
-            <pubDate>Wed, 15 Jun 2022 01:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_298/HMqWo_16552562727741lub4_JPEG/1655255935790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] [선공개] 김희선, 그녀의 복수극이 시작된다 | 블랙의 신부 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29859334</link>
             <guid>https://www.vlive.tv/post/1-29859334</guid>
             <pubDate>Fri, 15 Jul 2022 01:55:27 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 표류단지 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>

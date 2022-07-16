@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 23:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 01:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 독기 vs 독기! 무릎 갈리는 기싸움 | 블랙의 신부]]></title>
+            <link>https://tv.naver.com/v/27959730</link>
+            <guid>https://tv.naver.com/v/27959730</guid>
+            <pubDate>Sat, 16 Jul 2022 01:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_140/y0Fae_1657851698722gXPeV_JPEG/1657850988797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 김희선, 그녀의 복수극이 시작된다 | 블랙의 신부]]></title>
             <link>https://tv.naver.com/v/27946084</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Jun 2022 03:23:48 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_255/Uc8j2_1655275856603DE1q5_JPEG/1655275854590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 | 시즌2 & 3 제작 확정]]></title>
-            <link>https://tv.naver.com/v/27356690</link>
-            <guid>https://tv.naver.com/v/27356690</guid>
-            <pubDate>Wed, 15 Jun 2022 01:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_298/HMqWo_16552562727741lub4_JPEG/1655255935790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
