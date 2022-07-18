@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 06:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -458,7 +458,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/1-29851805</link>
             <guid>https://www.vlive.tv/post/1-29851805</guid>
             <pubDate>Mon, 18 Jul 2022 01:45:44 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 김희선, 그녀의 복수극이 시작된다 | 블랙의 신부 (Netflix Korea ─ V LIVE)]]></title>
