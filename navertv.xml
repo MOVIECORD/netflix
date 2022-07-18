@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 23:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 01:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 16 Jul 2022 01:43:57 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_140/y0Fae_1657851698722gXPeV_JPEG/1657850988797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 카터 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/27946615</link>
+            <guid>https://tv.naver.com/v/27946615</guid>
+            <pubDate>Mon, 18 Jul 2022 01:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_270/uFsqX_1657791447114pF4ov_PNG/1657791197266.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 김희선, 그녀의 복수극이 시작된다 | 블랙의 신부]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Jun 2022 06:23:42 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_151/dOa20_1655364759273RKWqr_JPEG/1655364599259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 블랙의 신부 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/27363062</link>
-            <guid>https://tv.naver.com/v/27363062</guid>
-            <pubDate>Thu, 16 Jun 2022 03:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_255/Uc8j2_1655275856603DE1q5_JPEG/1655275854590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
