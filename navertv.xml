@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 23:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 01:56:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 18 Jul 2022 10:20:34 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_124/VzyW5_16578527409528Cwmt_JPEG/1657852654561.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 불륜녀 참교육 하는 법 | 블랙의 신부]]></title>
+            <link>https://tv.naver.com/v/27959981</link>
+            <guid>https://tv.naver.com/v/27959981</guid>
+            <pubDate>Tue, 19 Jul 2022 01:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_212/Zt9eA_1657852968338r9bPJ_JPEG/1657852961206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 독기 vs 독기! 무릎 갈리는 기싸움 | 블랙의 신부]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 01:22:34 GMT</pubDate>
             <content:encoded><![CDATA[4:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_248/iNNGU_1655370562747lfAhh_PNG/1655369978237.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 헬로, 굿바이, 그리고 그 사이의 모든 것 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/27384752</link>
-            <guid>https://tv.naver.com/v/27384752</guid>
-            <pubDate>Mon, 20 Jun 2022 06:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_96/PTY3j_1655365123780vVnui_JPEG/1655364922929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
