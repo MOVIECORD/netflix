@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 06:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 그레이 맨 | 월드클래스 액션 블록버스터]]></title>
+            <link>https://tv.naver.com/v/28100228</link>
+            <guid>https://tv.naver.com/v/28100228</guid>
+            <pubDate>Fri, 22 Jul 2022 06:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_176/QlumK_16584692676462fk7G_JPEG/1658469263644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨]]></title>
             <link>https://tv.naver.com/v/28094207</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Jun 2022 07:16:26 GMT</pubDate>
             <content:encoded><![CDATA[5:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_290/k6jQG_16558818541240aiwx_PNG/1655881851516.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 서울이 강도단에게 털렸다! | 종이의 집: 공동경제구역]]></title>
-            <link>https://tv.naver.com/v/27463660</link>
-            <guid>https://tv.naver.com/v/27463660</guid>
-            <pubDate>Tue, 21 Jun 2022 03:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_96/WkTAt_1655777800825GmfNR_JPEG/1655777515057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

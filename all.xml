@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 06:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ Skip 절대 불가,
             <pubDate>Fri, 03 Jun 2022 08:20:04 GMT</pubDate>
             <content:encoded><![CDATA[앗뜨! 뜨거워..!! 어디 불났나요..?!아 니 요 「기묘한 이야기 4 1부 역대급 글로벌 반응」 이 너무 뜨겁네요~~ (◞ꈍ∇ꈍ)◞ 드디어 전 세계에 공개된~&lt;기묘한 이야기 4&gt; 1부 기묘한 이야기 타이틀 하···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDNfMjkx/MDAxNjU0MjM2NzMwMzUx.LeI-2OS3zOYMAxS-TsVpDID8LSKBzDdYbe_B_t61654g.VoCfI1IAZcw8_BfIbqwQku3TIm8Lv-OELI0qqiXBXtog.JPEG/I3oVINDSIpOyxNsf1Ks-FNxnvApc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 그레이 맨 | 월드클래스 액션 블록버스터 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28100228</link>
+            <guid>https://tv.naver.com/v/28100228</guid>
+            <pubDate>Fri, 22 Jul 2022 06:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_176/QlumK_16584692676462fk7G_JPEG/1658469263644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ Skip 절대 불가,
             <pubDate>Wed, 22 Jun 2022 07:16:26 GMT</pubDate>
             <content:encoded><![CDATA[5:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_290/k6jQG_16558818541240aiwx_PNG/1655881851516.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 서울이 강도단에게 털렸다! | 종이의 집: 공동경제구역 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27463660</link>
-            <guid>https://tv.naver.com/v/27463660</guid>
-            <pubDate>Tue, 21 Jun 2022 03:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_96/WkTAt_1655777800825GmfNR_JPEG/1655777515057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
