@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 04:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 05:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,7 +457,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/1-29938915</link>
             <guid>https://www.vlive.tv/post/1-29938915</guid>
             <pubDate>Sat, 23 Jul 2022 03:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
