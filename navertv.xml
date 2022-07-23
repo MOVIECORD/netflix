@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 01:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 03:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 22 Jul 2022 06:23:58 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_176/QlumK_16584692676462fk7G_JPEG/1658469263644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 역대급 스케일 비행기 폭발 액션 신 | 그레이 맨]]></title>
+            <link>https://tv.naver.com/v/28095564</link>
+            <guid>https://tv.naver.com/v/28095564</guid>
+            <pubDate>Sat, 23 Jul 2022 03:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_144/9dsrZ_16584559133211qPlS_JPEG/1658455907934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Jun 2022 01:26:22 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_51/lhA73_1656292900079Hyn6q_JPEG/1656292879472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.naver.com/v/27511453</link>
-            <guid>https://tv.naver.com/v/27511453</guid>
-            <pubDate>Thu, 23 Jun 2022 19:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_216/dNgIw_1655948124858HJttS_PNG/1655947914698.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

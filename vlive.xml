@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-07-23T01:45:04.580Z</updated>
+    <updated>2022-07-23T03:35:48.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 역대급 스케일 비행기 폭발 액션 신 | 그레이 맨]]></title>
+        <id>https://www.vlive.tv/post/1-29938915</id>
+        <link href="https://www.vlive.tv/post/1-29938915"/>
+        <updated>2022-07-23T03:35:47.874Z</updated>
+        <content type="html"><![CDATA[35분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨]]></title>
         <id>https://www.vlive.tv/post/0-29929262</id>
         <link href="https://www.vlive.tv/post/0-29929262"/>
         <updated>2022-07-22T04:45:20.195Z</updated>
-        <content type="html"><![CDATA[21시간 전]]></content>
+        <content type="html"><![CDATA[23시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 리락쿠마의 테마파크 어드벤처 | 공식 예고편]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/0-29688176"/>
         <updated>2022-07-01T08:23:31.712Z</updated>
         <content type="html"><![CDATA[7.1.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 인질을 지키기 위해 배신한 덴버? | 종이의 집: 공동경제구역]]></title>
-        <id>https://www.vlive.tv/post/0-29688450</id>
-        <link href="https://www.vlive.tv/post/0-29688450"/>
-        <updated>2022-06-30T03:42:58.608Z</updated>
-        <content type="html"><![CDATA[6.30.]]></content>
     </entry>
 </feed>

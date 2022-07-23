@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 01:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 03:35:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -229,6 +229,14 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_176/QlumK_16584692676462fk7G_JPEG/1658469263644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 역대급 스케일 비행기 폭발 액션 신 | 그레이 맨 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28095564</link>
+            <guid>https://tv.naver.com/v/28095564</guid>
+            <pubDate>Sat, 23 Jul 2022 03:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_144/9dsrZ_16584559133211qPlS_JPEG/1658455907934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28094207</link>
             <guid>https://tv.naver.com/v/28094207</guid>
@@ -445,19 +453,18 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_51/lhA73_1656292900079Hyn6q_JPEG/1656292879472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27511453</link>
-            <guid>https://tv.naver.com/v/27511453</guid>
-            <pubDate>Thu, 23 Jun 2022 19:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_216/dNgIw_1655948124858HJttS_PNG/1655947914698.png?type=f194_109_blend" length="0" type="image/png"/>
+            <title><![CDATA[[넷플릭스] 역대급 스케일 비행기 폭발 액션 신 | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29938915</link>
+            <guid>https://www.vlive.tv/post/1-29938915</guid>
+            <pubDate>Sat, 23 Jul 2022 03:35:47 GMT</pubDate>
+            <content:encoded><![CDATA[35분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-29929262</link>
             <guid>https://www.vlive.tv/post/0-29929262</guid>
             <pubDate>Fri, 22 Jul 2022 04:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 리락쿠마의 테마파크 어드벤처 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -584,13 +591,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/0-29688176</guid>
             <pubDate>Fri, 01 Jul 2022 08:23:31 GMT</pubDate>
             <content:encoded><![CDATA[7.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 인질을 지키기 위해 배신한 덴버? | 종이의 집: 공동경제구역 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-29688450</link>
-            <guid>https://www.vlive.tv/post/0-29688450</guid>
-            <pubDate>Thu, 30 Jun 2022 03:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[6.30.]]></content:encoded>
         </item>
     </channel>
 </rss>
