@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 10:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 11:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ Skip 절대 불가,
             <pubDate>Thu, 09 Jun 2022 03:24:57 GMT</pubDate>
             <content:encoded><![CDATA[휘이이잉~ (휘몰아치는 폭풍우..) 휘이이잉~ 휘몰아치는 전개로 시간 가는 줄 모르게 만들 새로운 넷플릭스 시리즈가 온다! 넷플릭스 시리즈 &lt;블랙의 신부&gt; 7월 15일 공개 확정!“넷플은 계획이 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDhfMjU5/MDAxNjU0Njc5Nzk3NDE4._xvLXXH3zF8OSEGibqG-0v8oGvuxEt6T_9DNzKAMEK8g.3lrf_k7Q4TnQrn8d2xHPVgfPuHBOn5FN1e697DNbQt4g.JPEG/Ic3p8BCz_q1YrHyC-Fygc7SskspE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 손 하나 묶인 채로 특수 부대 격파 가능? | 그레이 맨 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28155753</link>
+            <guid>https://tv.naver.com/v/28155753</guid>
+            <pubDate>Mon, 25 Jul 2022 11:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_263/Cvird_16587450308593S1pR_JPEG/1658744936729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 스캔들 과몰입 #03 (Netflix Korea ─ NAVER TV)]]></title>
@@ -445,12 +453,11 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_280/qlkcO_1656292844044Uxfh5_JPEG/1656292823891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 아무도 다치지 않고 강도질을 해야 한다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27520601</link>
-            <guid>https://tv.naver.com/v/27520601</guid>
-            <pubDate>Fri, 24 Jun 2022 01:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_51/lhA73_1656292900079Hyn6q_JPEG/1656292879472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 손 하나 묶인 채로 특수 부대 격파 가능? | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29970276</link>
+            <guid>https://www.vlive.tv/post/1-29970276</guid>
+            <pubDate>Mon, 25 Jul 2022 11:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 역대급 스케일 비행기 폭발 액션 신 | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
@@ -584,13 +591,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/1-29739466</guid>
             <pubDate>Tue, 05 Jul 2022 11:16:13 GMT</pubDate>
             <content:encoded><![CDATA[7.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 블랙의 신부 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-29688176</link>
-            <guid>https://www.vlive.tv/post/0-29688176</guid>
-            <pubDate>Fri, 01 Jul 2022 08:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[7.1.]]></content:encoded>
         </item>
     </channel>
 </rss>

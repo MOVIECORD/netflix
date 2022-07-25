@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 10:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 11:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 손 하나 묶인 채로 특수 부대 격파 가능? | 그레이 맨]]></title>
+            <link>https://tv.naver.com/v/28155753</link>
+            <guid>https://tv.naver.com/v/28155753</guid>
+            <pubDate>Mon, 25 Jul 2022 11:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_263/Cvird_16587450308593S1pR_JPEG/1658744936729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 스캔들 과몰입 #03]]></title>
             <link>https://tv.naver.com/v/28100895</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Jun 2022 01:29:44 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_280/qlkcO_1656292844044Uxfh5_JPEG/1656292823891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 아무도 다치지 않고 강도질을 해야 한다]]></title>
-            <link>https://tv.naver.com/v/27520601</link>
-            <guid>https://tv.naver.com/v/27520601</guid>
-            <pubDate>Fri, 24 Jun 2022 01:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_51/lhA73_1656292900079Hyn6q_JPEG/1656292879472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
