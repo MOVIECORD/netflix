@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 01:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,7 +457,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/1-29970276</link>
             <guid>https://www.vlive.tv/post/1-29970276</guid>
             <pubDate>Mon, 25 Jul 2022 11:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 역대급 스케일 비행기 폭발 액션 신 | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
