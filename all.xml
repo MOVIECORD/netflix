@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 10:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 11:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ Skip 절대 불가,
             <pubDate>Mon, 25 Jul 2022 11:16:48 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_263/Cvird_16587450308593S1pR_JPEG/1658744936729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 샌드맨 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28142300</link>
+            <guid>https://tv.naver.com/v/28142300</guid>
+            <pubDate>Tue, 26 Jul 2022 11:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_52/SJY1o_1658712345009szcR7_JPEG/1658712225515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 스캔들 과몰입 #03 (Netflix Korea ─ NAVER TV)]]></title>
@@ -445,19 +453,18 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_14/nIMPn_1656063483297AAM3z_JPEG/1656063478709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 드디어 외부와 연락이 닿은 인질들 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27520882</link>
-            <guid>https://tv.naver.com/v/27520882</guid>
-            <pubDate>Sat, 25 Jun 2022 01:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_280/qlkcO_1656292844044Uxfh5_JPEG/1656292823891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 샌드맨 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29967154</link>
+            <guid>https://www.vlive.tv/post/1-29967154</guid>
+            <pubDate>Tue, 26 Jul 2022 11:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[18분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 손 하나 묶인 채로 특수 부대 격파 가능? | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29970276</link>
             <guid>https://www.vlive.tv/post/1-29970276</guid>
             <pubDate>Mon, 25 Jul 2022 11:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7.25.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 역대급 스케일 비행기 폭발 액션 신 | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
@@ -582,13 +589,6 @@ Skip 절대 불가,
             <title><![CDATA[[넷플릭스] 이세계 삼촌 | 공식 예고편 #2 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29748372</link>
             <guid>https://www.vlive.tv/post/1-29748372</guid>
-            <pubDate>Tue, 05 Jul 2022 11:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[7.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 죠죠의 기묘한 모험: 스톤 오션 | 공식 예고편 3 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29739466</link>
-            <guid>https://www.vlive.tv/post/1-29739466</guid>
             <pubDate>Tue, 05 Jul 2022 11:16:13 GMT</pubDate>
             <content:encoded><![CDATA[7.5.]]></content:encoded>
         </item>
