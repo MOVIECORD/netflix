@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 10:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 11:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,22 @@ Skip 절대 불가,
             <pubDate>Tue, 14 Jun 2022 04:51:20 GMT</pubDate>
             <content:encoded><![CDATA[평화로운 어느 날, 홍대/성수 거리에 등장한 의문의 포스터..?곳곳에 붙어있어 궁금증을 불러일으키는데~ 도대체 넌 누구냐?!?두 마리 너구리? 동쪽 고향? 가베또롱 호디? (혹시 외계어..???)미스터리한 단···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTNfMjgg/MDAxNjU1MDk3Nzg3Njcw.ooL6aW11HDSX-NaVrffSY146C85HeiYkAdJsrKh4vLsg.jfvZzQt2KfBCv8zPvZu0VCFgkKIrQkCsF7OkzkZ8YNMg.JPEG/Iak488Nyx8Sp2HgxPwhbUJ935D5w.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 파트 2 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28186996</link>
+            <guid>https://tv.naver.com/v/28186996</guid>
+            <pubDate>Wed, 27 Jul 2022 11:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_270/0dt8s_1658885925372dWl6D_JPEG/1658885665259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 미 타임 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28186915</link>
+            <guid>https://tv.naver.com/v/28186915</guid>
+            <pubDate>Wed, 27 Jul 2022 11:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_18/uGtrU_1658885639550tT0Hr_JPEG/1658885475368.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 모범가족 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -436,34 +452,32 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_158/mGh1Q_1656905895901tIMbx_JPEG/1656905893379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 인질을 지키기 위해 배신한 덴버? | 종이의 집: 공동경제구역 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27667741</link>
-            <guid>https://tv.naver.com/v/27667741</guid>
-            <pubDate>Thu, 30 Jun 2022 03:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_85/4hGAh_1656556239431zDhop_JPEG/1656556227429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 파트 2 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-29986517</link>
+            <guid>https://www.vlive.tv/post/1-29986517</guid>
+            <pubDate>Wed, 27 Jul 2022 11:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 블랙의 신부 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27665926</link>
-            <guid>https://tv.naver.com/v/27665926</guid>
-            <pubDate>Fri, 01 Jul 2022 08:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_225/VoL0M_1656552166065JBT3I_JPEG/1656552056767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 미 타임 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-29979943</link>
+            <guid>https://www.vlive.tv/post/0-29979943</guid>
+            <pubDate>Wed, 27 Jul 2022 11:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 모범가족 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-29975020</link>
             <guid>https://www.vlive.tv/post/0-29975020</guid>
             <pubDate>Wed, 27 Jul 2022 01:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 샌드맨 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29967154</link>
             <guid>https://www.vlive.tv/post/1-29967154</guid>
             <pubDate>Tue, 26 Jul 2022 11:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7.26.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 손 하나 묶인 채로 특수 부대 격파 가능? | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
@@ -576,20 +590,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/0-29773421</guid>
             <pubDate>Fri, 08 Jul 2022 10:20:39 GMT</pubDate>
             <content:encoded><![CDATA[7.8.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 카터 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-29764754</link>
-            <guid>https://www.vlive.tv/post/0-29764754</guid>
-            <pubDate>Fri, 08 Jul 2022 01:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[7.8.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29739438</link>
-            <guid>https://www.vlive.tv/post/1-29739438</guid>
-            <pubDate>Tue, 05 Jul 2022 11:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[7.5.]]></content:encoded>
         </item>
     </channel>
 </rss>
