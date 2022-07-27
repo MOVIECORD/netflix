@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 09:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 10:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,14 +456,14 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/0-29975020</link>
             <guid>https://www.vlive.tv/post/0-29975020</guid>
             <pubDate>Wed, 27 Jul 2022 01:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 샌드맨 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29967154</link>
             <guid>https://www.vlive.tv/post/1-29967154</guid>
             <pubDate>Tue, 26 Jul 2022 11:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 손 하나 묶인 채로 특수 부대 격파 가능? | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
