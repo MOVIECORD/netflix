@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 04:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 05:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,7 +456,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/1-29986517</link>
             <guid>https://www.vlive.tv/post/1-29986517</guid>
             <pubDate>Wed, 27 Jul 2022 11:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 미 타임 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
