@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 23:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 01:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -228,6 +228,14 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_281/gkM4I_1659004682213qlePL_JPEG/1659004231696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 서울대작전 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28214043</link>
+            <guid>https://tv.naver.com/v/28214043</guid>
+            <pubDate>Fri, 29 Jul 2022 01:52:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_12/K0Usd_16589901209789xJDs_JPEG/1658989913815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 파트 2 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28186996</link>
             <guid>https://tv.naver.com/v/28186996</guid>
@@ -444,26 +452,25 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_288/4r4Fu_1657009511138luRov_JPEG/1657009492816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 이세계 삼촌 | 공식 예고편 #2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27757120</link>
-            <guid>https://tv.naver.com/v/27757120</guid>
-            <pubDate>Tue, 05 Jul 2022 11:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_300/euJZw_1656983104153aA0uT_JPEG/1656983036710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 서울대작전 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-29994664</link>
+            <guid>https://www.vlive.tv/post/0-29994664</guid>
+            <pubDate>Fri, 29 Jul 2022 01:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 기예르모 델토로의 피노키오 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-29993226</link>
             <guid>https://www.vlive.tv/post/0-29993226</guid>
             <pubDate>Thu, 28 Jul 2022 11:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] <네버 해브 아이 에버> 시즌 3 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29999655</link>
             <guid>https://www.vlive.tv/post/1-29999655</guid>
             <pubDate>Thu, 28 Jul 2022 11:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[12시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 파트 2 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -583,13 +590,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/1-29840692</guid>
             <pubDate>Thu, 14 Jul 2022 01:52:19 GMT</pubDate>
             <content:encoded><![CDATA[7.14.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 데이 시프트 | 제이미 폭스, 데이브 프랭코, 스눕 독 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29829249</link>
-            <guid>https://www.vlive.tv/post/1-29829249</guid>
-            <pubDate>Wed, 13 Jul 2022 01:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[7.13.]]></content:encoded>
         </item>
     </channel>
 </rss>
