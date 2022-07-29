@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 로크 앤 키 3 | 마지막 시즌 예고편]]></title>
+            <link>https://tv.naver.com/v/28251036</link>
+            <guid>https://tv.naver.com/v/28251036</guid>
+            <pubDate>Fri, 29 Jul 2022 10:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_10/o5kNj_1659087974850WIj65_JPEG/1659076786519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 블론드 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/28243411</link>
+            <guid>https://tv.naver.com/v/28243411</guid>
+            <pubDate>Fri, 29 Jul 2022 10:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_137/XSAOn_1659076762685SY4Q1_JPEG/1659076754646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 기예르모 델토로의 피노키오 | 공식 티저 예고편]]></title>
             <link>https://tv.naver.com/v/28222609</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 08 Jul 2022 01:45:50 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_138/8kdHD_1657178392355mIKOH_PNG/1657175822957.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 블랙의 신부 | 스캔들 과몰입 #01]]></title>
-            <link>https://tv.naver.com/v/27768292</link>
-            <guid>https://tv.naver.com/v/27768292</guid>
-            <pubDate>Tue, 05 Jul 2022 10:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_154/aYYev_1657014049923Cn28r_JPEG/1657013987222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 블랙의 신부 | 스캔들 과몰입 #02]]></title>
-            <link>https://tv.naver.com/v/27766821</link>
-            <guid>https://tv.naver.com/v/27766821</guid>
-            <pubDate>Tue, 05 Jul 2022 09:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_288/4r4Fu_1657009511138luRov_JPEG/1657009492816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
