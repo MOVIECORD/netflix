@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 23:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 01:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ Skip 절대 불가,
             <pubDate>Thu, 16 Jun 2022 03:23:42 GMT</pubDate>
             <content:encoded><![CDATA[“... 왜 울었는데” “양파 때문에...” “...티저 예고편이 양파냐...” &lt;블랙의 신부&gt; 티저는 멋있었다 中짧은 예고편만으로, 우리를 애타게 만드는 작품이 있다..?!7월 15일···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTZfODEg/MDAxNjU1MzQzNzg2Nzcx.rDvV8GDUDdK6Hk-VuUHZCiCxba_3AMzYoB8rYeBTtq8g.IvfVHkL1heqkhckjwPVledgNvH2FXd4wGsTNNXZGOaQg.JPEG/I6UygaDDq_G2BIRcCpiN-eNUnsGE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28289608</link>
+            <guid>https://tv.naver.com/v/28289608</guid>
+            <pubDate>Mon, 01 Aug 2022 01:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_150/q38fr_1659316440608NPeLu_JPEG/1659316278043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 로크 앤 키 3 | 마지막 시즌 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -444,12 +452,11 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_85/yHL0A_16572490818840zv28_JPEG/1657249009721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 카터 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27807190</link>
-            <guid>https://tv.naver.com/v/27807190</guid>
-            <pubDate>Fri, 08 Jul 2022 01:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_138/8kdHD_1657178392355mIKOH_PNG/1657175822957.png?type=f194_109_blend" length="0" type="image/png"/>
+            <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30029841</link>
+            <guid>https://www.vlive.tv/post/0-30029841</guid>
+            <pubDate>Mon, 01 Aug 2022 01:54:14 GMT</pubDate>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 로크 앤 키 3 | 마지막 시즌 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -583,13 +590,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/1-29851805</guid>
             <pubDate>Mon, 18 Jul 2022 01:45:44 GMT</pubDate>
             <content:encoded><![CDATA[7.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 김희선, 그녀의 복수극이 시작된다 | 블랙의 신부 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29859334</link>
-            <guid>https://www.vlive.tv/post/1-29859334</guid>
-            <pubDate>Fri, 15 Jul 2022 01:55:27 GMT</pubDate>
-            <content:encoded><![CDATA[7.15.]]></content:encoded>
         </item>
     </channel>
 </rss>
