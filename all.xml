@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 20:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 21:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,7 +456,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/0-30029841</link>
             <guid>https://www.vlive.tv/post/0-30029841</guid>
             <pubDate>Mon, 01 Aug 2022 01:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 로크 앤 키 3 | 마지막 시즌 예고편 (Netflix Korea ─ V LIVE)]]></title>
