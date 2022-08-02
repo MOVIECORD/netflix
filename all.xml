@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 09:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 10:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,20 +212,20 @@ Skip 절대 불가,
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTZfODEg/MDAxNjU1MzQzNzg2Nzcx.rDvV8GDUDdK6Hk-VuUHZCiCxba_3AMzYoB8rYeBTtq8g.IvfVHkL1heqkhckjwPVledgNvH2FXd4wGsTNNXZGOaQg.JPEG/I6UygaDDq_G2BIRcCpiN-eNUnsGE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 카터 | 액션 비하인드 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28323827</link>
+            <guid>https://tv.naver.com/v/28323827</guid>
+            <pubDate>Tue, 02 Aug 2022 10:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_215/iS8sl_1659434160554OfF6G_PNG/1659434087686.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 사이버펑크: 엣지러너 | 공식 예고편(스튜디오 트리거 버전) (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28312740</link>
             <guid>https://tv.naver.com/v/28312740</guid>
             <pubDate>Tue, 02 Aug 2022 01:58:46 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_48/kmU5C_1659403315724z3nTk_JPEG/1659403167745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 카터 | 액션 비하인드 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28306675</link>
-            <guid>https://tv.naver.com/v/28306675</guid>
-            <pubDate>Tue, 02 Aug 2022 01:58:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_140/9wXQZ_165936452820739xPn_PNG/1659364359351.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -452,18 +452,18 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_100/6jwRW_1657614602537I79vR_JPEG/1657614601425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 카터 | 액션 비하인드 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30044779</link>
+            <guid>https://www.vlive.tv/post/0-30044779</guid>
+            <pubDate>Tue, 02 Aug 2022 10:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 사이버펑크: 엣지러너 | 공식 예고편(스튜디오 트리거 버전) (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30048174</link>
             <guid>https://www.vlive.tv/post/1-30048174</guid>
             <pubDate>Tue, 02 Aug 2022 01:58:56 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 카터 | 액션 비하인드 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30037488</link>
-            <guid>https://www.vlive.tv/post/0-30037488</guid>
-            <pubDate>Tue, 02 Aug 2022 01:58:56 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
