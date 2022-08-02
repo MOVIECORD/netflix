@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-08-02T19:14:48.486Z</updated>
+    <updated>2022-08-02T20:20:39.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://www.vlive.tv/post/0-30044779</id>
         <link href="https://www.vlive.tv/post/0-30044779"/>
         <updated>2022-08-02T10:21:36.090Z</updated>
-        <content type="html"><![CDATA[9시간 전]]></content>
+        <content type="html"><![CDATA[10시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 사이버펑크: 엣지러너 | 공식 예고편(스튜디오 트리거 버전)]]></title>
         <id>https://www.vlive.tv/post/1-30048174</id>
         <link href="https://www.vlive.tv/post/1-30048174"/>
         <updated>2022-08-02T01:58:56.993Z</updated>
-        <content type="html"><![CDATA[17시간 전]]></content>
+        <content type="html"><![CDATA[18시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편]]></title>
