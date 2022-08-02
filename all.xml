@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 01:58:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,22 @@ Skip 절대 불가,
             <pubDate>Thu, 16 Jun 2022 03:23:42 GMT</pubDate>
             <content:encoded><![CDATA[“... 왜 울었는데” “양파 때문에...” “...티저 예고편이 양파냐...” &lt;블랙의 신부&gt; 티저는 멋있었다 中짧은 예고편만으로, 우리를 애타게 만드는 작품이 있다..?!7월 15일···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MTZfODEg/MDAxNjU1MzQzNzg2Nzcx.rDvV8GDUDdK6Hk-VuUHZCiCxba_3AMzYoB8rYeBTtq8g.IvfVHkL1heqkhckjwPVledgNvH2FXd4wGsTNNXZGOaQg.JPEG/I6UygaDDq_G2BIRcCpiN-eNUnsGE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 사이버펑크: 엣지러너 | 공식 예고편(스튜디오 트리거 버전) (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28312740</link>
+            <guid>https://tv.naver.com/v/28312740</guid>
+            <pubDate>Tue, 02 Aug 2022 01:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_48/kmU5C_1659403315724z3nTk_JPEG/1659403167745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 카터 | 액션 비하인드 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28306675</link>
+            <guid>https://tv.naver.com/v/28306675</guid>
+            <pubDate>Tue, 02 Aug 2022 01:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_140/9wXQZ_165936452820739xPn_PNG/1659364359351.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -436,27 +452,25 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_100/6jwRW_1657614602537I79vR_JPEG/1657614601425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] <버진리버> 시즌 4 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27862048</link>
-            <guid>https://tv.naver.com/v/27862048</guid>
-            <pubDate>Mon, 11 Jul 2022 10:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_83/z1zBW_1657503234312IRulf_JPEG/1657502907942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 사이버펑크: 엣지러너 | 공식 예고편(스튜디오 트리거 버전) (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30048174</link>
+            <guid>https://www.vlive.tv/post/1-30048174</guid>
+            <pubDate>Tue, 02 Aug 2022 01:58:56 GMT</pubDate>
+            <content:encoded><![CDATA[36분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 벌 한마리가 불러 온 대재앙 | 인간 vs 벌 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27821692</link>
-            <guid>https://tv.naver.com/v/27821692</guid>
-            <pubDate>Fri, 08 Jul 2022 10:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_85/yHL0A_16572490818840zv28_JPEG/1657249009721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 카터 | 액션 비하인드 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30037488</link>
+            <guid>https://www.vlive.tv/post/0-30037488</guid>
+            <pubDate>Tue, 02 Aug 2022 01:58:56 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30029841</link>
             <guid>https://www.vlive.tv/post/0-30029841</guid>
             <pubDate>Mon, 01 Aug 2022 01:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8.1.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 로크 앤 키 3 | 마지막 시즌 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -575,20 +589,6 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/0-29853176</link>
             <guid>https://www.vlive.tv/post/0-29853176</guid>
             <pubDate>Mon, 18 Jul 2022 11:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[7.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정유진의 성공만은 반드시 막고 싶은 김희선 | 블랙의 신부 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29897202</link>
-            <guid>https://www.vlive.tv/post/1-29897202</guid>
-            <pubDate>Mon, 18 Jul 2022 11:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[7.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 카터 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29851805</link>
-            <guid>https://www.vlive.tv/post/1-29851805</guid>
-            <pubDate>Mon, 18 Jul 2022 01:45:44 GMT</pubDate>
             <content:encoded><![CDATA[7.18.]]></content:encoded>
         </item>
     </channel>
