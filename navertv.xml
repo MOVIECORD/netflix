@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 06:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 07:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 02 Aug 2022 01:58:46 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_48/kmU5C_1659403315724z3nTk_JPEG/1659403167745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 카터 | 액션 하이라이트 영상]]></title>
+            <link>https://tv.naver.com/v/28297519</link>
+            <guid>https://tv.naver.com/v/28297519</guid>
+            <pubDate>Fri, 05 Aug 2022 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_232/9GndC_1659339874814In0R1_JPEG/1659339785190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 01:52:09 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_166/LmiCh_1657703715568SLgr9_JPEG/1657703131289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 데이 시프트 | 제이미 폭스, 데이브 프랭코, 스눕 독 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/27896001</link>
-            <guid>https://tv.naver.com/v/27896001</guid>
-            <pubDate>Wed, 13 Jul 2022 01:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_100/6jwRW_1657614602537I79vR_JPEG/1657614601425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
