@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 11:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 12:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -455,7 +455,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/0-30072764</link>
             <guid>https://www.vlive.tv/post/0-30072764</guid>
             <pubDate>Fri, 05 Aug 2022 10:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 카터 | 액션 비하인드 (Netflix Korea ─ V LIVE)]]></title>
