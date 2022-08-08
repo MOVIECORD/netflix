@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-08-08T06:25:18.608Z</updated>
+    <updated>2022-08-08T07:16:34.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 자동차 세 대를 오가며 벌어지는 주원의 액션 | 카터]]></title>
+        <id>https://www.vlive.tv/post/0-30103804</id>
+        <link href="https://www.vlive.tv/post/0-30103804"/>
+        <updated>2022-08-08T07:16:34.229Z</updated>
+        <content type="html"><![CDATA[35분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 주원의 완벽한 와이어 액션 신 | 카터]]></title>
+        <id>https://www.vlive.tv/post/1-30111307</id>
+        <link href="https://www.vlive.tv/post/1-30111307"/>
+        <updated>2022-08-08T07:16:34.230Z</updated>
+        <content type="html"><![CDATA[44분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 맨몸으로 배달 오토바이를 타고 도주하는 주원 | 카터]]></title>
         <id>https://www.vlive.tv/post/0-30072764</id>
@@ -129,20 +143,6 @@
         <id>https://www.vlive.tv/post/0-29910558</id>
         <link href="https://www.vlive.tv/post/0-29910558"/>
         <updated>2022-07-20T12:35:21.038Z</updated>
-        <content type="html"><![CDATA[7.20.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 강철의 연금술사 완결편: 복수자 스카 / 최후의 연성 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-29899024</id>
-        <link href="https://www.vlive.tv/post/0-29899024"/>
-        <updated>2022-07-20T12:35:21.040Z</updated>
-        <content type="html"><![CDATA[7.20.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 철권: 블러드라인 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-29899048</id>
-        <link href="https://www.vlive.tv/post/0-29899048"/>
-        <updated>2022-07-20T12:35:21.041Z</updated>
         <content type="html"><![CDATA[7.20.]]></content>
     </entry>
 </feed>
