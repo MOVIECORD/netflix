@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 23:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 01:48:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,6 +209,14 @@ Skip 절대 불가,
             <pubDate>Thu, 23 Jun 2022 03:36:50 GMT</pubDate>
             <content:encoded><![CDATA[Q. 멈춰 있던 심장도 다시 뛰게 하는 저혈압 치료기는..?A.삐빅- 블랙의 신부입니다.(두.근.두.근.) 티저 예고편 공개 이후, 상류층의 결혼정보회사라는 독특한 소재뿐만 아니라 '새로운 넷플릭스표 K-드라···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjNfMjY5/MDAxNjU1OTQ2MDAyOTQz.UVglZyKTPZJElhREf3OTZwBxlL5RQH3dPIQUh6IdBEAg.nNaC7D2g2xIUhnssKm7_YhDVp2bHC3zOeslXQygyq-Yg.JPEG/Ib8t9wG-FVzjPFZJfwB3_JrPNjVk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28450716</link>
+            <guid>https://tv.naver.com/v/28450716</guid>
+            <pubDate>Tue, 09 Aug 2022 01:48:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_283/gES62_1660008133923Y5pzK_JPEG/1660007749767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 자동차 세 대를 오가며 벌어지는 주원의 액션 | 카터 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,26 +451,25 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_140/y0Fae_1657851698722gXPeV_JPEG/1657850988797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 카터 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27946615</link>
-            <guid>https://tv.naver.com/v/27946615</guid>
-            <pubDate>Mon, 18 Jul 2022 01:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_270/uFsqX_1657791447114pF4ov_PNG/1657791197266.png?type=f194_109_blend" length="0" type="image/png"/>
+            <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30115473</link>
+            <guid>https://www.vlive.tv/post/0-30115473</guid>
+            <pubDate>Tue, 09 Aug 2022 01:48:57 GMT</pubDate>
+            <content:encoded><![CDATA[27분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 자동차 세 대를 오가며 벌어지는 주원의 액션 | 카터 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30103804</link>
             <guid>https://www.vlive.tv/post/0-30103804</guid>
             <pubDate>Mon, 08 Aug 2022 07:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 주원의 완벽한 와이어 액션 신 | 카터 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30111307</link>
             <guid>https://www.vlive.tv/post/1-30111307</guid>
             <pubDate>Mon, 08 Aug 2022 07:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 맨몸으로 배달 오토바이를 타고 도주하는 주원 | 카터 (Netflix Korea ─ V LIVE)]]></title>
@@ -580,13 +587,6 @@ Skip 절대 불가,
             <title><![CDATA[[넷플릭스] 리락쿠마의 테마파크 어드벤처 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-29917108</link>
             <guid>https://www.vlive.tv/post/1-29917108</guid>
-            <pubDate>Wed, 20 Jul 2022 12:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[7.20.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 짝남과 키스 후 다음날 죽다? | 유령인데 어쩌라고 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-29910558</link>
-            <guid>https://www.vlive.tv/post/0-29910558</guid>
             <pubDate>Wed, 20 Jul 2022 12:35:21 GMT</pubDate>
             <content:encoded><![CDATA[7.20.]]></content:encoded>
         </item>
