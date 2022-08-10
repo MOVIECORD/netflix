@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-08-09T23:18:15.558Z</updated>
+    <updated>2022-08-10T01:28:22.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 서울대작전 | 메인 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-30122173</id>
+        <link href="https://www.vlive.tv/post/0-30122173"/>
+        <updated>2022-08-10T01:28:22.275Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/0-30115473</id>
         <link href="https://www.vlive.tv/post/0-30115473"/>
         <updated>2022-08-09T01:48:57.247Z</updated>
-        <content type="html"><![CDATA[21시간 전]]></content>
+        <content type="html"><![CDATA[8.9.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 자동차 세 대를 오가며 벌어지는 주원의 액션 | 카터]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/0-29929262"/>
         <updated>2022-07-22T04:45:20.195Z</updated>
         <content type="html"><![CDATA[7.22.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 리락쿠마의 테마파크 어드벤처 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-29917108</id>
-        <link href="https://www.vlive.tv/post/1-29917108"/>
-        <updated>2022-07-20T12:35:21.025Z</updated>
-        <content type="html"><![CDATA[7.20.]]></content>
     </entry>
 </feed>

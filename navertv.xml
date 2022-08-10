@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 01:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 서울대작전 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/28452959</link>
+            <guid>https://tv.naver.com/v/28452959</guid>
+            <pubDate>Wed, 10 Aug 2022 01:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_274/AIgwI_1660013792312mSG1L_JPEG/1660013526725.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/28450716</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Jul 2022 01:56:38 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_212/Zt9eA_1657852968338r9bPJ_JPEG/1657852961206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 독기 vs 독기! 무릎 갈리는 기싸움 | 블랙의 신부]]></title>
-            <link>https://tv.naver.com/v/27959730</link>
-            <guid>https://tv.naver.com/v/27959730</guid>
-            <pubDate>Sat, 16 Jul 2022 01:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_140/y0Fae_1657851698722gXPeV_JPEG/1657850988797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
