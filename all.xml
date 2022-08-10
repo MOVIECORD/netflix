@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 07:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 08:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -455,7 +455,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/0-30122173</link>
             <guid>https://www.vlive.tv/post/0-30122173</guid>
             <pubDate>Wed, 10 Aug 2022 01:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
