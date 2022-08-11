@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 23:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 01:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,6 +209,14 @@ Skip 절대 불가,
             <pubDate>Thu, 23 Jun 2022 10:21:49 GMT</pubDate>
             <content:encoded><![CDATA[덥다! 더워! 요즘 날씨가 더워지나 했더니, 한강 세빛섬에 나타난 핫~한 볼거리 때문이라는데???바로바로, 세빛섬에 등장한 거대 하회탈 강도상이 잇슈 잇슈 -핫 이 슈!더 눈에 띄는 것은 빨간 점프슈트에 하회탈을 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjNfNiAg/MDAxNjU1OTc2OTg4MTM1.z0AkVoWIV4w4L_Odg76EiSLKXd7wmCFGoSTiRQpm_9Qg.wwffe_zj_EnvxQ0PokRAFu9-Gm4oJQpaeR28tBWmGp4g.JPEG/IePq2mKwjCRPOGfRATG1SeVHrqPY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수리남 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28483849</link>
+            <guid>https://tv.naver.com/v/28483849</guid>
+            <pubDate>Thu, 11 Aug 2022 01:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_80/iTxAu_1660123588513dX392_JPEG/1660123583880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,19 +451,18 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_124/VzyW5_16578527409528Cwmt_JPEG/1657852654561.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 불륜녀 참교육 하는 법 | 블랙의 신부 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27959981</link>
-            <guid>https://tv.naver.com/v/27959981</guid>
-            <pubDate>Tue, 19 Jul 2022 01:56:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_212/Zt9eA_1657852968338r9bPJ_JPEG/1657852961206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 수리남 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30130377</link>
+            <guid>https://www.vlive.tv/post/0-30130377</guid>
+            <pubDate>Thu, 11 Aug 2022 01:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30122173</link>
             <guid>https://www.vlive.tv/post/0-30122173</guid>
             <pubDate>Wed, 10 Aug 2022 01:28:22 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8.10.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -582,13 +589,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/1-29938915</guid>
             <pubDate>Sat, 23 Jul 2022 03:35:47 GMT</pubDate>
             <content:encoded><![CDATA[7.23.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-29929262</link>
-            <guid>https://www.vlive.tv/post/0-29929262</guid>
-            <pubDate>Fri, 22 Jul 2022 04:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[7.22.]]></content:encoded>
         </item>
     </channel>
 </rss>

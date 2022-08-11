@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 23:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 01:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 수리남 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/28483849</link>
+            <guid>https://tv.naver.com/v/28483849</guid>
+            <pubDate>Thu, 11 Aug 2022 01:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_80/iTxAu_1660123588513dX392_JPEG/1660123583880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 메인 예고편]]></title>
             <link>https://tv.naver.com/v/28452959</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 18 Jul 2022 10:20:34 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_124/VzyW5_16578527409528Cwmt_JPEG/1657852654561.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 불륜녀 참교육 하는 법 | 블랙의 신부]]></title>
-            <link>https://tv.naver.com/v/27959981</link>
-            <guid>https://tv.naver.com/v/27959981</guid>
-            <pubDate>Tue, 19 Jul 2022 01:56:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_212/Zt9eA_1657852968338r9bPJ_JPEG/1657852961206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
