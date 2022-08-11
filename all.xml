@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 10:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 11:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -455,7 +455,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/0-30130377</link>
             <guid>https://www.vlive.tv/post/0-30130377</guid>
             <pubDate>Thu, 11 Aug 2022 01:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
