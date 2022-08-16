@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 23:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 01:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 오로지 카리스마로 상대를 압살하는 박희순 | 모범가족]]></title>
+            <link>https://tv.naver.com/v/28585669</link>
+            <guid>https://tv.naver.com/v/28585669</guid>
+            <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_283/CBARA_1660614013721hW6Lj_JPEG/1660614011747.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수상한 돈을 세탁하러 온 정우 | 모범가족]]></title>
+            <link>https://tv.naver.com/v/28585643</link>
+            <guid>https://tv.naver.com/v/28585643</guid>
+            <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_117/wdhXz_1660613921170suOLC_JPEG/1660613917940.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 자동차 속 시체와 돈다발, 당신의 선택은? | 모범가족]]></title>
+            <link>https://tv.naver.com/v/28585594</link>
+            <guid>https://tv.naver.com/v/28585594</guid>
+            <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_241/OvoEn_16606138152009f3vp_JPEG/1660613785184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 수리남 | 티저 예고편]]></title>
             <link>https://tv.naver.com/v/28483849</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 11:14:52 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220719_291/dUXfT_1658205253392irRJV_JPEG/1658205192040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 강철의 연금술사 완결편: 복수자 스카 / 최후의 연성 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/28029440</link>
-            <guid>https://tv.naver.com/v/28029440</guid>
-            <pubDate>Wed, 20 Jul 2022 11:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_99/BqOkK_16582051107836yiwk_JPEG/1658205016418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정유진의 성공만은 반드시 막고 싶은 김희선 | 블랙의 신부]]></title>
-            <link>https://tv.naver.com/v/28014407</link>
-            <guid>https://tv.naver.com/v/28014407</guid>
-            <pubDate>Mon, 18 Jul 2022 10:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_299/gyI1c_16581365945712jExX_JPEG/1658136505649.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] Tudum: 넷플릭스 글로벌 팬 이벤트 | 날짜 발표 | 9월 24일]]></title>
-            <link>https://tv.naver.com/v/27960142</link>
-            <guid>https://tv.naver.com/v/27960142</guid>
-            <pubDate>Mon, 18 Jul 2022 10:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_124/VzyW5_16578527409528Cwmt_JPEG/1657852654561.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
