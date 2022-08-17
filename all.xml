@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 21:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 22:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,7 +456,7 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/1-30220623</link>
             <guid>https://www.vlive.tv/post/1-30220623</guid>
             <pubDate>Wed, 17 Aug 2022 01:57:13 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 오로지 카리스마로 상대를 압살하는 박희순 | 모범가족 (Netflix Korea ─ V LIVE)]]></title>
