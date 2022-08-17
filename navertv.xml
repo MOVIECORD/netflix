@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 01:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 03:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 《코브라 카이》 시즌 5 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/28608050</link>
+            <guid>https://tv.naver.com/v/28608050</guid>
+            <pubDate>Wed, 17 Aug 2022 03:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_37/bklai_1660701084618uDUAG_JPEG/1660700965209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오로지 카리스마로 상대를 압살하는 박희순 | 모범가족]]></title>
             <link>https://tv.naver.com/v/28585669</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 11:14:52 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_178/uWckM_1658306021745UmjQv_JPEG/1658305899493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 철권: 블러드라인 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/28029514</link>
-            <guid>https://tv.naver.com/v/28029514</guid>
-            <pubDate>Wed, 20 Jul 2022 11:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_291/dUXfT_1658205253392irRJV_JPEG/1658205192040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

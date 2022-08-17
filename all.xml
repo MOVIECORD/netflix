@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 01:57:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 03:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ Skip 절대 불가,
             <pubDate>Mon, 27 Jun 2022 08:24:15 GMT</pubDate>
             <content:encoded><![CDATA[지난주 금요일, 드디어 전 세계에 공개된 &lt;종이의 집: 공동경제구역&gt;속도감 있는 빠른 전개로 그 누구보다 빠르게 과몰입 뚝딱! 벌써부터 파트 2 요청 쇄도 중!!그런데!! 우리도 종이의 집 멤버가 될 수 있다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjdfOTcg/MDAxNjU2MzE1OTYxOTM1.REBTDhz58pkfVIDfoWjL4sq36DA6VX_WIQH9F-zSUgIg.RzeDl_3nUdNN1FgpkAbBKR9WBYJwZaLfo5jDx1ah3lAg.PNG/IcahHxzacDfFp_x34Aj5ZOn-h3p0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 《코브라 카이》 시즌 5 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28608050</link>
+            <guid>https://tv.naver.com/v/28608050</guid>
+            <pubDate>Wed, 17 Aug 2022 03:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_37/bklai_1660701084618uDUAG_JPEG/1660700965209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 오로지 카리스마로 상대를 압살하는 박희순 | 모범가족 (Netflix Korea ─ NAVER TV)]]></title>
@@ -444,19 +452,11 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_178/uWckM_1658306021745UmjQv_JPEG/1658305899493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 철권: 블러드라인 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28029514</link>
-            <guid>https://tv.naver.com/v/28029514</guid>
-            <pubDate>Wed, 20 Jul 2022 11:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_291/dUXfT_1658205253392irRJV_JPEG/1658205192040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 《코브라 카이》 시즌 5 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30220623</link>
             <guid>https://www.vlive.tv/post/1-30220623</guid>
             <pubDate>Wed, 17 Aug 2022 01:57:13 GMT</pubDate>
-            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 오로지 카리스마로 상대를 압살하는 박희순 | 모범가족 (Netflix Korea ─ V LIVE)]]></title>
