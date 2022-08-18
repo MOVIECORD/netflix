@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 04:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 05:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,22 @@ Skip 절대 불가,
             <pubDate>Fri, 01 Jul 2022 08:23:14 GMT</pubDate>
             <content:encoded><![CDATA[(주)모두를 놀라게 만든(목) 엄청난 스케일의 종이의 집 !!거대강도단!! 서울을 훔치다 in 한강 세빛섬, 잠실 롯데월드 이번엔 서울이 아닌 전국 곳곳 종이의 집 #거대강도단 목격담이 퍼지고 있다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDFfMTky/MDAxNjU2NjUzNDI3MDI1.VM26BdeylToytXwsz2mH9ExE4n-fPuvfpvwXwijtziIg.P0GJBR2Fns_25CBEf_kJzXR_-JQAJv3LDCdQX-6H7Tkg.JPEG/Ie2WGj_Z7gS1eh4qqnj86iQzid5g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 하트브레이크 하이 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28638805</link>
+            <guid>https://tv.naver.com/v/28638805</guid>
+            <pubDate>Thu, 18 Aug 2022 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_89/fXrET_1660794475561ttkBy_JPEG/1660794469707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 웬즈데이 아담스 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28638724</link>
+            <guid>https://tv.naver.com/v/28638724</guid>
+            <pubDate>Thu, 18 Aug 2022 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_208/54g6M_1660794281021EAI2U_JPEG/1660793927046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 수리남 | 캐릭터 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -438,27 +454,25 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_158/oaXtc_1658713516214FePRC_JPEG/1658713512093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28094207</link>
-            <guid>https://tv.naver.com/v/28094207</guid>
-            <pubDate>Fri, 22 Jul 2022 04:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_165/KtEqt_1658452035666hKmLJ_JPEG/1658451867041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 웬즈데이 아담스 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30230437</link>
+            <guid>https://www.vlive.tv/post/1-30230437</guid>
+            <pubDate>Thu, 18 Aug 2022 05:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 리락쿠마의 테마파크 어드벤처 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28059794</link>
-            <guid>https://tv.naver.com/v/28059794</guid>
-            <pubDate>Wed, 20 Jul 2022 11:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_151/H4pEN_1658306407487CzxpS_JPEG/1658306406269.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 하트브레이크 하이 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30221967</link>
+            <guid>https://www.vlive.tv/post/0-30221967</guid>
+            <pubDate>Thu, 18 Aug 2022 05:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 수리남 | 캐릭터 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30213324</link>
             <guid>https://www.vlive.tv/post/0-30213324</guid>
             <pubDate>Thu, 18 Aug 2022 01:51:55 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《코브라 카이》 시즌 5 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -578,20 +592,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/0-29993226</guid>
             <pubDate>Thu, 28 Jul 2022 11:15:51 GMT</pubDate>
             <content:encoded><![CDATA[7.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] <네버 해브 아이 에버> 시즌 3 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29999655</link>
-            <guid>https://www.vlive.tv/post/1-29999655</guid>
-            <pubDate>Thu, 28 Jul 2022 11:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[7.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 파트 2 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-29986517</link>
-            <guid>https://www.vlive.tv/post/1-29986517</guid>
-            <pubDate>Wed, 27 Jul 2022 11:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[7.27.]]></content:encoded>
         </item>
     </channel>
 </rss>

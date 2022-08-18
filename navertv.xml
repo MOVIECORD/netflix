@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 04:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 05:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 하트브레이크 하이 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/28638805</link>
+            <guid>https://tv.naver.com/v/28638805</guid>
+            <pubDate>Thu, 18 Aug 2022 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_89/fXrET_1660794475561ttkBy_JPEG/1660794469707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 웬즈데이 아담스 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/28638724</link>
+            <guid>https://tv.naver.com/v/28638724</guid>
+            <pubDate>Thu, 18 Aug 2022 05:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_208/54g6M_1660794281021EAI2U_JPEG/1660793927046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 수리남 | 캐릭터 예고편]]></title>
             <link>https://tv.naver.com/v/28614329</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 23 Jul 2022 03:35:38 GMT</pubDate>
             <content:encoded><![CDATA[2:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_158/oaXtc_1658713516214FePRC_JPEG/1658713512093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨]]></title>
-            <link>https://tv.naver.com/v/28094207</link>
-            <guid>https://tv.naver.com/v/28094207</guid>
-            <pubDate>Fri, 22 Jul 2022 04:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_165/KtEqt_1658452035666hKmLJ_JPEG/1658451867041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 리락쿠마의 테마파크 어드벤처 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/28059794</link>
-            <guid>https://tv.naver.com/v/28059794</guid>
-            <pubDate>Wed, 20 Jul 2022 11:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_151/H4pEN_1658306407487CzxpS_JPEG/1658306406269.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
