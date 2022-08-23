@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 23:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 01:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/28732169</link>
+            <guid>https://tv.naver.com/v/28732169</guid>
+            <pubDate>Tue, 23 Aug 2022 01:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_171/DNgLm_1661218144377aEKHa_JPEG/1661217970753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 하트브레이크 하이 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/28638805</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 06:23:58 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_176/QlumK_16584692676462fk7G_JPEG/1658469263644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 역대급 스케일 비행기 폭발 액션 신 | 그레이 맨]]></title>
-            <link>https://tv.naver.com/v/28095564</link>
-            <guid>https://tv.naver.com/v/28095564</guid>
-            <pubDate>Sat, 23 Jul 2022 03:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_158/oaXtc_1658713516214FePRC_JPEG/1658713512093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

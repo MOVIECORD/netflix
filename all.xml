@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 23:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 01:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,14 @@ Skip 절대 불가,
             <pubDate>Fri, 01 Jul 2022 08:23:14 GMT</pubDate>
             <content:encoded><![CDATA[(주)모두를 놀라게 만든(목) 엄청난 스케일의 종이의 집 !!거대강도단!! 서울을 훔치다 in 한강 세빛섬, 잠실 롯데월드 이번엔 서울이 아닌 전국 곳곳 종이의 집 #거대강도단 목격담이 퍼지고 있다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDFfMTky/MDAxNjU2NjUzNDI3MDI1.VM26BdeylToytXwsz2mH9ExE4n-fPuvfpvwXwijtziIg.P0GJBR2Fns_25CBEf_kJzXR_-JQAJv3LDCdQX-6H7Tkg.JPEG/Ie2WGj_Z7gS1eh4qqnj86iQzid5g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28732169</link>
+            <guid>https://tv.naver.com/v/28732169</guid>
+            <pubDate>Tue, 23 Aug 2022 01:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_171/DNgLm_1661218144377aEKHa_JPEG/1661217970753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하트브레이크 하이 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -446,12 +454,11 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_176/QlumK_16584692676462fk7G_JPEG/1658469263644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 역대급 스케일 비행기 폭발 액션 신 | 그레이 맨 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28095564</link>
-            <guid>https://tv.naver.com/v/28095564</guid>
-            <pubDate>Sat, 23 Jul 2022 03:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_158/oaXtc_1658713516214FePRC_JPEG/1658713512093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30281982</link>
+            <guid>https://www.vlive.tv/post/1-30281982</guid>
+            <pubDate>Tue, 23 Aug 2022 01:54:05 GMT</pubDate>
+            <content:encoded><![CDATA[24분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 웬즈데이 아담스 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -585,13 +592,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/0-29994664</guid>
             <pubDate>Fri, 29 Jul 2022 01:52:52 GMT</pubDate>
             <content:encoded><![CDATA[7.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 기예르모 델토로의 피노키오 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-29993226</link>
-            <guid>https://www.vlive.tv/post/0-29993226</guid>
-            <pubDate>Thu, 28 Jul 2022 11:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[7.28.]]></content:encoded>
         </item>
     </channel>
 </rss>
