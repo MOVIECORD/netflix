@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 01:51:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 서울대작전 | 백투더 1988]]></title>
+            <link>https://tv.naver.com/v/28743405</link>
+            <guid>https://tv.naver.com/v/28743405</guid>
+            <pubDate>Wed, 24 Aug 2022 01:51:41 GMT</pubDate>
+            <content:encoded><![CDATA[5:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_75/BQdkN_1661244929009dwxgH_JPEG/1661244926510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 티저 예고편]]></title>
             <link>https://tv.naver.com/v/28732169</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 07:18:17 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_47/dbocK_1658469936352PmQOA_JPEG/1658469831200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 그레이 맨 | 월드클래스 액션 블록버스터]]></title>
-            <link>https://tv.naver.com/v/28100228</link>
-            <guid>https://tv.naver.com/v/28100228</guid>
-            <pubDate>Fri, 22 Jul 2022 06:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_176/QlumK_16584692676462fk7G_JPEG/1658469263644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
