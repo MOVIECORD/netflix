@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 01:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 04:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,22 @@ Skip 절대 불가,
             <pubDate>Fri, 01 Jul 2022 08:23:14 GMT</pubDate>
             <content:encoded><![CDATA[(주)모두를 놀라게 만든(목) 엄청난 스케일의 종이의 집 !!거대강도단!! 서울을 훔치다 in 한강 세빛섬, 잠실 롯데월드 이번엔 서울이 아닌 전국 곳곳 종이의 집 #거대강도단 목격담이 퍼지고 있다···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDFfMTky/MDAxNjU2NjUzNDI3MDI1.VM26BdeylToytXwsz2mH9ExE4n-fPuvfpvwXwijtziIg.P0GJBR2Fns_25CBEf_kJzXR_-JQAJv3LDCdQX-6H7Tkg.JPEG/Ie2WGj_Z7gS1eh4qqnj86iQzid5g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 파트너 트랙 | 파트너를 향해 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28757632</link>
+            <guid>https://tv.naver.com/v/28757632</guid>
+            <pubDate>Wed, 24 Aug 2022 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_1/mH0Ap_1661310070850xMX1D_JPEG/1661309994462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <페이트: 윙스의 전설> 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28757569</link>
+            <guid>https://tv.naver.com/v/28757569</guid>
+            <pubDate>Wed, 24 Aug 2022 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_29/FnOQA_1661309960994RbVWD_JPEG/1661309898012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 백투더 1988 (Netflix Korea ─ NAVER TV)]]></title>
@@ -438,27 +454,25 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_263/Cvird_16587450308593S1pR_JPEG/1658744936729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 샌드맨 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28142300</link>
-            <guid>https://tv.naver.com/v/28142300</guid>
-            <pubDate>Tue, 26 Jul 2022 11:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_52/SJY1o_1658712345009szcR7_JPEG/1658712225515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 파트너 트랙 | 파트너를 향해 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30291964</link>
+            <guid>https://www.vlive.tv/post/1-30291964</guid>
+            <pubDate>Wed, 24 Aug 2022 04:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 블랙의 신부 | 스캔들 과몰입 #03 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28100895</link>
-            <guid>https://tv.naver.com/v/28100895</guid>
-            <pubDate>Fri, 22 Jul 2022 07:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_47/dbocK_1658469936352PmQOA_JPEG/1658469831200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] <페이트: 윙스의 전설> 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30291955</link>
+            <guid>https://www.vlive.tv/post/1-30291955</guid>
+            <pubDate>Wed, 24 Aug 2022 04:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 백투더 1988 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30284504</link>
             <guid>https://www.vlive.tv/post/1-30284504</guid>
             <pubDate>Wed, 24 Aug 2022 01:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -578,20 +592,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/0-30029841</guid>
             <pubDate>Mon, 01 Aug 2022 01:54:14 GMT</pubDate>
             <content:encoded><![CDATA[8.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 로크 앤 키 3 | 마지막 시즌 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-30008719</link>
-            <guid>https://www.vlive.tv/post/1-30008719</guid>
-            <pubDate>Fri, 29 Jul 2022 10:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[7.29.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 블론드 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30002282</link>
-            <guid>https://www.vlive.tv/post/0-30002282</guid>
-            <pubDate>Fri, 29 Jul 2022 10:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[7.29.]]></content:encoded>
         </item>
     </channel>
 </rss>
