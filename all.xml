@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 06:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 07:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ Skip 절대 불가,
             <pubDate>Fri, 08 Jul 2022 01:45:43 GMT</pubDate>
             <content:encoded><![CDATA[무더위가 한창인 올여름 날은 덥고, 푹푹 찌는 날씨에 지친 모두를 시원하게 할 소식! ~ 아드레날린 대폭발 ~ 논스톱 리얼타임 액션 넷플릭스 영화 &lt;카터&gt; !-8월 5일 공개 확정-!강렬한 스틸컷 한 장으로 모두···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDZfMTYw/MDAxNjU3MDc2MzUwMjgy.Kj2I3Sz3xq6vkJZhD1YSz36bFcngvBuMmZjahBLwUQ8g.CKEGEQyajoPmKAoxluJ06jUXra8ls9VspVoOTvX8_LAg.JPEG/Iu3yZ9JT13JdqXnVDFtZkVtkSY9Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 서울대작전 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28819612</link>
+            <guid>https://tv.naver.com/v/28819612</guid>
+            <pubDate>Fri, 26 Aug 2022 07:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_81/w5mOq_1661497893805bInsd_JPEG/1661497754718.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 화이트 노이즈 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -444,19 +452,18 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_12/K0Usd_16589901209789xJDs_JPEG/1658989913815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 파트 2 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28186996</link>
-            <guid>https://tv.naver.com/v/28186996</guid>
-            <pubDate>Wed, 27 Jul 2022 11:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_270/0dt8s_1658885925372dWl6D_JPEG/1658885665259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 서울대작전 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30311310</link>
+            <guid>https://www.vlive.tv/post/1-30311310</guid>
+            <pubDate>Fri, 26 Aug 2022 07:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 화이트 노이즈 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30309651</link>
             <guid>https://www.vlive.tv/post/1-30309651</guid>
             <pubDate>Fri, 26 Aug 2022 01:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 슬럼버랜드 | 공식 티저 예고편 | 제이슨 모모아 (Netflix Korea ─ V LIVE)]]></title>
@@ -583,13 +590,6 @@ Skip 절대 불가,
             <guid>https://www.vlive.tv/post/1-30111307</guid>
             <pubDate>Mon, 08 Aug 2022 07:16:34 GMT</pubDate>
             <content:encoded><![CDATA[8.8.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 맨몸으로 배달 오토바이를 타고 도주하는 주원 | 카터 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30072764</link>
-            <guid>https://www.vlive.tv/post/0-30072764</guid>
-            <pubDate>Fri, 05 Aug 2022 10:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[8.5.]]></content:encoded>
         </item>
     </channel>
 </rss>
