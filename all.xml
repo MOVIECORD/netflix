@@ -4,12 +4,13 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 07:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 08:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[<서울대작전> 오늘 공개! 
-놓쳐서는 안 될 관전 포인트 대방출! (Netflix Korea ─ NAVER POST)]]></title>
+놓쳐서는 안 될 관전 포인트 
+대방출! (Netflix Korea ─ NAVER POST)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34371994&amp;memberNo=25425763</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34371994&amp;memberNo=25425763</guid>
             <pubDate>Fri, 26 Aug 2022 01:55:26 GMT</pubDate>
@@ -456,14 +457,14 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/1-30311310</link>
             <guid>https://www.vlive.tv/post/1-30311310</guid>
             <pubDate>Fri, 26 Aug 2022 07:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 화이트 노이즈 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30309651</link>
             <guid>https://www.vlive.tv/post/1-30309651</guid>
             <pubDate>Fri, 26 Aug 2022 01:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 슬럼버랜드 | 공식 티저 예고편 | 제이슨 모모아 (Netflix Korea ─ V LIVE)]]></title>
