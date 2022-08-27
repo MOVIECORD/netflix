@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 05:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 06:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,14 +457,14 @@ Skip 절대 불가,
             <link>https://www.vlive.tv/post/1-30315129</link>
             <guid>https://www.vlive.tv/post/1-30315129</guid>
             <pubDate>Sat, 27 Aug 2022 04:03:05 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30311310</link>
             <guid>https://www.vlive.tv/post/1-30311310</guid>
             <pubDate>Fri, 26 Aug 2022 07:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 화이트 노이즈 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
