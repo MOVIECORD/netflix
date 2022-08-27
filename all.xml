@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 01:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 04:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -229,6 +229,14 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_194/WwvwP_16614769601741Gz46_JPEG/1661476466659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 택시로 레이싱 바이브 제대로 내는 유아인 | 서울대작전 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28795357</link>
+            <guid>https://tv.naver.com/v/28795357</guid>
+            <pubDate>Sat, 27 Aug 2022 04:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_42/sExre_1661526306132MQ8Ar_JPEG/1661526264270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 슬럼버랜드 | 공식 티저 예고편 | 제이슨 모모아 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28781622</link>
             <guid>https://tv.naver.com/v/28781622</guid>
@@ -445,19 +453,18 @@ Skip 절대 불가,
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_281/gkM4I_1659004682213qlePL_JPEG/1659004231696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 서울대작전 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28214043</link>
-            <guid>https://tv.naver.com/v/28214043</guid>
-            <pubDate>Fri, 29 Jul 2022 01:52:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_12/K0Usd_16589901209789xJDs_JPEG/1658989913815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 택시로 레이싱 바이브 제대로 내는 유아인 | 서울대작전 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30315129</link>
+            <guid>https://www.vlive.tv/post/1-30315129</guid>
+            <pubDate>Sat, 27 Aug 2022 04:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 절찬 스트리밍 중 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30311310</link>
             <guid>https://www.vlive.tv/post/1-30311310</guid>
             <pubDate>Fri, 26 Aug 2022 07:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 화이트 노이즈 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -582,13 +589,6 @@ Skip 절대 불가,
             <title><![CDATA[[넷플릭스] 자동차 세 대를 오가며 벌어지는 주원의 액션 | 카터 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30103804</link>
             <guid>https://www.vlive.tv/post/0-30103804</guid>
-            <pubDate>Mon, 08 Aug 2022 07:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[8.8.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 주원의 완벽한 와이어 액션 신 | 카터 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-30111307</link>
-            <guid>https://www.vlive.tv/post/1-30111307</guid>
             <pubDate>Mon, 08 Aug 2022 07:16:34 GMT</pubDate>
             <content:encoded><![CDATA[8.8.]]></content:encoded>
         </item>
