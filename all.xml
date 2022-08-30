@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 09:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 10:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,14 @@
             <pubDate>Thu, 14 Jul 2022 11:14:43 GMT</pubDate>
             <content:encoded><![CDATA[서울 강남 한복판에서 들려오는 경찰차 소리 삐융삐융경찰차를 피해 몸을 숨기며 걸어가는 한 남자! 그는 바로 잡히지 않는 자, CIA 요원 ‘그레이 맨’그리고 그를 쫓는 멈추지 않는자 소시오패스 킬러 &amp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTRfMjgw/MDAxNjU3Nzg2OTk4Nzcy.nSU3IY55q_ZTcxde51MgudYgz0YVWmqgVqow5yy6KEgg.QeUcJqB313DnuWEYrH_ZFRiq41ygMAonouq5qKA-qfAg.GIF/IHYJkC-fcrBrK9DQ2Zlvqgts7Z5Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 유아인의 한강 역주행 레이싱 (feat. 소방차) | 서울대작전 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28903642</link>
+            <guid>https://tv.naver.com/v/28903642</guid>
+            <pubDate>Tue, 30 Aug 2022 10:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_175/VvY52_16618535431768ez11_JPEG/1661853426709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 1988년 도로 레이싱, 쫓아오는 적을 따돌려라 | 서울대작전 (Netflix Korea ─ NAVER TV)]]></title>
@@ -446,19 +454,18 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_137/XSAOn_1659076762685SY4Q1_JPEG/1659076754646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 기예르모 델토로의 피노키오 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28222609</link>
-            <guid>https://tv.naver.com/v/28222609</guid>
-            <pubDate>Thu, 28 Jul 2022 11:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_84/zdvZT_1659005862671XSeTU_JPEG/1659005858896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 유아인의 한강 역주행 레이싱 (feat. 소방차) | 서울대작전 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30354441</link>
+            <guid>https://www.vlive.tv/post/1-30354441</guid>
+            <pubDate>Tue, 30 Aug 2022 10:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[15분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 1988년 도로 레이싱, 쫓아오는 적을 따돌려라 | 서울대작전 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30336320</link>
             <guid>https://www.vlive.tv/post/0-30336320</guid>
             <pubDate>Tue, 30 Aug 2022 04:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 택시로 레이싱 바이브 제대로 내는 유아인 | 서울대작전 (Netflix Korea ─ V LIVE)]]></title>
@@ -585,13 +592,6 @@
             <guid>https://www.vlive.tv/post/0-30122173</guid>
             <pubDate>Wed, 10 Aug 2022 01:28:22 GMT</pubDate>
             <content:encoded><![CDATA[8.10.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30115473</link>
-            <guid>https://www.vlive.tv/post/0-30115473</guid>
-            <pubDate>Tue, 09 Aug 2022 01:48:57 GMT</pubDate>
-            <content:encoded><![CDATA[8.9.]]></content:encoded>
         </item>
     </channel>
 </rss>
