@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 01:59:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 04:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,14 @@
             <pubDate>Tue, 19 Jul 2022 03:59:27 GMT</pubDate>
             <content:encoded><![CDATA[정우 X 박희순 X 윤진서 X 박지연&nbsp;믿고 보는 배우들 중 대표 배우들이모인 막강 캐스팅으로&nbsp;공개 전부터 많은 관심을 받고 있는넷플릭스 시리즈&nbsp;&lt;모범가족&gt;이 조합으로범죄 스릴러라니!!넷플릭스작품 비행기 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MThfMjc3/MDAxNjU4MTUyNzE1MDk2.XuFVZzP8wmo4NB8uQQyCOvTPMqBrYcdkCGnjj5ua3uog.xMHBWwfVnH6zax68kG4cyrkD2SgMZB9wUDz9zx_PNt4g.JPEG/I3v0wb1Zw_gNDjO_EDZ0OTETpsJs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 웬델 & 와일드 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29067821</link>
+            <guid>https://tv.naver.com/v/29067821</guid>
+            <pubDate>Wed, 07 Sep 2022 04:30:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_54/vmIp1_1662522376470jd9XW_JPEG/1662522225297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 캐릭터 영상 (Netflix Korea ─ NAVER TV)]]></title>
@@ -447,12 +455,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_48/kmU5C_1659403315724z3nTk_JPEG/1659403167745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 카터 | 액션 하이라이트 영상 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28297519</link>
-            <guid>https://tv.naver.com/v/28297519</guid>
-            <pubDate>Fri, 05 Aug 2022 07:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_232/9GndC_1659339874814In0R1_JPEG/1659339785190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 웬델 & 와일드 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30461943</link>
+            <guid>https://www.vlive.tv/post/1-30461943</guid>
+            <pubDate>Wed, 07 Sep 2022 04:30:25 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 캐릭터 영상 (Netflix Korea ─ V LIVE)]]></title>
@@ -584,13 +591,6 @@
             <title><![CDATA[[넷플릭스] 오로지 카리스마로 상대를 압살하는 박희순 | 모범가족 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30202381</link>
             <guid>https://www.vlive.tv/post/0-30202381</guid>
-            <pubDate>Tue, 16 Aug 2022 01:51:16 GMT</pubDate>
-            <content:encoded><![CDATA[8.16.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 수상한 돈을 세탁하러 온 정우 | 모범가족 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30202379</link>
-            <guid>https://www.vlive.tv/post/0-30202379</guid>
             <pubDate>Tue, 16 Aug 2022 01:51:16 GMT</pubDate>
             <content:encoded><![CDATA[8.16.]]></content:encoded>
         </item>
