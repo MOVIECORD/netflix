@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 12:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 13:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,14 @@
             <pubDate>Tue, 19 Jul 2022 03:59:27 GMT</pubDate>
             <content:encoded><![CDATA[정우 X 박희순 X 윤진서 X 박지연&nbsp;믿고 보는 배우들 중 대표 배우들이모인 막강 캐스팅으로&nbsp;공개 전부터 많은 관심을 받고 있는넷플릭스 시리즈&nbsp;&lt;모범가족&gt;이 조합으로범죄 스릴러라니!!넷플릭스작품 비행기 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MThfMjc3/MDAxNjU4MTUyNzE1MDk2.XuFVZzP8wmo4NB8uQQyCOvTPMqBrYcdkCGnjj5ua3uog.xMHBWwfVnH6zax68kG4cyrkD2SgMZB9wUDz9zx_PNt4g.JPEG/I3v0wb1Zw_gNDjO_EDZ0OTETpsJs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29102503</link>
+            <guid>https://tv.naver.com/v/29102503</guid>
+            <pubDate>Thu, 08 Sep 2022 13:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_77/e1RFK_1662629117527r8Bvp_JPEG/1662628598633.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 그 남자, 좋은 간호사 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -447,19 +455,18 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_84/S847Y_1659691092994i97Vk_JPEG/1659690955037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 카터 | 액션 비하인드 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28323827</link>
-            <guid>https://tv.naver.com/v/28323827</guid>
-            <pubDate>Tue, 02 Aug 2022 10:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_215/iS8sl_1659434160554OfF6G_PNG/1659434087686.png?type=f194_109_blend" length="0" type="image/png"/>
+            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30472102</link>
+            <guid>https://www.vlive.tv/post/1-30472102</guid>
+            <pubDate>Thu, 08 Sep 2022 13:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[35분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 그 남자, 좋은 간호사 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30471297</link>
             <guid>https://www.vlive.tv/post/1-30471297</guid>
             <pubDate>Thu, 08 Sep 2022 07:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 웬델 & 와일드 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -586,13 +593,6 @@
             <guid>https://www.vlive.tv/post/0-30213324</guid>
             <pubDate>Thu, 18 Aug 2022 01:51:55 GMT</pubDate>
             <content:encoded><![CDATA[8.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《코브라 카이》 시즌 5 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-30220623</link>
-            <guid>https://www.vlive.tv/post/1-30220623</guid>
-            <pubDate>Wed, 17 Aug 2022 01:57:13 GMT</pubDate>
-            <content:encoded><![CDATA[8.17.]]></content:encoded>
         </item>
     </channel>
 </rss>
