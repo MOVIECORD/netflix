@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 01:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 04:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_205/MWUdl_1662620608125HTApw_JPEG/1662620457626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 생선 팔다 위기에 처한 하정우 | 수리남 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29071390</link>
+            <guid>https://tv.naver.com/v/29071390</guid>
+            <pubDate>Sat, 10 Sep 2022 04:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_163/lxGxV_1662632105610ozYsz_JPEG/1662632099704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 웬델 & 와일드 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/29067821</link>
             <guid>https://tv.naver.com/v/29067821</guid>
@@ -448,12 +456,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_210/HZS3q_16599397117628I5Yd_JPEG/1659939505885.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 맨몸으로 배달 오토바이를 타고 도주하는 주원 | 카터 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28394910</link>
-            <guid>https://tv.naver.com/v/28394910</guid>
-            <pubDate>Fri, 05 Aug 2022 10:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_84/S847Y_1659691092994i97Vk_JPEG/1659690955037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 생선 팔다 위기에 처한 하정우 | 수리남 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30471422</link>
+            <guid>https://www.vlive.tv/post/1-30471422</guid>
+            <pubDate>Sat, 10 Sep 2022 04:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -586,13 +593,6 @@
             <link>https://www.vlive.tv/post/0-30221967</link>
             <guid>https://www.vlive.tv/post/0-30221967</guid>
             <pubDate>Thu, 18 Aug 2022 05:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[8.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 수리남 | 캐릭터 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30213324</link>
-            <guid>https://www.vlive.tv/post/0-30213324</guid>
-            <pubDate>Thu, 18 Aug 2022 01:51:55 GMT</pubDate>
             <content:encoded><![CDATA[8.18.]]></content:encoded>
         </item>
     </channel>
