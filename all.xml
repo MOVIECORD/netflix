@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 01:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 04:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,6 +232,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_205/MWUdl_1662620608125HTApw_JPEG/1662620457626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 하정우와 국정원 직원 박해수의 대립 | 수리남 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29071752</link>
+            <guid>https://tv.naver.com/v/29071752</guid>
+            <pubDate>Sun, 11 Sep 2022 04:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_23/XgeXt_1662530224084JUqHu_JPEG/1662530175232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 생선 팔다 위기에 처한 하정우 | 수리남 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/29071390</link>
             <guid>https://tv.naver.com/v/29071390</guid>
@@ -448,19 +456,18 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_294/j0hUk_1659940709185vSohf_JPEG/1659940616071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 주원의 완벽한 와이어 액션 신 | 카터 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28434354</link>
-            <guid>https://tv.naver.com/v/28434354</guid>
-            <pubDate>Mon, 08 Aug 2022 06:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_210/HZS3q_16599397117628I5Yd_JPEG/1659939505885.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 하정우와 국정원 직원 박해수의 대립 | 수리남 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30463178</link>
+            <guid>https://www.vlive.tv/post/0-30463178</guid>
+            <pubDate>Sun, 11 Sep 2022 04:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 생선 팔다 위기에 처한 하정우 | 수리남 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30471422</link>
             <guid>https://www.vlive.tv/post/1-30471422</guid>
             <pubDate>Sat, 10 Sep 2022 04:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9.10.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -585,13 +592,6 @@
             <title><![CDATA[[넷플릭스] 웬즈데이 아담스 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30230437</link>
             <guid>https://www.vlive.tv/post/1-30230437</guid>
-            <pubDate>Thu, 18 Aug 2022 05:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[8.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하트브레이크 하이 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30221967</link>
-            <guid>https://www.vlive.tv/post/0-30221967</guid>
             <pubDate>Thu, 18 Aug 2022 05:35:04 GMT</pubDate>
             <content:encoded><![CDATA[8.18.]]></content:encoded>
         </item>
