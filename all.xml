@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 02:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 04:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,7 +26,7 @@
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34446940&amp;memberNo=25425763</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34446940&amp;memberNo=25425763</guid>
             <pubDate>Thu, 08 Sep 2022 22:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[여러분많.이.놀.랬.죠?많.이.기.다.렸.죠? 미스터리 모던 추리 스릴러로많은 사랑을 받았던영화 &lt;나이브스 아웃&gt;이새로운 이야기! 새로운 추리!&nbsp;&lt;나이브스 아웃: 글래스 어니언&gt;으로 돌아온다는 소식과 ···]]></content:encoded>
+            <content:encoded><![CDATA[여러분 많.이.놀.랬.죠? 많.이.기.다.렸.죠?미스터리 모던 추리 스릴러로 많은 사랑을 받았던 영화 &lt;나이브스 아웃&gt;이 새로운 이야기! 새로운 추리! &lt;나이브스 아웃: 글래스 어니언&gt; 으로 돌아온다는 소···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDhfMTk3/MDAxNjYyNjMyMzgyOTE1.caHwAf8WFWKgGkiGZbiVjOxuYw1Ppc0Wjqb6rTu1YaEg.joOMc7U0Je-Qb9psc_7e0tHFkmvzqJo7p16WIgMwkb0g.JPEG/Ix0QVdlhSXU-I937VIR-y3kcPX14.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -460,7 +460,7 @@
             <link>https://www.vlive.tv/post/0-30462606</link>
             <guid>https://www.vlive.tv/post/0-30462606</guid>
             <pubDate>Tue, 13 Sep 2022 02:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하정우와 국정원 직원 박해수의 대립 | 수리남 (Netflix Korea ─ V LIVE)]]></title>
