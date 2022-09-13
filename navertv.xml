@@ -4,9 +4,41 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 10:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 11:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 디 익셉션 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/29171370</link>
+            <guid>https://tv.naver.com/v/29171370</guid>
+            <pubDate>Tue, 13 Sep 2022 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_161/BFVSd_1663065615909L51A4_JPEG/1663065570307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 엔터갤럭틱 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/29171355</link>
+            <guid>https://tv.naver.com/v/29171355</guid>
+            <pubDate>Tue, 13 Sep 2022 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_258/dgxde_1663065545211EOkHC_JPEG/1663065273513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수상함을 눈치 챈 황정민, 박해수는 빠져나갈 수 있을까? | 수리남]]></title>
+            <link>https://tv.naver.com/v/29171049</link>
+            <guid>https://tv.naver.com/v/29171049</guid>
+            <pubDate>Tue, 13 Sep 2022 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_27/ShQLO_1663064623503YpP0C_JPEG/1663060108938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 바스타드: 암흑의 파괴신 | 공식 예고편 2]]></title>
+            <link>https://tv.naver.com/v/29168076</link>
+            <guid>https://tv.naver.com/v/29168076</guid>
+            <pubDate>Tue, 13 Sep 2022 11:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_217/LJbIZ_1663056226159X1QYx_JPEG/1663056175054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 공식 티저 예고편]]></title>
             <link>https://tv.naver.com/v/29102503</link>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_117/wdhXz_1660613921170suOLC_JPEG/1660613917940.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 자동차 속 시체와 돈다발, 당신의 선택은? | 모범가족]]></title>
-            <link>https://tv.naver.com/v/28585594</link>
-            <guid>https://tv.naver.com/v/28585594</guid>
-            <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_241/OvoEn_16606138152009f3vp_JPEG/1660613785184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 수리남 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/28483849</link>
-            <guid>https://tv.naver.com/v/28483849</guid>
-            <pubDate>Thu, 11 Aug 2022 01:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_80/iTxAu_1660123588513dX392_JPEG/1660123583880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 서울대작전 | 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/28452959</link>
-            <guid>https://tv.naver.com/v/28452959</guid>
-            <pubDate>Wed, 10 Aug 2022 01:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_274/AIgwI_1660013792312mSG1L_JPEG/1660013526725.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/28450716</link>
-            <guid>https://tv.naver.com/v/28450716</guid>
-            <pubDate>Tue, 09 Aug 2022 01:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_283/gES62_1660008133923Y5pzK_JPEG/1660007749767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

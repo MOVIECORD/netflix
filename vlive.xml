@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-09-13T10:21:59.461Z</updated>
+    <updated>2022-09-13T11:17:38.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 디 익셉션 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-30529668</id>
+        <link href="https://www.vlive.tv/post/1-30529668"/>
+        <updated>2022-09-13T11:17:37.297Z</updated>
+        <content type="html"><![CDATA[27분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 엔터갤럭틱 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-30529600</id>
+        <link href="https://www.vlive.tv/post/1-30529600"/>
+        <updated>2022-09-13T11:17:37.298Z</updated>
+        <content type="html"><![CDATA[27분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 바스타드: 암흑의 파괴신 | 공식 예고편 2]]></title>
+        <id>https://www.vlive.tv/post/1-30528452</id>
+        <link href="https://www.vlive.tv/post/1-30528452"/>
+        <updated>2022-09-13T11:17:37.299Z</updated>
+        <content type="html"><![CDATA[28분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 수상함을 눈치 챈 황정민, 박해수는 빠져나갈 수 있을까? | 수리남]]></title>
+        <id>https://www.vlive.tv/post/0-30520272</id>
+        <link href="https://www.vlive.tv/post/0-30520272"/>
+        <updated>2022-09-13T11:17:37.300Z</updated>
+        <content type="html"><![CDATA[28분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 글리치 | 티저 예고편]]></title>
         <id>https://www.vlive.tv/post/0-30462606</id>
         <link href="https://www.vlive.tv/post/0-30462606"/>
         <updated>2022-09-13T02:01:22.524Z</updated>
-        <content type="html"><![CDATA[10시간 전]]></content>
+        <content type="html"><![CDATA[11시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 하정우와 국정원 직원 박해수의 대립 | 수리남]]></title>
@@ -116,33 +144,5 @@
         <link href="https://www.vlive.tv/post/0-30284484"/>
         <updated>2022-08-25T01:55:19.928Z</updated>
         <content type="html"><![CDATA[8.25.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 파트너 트랙 | 파트너를 향해]]></title>
-        <id>https://www.vlive.tv/post/1-30291964</id>
-        <link href="https://www.vlive.tv/post/1-30291964"/>
-        <updated>2022-08-24T04:08:30.594Z</updated>
-        <content type="html"><![CDATA[8.24.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] <페이트: 윙스의 전설> 시즌 2 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-30291955</id>
-        <link href="https://www.vlive.tv/post/1-30291955"/>
-        <updated>2022-08-24T04:08:30.595Z</updated>
-        <content type="html"><![CDATA[8.24.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 서울대작전 | 백투더 1988]]></title>
-        <id>https://www.vlive.tv/post/1-30284504</id>
-        <link href="https://www.vlive.tv/post/1-30284504"/>
-        <updated>2022-08-24T01:51:52.367Z</updated>
-        <content type="html"><![CDATA[8.24.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 티저 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-30281982</id>
-        <link href="https://www.vlive.tv/post/1-30281982"/>
-        <updated>2022-08-23T01:54:05.180Z</updated>
-        <content type="html"><![CDATA[8.23.]]></content>
     </entry>
 </feed>
