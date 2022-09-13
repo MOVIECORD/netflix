@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 23:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 02:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_205/MWUdl_1662620608125HTApw_JPEG/1662620457626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 글리치 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/29092006</link>
+            <guid>https://tv.naver.com/v/29092006</guid>
+            <pubDate>Tue, 13 Sep 2022 02:01:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_95/PN3j6_1662603862479WFK6z_JPEG/1662603337362.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 하정우와 국정원 직원 박해수의 대립 | 수리남]]></title>
             <link>https://tv.naver.com/v/29071752</link>
             <guid>https://tv.naver.com/v/29071752</guid>
@@ -37,7 +45,7 @@
             <guid>https://tv.naver.com/v/29071390</guid>
             <pubDate>Sat, 10 Sep 2022 04:17:20 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_163/lxGxV_1662632105610ozYsz_JPEG/1662632099704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_196/rC61m_1663030977858Od1VQ_JPEG/1663030974431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 웬델 & 와일드 | 공식 티저 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 Aug 2022 01:48:49 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220809_283/gES62_1660008133923Y5pzK_JPEG/1660007749767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 자동차 세 대를 오가며 벌어지는 주원의 액션 | 카터]]></title>
-            <link>https://tv.naver.com/v/28434815</link>
-            <guid>https://tv.naver.com/v/28434815</guid>
-            <pubDate>Mon, 08 Aug 2022 07:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_294/j0hUk_1659940709185vSohf_JPEG/1659940616071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
