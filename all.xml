@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 07:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,6 +214,22 @@
             <pubDate>Wed, 20 Jul 2022 03:43:39 GMT</pubDate>
             <content:encoded><![CDATA[자동 기립박수 치게 해줄 특급 소식 도착! 두구두구두구바.로.! 화려한 드리프트로 올여름을 시원하게 만들어 줄 넷플릭스 영화 &lt;서울대작전&gt; 8월 26일 공개 확정! 런칭 포스터 공개!런칭 포스터 속 ‘88···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTlfOSAg/MDAxNjU4MjM3MzMwNTAz.u86t-PvVg6q9510wKCs8vVYpzdOe_Qz8qsk_H24-rmMg.emwBKi_6NabNUYCTkvdIKg5cp6nUDEyMYZtpwuzAbp0g.JPEG/IHvHHNV58pfMvMqzaFOmviSuNRqQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 선과 악의 학교 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29191192</link>
+            <guid>https://tv.naver.com/v/29191192</guid>
+            <pubDate>Wed, 14 Sep 2022 07:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_71/lsiTu_1663139167674o3oKk_JPEG/1663139043764.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 차이나타운 보스 장첸과 목사 황정민의 첫 만남 | 수리남 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29191117</link>
+            <guid>https://tv.naver.com/v/29191117</guid>
+            <pubDate>Wed, 14 Sep 2022 07:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_195/3kwpP_1663138990411Xit8G_JPEG/1663138940441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 디 익셉션 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,48 +456,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_37/bklai_1660701084618uDUAG_JPEG/1660700965209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 오로지 카리스마로 상대를 압살하는 박희순 | 모범가족 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28585669</link>
-            <guid>https://tv.naver.com/v/28585669</guid>
-            <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_283/CBARA_1660614013721hW6Lj_JPEG/1660614011747.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 선과 악의 학교 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30545754</link>
+            <guid>https://www.vlive.tv/post/1-30545754</guid>
+            <pubDate>Wed, 14 Sep 2022 07:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 수상한 돈을 세탁하러 온 정우 | 모범가족 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28585643</link>
-            <guid>https://tv.naver.com/v/28585643</guid>
-            <pubDate>Tue, 16 Aug 2022 01:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_117/wdhXz_1660613921170suOLC_JPEG/1660613917940.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 차이나타운 보스 장첸과 목사 황정민의 첫 만남 | 수리남 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30536507</link>
+            <guid>https://www.vlive.tv/post/0-30536507</guid>
+            <pubDate>Wed, 14 Sep 2022 07:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[29분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 디 익셉션 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30529668</link>
             <guid>https://www.vlive.tv/post/1-30529668</guid>
             <pubDate>Tue, 13 Sep 2022 11:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 엔터갤럭틱 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30529600</link>
             <guid>https://www.vlive.tv/post/1-30529600</guid>
             <pubDate>Tue, 13 Sep 2022 11:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 바스타드: 암흑의 파괴신 | 공식 예고편 2 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30528452</link>
             <guid>https://www.vlive.tv/post/1-30528452</guid>
             <pubDate>Tue, 13 Sep 2022 11:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 수상함을 눈치 챈 황정민, 박해수는 빠져나갈 수 있을까? | 수리남 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30520272</link>
             <guid>https://www.vlive.tv/post/0-30520272</guid>
             <pubDate>Tue, 13 Sep 2022 11:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 글리치 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -580,20 +594,6 @@
             <guid>https://www.vlive.tv/post/1-30309651</guid>
             <pubDate>Fri, 26 Aug 2022 01:55:42 GMT</pubDate>
             <content:encoded><![CDATA[8.26.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 슬럼버랜드 | 공식 티저 예고편 | 제이슨 모모아 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30292463</link>
-            <guid>https://www.vlive.tv/post/0-30292463</guid>
-            <pubDate>Thu, 25 Aug 2022 01:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[8.25.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 수리남 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30284484</link>
-            <guid>https://www.vlive.tv/post/0-30284484</guid>
-            <pubDate>Thu, 25 Aug 2022 01:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[8.25.]]></content:encoded>
         </item>
     </channel>
 </rss>
