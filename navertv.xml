@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 04:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 프롬 스크래치 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/29242927</link>
+            <guid>https://tv.naver.com/v/29242927</guid>
+            <pubDate>Fri, 16 Sep 2022 06:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_235/gzdfc_1663307347629hOHdx_JPEG/1663307274933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수리남 | 제작기 영상]]></title>
+            <link>https://tv.naver.com/v/29242869</link>
+            <guid>https://tv.naver.com/v/29242869</guid>
+            <pubDate>Fri, 16 Sep 2022 06:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[7:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_114/1Sets_16633072336805sp8m_JPEG/1663307172407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 파산 위기에 처한 황정민, 도발하는 하정우 | 수리남]]></title>
             <link>https://tv.naver.com/v/29218735</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 24 Aug 2022 01:51:41 GMT</pubDate>
             <content:encoded><![CDATA[5:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220823_75/BQdkN_1661244929009dwxgH_JPEG/1661244926510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/28732169</link>
-            <guid>https://tv.naver.com/v/28732169</guid>
-            <pubDate>Tue, 23 Aug 2022 01:53:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_171/DNgLm_1661218144377aEKHa_JPEG/1661217970753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하트브레이크 하이 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/28638805</link>
-            <guid>https://tv.naver.com/v/28638805</guid>
-            <pubDate>Thu, 18 Aug 2022 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_89/fXrET_1660794475561ttkBy_JPEG/1660794469707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

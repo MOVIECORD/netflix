@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 04:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:05:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,22 @@
             <pubDate>Fri, 22 Jul 2022 04:45:02 GMT</pubDate>
             <content:encoded><![CDATA[드디어 오늘! 넷플릭스 영화 &lt;그레이 맨&gt; 대.공.개! 그레이 맨 맞이할 슬준 합시다~! *모르는 사람들을 위한 용어사전* 슬준 : 슬슬 준비 ▼▼지금 바로 보러가기▼▼극장 개봉 후 전 세계 영화팬들의 많은 사랑을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjJfODYg/MDAxNjU4NDU3MDMyODI4.2yRthXS0hbMXMP7_VNjOsGWkKy-vWGhN3pCHvkk_uM8g.rZFIGpXITqO1f21R-h4NB1ArqzxZ0za_nKuKWGLLZ98g.JPEG/IttXJ01kAzJxBXTnNuWLofG1Gj5Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 프롬 스크래치 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29242927</link>
+            <guid>https://tv.naver.com/v/29242927</guid>
+            <pubDate>Fri, 16 Sep 2022 06:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_235/gzdfc_1663307347629hOHdx_JPEG/1663307274933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수리남 | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29242869</link>
+            <guid>https://tv.naver.com/v/29242869</guid>
+            <pubDate>Fri, 16 Sep 2022 06:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[7:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_114/1Sets_16633072336805sp8m_JPEG/1663307172407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 파산 위기에 처한 황정민, 도발하는 하정우 | 수리남 (Netflix Korea ─ NAVER TV)]]></title>
@@ -441,34 +457,32 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220823_75/BQdkN_1661244929009dwxgH_JPEG/1661244926510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28732169</link>
-            <guid>https://tv.naver.com/v/28732169</guid>
-            <pubDate>Tue, 23 Aug 2022 01:53:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_171/DNgLm_1661218144377aEKHa_JPEG/1661217970753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 수리남 | 제작기 영상 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30562643</link>
+            <guid>https://www.vlive.tv/post/0-30562643</guid>
+            <pubDate>Fri, 16 Sep 2022 06:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 하트브레이크 하이 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28638805</link>
-            <guid>https://tv.naver.com/v/28638805</guid>
-            <pubDate>Thu, 18 Aug 2022 05:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_89/fXrET_1660794475561ttkBy_JPEG/1660794469707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 프롬 스크래치 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30562458</link>
+            <guid>https://www.vlive.tv/post/0-30562458</guid>
+            <pubDate>Fri, 16 Sep 2022 06:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 파산 위기에 처한 황정민, 도발하는 하정우 | 수리남 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30563092</link>
             <guid>https://www.vlive.tv/post/1-30563092</guid>
             <pubDate>Thu, 15 Sep 2022 08:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] Tudum: 넷플릭스 글로벌 팬 이벤트 | 공식 예고편 | 9월 24일 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30561735</link>
             <guid>https://www.vlive.tv/post/1-30561735</guid>
             <pubDate>Thu, 15 Sep 2022 06:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9.15.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 테이크 원 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -581,20 +595,6 @@
             <guid>https://www.vlive.tv/post/0-30348320</guid>
             <pubDate>Wed, 31 Aug 2022 02:11:13 GMT</pubDate>
             <content:encoded><![CDATA[8.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 유아인의 한강 역주행 레이싱 (feat. 소방차) | 서울대작전 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-30354441</link>
-            <guid>https://www.vlive.tv/post/1-30354441</guid>
-            <pubDate>Tue, 30 Aug 2022 10:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[8.30.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 1988년 도로 레이싱, 쫓아오는 적을 따돌려라 | 서울대작전 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30336320</link>
-            <guid>https://www.vlive.tv/post/0-30336320</guid>
-            <pubDate>Tue, 30 Aug 2022 04:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[8.30.]]></content:encoded>
         </item>
     </channel>
 </rss>
