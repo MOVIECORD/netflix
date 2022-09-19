@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 23:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 02:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,14 @@
             <pubDate>Fri, 22 Jul 2022 04:45:02 GMT</pubDate>
             <content:encoded><![CDATA[드디어 오늘! 넷플릭스 영화 &lt;그레이 맨&gt; 대.공.개! 그레이 맨 맞이할 슬준 합시다~! *모르는 사람들을 위한 용어사전* 슬준 : 슬슬 준비 ▼▼지금 바로 보러가기▼▼극장 개봉 후 전 세계 영화팬들의 많은 사랑을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjJfODYg/MDAxNjU4NDU3MDMyODI4.2yRthXS0hbMXMP7_VNjOsGWkKy-vWGhN3pCHvkk_uM8g.rZFIGpXITqO1f21R-h4NB1ArqzxZ0za_nKuKWGLLZ98g.JPEG/IttXJ01kAzJxBXTnNuWLofG1Gj5Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] Squid Game: The Challenge | 최종 오디션 공고 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29288564</link>
+            <guid>https://tv.naver.com/v/29288564</guid>
+            <pubDate>Mon, 19 Sep 2022 02:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220919_25/oPQnO_1663551012244vzGMo_JPEG/1663550559516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 프롬 스크래치 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -449,12 +457,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_29/FnOQA_1661309960994RbVWD_JPEG/1661309898012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 서울대작전 | 백투더 1988 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28743405</link>
-            <guid>https://tv.naver.com/v/28743405</guid>
-            <pubDate>Wed, 24 Aug 2022 01:51:41 GMT</pubDate>
-            <content:encoded><![CDATA[5:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_75/BQdkN_1661244929009dwxgH_JPEG/1661244926510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] Squid Game: The Challenge | 최종 오디션 공고 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30590677</link>
+            <guid>https://www.vlive.tv/post/0-30590677</guid>
+            <pubDate>Mon, 19 Sep 2022 02:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[33분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 수리남 | 제작기 영상 (Netflix Korea ─ V LIVE)]]></title>
@@ -586,13 +593,6 @@
             <title><![CDATA[[넷플릭스] 태국 동굴 구조작전: 리미티드 시리즈 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30353371</link>
             <guid>https://www.vlive.tv/post/0-30353371</guid>
-            <pubDate>Wed, 31 Aug 2022 02:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[8.31.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 서울대작전 | 스페셜 MV ‘MINO - CITY+++ (feat. Gaeko)’ (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30348320</link>
-            <guid>https://www.vlive.tv/post/0-30348320</guid>
             <pubDate>Wed, 31 Aug 2022 02:11:13 GMT</pubDate>
             <content:encoded><![CDATA[8.31.]]></content:encoded>
         </item>
