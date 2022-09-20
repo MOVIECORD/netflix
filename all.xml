@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 07:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,22 @@
             <pubDate>Fri, 22 Jul 2022 04:45:02 GMT</pubDate>
             <content:encoded><![CDATA[드디어 오늘! 넷플릭스 영화 &lt;그레이 맨&gt; 대.공.개! 그레이 맨 맞이할 슬준 합시다~! *모르는 사람들을 위한 용어사전* 슬준 : 슬슬 준비 ▼▼지금 바로 보러가기▼▼극장 개봉 후 전 세계 영화팬들의 많은 사랑을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjJfODYg/MDAxNjU4NDU3MDMyODI4.2yRthXS0hbMXMP7_VNjOsGWkKy-vWGhN3pCHvkk_uM8g.rZFIGpXITqO1f21R-h4NB1ArqzxZ0za_nKuKWGLLZ98g.JPEG/IttXJ01kAzJxBXTnNuWLofG1Gj5Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 리사: 어나더 그레이트 데이 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29320545</link>
+            <guid>https://tv.naver.com/v/29320545</guid>
+            <pubDate>Tue, 20 Sep 2022 07:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_157/4zC1F_1663654353520ToOXQ_JPEG/1663654182061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29320329</link>
+            <guid>https://tv.naver.com/v/29320329</guid>
+            <pubDate>Tue, 20 Sep 2022 07:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_26/QchlL_1663653934898aeHTi_JPEG/1663653932125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] Squid Game: The Challenge | 최종 오디션 공고 (Netflix Korea ─ NAVER TV)]]></title>
@@ -441,27 +457,18 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_230/yaHKC_1661320470345fTsdk_JPEG/1661320301505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 파트너 트랙 | 파트너를 향해 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28757632</link>
-            <guid>https://tv.naver.com/v/28757632</guid>
-            <pubDate>Wed, 24 Aug 2022 04:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_1/mH0Ap_1661310070850xMX1D_JPEG/1661309994462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] <페이트: 윙스의 전설> 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28757569</link>
-            <guid>https://tv.naver.com/v/28757569</guid>
-            <pubDate>Wed, 24 Aug 2022 04:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_29/FnOQA_1661309960994RbVWD_JPEG/1661309898012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 리사: 어나더 그레이트 데이 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-30610813</link>
+            <guid>https://www.vlive.tv/post/1-30610813</guid>
+            <pubDate>Tue, 20 Sep 2022 07:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30601426</link>
             <guid>https://www.vlive.tv/post/0-30601426</guid>
             <pubDate>Tue, 20 Sep 2022 06:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] Squid Game: The Challenge | 최종 오디션 공고 (Netflix Korea ─ V LIVE)]]></title>
@@ -588,13 +595,6 @@
             <guid>https://www.vlive.tv/post/1-30461943</guid>
             <pubDate>Wed, 07 Sep 2022 04:30:25 GMT</pubDate>
             <content:encoded><![CDATA[9.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 캐릭터 영상 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-30451674</link>
-            <guid>https://www.vlive.tv/post/1-30451674</guid>
-            <pubDate>Tue, 06 Sep 2022 02:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[9.6.]]></content:encoded>
         </item>
     </channel>
 </rss>

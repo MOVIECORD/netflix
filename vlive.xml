@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-09-20T06:08:36.965Z</updated>
+    <updated>2022-09-20T07:27:31.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 리사: 어나더 그레이트 데이 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-30610813</id>
+        <link href="https://www.vlive.tv/post/1-30610813"/>
+        <updated>2022-09-20T07:27:30.820Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/0-30601426</id>
         <link href="https://www.vlive.tv/post/0-30601426"/>
         <updated>2022-09-20T06:08:36.358Z</updated>
-        <content type="html"><![CDATA[2분 전]]></content>
+        <content type="html"><![CDATA[1시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] Squid Game: The Challenge | 최종 오디션 공고]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-30461943"/>
         <updated>2022-09-07T04:30:25.837Z</updated>
         <content type="html"><![CDATA[9.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 캐릭터 영상]]></title>
-        <id>https://www.vlive.tv/post/1-30451674</id>
-        <link href="https://www.vlive.tv/post/1-30451674"/>
-        <updated>2022-09-06T02:04:20.686Z</updated>
-        <content type="html"><![CDATA[9.6.]]></content>
     </entry>
 </feed>
