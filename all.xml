@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 04:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,6 +457,13 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_29/FnOQA_1661309960994RbVWD_JPEG/1661309898012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-30601426</link>
+            <guid>https://www.vlive.tv/post/0-30601426</guid>
+            <pubDate>Tue, 20 Sep 2022 06:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] Squid Game: The Challenge | 최종 오디션 공고 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-30590677</link>
             <guid>https://www.vlive.tv/post/0-30590677</guid>
@@ -588,13 +595,6 @@
             <guid>https://www.vlive.tv/post/1-30451674</guid>
             <pubDate>Tue, 06 Sep 2022 02:04:20 GMT</pubDate>
             <content:encoded><![CDATA[9.6.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 태국 동굴 구조작전: 리미티드 시리즈 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30353371</link>
-            <guid>https://www.vlive.tv/post/0-30353371</guid>
-            <pubDate>Wed, 31 Aug 2022 02:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[8.31.]]></content:encoded>
         </item>
     </channel>
 </rss>

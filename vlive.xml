@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-09-20T04:20:37.887Z</updated>
+    <updated>2022-09-20T06:08:36.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 로맨틱 킬러 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-30601426</id>
+        <link href="https://www.vlive.tv/post/0-30601426"/>
+        <updated>2022-09-20T06:08:36.358Z</updated>
+        <content type="html"><![CDATA[2분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] Squid Game: The Challenge | 최종 오디션 공고]]></title>
         <id>https://www.vlive.tv/post/0-30590677</id>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-30451674"/>
         <updated>2022-09-06T02:04:20.686Z</updated>
         <content type="html"><![CDATA[9.6.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 태국 동굴 구조작전: 리미티드 시리즈 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-30353371</id>
-        <link href="https://www.vlive.tv/post/0-30353371"/>
-        <updated>2022-08-31T02:11:13.967Z</updated>
-        <content type="html"><![CDATA[8.31.]]></content>
     </entry>
 </feed>
