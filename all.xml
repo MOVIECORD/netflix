@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MOVIECORD.github.io/netflix/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-18T02:03:45.081Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 18 Oct 2022 04:49:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마마무의 7년이 담긴 단 7분의 무대 | 테이크 원 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30014082</link>
+            <guid>https://tv.naver.com/v/30014082</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221018_123/R9lC4_1666064339821IYVM1_JPEG/1666064175285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 박정현이 한 번도 성공해본 적 없는 노래? | 테이크 원 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29980931</link>
+            <guid>https://tv.naver.com/v/29980931</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_190/z3841_1665981366995dIvUR_JPEG/1665981318726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 딱 한 곡만 부를 수 있다면 조수미의 선택은? | 테이크 원 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29916259</link>
+            <guid>https://tv.naver.com/v/29916259</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_217/Pil3w_1665968820351PwauO_JPEG/1665968818409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 악뮤의 초대형 스케일, Take 1에 끝낼 수 있을까? | 테이크 원 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29914678</link>
+            <guid>https://tv.naver.com/v/29914678</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_152/LCcyA_1665968811901Je1tG_JPEG/1665968809818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 로알드 달의 뮤지컬 마틸다 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29913654</link>
+            <guid>https://tv.naver.com/v/29913654</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_122/GgcoE_1665710326859rbFrQ_JPEG/1665710249572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 파트 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29885542</link>
+            <guid>https://tv.naver.com/v/29885542</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_4/rGdcy_1665628454550hepYt_JPEG/1665628383400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 선과 악의 학교 | 공식 예고편 2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29885429</link>
+            <guid>https://tv.naver.com/v/29885429</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_300/QJD0X_1665628127973IFHoC_JPEG/1665628113945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 테이크 원 | 무드 티저 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29855222</link>
+            <guid>https://tv.naver.com/v/29855222</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_183/uZ2Nb_1665542234091JpMiP_JPEG/1665542146699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 에놀라 홈즈 2 | 공식 예고편: 파트 2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29852843</link>
+            <guid>https://tv.naver.com/v/29852843</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221012_298/g6ayr_1665537022629uDG68_JPEG/1665536953984.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 웬델 & 와일드 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29835241</link>
+            <guid>https://tv.naver.com/v/29835241</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_224/FvJbP_1665476217556hvCo9_JPEG/1665476181929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 웬즈데이 아담스 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29835148</link>
+            <guid>https://tv.naver.com/v/29835148</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_217/UpFgF_1665476055394vXuzQ_JPEG/1665475989858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 폴링 포 크리스마스 | 린제이 로한 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29835067</link>
+            <guid>https://tv.naver.com/v/29835067</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_243/ZKzIY_1665475923898D0xen_JPEG/1665475829971.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 전여빈과 나나의 빈집 침입 | 글리치 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29804106</link>
+            <guid>https://tv.naver.com/v/29804106</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221010_82/A3HfB_1665375996788fCdgc_JPEG/1665375853716.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수상한 아줌마를 쫓던 보라가 도착한 곳은?! | 글리치 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29754938</link>
+            <guid>https://tv.naver.com/v/29754938</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_156/IfTfm_16651286003315dyIi_JPEG/1665128593454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 왜 자꾸 따라오는 거야 | 글리치 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29754618</link>
+            <guid>https://tv.naver.com/v/29754618</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_17/VqYxJ_1665125909205uAQbo_JPEG/1665125747733.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 넷플릭스 예능의 세계 | 미리보기 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29751191</link>
+            <guid>https://tv.naver.com/v/29751191</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_99/zJ3Bs_1665989891703pjOr6_JPEG/1665989888476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 슬럼버랜드 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29748420</link>
+            <guid>https://tv.naver.com/v/29748420</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_228/1YxoH_1665113997822hnDcr_JPEG/1665113867200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 편의점에 외계인이? | 글리치 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29695978</link>
+            <guid>https://tv.naver.com/v/29695978</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_59/pRgut_16649614513443qh15_JPEG/1664961287104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 20세기 소녀 I 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29681036</link>
+            <guid>https://tv.naver.com/v/29681036</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_16/uMOCC_16649366444048Dp6J_JPEG/1664936635100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 패뷸러스 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29656620</link>
+            <guid>https://tv.naver.com/v/29656620</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221004_201/ZoyFv_1664864006335PnGVb_JPEG/1664864001818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 《빅 마우스》 시즌 6 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29651406</link>
+            <guid>https://tv.naver.com/v/29651406</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221004_74/STw7g_1664854395507DbO6A_JPEG/1664854351133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 기예르모 델토로의 호기심의 방 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29651350</link>
+            <guid>https://tv.naver.com/v/29651350</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221004_141/0jj3R_1664854257111aNvUR_JPEG/1664854164522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 타이거 앤 버니 2 파트 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29592789</link>
+            <guid>https://tv.naver.com/v/29592789</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_235/nBTMN_1664536558199BvIeu_JPEG/1664535985955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 썸바디 I 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29585187</link>
+            <guid>https://tv.naver.com/v/29585187</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220930_240/8vCW1_1664518931424VxSDA_PNG/1664518551694.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 《엘리트들》 시즌 6 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29487446</link>
+            <guid>https://tv.naver.com/v/29487446</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_115/SFNuo_16642419889270QB5y_JPEG/1664241223414.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 섀도우 앤 본 | 새로운 출연진 의상 공개 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29468838</link>
+            <guid>https://tv.naver.com/v/29468838</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_184/csZGh_1664177125768cn4EC_JPEG/1664177052669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 슈퍼 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29468777</link>
+            <guid>https://tv.naver.com/v/29468777</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_22/F8oRV_1664177043605T8OqD_JPEG/1664176939376.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이코네 행복한 밥상 | 메이킹 영상: 논 크레딧 오프닝 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29467791</link>
+            <guid>https://tv.naver.com/v/29467791</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_50/UjRM5_1664175282006E4EoF_JPEG/1664175212077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 구데타마: 엄마 찾아 뒹굴뒹굴 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29467731</link>
+            <guid>https://tv.naver.com/v/29467731</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_115/z5aMV_16641751532090A4Jp_JPEG/1664174959170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 외모지상주의 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29467596</link>
+            <guid>https://tv.naver.com/v/29467596</guid>
+            <pubDate>Tue, 18 Oct 2022 04:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_212/yjwGx_1664174928301ac2kx_JPEG/1664174909308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
