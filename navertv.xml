@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 06:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/30846167</link>
+            <guid>https://tv.naver.com/v/30846167</guid>
+            <pubDate>Thu, 17 Nov 2022 06:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_266/LEkJ6_1668662972038yVbRk_JPEG/1668662864360.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/30782476</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_282/JiZyY_1666229824450dpA0j_JPEG/1666229722635.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 체인소 맨 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/30058791</link>
-            <guid>https://tv.naver.com/v/30058791</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221019_289/hAZVK_1666168505027Odg4s_JPEG/1666168431518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

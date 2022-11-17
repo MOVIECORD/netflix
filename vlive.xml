@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-11-17T05:17:08.999Z</updated>
+    <updated>2022-11-17T06:21:42.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-31108239</id>
+        <link href="https://www.vlive.tv/post/0-31108239"/>
+        <updated>2022-11-17T06:21:42.210Z</updated>
+        <content type="html"><![CDATA[51분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/1-31105269</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[[넷플릭스] 수학여행에서 나쁜 짓은 국룰 | 20세기 소녀]]></title>
         <id>https://www.vlive.tv/post/1-30964235</id>
         <link href="https://www.vlive.tv/post/1-30964235"/>
-        <updated>2022-11-16T17:30:06.062Z</updated>
-        <content type="html"><![CDATA[10.27.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 토크 서바이벌: 토크가 재밌어야 살아남는 드라마 | 시즌 2 공개일 발표]]></title>
-        <id>https://www.vlive.tv/post/0-30952299</id>
-        <link href="https://www.vlive.tv/post/0-30952299"/>
         <updated>2022-11-16T17:30:06.062Z</updated>
         <content type="html"><![CDATA[10.27.]]></content>
     </entry>

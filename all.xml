@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 06:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[힙합 + 레트로 = 힙트로 감성 제대로 선사하며 지난 금요일 공개해 화끈한 반응 얻고 있는 넷플릭스 영화 &lt;서울대작전&gt;흥과 바이브를 전파하기 위해 1988년을 넘어 2022년으로 출발! 전국을 뒤집고 다니는 중!···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjlfMTgx/MDAxNjYxNzQ3NDIwNDM1.pDnrlmBhJuARCddgxINpB3xRKhvi4BPXz7biFzxHl_Yg.If6c3qjxX5RLsIUmWaVWtTzDNhUSTRAkF_omragl58kg.JPEG/IWDoyIEzkybVwQTfsfqIIS-hXN7c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30846167</link>
+            <guid>https://tv.naver.com/v/30846167</guid>
+            <pubDate>Thu, 17 Nov 2022 06:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_266/LEkJ6_1668662972038yVbRk_JPEG/1668662864360.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -450,12 +458,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_282/JiZyY_1666229824450dpA0j_JPEG/1666229722635.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 체인소 맨 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30058791</link>
-            <guid>https://tv.naver.com/v/30058791</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221019_289/hAZVK_1666168505027Odg4s_JPEG/1666168431518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31108239</link>
+            <guid>https://www.vlive.tv/post/0-31108239</guid>
+            <pubDate>Thu, 17 Nov 2022 06:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -587,13 +594,6 @@
             <title><![CDATA[[넷플릭스] 수학여행에서 나쁜 짓은 국룰 | 20세기 소녀 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-30964235</link>
             <guid>https://www.vlive.tv/post/1-30964235</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[10.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 토크 서바이벌: 토크가 재밌어야 살아남는 드라마 | 시즌 2 공개일 발표 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-30952299</link>
-            <guid>https://www.vlive.tv/post/0-30952299</guid>
             <pubDate>Wed, 16 Nov 2022 17:30:06 GMT</pubDate>
             <content:encoded><![CDATA[10.27.]]></content:encoded>
         </item>
