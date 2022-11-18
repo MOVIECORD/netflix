@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 10:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 11:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 고등학생 천재 개발자가 만든 이상한 채팅 로봇 | 썸바디]]></title>
+            <link>https://tv.naver.com/v/30888001</link>
+            <guid>https://tv.naver.com/v/30888001</guid>
+            <pubDate>Fri, 18 Nov 2022 11:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_179/cuOCT_1668769430082tKrG9_JPEG/1668769327614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/30846167</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221020_184/bFtGO_1666230011257R6Hl6_JPEG/1666229943930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 크리스마스 위드 유 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/30076879</link>
-            <guid>https://tv.naver.com/v/30076879</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_282/JiZyY_1666229824450dpA0j_JPEG/1666229722635.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
