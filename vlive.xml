@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-11-21T01:27:34.309Z</updated>
+    <updated>2022-11-21T03:16:39.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 일곱 개의 대죄: 원망의 에든버러 파트 1 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-31134004</id>
+        <link href="https://www.vlive.tv/post/0-31134004"/>
+        <updated>2022-11-21T03:16:39.005Z</updated>
+        <content type="html"><![CDATA[23분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 《죠죠의 기묘한 모험 스톤 오션》 | 공식 예고편 #4]]></title>
+        <id>https://www.vlive.tv/post/1-31143347</id>
+        <link href="https://www.vlive.tv/post/1-31143347"/>
+        <updated>2022-11-21T03:16:39.008Z</updated>
+        <content type="html"><![CDATA[31분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 재벌가 비서였던 송중기가 막내아들로 회귀했다 l 재벌집 막내아들]]></title>
+        <id>https://www.vlive.tv/post/1-31143340</id>
+        <link href="https://www.vlive.tv/post/1-31143340"/>
+        <updated>2022-11-21T03:16:39.010Z</updated>
+        <content type="html"><![CDATA[33분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 소닉 프라임 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-31123504</id>
+        <link href="https://www.vlive.tv/post/1-31123504"/>
+        <updated>2022-11-21T03:16:39.012Z</updated>
+        <content type="html"><![CDATA[42분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 사이코패스 인간 혐오자 성윤오가 된 김영광 | 썸바디]]></title>
+        <id>https://www.vlive.tv/post/1-31143111</id>
+        <link href="https://www.vlive.tv/post/1-31143111"/>
+        <updated>2022-11-21T03:16:39.013Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 고등학생 천재 개발자가 만든 이상한 채팅 로봇 | 썸바디]]></title>
         <id>https://www.vlive.tv/post/1-31124676</id>
@@ -109,40 +144,5 @@
         <link href="https://www.vlive.tv/post/1-31048164"/>
         <updated>2022-11-16T17:30:06.056Z</updated>
         <content type="html"><![CDATA[11.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 《엘리트들》 시즌 6 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-31048167</id>
-        <link href="https://www.vlive.tv/post/1-31048167"/>
-        <updated>2022-11-16T17:30:06.062Z</updated>
-        <content type="html"><![CDATA[11.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 데드 투 미: 시즌 3 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-31038457</id>
-        <link href="https://www.vlive.tv/post/0-31038457"/>
-        <updated>2022-11-16T17:30:06.062Z</updated>
-        <content type="html"><![CDATA[11.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 공식 티저 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-31038454</id>
-        <link href="https://www.vlive.tv/post/0-31038454"/>
-        <updated>2022-11-16T17:30:06.062Z</updated>
-        <content type="html"><![CDATA[11.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 스페셜 MV 'AB6IX - Life is beautiful' | 더 패뷸러스]]></title>
-        <id>https://www.vlive.tv/post/1-30970806</id>
-        <link href="https://www.vlive.tv/post/1-30970806"/>
-        <updated>2022-11-16T17:30:06.062Z</updated>
-        <content type="html"><![CDATA[10.28.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 코리아 넘버원 | 메인 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-30956238</id>
-        <link href="https://www.vlive.tv/post/1-30956238"/>
-        <updated>2022-11-16T17:30:06.062Z</updated>
-        <content type="html"><![CDATA[10.28.]]></content>
     </entry>
 </feed>

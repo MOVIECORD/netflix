@@ -4,9 +4,41 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 01:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 03:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 원망의 에든버러 파트 1 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/30940310</link>
+            <guid>https://tv.naver.com/v/30940310</guid>
+            <pubDate>Mon, 21 Nov 2022 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_85/bcGPF_16689985274117mE51_JPEG/1668998413259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 《죠죠의 기묘한 모험 스톤 오션》 | 공식 예고편 #4]]></title>
+            <link>https://tv.naver.com/v/30940250</link>
+            <guid>https://tv.naver.com/v/30940250</guid>
+            <pubDate>Mon, 21 Nov 2022 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_223/CNTmF_1668998390740RIJ3S_JPEG/1668998350868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 재벌가 비서였던 송중기가 막내아들로 회귀했다 l 재벌집 막내아들]]></title>
+            <link>https://tv.naver.com/v/30940210</link>
+            <guid>https://tv.naver.com/v/30940210</guid>
+            <pubDate>Mon, 21 Nov 2022 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[6:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_159/fH8U2_1668998309528916b3_JPEG/1668998142115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 사이코패스 인간 혐오자 성윤오가 된 김영광 | 썸바디]]></title>
+            <link>https://tv.naver.com/v/30938476</link>
+            <guid>https://tv.naver.com/v/30938476</guid>
+            <pubDate>Mon, 21 Nov 2022 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_72/x9oD5_1668994595246UgVS2_JPEG/1668994593063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 고등학생 천재 개발자가 만든 이상한 채팅 로봇 | 썸바디]]></title>
             <link>https://tv.naver.com/v/30888001</link>
@@ -14,6 +46,14 @@
             <pubDate>Fri, 18 Nov 2022 11:14:38 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_179/cuOCT_1668769430082tKrG9_JPEG/1668769327614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 소닉 프라임 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/30879311</link>
+            <guid>https://tv.naver.com/v/30879311</guid>
+            <pubDate>Mon, 21 Nov 2022 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_146/PM2dV_16687512852873N9zE_JPEG/1668751211711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편]]></title>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221024_192/Aku9F_1666607922856OjVle_JPEG/1666607891607.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 노윤서가 좋아하는 남자의 신상을 캐는 김유정 | 20세기 소녀]]></title>
-            <link>https://tv.naver.com/v/30122790</link>
-            <guid>https://tv.naver.com/v/30122790</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_54/9lguA_1666344977040hT23d_JPEG/1666344831807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 패뷸러스 | 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/30115285</link>
-            <guid>https://tv.naver.com/v/30115285</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_10/WMcas_1666331571139yYhzE_JPEG/1666331566191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 20세기 소녀 | 보라의 관찰 작전!]]></title>
-            <link>https://tv.naver.com/v/30114405</link>
-            <guid>https://tv.naver.com/v/30114405</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_149/5S4hY_1666330023682EmIpL_JPEG/1666330018286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 크라운 | 시즌 5 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/30107165</link>
-            <guid>https://tv.naver.com/v/30107165</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_2/XSwwC_16663169850847gy2e_JPEG/1666316856290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 레이싱 드론의 한계를 찍은 비의 무대 | 테이크 원]]></title>
-            <link>https://tv.naver.com/v/30076957</link>
-            <guid>https://tv.naver.com/v/30076957</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_184/bFtGO_1666230011257R6Hl6_JPEG/1666229943930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
