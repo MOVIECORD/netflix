@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 23:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 01:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/30982172</link>
+            <guid>https://tv.naver.com/v/30982172</guid>
+            <pubDate>Wed, 23 Nov 2022 01:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_195/yayUF_1669100441657rKFH3_JPEG/1669100122131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 원망의 에든버러 파트 1 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/30940310</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221025_290/UKuZk_1666660985814OrbEK_JPEG/1666660851729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위험에 빠진 박정우를 구해주는 김유정 | 20세기 소녀]]></title>
-            <link>https://tv.naver.com/v/30188083</link>
-            <guid>https://tv.naver.com/v/30188083</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_192/Aku9F_1666607922856OjVle_JPEG/1666607891607.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

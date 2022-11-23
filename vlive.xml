@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-11-22T23:16:36.560Z</updated>
+    <updated>2022-11-23T01:19:33.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 메인 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-31142118</id>
+        <link href="https://www.vlive.tv/post/0-31142118"/>
+        <updated>2022-11-23T01:19:33.368Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 일곱 개의 대죄: 원망의 에든버러 파트 1 | 공식 예고편]]></title>
         <id>https://www.vlive.tv/post/0-31134004</id>
@@ -135,13 +142,6 @@
         <title type="html"><![CDATA[[넷플릭스] 기묘한 이야기: 퍼즐 테일즈 | 공식 게임 예고편]]></title>
         <id>https://www.vlive.tv/post/1-31048174</id>
         <link href="https://www.vlive.tv/post/1-31048174"/>
-        <updated>2022-11-16T17:30:06.056Z</updated>
-        <content type="html"><![CDATA[11.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 노엘 다이어리 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-31048164</id>
-        <link href="https://www.vlive.tv/post/1-31048164"/>
         <updated>2022-11-16T17:30:06.056Z</updated>
         <content type="html"><![CDATA[11.7.]]></content>
     </entry>
