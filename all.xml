@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 05:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 06:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,22 @@
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[“수리남엔 왜 돌아오셨습니까?” “왜긴 왜예요, 돈 벌러 왔지”한 국가를 완전히 장악한 최악의 마약 대부이자 사기꾼 그리고그를 잡기 위해 국정원과 손을 잡은 어느 평범한 사업가이윽고 막···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDFfNzYg/MDAxNjYxOTk1MzQ0OTcy.P90vipxB0H1Wr9vHZCdRtSjtpRWeV2f6GLfuXL1Anb0g.G47sIpRrXtBWcMPgF3ucnnxt3i_IviEQrrG3wVnTJqkg.JPEG/IywN4-B9u8oDD3XBGMDgUADvNBpg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 꿈의 세계 무법자가 된 제이슨 모모아 | 슬럼버랜드 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31048478</link>
+            <guid>https://tv.naver.com/v/31048478</guid>
+            <pubDate>Thu, 24 Nov 2022 06:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_190/vG2zK_1669268285774LgmEO_JPEG/1669268242627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 거대한 미스터리를 마주한 케르베로스호의 승객들 | 1899 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31048446</link>
+            <guid>https://tv.naver.com/v/31048446</guid>
+            <pubDate>Thu, 24 Nov 2022 06:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_152/YJKJ3_1669268231433vHJUl_JPEG/1669268192504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -442,20 +458,18 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221026_280/cbt4X_1666752892364av82Y_JPEG/1666752689874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 외모지상주의 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30238631</link>
-            <guid>https://tv.naver.com/v/30238631</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_279/T5hSo_166674696000315wrr_JPEG/1666746922783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 꿈의 세계 무법자가 된 제이슨 모모아 | 슬럼버랜드 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31153566</link>
+            <guid>https://www.vlive.tv/post/0-31153566</guid>
+            <pubDate>Thu, 24 Nov 2022 06:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 1899 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30203940</link>
-            <guid>https://tv.naver.com/v/30203940</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_290/UKuZk_1666660985814OrbEK_JPEG/1666660851729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 거대한 미스터리를 마주한 케르베로스호의 승객들 | 1899 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31153563</link>
+            <guid>https://www.vlive.tv/post/0-31153563</guid>
+            <pubDate>Thu, 24 Nov 2022 06:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -580,20 +594,6 @@
             <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31049197</link>
             <guid>https://www.vlive.tv/post/1-31049197</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[11.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 재벌집 막내아들 l 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-31039236</link>
-            <guid>https://www.vlive.tv/post/0-31039236</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[11.7.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 기묘한 이야기: 퍼즐 테일즈 | 공식 게임 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31048174</link>
-            <guid>https://www.vlive.tv/post/1-31048174</guid>
             <pubDate>Wed, 16 Nov 2022 17:30:06 GMT</pubDate>
             <content:encoded><![CDATA[11.7.]]></content:encoded>
         </item>

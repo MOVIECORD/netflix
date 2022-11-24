@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-11-24T05:15:18.484Z</updated>
+    <updated>2022-11-24T06:20:58.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 꿈의 세계 무법자가 된 제이슨 모모아 | 슬럼버랜드]]></title>
+        <id>https://www.vlive.tv/post/0-31153566</id>
+        <link href="https://www.vlive.tv/post/0-31153566"/>
+        <updated>2022-11-24T06:20:57.898Z</updated>
+        <content type="html"><![CDATA[41분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 거대한 미스터리를 마주한 케르베로스호의 승객들 | 1899]]></title>
+        <id>https://www.vlive.tv/post/0-31153563</id>
+        <link href="https://www.vlive.tv/post/0-31153563"/>
+        <updated>2022-11-24T06:20:57.899Z</updated>
+        <content type="html"><![CDATA[42분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 메인 예고편]]></title>
         <id>https://www.vlive.tv/post/0-31142118</id>
@@ -128,20 +142,6 @@
         <title type="html"><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 메인 예고편]]></title>
         <id>https://www.vlive.tv/post/1-31049197</id>
         <link href="https://www.vlive.tv/post/1-31049197"/>
-        <updated>2022-11-16T17:30:06.056Z</updated>
-        <content type="html"><![CDATA[11.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 재벌집 막내아들 l 공식 티저 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-31039236</id>
-        <link href="https://www.vlive.tv/post/0-31039236"/>
-        <updated>2022-11-16T17:30:06.056Z</updated>
-        <content type="html"><![CDATA[11.7.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 기묘한 이야기: 퍼즐 테일즈 | 공식 게임 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-31048174</id>
-        <link href="https://www.vlive.tv/post/1-31048174"/>
         <updated>2022-11-16T17:30:06.056Z</updated>
         <content type="html"><![CDATA[11.7.]]></content>
     </entry>
