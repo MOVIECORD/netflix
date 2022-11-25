@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 01:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 03:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/31073678</link>
+            <guid>https://tv.naver.com/v/31073678</guid>
+            <pubDate>Fri, 25 Nov 2022 03:01:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_162/NRezB_1669344151170JV5mb_JPEG/1669344095590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 꿈의 세계 무법자가 된 제이슨 모모아 | 슬럼버랜드]]></title>
             <link>https://tv.naver.com/v/31048478</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221026_108/1D4BS_1666762805294U2jOQ_JPEG/1666762803168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 갑자기 김유정의 마음에 노크하는 변우석 | 20세기 소녀]]></title>
-            <link>https://tv.naver.com/v/30241677</link>
-            <guid>https://tv.naver.com/v/30241677</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_280/cbt4X_1666752892364av82Y_JPEG/1666752689874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
