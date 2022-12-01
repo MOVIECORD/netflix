@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 23:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 01:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 글로리  | 공개일 발표]]></title>
+            <link>https://tv.naver.com/v/31218699</link>
+            <guid>https://tv.naver.com/v/31218699</guid>
+            <pubDate>Thu, 01 Dec 2022 01:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_249/ZNwIz_16697995151923MNyh_JPEG/1669799235768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 한국의 잔소리 장인 유재석을 모셨습니다 | 코리아 넘버원]]></title>
             <link>https://tv.naver.com/v/31143019</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221107_81/HLxSd_1667803425470ivJgo_JPEG/1667803375757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/30554042</link>
-            <guid>https://tv.naver.com/v/30554042</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_78/HPGwJ_1667803353214OXqJ3_JPEG/1667803222523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
