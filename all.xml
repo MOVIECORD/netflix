@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 05:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 06:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -457,39 +457,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221107_23/Y6aOQ_1667816009182f8L4c_JPEG/1667815751639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 더 글로리 | 공개일 발표 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31200851</link>
+            <guid>https://www.vlive.tv/post/0-31200851</guid>
+            <pubDate>Thu, 01 Dec 2022 06:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[48분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 이광수 김연경 진짜 남매 증거 제출합니다 | 코리아 넘버원 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31200495</link>
             <guid>https://www.vlive.tv/post/0-31200495</guid>
             <pubDate>Thu, 01 Dec 2022 04:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 김연경의 하드코어 예능 도전기 | 코리아 넘버원 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31200493</link>
             <guid>https://www.vlive.tv/post/0-31200493</guid>
             <pubDate>Thu, 01 Dec 2022 04:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이광수를 빼고는 몸개그를 논하지 말라 | 코리아 넘버원 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31209827</link>
             <guid>https://www.vlive.tv/post/1-31209827</guid>
             <pubDate>Thu, 01 Dec 2022 04:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 투 핫! 시즌 4 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31200461</link>
             <guid>https://www.vlive.tv/post/0-31200461</guid>
             <pubDate>Thu, 01 Dec 2022 04:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 에밀리, 파리에 가다 시즌 3 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31209804</link>
             <guid>https://www.vlive.tv/post/1-31209804</guid>
             <pubDate>Thu, 01 Dec 2022 04:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 한국의 잔소리 장인 유재석을 모셨습니다 | 코리아 넘버원 (Netflix Korea ─ V LIVE)]]></title>
@@ -586,13 +593,6 @@
             <title><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31105269</link>
             <guid>https://www.vlive.tv/post/1-31105269</guid>
-            <pubDate>Wed, 16 Nov 2022 17:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[11.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 솔로지옥2 | 메인 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31099399</link>
-            <guid>https://www.vlive.tv/post/1-31099399</guid>
             <pubDate>Wed, 16 Nov 2022 17:30:06 GMT</pubDate>
             <content:encoded><![CDATA[11.15.]]></content:encoded>
         </item>
