@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 01:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,14 @@
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[혹시 그거 알아요…? &lt;수리남&gt; 기다리면서 99원씩 모은 돈으로 (*깨알 어필! 공개일 9월 9일) 강남을 접수해버린 사연?“그 사람이 바로 나에요..”『&lt;수리남&gt; 인터랙티브 미디···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMjE2/MDAxNjYyMzU3Njg0NTc1.HDFW22Kv9oLXjUKdr3_wZrB3STfDC6OdnyH6syvQS0Qg.eAWGvOl916LmOeMSpNuFRlOmg34i2sN1i3t6H0ss7l8g.JPEG/I_5FPbgDz-0--ab4b3sWz4bNZP8s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 에밀리, 파리에 가다 시즌 3 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31239037</link>
+            <guid>https://tv.naver.com/v/31239037</guid>
+            <pubDate>Thu, 01 Dec 2022 03:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_37/QXV4X_1669861932119Piusp_JPEG/1669861878624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리  | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
@@ -447,14 +455,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221107_107/GvNyL_1667803523976VSHcE_JPEG/1667803439043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 데드 투 미: 시즌 3 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30554096</link>
-            <guid>https://tv.naver.com/v/30554096</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_81/HLxSd_1667803425470ivJgo_JPEG/1667803375757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 한국의 잔소리 장인 유재석을 모셨습니다 | 코리아 넘버원 (Netflix Korea ─ V LIVE)]]></title>
