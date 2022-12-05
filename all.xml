@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 05:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 06:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,30 @@
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[혹시 그거 알아요…? &lt;수리남&gt; 기다리면서 99원씩 모은 돈으로 (*깨알 어필! 공개일 9월 9일) 강남을 접수해버린 사연?“그 사람이 바로 나에요..”『&lt;수리남&gt; 인터랙티브 미디···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMjE2/MDAxNjYyMzU3Njg0NTc1.HDFW22Kv9oLXjUKdr3_wZrB3STfDC6OdnyH6syvQS0Qg.eAWGvOl916LmOeMSpNuFRlOmg34i2sN1i3t6H0ss7l8g.JPEG/I_5FPbgDz-0--ab4b3sWz4bNZP8s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이코네 행복한 밥상 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31343725</link>
+            <guid>https://tv.naver.com/v/31343725</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_254/fOm7k_16702198991268vRTF_JPEG/1670219843304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 아리스 인 보더랜드 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31343678</link>
+            <guid>https://tv.naver.com/v/31343678</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_13/v5Mym_16702198249453oeY9_JPEG/1670219807375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 위쳐: 블러드 오리진 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31343650</link>
+            <guid>https://tv.naver.com/v/31343650</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_194/sQO3i_1670219769470qKRhf_JPEG/1670219717324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립 (Netflix Korea ─ NAVER TV)]]></title>
@@ -433,35 +457,32 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_132/E8IEj_1668055358284TQlHW_JPEG/1668055289814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 티격태격 셜록과 에놀라의 말다툼 | 에놀라 홈즈 2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30649950</link>
-            <guid>https://tv.naver.com/v/30649950</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_132/yuQQW_1668055214154qvdV0_JPEG/1668055168003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 마이코네 행복한 밥상 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31228379</link>
+            <guid>https://www.vlive.tv/post/0-31228379</guid>
+            <pubDate>Mon, 05 Dec 2022 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30642844</link>
-            <guid>https://tv.naver.com/v/30642844</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_41/bT6rT_166804384122088X5D_JPEG/1668042865538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 아리스 인 보더랜드 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31228378</link>
+            <guid>https://www.vlive.tv/post/0-31228378</guid>
+            <pubDate>Mon, 05 Dec 2022 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 데블스 플랜 모집 공고 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30595853</link>
-            <guid>https://tv.naver.com/v/30595853</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_278/cxq9U_1667908095791uoUaM_JPEG/1667908084982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 위쳐: 블러드 오리진 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-31237709</link>
+            <guid>https://www.vlive.tv/post/1-31237709</guid>
+            <pubDate>Mon, 05 Dec 2022 06:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31237034</link>
             <guid>https://www.vlive.tv/post/1-31237034</guid>
             <pubDate>Mon, 05 Dec 2022 02:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -574,27 +595,6 @@
             <guid>https://www.vlive.tv/post/1-31143340</guid>
             <pubDate>Mon, 21 Nov 2022 03:16:39 GMT</pubDate>
             <content:encoded><![CDATA[11.21.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 소닉 프라임 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31123504</link>
-            <guid>https://www.vlive.tv/post/1-31123504</guid>
-            <pubDate>Mon, 21 Nov 2022 03:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[11.21.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 사이코패스 인간 혐오자 성윤오가 된 김영광 | 썸바디 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31143111</link>
-            <guid>https://www.vlive.tv/post/1-31143111</guid>
-            <pubDate>Mon, 21 Nov 2022 03:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[11.21.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 고등학생 천재 개발자가 만든 이상한 채팅 로봇 | 썸바디 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31124676</link>
-            <guid>https://www.vlive.tv/post/1-31124676</guid>
-            <pubDate>Fri, 18 Nov 2022 11:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[11.18.]]></content:encoded>
         </item>
     </channel>
 </rss>

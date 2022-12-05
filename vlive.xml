@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-12-05T05:15:03.881Z</updated>
+    <updated>2022-12-05T06:20:01.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 마이코네 행복한 밥상 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-31228379</id>
+        <link href="https://www.vlive.tv/post/0-31228379"/>
+        <updated>2022-12-05T06:20:00.475Z</updated>
+        <content type="html"><![CDATA[20분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 아리스 인 보더랜드 시즌 2 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/0-31228378</id>
+        <link href="https://www.vlive.tv/post/0-31228378"/>
+        <updated>2022-12-05T06:20:00.481Z</updated>
+        <content type="html"><![CDATA[20분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 위쳐: 블러드 오리진 | 공식 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-31237709</id>
+        <link href="https://www.vlive.tv/post/1-31237709"/>
+        <updated>2022-12-05T06:20:00.491Z</updated>
+        <content type="html"><![CDATA[21분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립]]></title>
         <id>https://www.vlive.tv/post/1-31237034</id>
         <link href="https://www.vlive.tv/post/1-31237034"/>
         <updated>2022-12-05T02:41:40.278Z</updated>
-        <content type="html"><![CDATA[3시간 전]]></content>
+        <content type="html"><![CDATA[4시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 해리와 메건 | 공식 티저 예고편]]></title>
@@ -123,26 +144,5 @@
         <link href="https://www.vlive.tv/post/1-31143340"/>
         <updated>2022-11-21T03:16:39.010Z</updated>
         <content type="html"><![CDATA[11.21.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 소닉 프라임 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/1-31123504</id>
-        <link href="https://www.vlive.tv/post/1-31123504"/>
-        <updated>2022-11-21T03:16:39.012Z</updated>
-        <content type="html"><![CDATA[11.21.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 사이코패스 인간 혐오자 성윤오가 된 김영광 | 썸바디]]></title>
-        <id>https://www.vlive.tv/post/1-31143111</id>
-        <link href="https://www.vlive.tv/post/1-31143111"/>
-        <updated>2022-11-21T03:16:39.013Z</updated>
-        <content type="html"><![CDATA[11.21.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 고등학생 천재 개발자가 만든 이상한 채팅 로봇 | 썸바디]]></title>
-        <id>https://www.vlive.tv/post/1-31124676</id>
-        <link href="https://www.vlive.tv/post/1-31124676"/>
-        <updated>2022-11-18T11:14:47.133Z</updated>
-        <content type="html"><![CDATA[11.18.]]></content>
     </entry>
 </feed>

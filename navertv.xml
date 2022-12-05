@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 05:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 06:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이코네 행복한 밥상 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/31343725</link>
+            <guid>https://tv.naver.com/v/31343725</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_254/fOm7k_16702198991268vRTF_JPEG/1670219843304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 아리스 인 보더랜드 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/31343678</link>
+            <guid>https://tv.naver.com/v/31343678</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_13/v5Mym_16702198249453oeY9_JPEG/1670219807375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 위쳐: 블러드 오리진 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/31343650</link>
+            <guid>https://tv.naver.com/v/31343650</guid>
+            <pubDate>Mon, 05 Dec 2022 06:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_194/sQO3i_1670219769470qKRhf_JPEG/1670219717324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립]]></title>
             <link>https://tv.naver.com/v/31335751</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_132/E8IEj_1668055358284TQlHW_JPEG/1668055289814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 티격태격 셜록과 에놀라의 말다툼 | 에놀라 홈즈 2]]></title>
-            <link>https://tv.naver.com/v/30649950</link>
-            <guid>https://tv.naver.com/v/30649950</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_132/yuQQW_1668055214154qvdV0_JPEG/1668055168003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/30642844</link>
-            <guid>https://tv.naver.com/v/30642844</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_41/bT6rT_166804384122088X5D_JPEG/1668042865538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 데블스 플랜 모집 공고]]></title>
-            <link>https://tv.naver.com/v/30595853</link>
-            <guid>https://tv.naver.com/v/30595853</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_278/cxq9U_1667908095791uoUaM_JPEG/1667908084982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
