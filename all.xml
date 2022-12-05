@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:41:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,6 +215,14 @@
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[혹시 그거 알아요…? &lt;수리남&gt; 기다리면서 99원씩 모은 돈으로 (*깨알 어필! 공개일 9월 9일) 강남을 접수해버린 사연?“그 사람이 바로 나에요..”『&lt;수리남&gt; 인터랙티브 미디···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMjE2/MDAxNjYyMzU3Njg0NTc1.HDFW22Kv9oLXjUKdr3_wZrB3STfDC6OdnyH6syvQS0Qg.eAWGvOl916LmOeMSpNuFRlOmg34i2sN1i3t6H0ss7l8g.JPEG/I_5FPbgDz-0--ab4b3sWz4bNZP8s.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31335751</link>
+            <guid>https://tv.naver.com/v/31335751</guid>
+            <pubDate>Mon, 05 Dec 2022 02:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_224/4UAk4_1670204524565trBRm_JPEG/1670204357054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -449,12 +457,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221108_278/cxq9U_1667908095791uoUaM_JPEG/1667908084982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30561720</link>
-            <guid>https://tv.naver.com/v/30561720</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_120/hETMR_1667817588060c9b4c_JPEG/1667817517274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-31237034</link>
+            <guid>https://www.vlive.tv/post/1-31237034</guid>
+            <pubDate>Mon, 05 Dec 2022 02:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -588,13 +595,6 @@
             <guid>https://www.vlive.tv/post/1-31124676</guid>
             <pubDate>Fri, 18 Nov 2022 11:14:47 GMT</pubDate>
             <content:encoded><![CDATA[11.18.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-31108239</link>
-            <guid>https://www.vlive.tv/post/0-31108239</guid>
-            <pubDate>Thu, 17 Nov 2022 06:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[11.17.]]></content:encoded>
         </item>
     </channel>
 </rss>
