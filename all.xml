@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 01:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 02:44:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -227,7 +227,7 @@
             <guid>https://tv.naver.com/v/31404839</guid>
             <pubDate>Thu, 08 Dec 2022 01:13:29 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_232/JEXRT_16703811386309VgM1_JPEG/1670381129405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_173/drwqd_1670462180736Bnp0C_JPEG/1670462178310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 패뷸러스 | 스페셜 심쿵 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -458,14 +458,14 @@
             <link>https://www.vlive.tv/post/0-31245175</link>
             <guid>https://www.vlive.tv/post/0-31245175</guid>
             <pubDate>Thu, 08 Dec 2022 01:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 I 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31249612</link>
             <guid>https://www.vlive.tv/post/1-31249612</guid>
             <pubDate>Thu, 08 Dec 2022 01:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 패뷸러스 | 스페셜 심쿵 예고편 (Netflix Korea ─ V LIVE)]]></title>
