@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-12-07T23:15:23.185Z</updated>
+    <updated>2022-12-08T01:13:38.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 도심을 박살내는 트롤을 피해 도망쳐라 | 트롤의 습격]]></title>
+        <id>https://www.vlive.tv/post/0-31245175</id>
+        <link href="https://www.vlive.tv/post/0-31245175"/>
+        <updated>2022-12-08T01:13:37.745Z</updated>
+        <content type="html"><![CDATA[2분 전]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 더 글로리 I 티저 예고편]]></title>
+        <id>https://www.vlive.tv/post/1-31249612</id>
+        <link href="https://www.vlive.tv/post/1-31249612"/>
+        <updated>2022-12-08T01:13:37.745Z</updated>
+        <content type="html"><![CDATA[1시간 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 더 패뷸러스 | 스페셜 심쿵 예고편]]></title>
         <id>https://www.vlive.tv/post/1-31243832</id>
         <link href="https://www.vlive.tv/post/1-31243832"/>
         <updated>2022-12-07T01:15:49.279Z</updated>
-        <content type="html"><![CDATA[23시간 전]]></content>
+        <content type="html"><![CDATA[12.7.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 해리와 메건 | 공식 예고편]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.vlive.tv/post/0-31153563"/>
         <updated>2022-11-24T06:20:57.899Z</updated>
         <content type="html"><![CDATA[11.24.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 메인 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-31142118</id>
-        <link href="https://www.vlive.tv/post/0-31142118"/>
-        <updated>2022-11-23T01:19:33.368Z</updated>
-        <content type="html"><![CDATA[11.23.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 일곱 개의 대죄: 원망의 에든버러 파트 1 | 공식 예고편]]></title>
-        <id>https://www.vlive.tv/post/0-31134004</id>
-        <link href="https://www.vlive.tv/post/0-31134004"/>
-        <updated>2022-11-21T03:16:39.005Z</updated>
-        <content type="html"><![CDATA[11.21.]]></content>
     </entry>
 </feed>
