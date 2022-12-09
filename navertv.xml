@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 08 Dec 2022 01:13:29 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_154/hLzNG_1670461762292JrKEU_JPEG/1670461656455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 새로운 캐릭터 서울의 등장 | 종이의 집: 공동경제구역 파트2]]></title>
+            <link>https://tv.naver.com/v/31411221</link>
+            <guid>https://tv.naver.com/v/31411221</guid>
+            <pubDate>Fri, 09 Dec 2022 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_20/N2zvF_1670392618558NzfxU_JPEG/1670392504995.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 I 티저 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 06:21:31 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_266/LEkJ6_1668662972038yVbRk_JPEG/1668662864360.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/30782476</link>
-            <guid>https://tv.naver.com/v/30782476</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_130/birir_1668490707850aL8bp_JPEG/1668490672284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
