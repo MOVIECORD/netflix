@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 23:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 01:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 고무탄으로 경비를 뚫고 아이를 구해야한다 | 종이의 집: 공동경제구역 파트2]]></title>
+            <link>https://tv.naver.com/v/31528222</link>
+            <guid>https://tv.naver.com/v/31528222</guid>
+            <pubDate>Mon, 12 Dec 2022 01:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_10/Ww0r6_1670807363019oKmw2_JPEG/1670807244272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 도심을 박살내는 트롤을 피해 도망쳐라 | 트롤의 습격]]></title>
             <link>https://tv.naver.com/v/31433218</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 03:16:29 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_146/PM2dV_16687512852873N9zE_JPEG/1668751211711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/30846167</link>
-            <guid>https://tv.naver.com/v/30846167</guid>
-            <pubDate>Thu, 17 Nov 2022 06:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_266/LEkJ6_1668662972038yVbRk_JPEG/1668662864360.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
