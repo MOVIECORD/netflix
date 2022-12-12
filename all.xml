@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 10:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 11:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,14 @@
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[전여빈 X 나나의 버라이어티 추적극 넷플릭스 시리즈 &lt;글리치&gt;외.친.자(외계인에 미친 자) 매력이 흘러넘치는 메인 포스터 속 지효(전여빈) X 보라(나나) 그리고둘을 지켜보는 수상한···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjJfMjY3/MDAxNjYzODM1MjM2ODgw.Ty6FtSvcmQQ80nWYbVXNA3OQNIdws8gjm3uGdFb_xqMg.zFyJCaTMidjKCG7LMwRq2bQXtjbBgwMgdeFs3Vnv_R8g.JPEG/Ie9nXmNZkyZPhxE4e1ftvsqZ0rgQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 돌아온 도쿄, 그리고 미선 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31545898</link>
+            <guid>https://tv.naver.com/v/31545898</guid>
+            <pubDate>Mon, 12 Dec 2022 11:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_173/Q9c9A_1670840790144oSTKw_JPEG/1670840689414.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고무탄으로 경비를 뚫고 아이를 구해야한다 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ NAVER TV)]]></title>
@@ -446,12 +454,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_179/cuOCT_1668769430082tKrG9_JPEG/1668769327614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 소닉 프라임 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30879311</link>
-            <guid>https://tv.naver.com/v/30879311</guid>
-            <pubDate>Mon, 21 Nov 2022 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_146/PM2dV_16687512852873N9zE_JPEG/1668751211711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 돌아온 도쿄, 그리고 미선 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-31283418</link>
+            <guid>https://www.vlive.tv/post/1-31283418</guid>
+            <pubDate>Mon, 12 Dec 2022 11:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고무탄으로 경비를 뚫고 아이를 구해야한다 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ V LIVE)]]></title>
@@ -585,13 +592,6 @@
             <guid>https://www.vlive.tv/post/1-31191434</guid>
             <pubDate>Mon, 28 Nov 2022 06:21:24 GMT</pubDate>
             <content:encoded><![CDATA[11.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31169154</link>
-            <guid>https://www.vlive.tv/post/1-31169154</guid>
-            <pubDate>Fri, 25 Nov 2022 03:01:43 GMT</pubDate>
-            <content:encoded><![CDATA[11.25.]]></content:encoded>
         </item>
     </channel>
 </rss>
