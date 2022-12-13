@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 09:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 10:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,14 @@
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[올가을여러분의 마음에 설레는 감성과 촉촉한 추억 전해줄 ❤*.(๓´͈ ˘ `͈๓).*❤ 첫사랑 관찰 로맨스 넷플릭스 영화 &lt;20세기 소녀&gt; 티저 포스터와 예고편 공개!티저 포스터 속 카메라를 들고 어딘···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjNfMTgz/MDAxNjYzOTIwNDIxODAy.xLKomO5YLdKqwtxAG4aYdhrn5YM8GPozWfAncys3Vwcg.1eMv9Hxkp-YVlQFUCrq2x5YMWMyYyAg5peyFNzEuiyAg.JPEG/Inlqt8ZxkbWyLPGLUVckPqcqdmIE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥도의 새로운 주민들을 소개합니다 | 솔로지옥 시즌2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31568051</link>
+            <guid>https://tv.naver.com/v/31568051</guid>
+            <pubDate>Tue, 13 Dec 2022 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[6:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_213/w3x1C_16709231083885R6AV_JPEG/1670923106351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이전에는 없던 피노키오를 만들다 | 기예르모 델토로의 피노키오 (Netflix Korea ─ NAVER TV)]]></title>
@@ -446,26 +454,25 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_159/fH8U2_1668998309528916b3_JPEG/1668998142115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 사이코패스 인간 혐오자 성윤오가 된 김영광 | 썸바디 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30938476</link>
-            <guid>https://tv.naver.com/v/30938476</guid>
-            <pubDate>Mon, 21 Nov 2022 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_72/x9oD5_1668994595246UgVS2_JPEG/1668994593063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 지옥도의 새로운 주민들을 소개합니다 | 솔로지옥 시즌2 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-31288303</link>
+            <guid>https://www.vlive.tv/post/1-31288303</guid>
+            <pubDate>Tue, 13 Dec 2022 10:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이전에는 없던 피노키오를 만들다 | 기예르모 델토로의 피노키오 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31275465</link>
             <guid>https://www.vlive.tv/post/0-31275465</guid>
             <pubDate>Tue, 13 Dec 2022 01:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 돌아온 도쿄, 그리고 미선 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31283418</link>
             <guid>https://www.vlive.tv/post/1-31283418</guid>
             <pubDate>Mon, 12 Dec 2022 11:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고무탄으로 경비를 뚫고 아이를 구해야한다 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ V LIVE)]]></title>
@@ -585,13 +592,6 @@
             <guid>https://www.vlive.tv/post/1-31209804</guid>
             <pubDate>Thu, 01 Dec 2022 04:20:42 GMT</pubDate>
             <content:encoded><![CDATA[12.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 한국의 잔소리 장인 유재석을 모셨습니다 | 코리아 넘버원 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-31182230</link>
-            <guid>https://www.vlive.tv/post/0-31182230</guid>
-            <pubDate>Mon, 28 Nov 2022 06:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[11.28.]]></content:encoded>
         </item>
     </channel>
 </rss>
