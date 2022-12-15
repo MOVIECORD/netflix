@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 01:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:47:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 《바이킹스: 발할라》 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/31622650</link>
+            <guid>https://tv.naver.com/v/31622650</guid>
+            <pubDate>Thu, 15 Dec 2022 02:47:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_14/TMIeE_1671068098216DBKhB_JPEG/1671068084033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 | 메인 예고편]]></title>
             <link>https://tv.naver.com/v/31592264</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Nov 2022 06:20:48 GMT</pubDate>
             <content:encoded><![CDATA[2:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_152/YJKJ3_1669268231433vHJUl_JPEG/1669268192504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/30982172</link>
-            <guid>https://tv.naver.com/v/30982172</guid>
-            <pubDate>Wed, 23 Nov 2022 01:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_195/yayUF_1669100441657rKFH3_JPEG/1669100122131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
