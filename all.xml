@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 04:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 05:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,22 @@
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[똑똑, 거기 누구 있어요? &lt;썸바디&gt;에 열광할 누군가(Somebody) 있어요-?많은 장르 팬들의 심장을 뛰게 만들 서스펜스 스릴러 넷플릭스 &lt;썸바디&gt; 거기에 더해진 김영광 배우의 이미지 변신과 개···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MzBfMTk1/MDAxNjY0NTIyMzE3Mjc5.Z89q_dzcVseMJi2LYEJQdw0Pitseux8HqpdRCrj9pe8g.8Tsm1NN4P3Dm3tI6Ka8WED1Ju7jc_CEH8K-dszN0bY8g.JPEG/IFg1OscyWPbl0LW5_-7ixQka1uCA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 이나딘의 마음을 드리블하는 신동우 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31716710</link>
+            <guid>https://tv.naver.com/v/31716710</guid>
+            <pubDate>Mon, 19 Dec 2022 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[6:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_147/pYbtW_1671425308724zX0GS_JPEG/1671425298143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 여자들의 솔직한 이상형 토크 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31716690</link>
+            <guid>https://tv.naver.com/v/31716690</guid>
+            <pubDate>Mon, 19 Dec 2022 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_129/K0cz7_16714252949373PiKU_JPEG/1671425290862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 리크루트 | 노아 센티네오와 촬영장에서 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,27 +453,25 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_62/FaiXh_1669691367933LKq70_JPEG/1669691363148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 코리아 넘버원 | 3화 하이라이트 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31071803</link>
-            <guid>https://tv.naver.com/v/31071803</guid>
-            <pubDate>Sat, 26 Nov 2022 02:49:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_50/WvAzs_166934108231835bjd_JPEG/1669341079609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 여자들의 솔직한 이상형 토크 | 솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-31322844</link>
+            <guid>https://www.vlive.tv/post/1-31322844</guid>
+            <pubDate>Mon, 19 Dec 2022 05:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 꿈의 세계 무법자가 된 제이슨 모모아 | 슬럼버랜드 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31048478</link>
-            <guid>https://tv.naver.com/v/31048478</guid>
-            <pubDate>Thu, 24 Nov 2022 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_190/vG2zK_1669268285774LgmEO_JPEG/1669268242627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 이나딘의 마음을 드리블하는 신동우 | 솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-31322841</link>
+            <guid>https://www.vlive.tv/post/1-31322841</guid>
+            <pubDate>Mon, 19 Dec 2022 05:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 리크루트 | 노아 센티네오와 촬영장에서 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31313541</link>
             <guid>https://www.vlive.tv/post/0-31313541</guid>
             <pubDate>Mon, 19 Dec 2022 03:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《바이킹스: 발할라》 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -577,20 +591,6 @@
             <guid>https://www.vlive.tv/post/1-31237034</guid>
             <pubDate>Mon, 05 Dec 2022 02:41:40 GMT</pubDate>
             <content:encoded><![CDATA[12.5.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-31205664</link>
-            <guid>https://www.vlive.tv/post/0-31205664</guid>
-            <pubDate>Fri, 02 Dec 2022 02:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[12.2.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 글로리 | 공개일 발표 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-31200851</link>
-            <guid>https://www.vlive.tv/post/0-31200851</guid>
-            <pubDate>Thu, 01 Dec 2022 06:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[12.1.]]></content:encoded>
         </item>
     </channel>
 </rss>
