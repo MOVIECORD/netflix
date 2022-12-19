@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[똑똑, 거기 누구 있어요? &lt;썸바디&gt;에 열광할 누군가(Somebody) 있어요-?많은 장르 팬들의 심장을 뛰게 만들 서스펜스 스릴러 넷플릭스 &lt;썸바디&gt; 거기에 더해진 김영광 배우의 이미지 변신과 개···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MzBfMTk1/MDAxNjY0NTIyMzE3Mjc5.Z89q_dzcVseMJi2LYEJQdw0Pitseux8HqpdRCrj9pe8g.8Tsm1NN4P3Dm3tI6Ka8WED1Ju7jc_CEH8K-dszN0bY8g.JPEG/IFg1OscyWPbl0LW5_-7ixQka1uCA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 리크루트 | 노아 센티네오와 촬영장에서 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31716616</link>
+            <guid>https://tv.naver.com/v/31716616</guid>
+            <pubDate>Mon, 19 Dec 2022 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_236/UOHps_1671418189569rFOUU_JPEG/1671418145466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《바이킹스: 발할라》 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -445,12 +453,11 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_190/vG2zK_1669268285774LgmEO_JPEG/1669268242627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 거대한 미스터리를 마주한 케르베로스호의 승객들 | 1899 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31048446</link>
-            <guid>https://tv.naver.com/v/31048446</guid>
-            <pubDate>Thu, 24 Nov 2022 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_152/YJKJ3_1669268231433vHJUl_JPEG/1669268192504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 더 리크루트 | 노아 센티네오와 촬영장에서 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31313541</link>
+            <guid>https://www.vlive.tv/post/0-31313541</guid>
+            <pubDate>Mon, 19 Dec 2022 03:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[26분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《바이킹스: 발할라》 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
@@ -583,13 +590,6 @@
             <link>https://www.vlive.tv/post/0-31200851</link>
             <guid>https://www.vlive.tv/post/0-31200851</guid>
             <pubDate>Thu, 01 Dec 2022 06:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[12.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이광수 김연경 진짜 남매 증거 제출합니다 | 코리아 넘버원 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-31200495</link>
-            <guid>https://www.vlive.tv/post/0-31200495</guid>
-            <pubDate>Thu, 01 Dec 2022 04:20:42 GMT</pubDate>
             <content:encoded><![CDATA[12.1.]]></content:encoded>
         </item>
     </channel>
