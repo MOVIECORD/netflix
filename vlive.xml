@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-12-20T07:14:26.218Z</updated>
+    <updated>2022-12-20T08:19:44.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] [선공개] 지옥도에 새로운 남자가 등장하다ㅣ솔로지옥2]]></title>
+        <id>https://www.vlive.tv/post/0-31320805</id>
+        <link href="https://www.vlive.tv/post/0-31320805"/>
+        <updated>2022-12-20T08:19:44.094Z</updated>
+        <content type="html"><![CDATA[48분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 여자들의 솔직한 이상형 토크 | 솔로지옥2]]></title>
         <id>https://www.vlive.tv/post/1-31322844</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-31237709</id>
         <link href="https://www.vlive.tv/post/1-31237709"/>
         <updated>2022-12-05T06:20:00.491Z</updated>
-        <content type="html"><![CDATA[12.5.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립]]></title>
-        <id>https://www.vlive.tv/post/1-31237034</id>
-        <link href="https://www.vlive.tv/post/1-31237034"/>
-        <updated>2022-12-05T02:41:40.278Z</updated>
         <content type="html"><![CDATA[12.5.]]></content>
     </entry>
 </feed>
