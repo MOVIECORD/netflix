@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 06:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 07:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 바람 피운 친구의 애인 참교육 한 채수빈 | 더 패뷸러스]]></title>
+            <link>https://tv.naver.com/v/31814065</link>
+            <guid>https://tv.naver.com/v/31814065</guid>
+            <pubDate>Thu, 22 Dec 2022 07:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_66/8bU5h_1671690575020aB5VX_JPEG/1671690510040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 화가 난 매들린 양수가 터지다 | 에밀리, 파리에 가다]]></title>
             <link>https://tv.naver.com/v/31806084</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Dec 2022 04:20:32 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_128/CKxBC_1669864867690E6qG0_JPEG/1669864836866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 투 핫! 시즌 4 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/31240302</link>
-            <guid>https://tv.naver.com/v/31240302</guid>
-            <pubDate>Thu, 01 Dec 2022 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_265/FFCu1_16698642014200Mwqv_JPEG/1669864078837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
