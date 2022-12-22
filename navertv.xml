@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 01:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 02:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 화가 난 매들린 양수가 터지다 | 에밀리, 파리에 가다]]></title>
+            <link>https://tv.naver.com/v/31806084</link>
+            <guid>https://tv.naver.com/v/31806084</guid>
+            <pubDate>Thu, 22 Dec 2022 02:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_59/Ea0W9_16716740468531Yhlo_JPEG/1671674012351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 한국 팬들에게 전하는 인사 | 나이브스 아웃: 글래스 어니언]]></title>
             <link>https://tv.naver.com/v/31787483</link>
@@ -22,6 +30,14 @@
             <pubDate>Wed, 21 Dec 2022 07:13:47 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_295/njPe3_1671604957762VpQKe_JPEG/1671604925702.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마성의 남자 진영에게 반해버린 슬기ㅣ솔로지옥2]]></title>
+            <link>https://tv.naver.com/v/31755786</link>
+            <guid>https://tv.naver.com/v/31755786</guid>
+            <pubDate>Thu, 22 Dec 2022 02:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_79/PRyJp_16715448686020ud2l_JPEG/1671544866152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 지옥도에 새로운 남자가 등장하다ㅣ솔로지옥2]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 01 Dec 2022 04:20:32 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_265/FFCu1_16698642014200Mwqv_JPEG/1669864078837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 에밀리, 파리에 가다 시즌 3 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/31239037</link>
-            <guid>https://tv.naver.com/v/31239037</guid>
-            <pubDate>Thu, 01 Dec 2022 03:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_37/QXV4X_1669861932119Piusp_JPEG/1669861878624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 글로리  | 공개일 발표]]></title>
-            <link>https://tv.naver.com/v/31218699</link>
-            <guid>https://tv.naver.com/v/31218699</guid>
-            <pubDate>Thu, 01 Dec 2022 01:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_249/ZNwIz_16697995151923MNyh_JPEG/1669799235768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
