@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-12-23T05:14:05.977Z</updated>
+    <updated>2022-12-23T06:19:20.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스]]></title>
+        <id>https://www.vlive.tv/post/0-31340492</id>
+        <link href="https://www.vlive.tv/post/0-31340492"/>
+        <updated>2022-12-23T06:19:19.446Z</updated>
+        <content type="html"><![CDATA[49분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 죽음의 도쿄 체이싱 | 아리스 인 보더랜드2]]></title>
         <id>https://www.vlive.tv/post/0-31339417</id>
         <link href="https://www.vlive.tv/post/0-31339417"/>
         <updated>2022-12-23T01:08:30.991Z</updated>
-        <content type="html"><![CDATA[4시간 전]]></content>
+        <content type="html"><![CDATA[5시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] [선공개] 바람 피운 친구의 애인 참교육 한 채수빈 | 더 패뷸러스]]></title>
         <id>https://www.vlive.tv/post/0-31334032</id>
         <link href="https://www.vlive.tv/post/0-31334032"/>
         <updated>2022-12-22T07:14:00.297Z</updated>
-        <content type="html"><![CDATA[22시간 전]]></content>
+        <content type="html"><![CDATA[23시간 전]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 마성의 남자 진영에게 반해버린 슬기ㅣ솔로지옥2]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.vlive.tv/post/1-31281640"/>
         <updated>2022-12-12T01:15:13.836Z</updated>
         <content type="html"><![CDATA[12.12.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 새로운 캐릭터 서울의 등장 | 종이의 집: 공동경제구역 파트2]]></title>
-        <id>https://www.vlive.tv/post/1-31249406</id>
-        <link href="https://www.vlive.tv/post/1-31249406"/>
-        <updated>2022-12-09T03:18:30.088Z</updated>
-        <content type="html"><![CDATA[12.9.]]></content>
     </entry>
 </feed>

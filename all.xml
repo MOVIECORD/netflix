@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 05:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 06:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[0:00 ━❚━━━━━━━ 10:14 ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻ 어. 느새. 부터 &lt;테이크 원&gt; 넘 멋. 쪄. ♪드디어 오늘, 라이브 뮤직쇼 &lt;테이크 원&gt; 대 공 개 ＼북-적／＼북-적／ ʕ•̫͡•ʕ•̫͡•ʔ•̫͡&amp;bull···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTJfODcg/MDAxNjY1NTY1MjI2NDQ5.vS4ZjfmtEDJrBMeW-gek_S8zJRyYSVzCZX_Hu51XZdIg.UrV8P66JIHPbsizyyL8e7ZEl9b8xbsJc0VbyCJHFBz8g.PNG/I5eF8ywBXJ2PY1mY6DJRKSJqdmQw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31839483</link>
+            <guid>https://tv.naver.com/v/31839483</guid>
+            <pubDate>Fri, 23 Dec 2022 06:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_229/JRe62_16717733612576UjvG_JPEG/1671773355611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 죽음의 도쿄 체이싱 | 아리스 인 보더랜드2 (Netflix Korea ─ NAVER TV)]]></title>
@@ -444,26 +452,25 @@ A.I. 전투용병 <정이>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_65/wvwaB_1669948480242ToAoj_JPEG/1669948233558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 이광수 김연경 진짜 남매 증거 제출합니다 | 코리아 넘버원 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31240688</link>
-            <guid>https://tv.naver.com/v/31240688</guid>
-            <pubDate>Thu, 01 Dec 2022 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_87/0UrG0_1669864923731XYFDC_JPEG/1669864886046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31340492</link>
+            <guid>https://www.vlive.tv/post/0-31340492</guid>
+            <pubDate>Fri, 23 Dec 2022 06:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[49분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 죽음의 도쿄 체이싱 | 아리스 인 보더랜드2 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31339417</link>
             <guid>https://www.vlive.tv/post/0-31339417</guid>
             <pubDate>Fri, 23 Dec 2022 01:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 바람 피운 친구의 애인 참교육 한 채수빈 | 더 패뷸러스 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31334032</link>
             <guid>https://www.vlive.tv/post/0-31334032</guid>
             <pubDate>Thu, 22 Dec 2022 07:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마성의 남자 진영에게 반해버린 슬기ㅣ솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
@@ -583,13 +590,6 @@ A.I. 전투용병 <정이>
             <guid>https://www.vlive.tv/post/1-31281640</guid>
             <pubDate>Mon, 12 Dec 2022 01:15:13 GMT</pubDate>
             <content:encoded><![CDATA[12.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 새로운 캐릭터 서울의 등장 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31249406</link>
-            <guid>https://www.vlive.tv/post/1-31249406</guid>
-            <pubDate>Fri, 09 Dec 2022 03:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[12.9.]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 05:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 06:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스]]></title>
+            <link>https://tv.naver.com/v/31839483</link>
+            <guid>https://tv.naver.com/v/31839483</guid>
+            <pubDate>Fri, 23 Dec 2022 06:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_229/JRe62_16717733612576UjvG_JPEG/1671773355611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 죽음의 도쿄 체이싱 | 아리스 인 보더랜드2]]></title>
             <link>https://tv.naver.com/v/31831447</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Dec 2022 02:47:50 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_65/wvwaB_1669948480242ToAoj_JPEG/1669948233558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이광수 김연경 진짜 남매 증거 제출합니다 | 코리아 넘버원]]></title>
-            <link>https://tv.naver.com/v/31240688</link>
-            <guid>https://tv.naver.com/v/31240688</guid>
-            <pubDate>Thu, 01 Dec 2022 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_87/0UrG0_1669864923731XYFDC_JPEG/1669864886046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
