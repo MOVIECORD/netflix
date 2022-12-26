@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 03:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 04:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,22 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[0:00 ━❚━━━━━━━ 10:14 ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻ 어. 느새. 부터 &lt;테이크 원&gt; 넘 멋. 쪄. ♪드디어 오늘, 라이브 뮤직쇼 &lt;테이크 원&gt; 대 공 개 ＼북-적／＼북-적／ ʕ•̫͡•ʕ•̫͡•ʔ•̫͡&amp;bull···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTJfODcg/MDAxNjY1NTY1MjI2NDQ5.vS4ZjfmtEDJrBMeW-gek_S8zJRyYSVzCZX_Hu51XZdIg.UrV8P66JIHPbsizyyL8e7ZEl9b8xbsJc0VbyCJHFBz8g.PNG/I5eF8ywBXJ2PY1mY6DJRKSJqdmQw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 손가락 접기 게임을 하는 지옥도 주민들 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31891137</link>
+            <guid>https://tv.naver.com/v/31891137</guid>
+            <pubDate>Mon, 26 Dec 2022 04:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_95/eARpy_1672025842024V06up_JPEG/1672025810697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 한빈 종우, 짝사랑의 순간들 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31891111</link>
+            <guid>https://tv.naver.com/v/31891111</guid>
+            <pubDate>Mon, 26 Dec 2022 04:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_106/VZ0WO_16720257896103upLu_JPEG/1672025742423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 채수빈에게 고백하는 전남친 최민호 | 더 패뷸러스 (Netflix Korea ─ NAVER TV)]]></title>
@@ -436,27 +452,25 @@ A.I. 전투용병 <정이>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_13/v5Mym_16702198249453oeY9_JPEG/1670219807375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 위쳐: 블러드 오리진 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31343650</link>
-            <guid>https://tv.naver.com/v/31343650</guid>
-            <pubDate>Mon, 05 Dec 2022 06:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_194/sQO3i_1670219769470qKRhf_JPEG/1670219717324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 손가락 접기 게임을 하는 지옥도 주민들 | 솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-31370143</link>
+            <guid>https://www.vlive.tv/post/1-31370143</guid>
+            <pubDate>Mon, 26 Dec 2022 04:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31335751</link>
-            <guid>https://tv.naver.com/v/31335751</guid>
-            <pubDate>Mon, 05 Dec 2022 02:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_224/4UAk4_1670204524565trBRm_JPEG/1670204357054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 한빈 종우, 짝사랑의 순간들 | 솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31360839</link>
+            <guid>https://www.vlive.tv/post/0-31360839</guid>
+            <pubDate>Mon, 26 Dec 2022 04:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 채수빈에게 고백하는 전남친 최민호 | 더 패뷸러스 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31360396</link>
             <guid>https://www.vlive.tv/post/0-31360396</guid>
             <pubDate>Mon, 26 Dec 2022 01:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스 (Netflix Korea ─ V LIVE)]]></title>
@@ -576,20 +590,6 @@ A.I. 전투용병 <정이>
             <guid>https://www.vlive.tv/post/1-31288303</guid>
             <pubDate>Tue, 13 Dec 2022 10:17:21 GMT</pubDate>
             <content:encoded><![CDATA[12.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이전에는 없던 피노키오를 만들다 | 기예르모 델토로의 피노키오 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-31275465</link>
-            <guid>https://www.vlive.tv/post/0-31275465</guid>
-            <pubDate>Tue, 13 Dec 2022 01:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[12.13.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 돌아온 도쿄, 그리고 미선 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31283418</link>
-            <guid>https://www.vlive.tv/post/1-31283418</guid>
-            <pubDate>Mon, 12 Dec 2022 11:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[12.12.]]></content:encoded>
         </item>
     </channel>
 </rss>
