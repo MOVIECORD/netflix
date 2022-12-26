@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 23:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 01:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 채수빈에게 고백하는 전남친 최민호 | 더 패뷸러스]]></title>
+            <link>https://tv.naver.com/v/31887487</link>
+            <guid>https://tv.naver.com/v/31887487</guid>
+            <pubDate>Mon, 26 Dec 2022 01:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_188/aqeeO_1672016529022CXEei_JPEG/1672016445045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스]]></title>
             <link>https://tv.naver.com/v/31839483</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Dec 2022 02:41:31 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_224/4UAk4_1670204524565trBRm_JPEG/1670204357054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/31272376</link>
-            <guid>https://tv.naver.com/v/31272376</guid>
-            <pubDate>Fri, 02 Dec 2022 02:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_65/wvwaB_1669948480242ToAoj_JPEG/1669948233558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

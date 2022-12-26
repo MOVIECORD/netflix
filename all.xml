@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 23:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 01:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[0:00 ━❚━━━━━━━ 10:14 ⇆ ⠀⠀⠀⠀⠀◃ ❚❚ ▹ ⠀⠀⠀⠀ ↻ 어. 느새. 부터 &lt;테이크 원&gt; 넘 멋. 쪄. ♪드디어 오늘, 라이브 뮤직쇼 &lt;테이크 원&gt; 대 공 개 ＼북-적／＼북-적／ ʕ•̫͡•ʕ•̫͡•ʔ•̫͡&amp;bull···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTJfODcg/MDAxNjY1NTY1MjI2NDQ5.vS4ZjfmtEDJrBMeW-gek_S8zJRyYSVzCZX_Hu51XZdIg.UrV8P66JIHPbsizyyL8e7ZEl9b8xbsJc0VbyCJHFBz8g.PNG/I5eF8ywBXJ2PY1mY6DJRKSJqdmQw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 채수빈에게 고백하는 전남친 최민호 | 더 패뷸러스 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31887487</link>
+            <guid>https://tv.naver.com/v/31887487</guid>
+            <pubDate>Mon, 26 Dec 2022 01:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_188/aqeeO_1672016529022CXEei_JPEG/1672016445045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스 (Netflix Korea ─ NAVER TV)]]></title>
@@ -444,12 +452,11 @@ A.I. 전투용병 <정이>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_224/4UAk4_1670204524565trBRm_JPEG/1670204357054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31272376</link>
-            <guid>https://tv.naver.com/v/31272376</guid>
-            <pubDate>Fri, 02 Dec 2022 02:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_65/wvwaB_1669948480242ToAoj_JPEG/1669948233558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 채수빈에게 고백하는 전남친 최민호 | 더 패뷸러스 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/0-31360396</link>
+            <guid>https://www.vlive.tv/post/0-31360396</guid>
+            <pubDate>Mon, 26 Dec 2022 01:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스 (Netflix Korea ─ V LIVE)]]></title>
@@ -582,13 +589,6 @@ A.I. 전투용병 <정이>
             <link>https://www.vlive.tv/post/1-31283418</link>
             <guid>https://www.vlive.tv/post/1-31283418</guid>
             <pubDate>Mon, 12 Dec 2022 11:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[12.12.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 고무탄으로 경비를 뚫고 아이를 구해야한다 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31281640</link>
-            <guid>https://www.vlive.tv/post/1-31281640</guid>
-            <pubDate>Mon, 12 Dec 2022 01:15:13 GMT</pubDate>
             <content:encoded><![CDATA[12.12.]]></content:encoded>
         </item>
     </channel>

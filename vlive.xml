@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/C077D7/board/5513?lang=ko</id>
     <title>Netflix Korea ─ V LIVE</title>
-    <updated>2022-12-25T23:15:40.170Z</updated>
+    <updated>2022-12-26T01:11:01.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[넷플릭스] 채수빈에게 고백하는 전남친 최민호 | 더 패뷸러스]]></title>
+        <id>https://www.vlive.tv/post/0-31360396</id>
+        <link href="https://www.vlive.tv/post/0-31360396"/>
+        <updated>2022-12-26T01:11:00.605Z</updated>
+        <content type="html"><![CDATA[8분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스]]></title>
         <id>https://www.vlive.tv/post/0-31340492</id>
@@ -136,13 +143,6 @@
         <id>https://www.vlive.tv/post/1-31283418</id>
         <link href="https://www.vlive.tv/post/1-31283418"/>
         <updated>2022-12-12T11:13:11.147Z</updated>
-        <content type="html"><![CDATA[12.12.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[넷플릭스] 고무탄으로 경비를 뚫고 아이를 구해야한다 | 종이의 집: 공동경제구역 파트2]]></title>
-        <id>https://www.vlive.tv/post/1-31281640</id>
-        <link href="https://www.vlive.tv/post/1-31281640"/>
-        <updated>2022-12-12T01:15:13.836Z</updated>
         <content type="html"><![CDATA[12.12.]]></content>
     </entry>
 </feed>
