@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 23:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 01:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -218,6 +218,14 @@ A.I. 전투용병 <정이>
             <pubDate>Mon, 26 Dec 2022 10:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_219/b163z_1672048952838AdJy6_JPEG/1672048919970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 피지컬: 100 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31897530</link>
+            <guid>https://tv.naver.com/v/31897530</guid>
+            <pubDate>Tue, 27 Dec 2022 01:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_191/Ivjb5_1672102513585h32U0_JPEG/1672102510356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '승희 - MY FINALE' | 더 패뷸러스 (Netflix Korea ─ NAVER TV)]]></title>
@@ -444,47 +452,46 @@ A.I. 전투용병 <정이>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_25/Y2M0p_16703088641788pgGk_JPEG/1670308699771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31369991</link>
-            <guid>https://tv.naver.com/v/31369991</guid>
-            <pubDate>Tue, 06 Dec 2022 02:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_286/kLH1o_1670291266421Kztep_JPEG/1670291233652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 피지컬: 100 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-31371120</link>
+            <guid>https://www.vlive.tv/post/1-31371120</guid>
+            <pubDate>Tue, 27 Dec 2022 01:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 슬기와 진영의 천국도 수영장 로맨스 | 솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31371873</link>
             <guid>https://www.vlive.tv/post/1-31371873</guid>
             <pubDate>Mon, 26 Dec 2022 10:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '승희 - MY FINALE' | 더 패뷸러스 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31361638</link>
             <guid>https://www.vlive.tv/post/0-31361638</guid>
             <pubDate>Mon, 26 Dec 2022 07:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 손가락 접기 게임을 하는 지옥도 주민들 | 솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31370143</link>
             <guid>https://www.vlive.tv/post/1-31370143</guid>
             <pubDate>Mon, 26 Dec 2022 04:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 한빈 종우, 짝사랑의 순간들 | 솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31360839</link>
             <guid>https://www.vlive.tv/post/0-31360839</guid>
             <pubDate>Mon, 26 Dec 2022 04:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 채수빈에게 고백하는 전남친 최민호 | 더 패뷸러스 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31360396</link>
             <guid>https://www.vlive.tv/post/0-31360396</guid>
             <pubDate>Mon, 26 Dec 2022 01:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.26.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스 (Netflix Korea ─ V LIVE)]]></title>
@@ -583,13 +590,6 @@ A.I. 전투용병 <정이>
             <guid>https://www.vlive.tv/post/1-31293699</guid>
             <pubDate>Thu, 15 Dec 2022 01:15:45 GMT</pubDate>
             <content:encoded><![CDATA[12.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지니 & 조지아 시즌 2 | 공식 예고편 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/0-31284100</link>
-            <guid>https://www.vlive.tv/post/0-31284100</guid>
-            <pubDate>Wed, 14 Dec 2022 01:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[12.14.]]></content:encoded>
         </item>
     </channel>
 </rss>

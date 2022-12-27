@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 23:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 01:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 26 Dec 2022 10:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_219/b163z_1672048952838AdJy6_JPEG/1672048919970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 피지컬: 100 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/31897530</link>
+            <guid>https://tv.naver.com/v/31897530</guid>
+            <pubDate>Tue, 27 Dec 2022 01:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_191/Ivjb5_1672102513585h32U0_JPEG/1672102510356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '승희 - MY FINALE' | 더 패뷸러스]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 01:15:39 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_25/Y2M0p_16703088641788pgGk_JPEG/1670308699771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/31369991</link>
-            <guid>https://tv.naver.com/v/31369991</guid>
-            <pubDate>Tue, 06 Dec 2022 02:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_286/kLH1o_1670291266421Kztep_JPEG/1670291233652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
