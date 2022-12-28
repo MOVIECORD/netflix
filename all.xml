@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 09:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 10:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -396,7 +396,7 @@ A.I. 전투용병 <정이>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_14/TMIeE_1671068098216DBKhB_JPEG/1671068084033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 더 글로리 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <title><![CDATA[[넷플릭스] 더 글로리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31592264</link>
             <guid>https://tv.naver.com/v/31592264</guid>
             <pubDate>Thu, 15 Dec 2022 01:15:33 GMT</pubDate>
@@ -456,21 +456,21 @@ A.I. 전투용병 <정이>
             <link>https://www.vlive.tv/post/0-31373651</link>
             <guid>https://www.vlive.tv/post/0-31373651</guid>
             <pubDate>Wed, 28 Dec 2022 02:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 앨피에게 노래로 고백하는 에밀리 | 에밀리, 파리에 가다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31373648</link>
             <guid>https://www.vlive.tv/post/0-31373648</guid>
             <pubDate>Wed, 28 Dec 2022 02:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 | 비극적 영광의 시작 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/1-31377997</link>
             <guid>https://www.vlive.tv/post/1-31377997</guid>
             <pubDate>Wed, 28 Dec 2022 01:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 피지컬: 100 | 티저 예고편 (Netflix Korea ─ V LIVE)]]></title>
