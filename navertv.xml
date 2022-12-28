@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 01:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 02:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 슬기와 천국도에 간 진영, 그리고 종우 | 솔로지옥2]]></title>
+            <link>https://tv.naver.com/v/31942204</link>
+            <guid>https://tv.naver.com/v/31942204</guid>
+            <pubDate>Wed, 28 Dec 2022 02:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[6:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_151/fKcrJ_1672190215556KVKmL_JPEG/1672190175562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 앨피에게 노래로 고백하는 에밀리 | 에밀리, 파리에 가다]]></title>
+            <link>https://tv.naver.com/v/31942174</link>
+            <guid>https://tv.naver.com/v/31942174</guid>
+            <pubDate>Wed, 28 Dec 2022 02:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_45/T7Lnz_1672190156593POrKv_JPEG/1672190113977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 | 비극적 영광의 시작]]></title>
             <link>https://tv.naver.com/v/31928089</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 12 Dec 2022 01:15:02 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_10/Ww0r6_1670807363019oKmw2_JPEG/1670807244272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 도심을 박살내는 트롤을 피해 도망쳐라 | 트롤의 습격]]></title>
-            <link>https://tv.naver.com/v/31433218</link>
-            <guid>https://tv.naver.com/v/31433218</guid>
-            <pubDate>Thu, 08 Dec 2022 01:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_154/hLzNG_1670461762292JrKEU_JPEG/1670461656455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 새로운 캐릭터 서울의 등장 | 종이의 집: 공동경제구역 파트2]]></title>
-            <link>https://tv.naver.com/v/31411221</link>
-            <guid>https://tv.naver.com/v/31411221</guid>
-            <pubDate>Fri, 09 Dec 2022 03:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_20/N2zvF_1670392618558NzfxU_JPEG/1670392504995.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
