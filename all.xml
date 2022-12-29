@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 01:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 02:37:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,22 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[지난주 공개 이후, 참신한 기획 &amp; 전율 돋는 라이브로 네티즌들의 감탄을 자아낸 넷플릭스 예능 &lt;테이크 원&gt;그런데 잠깐! “이건 시작에 불과했다” N E W 소 식 &lt;테이크 원&gt;의 여운을 이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjFfMTU1/MDAxNjY2MzE0OTkyNDk0.XAabbOLCtX9cXN0_yOlFiwbq0m_Z8V7fo2_zTc3tpCYg.nzMQzREl0c5okekLfuMfyHHx2BTOJHLibO8gT5iGA8Ig.JPEG/ISNL2qsbB27BiNzF39IKQUD4nPXQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 아리스와 우사기, 습격을 당하다 | 아리스 인 보더랜드2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31972182</link>
+            <guid>https://tv.naver.com/v/31972182</guid>
+            <pubDate>Thu, 29 Dec 2022 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_220/1HhTw_1672278996101gdQQP_JPEG/1672278940281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 하이라이트 클립 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31956735</link>
+            <guid>https://tv.naver.com/v/31956735</guid>
+            <pubDate>Thu, 29 Dec 2022 02:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_141/RvT3m_1672221711229IJOz7_JPEG/1672221704771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 슬기와 천국도에 간 진영, 그리고 종우 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
@@ -436,34 +452,25 @@ A.I. 전투용병 <정이>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_110/1L8HU_1670856571969QS0n0_JPEG/1670856511250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 돌아온 도쿄, 그리고 미선 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31545898</link>
-            <guid>https://tv.naver.com/v/31545898</guid>
-            <pubDate>Mon, 12 Dec 2022 11:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_173/Q9c9A_1670840790144oSTKw_JPEG/1670840689414.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 고무탄으로 경비를 뚫고 아이를 구해야한다 | 종이의 집: 공동경제구역 파트2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31528222</link>
-            <guid>https://tv.naver.com/v/31528222</guid>
-            <pubDate>Mon, 12 Dec 2022 01:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_10/Ww0r6_1670807363019oKmw2_JPEG/1670807244272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[넷플릭스] 아리스와 우사기, 습격을 당하다 | 아리스 인 보더랜드2 (Netflix Korea ─ V LIVE)]]></title>
+            <link>https://www.vlive.tv/post/1-31390248</link>
+            <guid>https://www.vlive.tv/post/1-31390248</guid>
+            <pubDate>Thu, 29 Dec 2022 02:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 슬기와 천국도에 간 진영, 그리고 종우 | 솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31373651</link>
             <guid>https://www.vlive.tv/post/0-31373651</guid>
             <pubDate>Wed, 28 Dec 2022 02:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.28.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 앨피에게 노래로 고백하는 에밀리 | 에밀리, 파리에 가다 (Netflix Korea ─ V LIVE)]]></title>
             <link>https://www.vlive.tv/post/0-31373648</link>
             <guid>https://www.vlive.tv/post/0-31373648</guid>
             <pubDate>Wed, 28 Dec 2022 02:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[12.28.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 | 비극적 영광의 시작 (Netflix Korea ─ V LIVE)]]></title>
@@ -583,13 +590,6 @@ A.I. 전투용병 <정이>
             <guid>https://www.vlive.tv/post/0-31320805</guid>
             <pubDate>Tue, 20 Dec 2022 08:19:44 GMT</pubDate>
             <content:encoded><![CDATA[12.20.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 여자들의 솔직한 이상형 토크 | 솔로지옥2 (Netflix Korea ─ V LIVE)]]></title>
-            <link>https://www.vlive.tv/post/1-31322844</link>
-            <guid>https://www.vlive.tv/post/1-31322844</guid>
-            <pubDate>Mon, 19 Dec 2022 05:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[12.19.]]></content:encoded>
         </item>
     </channel>
 </rss>
