@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 03:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 04:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 슬기와 계속 붙어있는 진영, 지켜보는 종우 | 솔로지옥2]]></title>
+            <link>https://tv.naver.com/v/32000474</link>
+            <guid>https://tv.naver.com/v/32000474</guid>
+            <pubDate>Fri, 30 Dec 2022 04:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[5:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_149/Fx6MG_16723735706957TCka_JPEG/1672373539415.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 진영, 한빈, 나딘 직업 공개 | 솔로지옥2]]></title>
             <link>https://tv.naver.com/v/31996363</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 01:15:33 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_87/V77eK_1670982567949jTnGi_JPEG/1670982469462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지니 & 조지아 시즌 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/31591243</link>
-            <guid>https://tv.naver.com/v/31591243</guid>
-            <pubDate>Wed, 14 Dec 2022 01:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_43/wc9k8_1670980002825YDgnM_JPEG/1670979927143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
