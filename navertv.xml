@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 01:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 02:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 진영, 한빈, 나딘 직업 공개 | 솔로지옥2]]></title>
+            <link>https://tv.naver.com/v/31996363</link>
+            <guid>https://tv.naver.com/v/31996363</guid>
+            <pubDate>Fri, 30 Dec 2022 02:37:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_131/Veq6t_1672362735254chEVy_JPEG/1672362695555.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 채수빈과 단 둘만 있고 싶었던 최민호 | 더 패뷸러스]]></title>
             <link>https://tv.naver.com/v/31982138</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Dec 2022 01:13:56 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_43/wc9k8_1670980002825YDgnM_JPEG/1670979927143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 치히로 상 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/31591169</link>
-            <guid>https://tv.naver.com/v/31591169</guid>
-            <pubDate>Wed, 14 Dec 2022 01:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_165/Ej5hm_1670979724548bz7en_JPEG/1670979526128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
