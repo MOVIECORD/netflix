@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 07:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 08:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 29 Dec 2022 08:19:07 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221229_265/JJN98_1672300230859Cav8v_JPEG/1672300228562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 학교폭력 가해자들 앞에 선 송혜교 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/31981233</link>
+            <guid>https://tv.naver.com/v/31981233</guid>
+            <pubDate>Sat, 31 Dec 2022 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_94/bwzhp_1672298747195eRboY_JPEG/1672298698259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 아리스와 우사기, 습격을 당하다 | 아리스 인 보더랜드2]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 02:47:20 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_14/TMIeE_1671068098216DBKhB_JPEG/1671068084033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 글로리 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/31592264</link>
-            <guid>https://tv.naver.com/v/31592264</guid>
-            <pubDate>Thu, 15 Dec 2022 01:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_87/V77eK_1670982567949jTnGi_JPEG/1670982469462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
