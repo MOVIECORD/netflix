@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 01:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 02:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 30 Dec 2022 02:37:08 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_131/Veq6t_1672362735254chEVy_JPEG/1672362695555.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] "니가 살길은 하나야" 송혜교의 가해자 참교육 I 더 글로리]]></title>
+            <link>https://tv.naver.com/v/31984463</link>
+            <guid>https://tv.naver.com/v/31984463</guid>
+            <pubDate>Mon, 02 Jan 2023 02:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_102/bFFIO_1672305358392xHGAU_JPEG/1672305310506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 채수빈과 단 둘만 있고 싶었던 최민호 | 더 패뷸러스]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 05:14:18 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_129/K0cz7_16714252949373PiKU_JPEG/1671425290862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 리크루트 | 노아 센티네오와 촬영장에서]]></title>
-            <link>https://tv.naver.com/v/31716616</link>
-            <guid>https://tv.naver.com/v/31716616</guid>
-            <pubDate>Mon, 19 Dec 2022 03:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_236/UOHps_1671418189569rFOUU_JPEG/1671418145466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
