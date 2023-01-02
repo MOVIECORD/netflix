@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 23:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 01:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 학창시절 자신을 괴롭혔던 임지연을 기다린 송혜교 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/32046118</link>
+            <guid>https://tv.naver.com/v/32046118</guid>
+            <pubDate>Mon, 02 Jan 2023 01:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_58/SARMz_16726215981661XlnC_JPEG/1672621508194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 슬기와 계속 붙어있는 진영, 지켜보는 종우 | 솔로지옥2]]></title>
             <link>https://tv.naver.com/v/32000474</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 03:16:05 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_236/UOHps_1671418189569rFOUU_JPEG/1671418145466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《바이킹스: 발할라》 시즌 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/31622650</link>
-            <guid>https://tv.naver.com/v/31622650</guid>
-            <pubDate>Thu, 15 Dec 2022 02:47:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_14/TMIeE_1671068098216DBKhB_JPEG/1671068084033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
