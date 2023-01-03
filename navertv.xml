@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 01:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 02:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 회개했다는 가해자를 찾아온 송혜교 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/32073844</link>
+            <guid>https://tv.naver.com/v/32073844</guid>
+            <pubDate>Tue, 03 Jan 2023 02:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_167/WnqON_1672709889658zjNFl_JPEG/1672709656671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 학창시절 자신을 괴롭혔던 임지연을 기다린 송혜교 | 더 글로리]]></title>
             <link>https://tv.naver.com/v/32046118</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 05:14:18 GMT</pubDate>
             <content:encoded><![CDATA[6:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_147/pYbtW_1671425308724zX0GS_JPEG/1671425298143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 여자들의 솔직한 이상형 토크 | 솔로지옥2]]></title>
-            <link>https://tv.naver.com/v/31716690</link>
-            <guid>https://tv.naver.com/v/31716690</guid>
-            <pubDate>Mon, 19 Dec 2022 05:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_129/K0cz7_16714252949373PiKU_JPEG/1671425290862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
