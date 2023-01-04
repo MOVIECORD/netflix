@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 03:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 04:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,6 +209,14 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[패션(Fashion)이라 쓰고 열정(Passion)이라고 읽는 패션계에서 까이고 치이고 흔들려도 계속해서 직진하는 청춘들이 모였다!넷플릭스 시리즈 &lt;더 패뷸러스&gt; 메인 포스터와 예고편 공개!채수빈···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjNfMjc1/MDAxNjY2NTE4MzY3Mjk2.LOAWXdM96kUxAG54G4hM0LhTaZT-HOMshcwu_QZonNwg.oYzyV2cJ4A0sdisdoCqH0-hwpBADp1l2mGgn2Kpj510g.JPEG/IbhXJe3NQWoY9ZBehb-cKiBxWKJs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 슬기를 떠난 진영, 틈을 노리는 종우 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32107802</link>
+            <guid>https://tv.naver.com/v/32107802</guid>
+            <pubDate>Wed, 04 Jan 2023 04:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[5:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_184/wcw3P_1672803722697EsYKT_JPEG/1672803694856.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《지니 & 조지아》 시즌 2 | 시즌 1 지난 줄거리 (Netflix Korea ─ NAVER TV)]]></title>
@@ -441,14 +449,6 @@ A.I. 전투용병 <정이>
             <pubDate>Thu, 22 Dec 2022 02:36:18 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_59/Ea0W9_16716740468531Yhlo_JPEG/1671674012351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 한국 팬들에게 전하는 인사 | 나이브스 아웃: 글래스 어니언 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31787483</link>
-            <guid>https://tv.naver.com/v/31787483</guid>
-            <pubDate>Wed, 21 Dec 2022 08:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_141/d54nQ_1671610107937ord9s_JPEG/1671609886176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 03:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 04:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 슬기를 떠난 진영, 틈을 노리는 종우 | 솔로지옥2]]></title>
+            <link>https://tv.naver.com/v/32107802</link>
+            <guid>https://tv.naver.com/v/32107802</guid>
+            <pubDate>Wed, 04 Jan 2023 04:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[5:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_184/wcw3P_1672803722697EsYKT_JPEG/1672803694856.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 《지니 & 조지아》 시즌 2 | 시즌 1 지난 줄거리]]></title>
             <link>https://tv.naver.com/v/32077496</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Dec 2022 02:36:18 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_59/Ea0W9_16716740468531Yhlo_JPEG/1671674012351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 한국 팬들에게 전하는 인사 | 나이브스 아웃: 글래스 어니언]]></title>
-            <link>https://tv.naver.com/v/31787483</link>
-            <guid>https://tv.naver.com/v/31787483</guid>
-            <pubDate>Wed, 21 Dec 2022 08:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_141/d54nQ_1671610107937ord9s_JPEG/1671609886176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
