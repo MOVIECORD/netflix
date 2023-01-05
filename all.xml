@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 06:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 07:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 16 Nov 2022 17:29:48 GMT</pubDate>
             <content:encoded><![CDATA[“나이브스 아웃 좋아하지마”“그게 뭔데”“나이브스 아웃 좋아하지말라고”“그거 어떻게 하는건데” 방금 도착한따끈~따끈한 New 소식(ง˙∇˙)ว!올 겨울 여러분의 번뜩이는 추리력을&nbsp;찐~하게 자극할&nbsp;&lt;나이브스 아웃: 글···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjhfMjEy/MDAxNjY2OTIzMjQ2NzE3.D_fc3NlRTyJYFNMMDhcgzUDwT_oC2LVXXnvza59oYG8g.VikpUOwEhA4cCzx_Q9afUrKcjCnqhdOCqLg-4ulYUEEg.PNG/IGS3_J1cdINO83ba78WzYY8ScPLs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 새로운 출연자 세준의 등장, 그리고 소이 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32144295</link>
+            <guid>https://tv.naver.com/v/32144295</guid>
+            <pubDate>Thu, 05 Jan 2023 07:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_24/aRuKt_1672899604176y9M4z_JPEG/1672899585281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 정이 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,14 +448,6 @@ A.I. 전투용병 <정이>
             <pubDate>Fri, 23 Dec 2022 01:08:21 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_155/du8CW_1671754998985X1uNB_JPEG/1671754978886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 바람 피운 친구의 애인 참교육 한 채수빈 | 더 패뷸러스 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31814065</link>
-            <guid>https://tv.naver.com/v/31814065</guid>
-            <pubDate>Thu, 22 Dec 2022 07:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_66/8bU5h_1671690575020aB5VX_JPEG/1671690510040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
