@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 23:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 01:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 정이 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32109231</link>
+            <guid>https://tv.naver.com/v/32109231</guid>
+            <pubDate>Thu, 05 Jan 2023 01:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_223/8CI0q_1672807222376V0Cz8_JPEG/1672803111065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 슬기를 떠난 진영, 틈을 노리는 종우 | 솔로지옥2]]></title>
             <link>https://tv.naver.com/v/32107802</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Dec 2022 07:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_66/8bU5h_1671690575020aB5VX_JPEG/1671690510040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 화가 난 매들린 양수가 터지다 | 에밀리, 파리에 가다]]></title>
-            <link>https://tv.naver.com/v/31806084</link>
-            <guid>https://tv.naver.com/v/31806084</guid>
-            <pubDate>Thu, 22 Dec 2022 02:36:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_59/Ea0W9_16716740468531Yhlo_JPEG/1671674012351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
