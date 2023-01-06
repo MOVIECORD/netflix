@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 04:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 05:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 브레이크 포인트 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/32173245</link>
+            <guid>https://tv.naver.com/v/32173245</guid>
+            <pubDate>Fri, 06 Jan 2023 05:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_115/81D4K_1672981983746MRuSB_JPEG/1672981871193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 유 피플 | 에디 머피 & 조나 힐 출연 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/32173182</link>
+            <guid>https://tv.naver.com/v/32173182</guid>
+            <pubDate>Fri, 06 Jan 2023 05:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_160/8AmpA_1672981845632DyfSV_JPEG/1672981796575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 새로운 출연자 세준의 등장, 그리고 소이 | 솔로지옥2]]></title>
             <link>https://tv.naver.com/v/32144295</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 26 Dec 2022 04:18:12 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_106/VZ0WO_16720257896103upLu_JPEG/1672025742423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 채수빈에게 고백하는 전남친 최민호 | 더 패뷸러스]]></title>
-            <link>https://tv.naver.com/v/31887487</link>
-            <guid>https://tv.naver.com/v/31887487</guid>
-            <pubDate>Mon, 26 Dec 2022 01:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_188/aqeeO_1672016529022CXEei_JPEG/1672016445045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스페셜 MV '조유리 - RUN' | 더 패뷸러스]]></title>
-            <link>https://tv.naver.com/v/31839483</link>
-            <guid>https://tv.naver.com/v/31839483</guid>
-            <pubDate>Fri, 23 Dec 2022 06:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_229/JRe62_16717733612576UjvG_JPEG/1671773355611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
