@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 01:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 02:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -225,6 +225,14 @@ A.I. 전투용병 <정이>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_160/8AmpA_1672981845632DyfSV_JPEG/1672981796575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 송혜교의 거룩한 비극을 향한 묵묵한 발걸음 I 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32167261</link>
+            <guid>https://tv.naver.com/v/32167261</guid>
+            <pubDate>Sat, 07 Jan 2023 02:37:36 GMT</pubDate>
+            <content:encoded><![CDATA[9:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_104/BMwRY_1672968840473GVpdF_JPEG/1672968538955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 새로운 출연자 세준의 등장, 그리고 소이 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32144295</link>
             <guid>https://tv.naver.com/v/32144295</guid>
@@ -439,14 +447,6 @@ A.I. 전투용병 <정이>
             <pubDate>Mon, 26 Dec 2022 04:18:12 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_95/eARpy_1672025842024V06up_JPEG/1672025810697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 한빈 종우, 짝사랑의 순간들 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31891111</link>
-            <guid>https://tv.naver.com/v/31891111</guid>
-            <pubDate>Mon, 26 Dec 2022 04:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_106/VZ0WO_16720257896103upLu_JPEG/1672025742423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
