@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 03:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 04:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,14 @@ A.I. 전투용병 <정이>
             <pubDate>Mon, 21 Nov 2022 01:27:13 GMT</pubDate>
             <content:encoded><![CDATA[여러분..혹시 일주일이 왜 6일이 됐는지 아세요? &lt;코리아 넘버원&gt; 기다리다가 ‘목’이 빠져버렸거든요 (&gt;ᴗ0 )☆ (푸핫 -) 10월 &lt;테이크 원&gt;을 시작으로 매달 새롭게 찾아···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMThfMTMy/MDAxNjY4NzUzNjQ2MjYw.JKRqUIM3uKT2ZAIYfPtFIwR05Ol7oURMAOTTebpkX0cg.0w9QwebQH6x_5U8K_Ynu_X9G_kJfiLMsGK8PdVqEJoYg.JPEG/IVtOOV3EL1oTd7_1NRQtWo1dJ7Wo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [미공개 클립] 천국도에 함께 온 소이와 세준 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32231677</link>
+            <guid>https://tv.naver.com/v/32231677</guid>
+            <pubDate>Mon, 09 Jan 2023 04:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_30/LmTOJ_1673235004788IXOlM_JPEG/1673234935942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 임지연 딸의 담임 선생님이 된 송혜교 | 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
@@ -439,14 +447,6 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 28 Dec 2022 01:08:57 GMT</pubDate>
             <content:encoded><![CDATA[6:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221227_297/PzUql_1672150734817x3x02_JPEG/1672150709593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 왠지 눈물이 핑 도는 '어른이 되면'ㅣ로알드 달의 뮤지컬 마틸다 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31914360</link>
-            <guid>https://tv.naver.com/v/31914360</guid>
-            <pubDate>Tue, 27 Dec 2022 02:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_265/NaSXw_1672105101809SaGVW_JPEG/1672105055795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
