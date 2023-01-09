@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 08:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 09:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 송혜교가 가해자들에게 하는 복수들 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/32241130</link>
+            <guid>https://tv.naver.com/v/32241130</guid>
+            <pubDate>Mon, 09 Jan 2023 09:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[6:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_37/KRJqw_1673253884178b2ohk_JPEG/1673253797887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 천국도에 함께 온 소이와 세준 | 솔로지옥2]]></title>
             <link>https://tv.naver.com/v/32231677</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 28 Dec 2022 02:35:26 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_45/T7Lnz_1672190156593POrKv_JPEG/1672190113977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 글로리 | 비극적 영광의 시작]]></title>
-            <link>https://tv.naver.com/v/31928089</link>
-            <guid>https://tv.naver.com/v/31928089</guid>
-            <pubDate>Wed, 28 Dec 2022 01:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[6:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_297/PzUql_1672150734817x3x02_JPEG/1672150709593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
