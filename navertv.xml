@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 23:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 01:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 모든 것: 시즌 4 파트 1 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/32257742</link>
+            <guid>https://tv.naver.com/v/32257742</guid>
+            <pubDate>Tue, 10 Jan 2023 01:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_4/lvzfc_1673312833402f8KXR_JPEG/1673312796097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 송혜교가 가해자들에게 하는 복수들 | 더 글로리]]></title>
             <link>https://tv.naver.com/v/32241130</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 28 Dec 2022 02:35:26 GMT</pubDate>
             <content:encoded><![CDATA[6:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_151/fKcrJ_1672190215556KVKmL_JPEG/1672190175562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 앨피에게 노래로 고백하는 에밀리 | 에밀리, 파리에 가다]]></title>
-            <link>https://tv.naver.com/v/31942174</link>
-            <guid>https://tv.naver.com/v/31942174</guid>
-            <pubDate>Wed, 28 Dec 2022 02:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_45/T7Lnz_1672190156593POrKv_JPEG/1672190113977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
