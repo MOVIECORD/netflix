@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 02:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 03:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 출연자를 공개합니다 | 피지컬: 100]]></title>
+            <link>https://tv.naver.com/v/32289711</link>
+            <guid>https://tv.naver.com/v/32289711</guid>
+            <pubDate>Wed, 11 Jan 2023 03:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_213/WWFCE_16734061311173Kiz2_JPEG/1673406102709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 배우들이 말하는 그때 그 장면ㅣ나이브스 아웃: 글래스 어니언]]></title>
             <link>https://tv.naver.com/v/32286202</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Dec 2022 02:37:13 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221229_220/1HhTw_1672278996101gdQQP_JPEG/1672278940281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 하이라이트 클립]]></title>
-            <link>https://tv.naver.com/v/31956735</link>
-            <guid>https://tv.naver.com/v/31956735</guid>
-            <pubDate>Thu, 29 Dec 2022 02:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_141/RvT3m_1672221711229IJOz7_JPEG/1672221704771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
