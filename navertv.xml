@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 23:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 01:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 2023년 넷플릭스 라인업 공개]]></title>
+            <link>https://tv.naver.com/v/32434623</link>
+            <guid>https://tv.naver.com/v/32434623</guid>
+            <pubDate>Tue, 17 Jan 2023 01:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_87/hnuhU_1673917699532K89L3_JPEG/1673917579239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 누나가 둘인 융재와 소이가 신경 쓰이는 세준 | 솔로지옥2]]></title>
             <link>https://tv.naver.com/v/32408357</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 04:17:45 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_287/JQ3Yl_1672717316148vTd7a_JPEG/1672717244806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개 클립] 진영만 보면 자꾸 웃음이 나는 슬기 | 솔로지옥2]]></title>
-            <link>https://tv.naver.com/v/32077358</link>
-            <guid>https://tv.naver.com/v/32077358</guid>
-            <pubDate>Tue, 03 Jan 2023 04:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_181/lbjB3_1672717228209cEIjb_JPEG/1672717174885.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
