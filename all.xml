@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 23:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 01:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A.I. 전투용병 <정이>
             <pubDate>Thu, 08 Dec 2022 01:13:21 GMT</pubDate>
             <content:encoded><![CDATA[송혜교 X 김은숙 X 안길호 이들이 공모한 첫번째 비극으로 뜨거운 관심을 받는 중인 넷플릭스 시리즈 &lt;더 글로리&gt; 공개된 2차 포스터 속 앙상하게 가지만 남은 꽃나무 앞에 나팔꽃 한송이를 들고 어딘가를 응···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfNTIg/MDAxNjcwNDAyNjI5NTI0.MxmzrHvxSfReFaMvNqgI4T0Wmu5JtaVcq5HTypUOfMAg.SpFbx_MUhGBV8eN2aMKz5EA_8A8I4ZJzqNqGCkMuVTwg.JPEG/IzoHrk2M184a3qYt010G5oTAaveQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 강수연을 기억하며 | 정이 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32533360</link>
+            <guid>https://tv.naver.com/v/32533360</guid>
+            <pubDate>Wed, 25 Jan 2023 01:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_265/1OxfK_1674209193881Oe0Qt_JPEG/1674208987582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 | 스페셜 영상: 그리운 연진에게 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Fri, 06 Jan 2023 05:14:00 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_160/8AmpA_1672981845632DyfSV_JPEG/1672981796575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 송혜교의 거룩한 비극을 향한 묵묵한 발걸음 I 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32167261</link>
-            <guid>https://tv.naver.com/v/32167261</guid>
-            <pubDate>Sat, 07 Jan 2023 02:37:36 GMT</pubDate>
-            <content:encoded><![CDATA[9:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_104/BMwRY_1672968840473GVpdF_JPEG/1672968538955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
