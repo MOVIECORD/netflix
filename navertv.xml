@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 07:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 09:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 힘과 힘의 대결, 설기관 VS 에이전트 H | 피지컬: 100]]></title>
+            <link>https://tv.naver.com/v/32614073</link>
+            <guid>https://tv.naver.com/v/32614073</guid>
+            <pubDate>Wed, 25 Jan 2023 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_54/TLc56_16746378366288Iy8z_JPEG/1674637816307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 예고편 #2]]></title>
             <link>https://tv.naver.com/v/32603018</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 09 Jan 2023 04:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_30/LmTOJ_1673235004788IXOlM_JPEG/1673234935942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 임지연 딸의 담임 선생님이 된 송혜교 | 더 글로리]]></title>
-            <link>https://tv.naver.com/v/32229091</link>
-            <guid>https://tv.naver.com/v/32229091</guid>
-            <pubDate>Mon, 09 Jan 2023 03:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_154/Pb5ge_1673228879706X033b_JPEG/1673228877520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
