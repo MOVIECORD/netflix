@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 12:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 13:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A.I. 전투용병 <정이>
             <pubDate>Thu, 08 Dec 2022 01:13:21 GMT</pubDate>
             <content:encoded><![CDATA[송혜교 X 김은숙 X 안길호 이들이 공모한 첫번째 비극으로 뜨거운 관심을 받는 중인 넷플릭스 시리즈 &lt;더 글로리&gt; 공개된 2차 포스터 속 앙상하게 가지만 남은 꽃나무 앞에 나팔꽃 한송이를 들고 어딘가를 응···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfNTIg/MDAxNjcwNDAyNjI5NTI0.MxmzrHvxSfReFaMvNqgI4T0Wmu5JtaVcq5HTypUOfMAg.SpFbx_MUhGBV8eN2aMKz5EA_8A8I4ZJzqNqGCkMuVTwg.JPEG/IzoHrk2M184a3qYt010G5oTAaveQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 정이의 뇌 속 미확인 영역 | 정이 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32619884</link>
+            <guid>https://tv.naver.com/v/32619884</guid>
+            <pubDate>Wed, 25 Jan 2023 13:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_228/QycNv_16746508514695dMHB_JPEG/1674650656035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 힘과 힘의 대결, 설기관 VS 에이전트 H | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Mon, 09 Jan 2023 09:15:39 GMT</pubDate>
             <content:encoded><![CDATA[6:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_37/KRJqw_1673253884178b2ohk_JPEG/1673253797887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개 클립] 천국도에 함께 온 소이와 세준 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32231677</link>
-            <guid>https://tv.naver.com/v/32231677</guid>
-            <pubDate>Mon, 09 Jan 2023 04:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_30/LmTOJ_1673235004788IXOlM_JPEG/1673234935942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
