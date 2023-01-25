@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 01:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 02:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 23 Jan 2023 03:16:23 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_277/GmBcs_1674200764826aJEUr_JPEG/1674200719642.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 정이 | 하이라이트 클립 | 무궁화 꽃이 피었습니다]]></title>
+            <link>https://tv.naver.com/v/32500113</link>
+            <guid>https://tv.naver.com/v/32500113</guid>
+            <pubDate>Wed, 25 Jan 2023 02:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_167/V0cs0_16741088935216RudR_JPEG/1674108856322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 정이 | 하이라이트 클립 | 전설의 윤정이 용병]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Jan 2023 05:14:00 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_115/81D4K_1672981983746MRuSB_JPEG/1672981871193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 유 피플 | 에디 머피 & 조나 힐 출연 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/32173182</link>
-            <guid>https://tv.naver.com/v/32173182</guid>
-            <pubDate>Fri, 06 Jan 2023 05:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_160/8AmpA_1672981845632DyfSV_JPEG/1672981796575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
