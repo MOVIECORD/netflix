@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 01:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 02:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,6 +223,14 @@ A.I. 전투용병 <정이>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_112/cF0Pu_1674720323906998uk_JPEG/1674720290346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] [선공개] 윤성빈 추성훈하고 붙어서 이기기 가능? | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32631999</link>
+            <guid>https://tv.naver.com/v/32631999</guid>
+            <pubDate>Sat, 28 Jan 2023 02:41:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_293/uXFg3_1674701368249nPo0g_JPEG/1674701363386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 정이의 뇌 속 미확인 영역 | 정이 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32619884</link>
             <guid>https://tv.naver.com/v/32619884</guid>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 11 Jan 2023 03:16:15 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_213/WWFCE_16734061311173Kiz2_JPEG/1673406102709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 배우들이 말하는 그때 그 장면ㅣ나이브스 아웃: 글래스 어니언 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32286202</link>
-            <guid>https://tv.naver.com/v/32286202</guid>
-            <pubDate>Wed, 11 Jan 2023 01:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_102/CnsKQ_1673397846830uN4T2_JPEG/1673397645593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
