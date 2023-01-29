@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 01:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 02:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A.I. 전투용병 <정이>
             <pubDate>Fri, 09 Dec 2022 08:19:29 GMT</pubDate>
             <content:encoded><![CDATA[“바로 내일, 우린 여길 탈출한다” D-0&lt;종이의 집: 공동경제구역&gt;드디어 오늘, 파트2 공개!뭐어~?! 두-근♡(심박수 올라가는 중)그럼 볼 수밖에 없겠네!W0W (출처: MBC) 파트1에 이어, 파트2에서는더 확장된 이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMTE4/MDAxNjcwNDEzODAxNzcy.JVSaOGwuvjQ_TqHBklskfZ-Ho1Vc1c6lSioVmRhPDIog.pSPagT99QE5dxkih-kEwjqWfYejmhudDn0coQ3OqElYg.GIF/IS32MJ2HktrK30TFBAKtdz_OM3PY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 연애대전 | 캐릭터 영상 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32674463</link>
+            <guid>https://tv.naver.com/v/32674463</guid>
+            <pubDate>Sun, 29 Jan 2023 02:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_127/2EnVv_1674811420564MrjFb_JPEG/1674811160907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하제용에게서 공을 뺏어야하는 임정윤 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Thu, 12 Jan 2023 04:18:46 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_94/mpjN9_16734935553449J1XG_JPEG/1673493514296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 출연자를 공개합니다 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32289711</link>
-            <guid>https://tv.naver.com/v/32289711</guid>
-            <pubDate>Wed, 11 Jan 2023 03:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_213/WWFCE_16734061311173Kiz2_JPEG/1673406102709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
