@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 01:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 02:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 머더 미스터리 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/32750764</link>
+            <guid>https://tv.naver.com/v/32750764</guid>
+            <pubDate>Tue, 31 Jan 2023 02:46:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_48/QiZYf_1675128047588ePCGE_JPEG/1675127947425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 연애대전 | 캐릭터 영상]]></title>
             <link>https://tv.naver.com/v/32674463</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Jan 2023 03:28:08 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_104/NO91i_16734945491960N0K5_JPEG/1673494176008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 융재와 서은의 알콩달콩 천국도 | 솔로지옥2]]></title>
-            <link>https://tv.naver.com/v/32319164</link>
-            <guid>https://tv.naver.com/v/32319164</guid>
-            <pubDate>Thu, 12 Jan 2023 04:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_94/mpjN9_16734935553449J1XG_JPEG/1673493514296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
