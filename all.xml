@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 07:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 08:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,12 +207,20 @@ A.I. 전투용병 <정이>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMTE4/MDAxNjcwNDEzODAxNzcy.JVSaOGwuvjQ_TqHBklskfZ-Ho1Vc1c6lSioVmRhPDIog.pSPagT99QE5dxkih-kEwjqWfYejmhudDn0coQ3OqElYg.GIF/IS32MJ2HktrK30TFBAKtdz_OM3PY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 격투기 선배를 이겨라, 추성훈 대 신동국 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32782336</link>
+            <guid>https://tv.naver.com/v/32782336</guid>
+            <pubDate>Wed, 01 Feb 2023 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_82/xCN9V_1675219667273OeGfE_JPEG/1675219665754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 진짜 강함을 뻘컵에게 가르쳐주는 김상욱 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32782118</link>
             <guid>https://tv.naver.com/v/32782118</guid>
             <pubDate>Wed, 01 Feb 2023 03:24:57 GMT</pubDate>
             <content:encoded><![CDATA[5:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_230/pmuPI_1675220548818HmcwP_JPEG/1675220547264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_39/zhEtN_1675237484072klxdW_JPEG/1675237482575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 괴력에 스피드까지 갖고 있는 사기캐 윤성빈 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Fri, 13 Jan 2023 03:28:08 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_132/Zysnu_1673572354284i43Qg_JPEG/1673572259880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 유어 플레이스 오어 마인 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32344262</link>
-            <guid>https://tv.naver.com/v/32344262</guid>
-            <pubDate>Fri, 13 Jan 2023 03:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_238/cVOtc_1673572233524j7KPs_JPEG/1673572231763.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
