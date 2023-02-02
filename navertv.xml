@@ -4,16 +4,24 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 23:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 01:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 길복순 | 날짜공개: 1차 예고편]]></title>
+            <link>https://tv.naver.com/v/32796876</link>
+            <guid>https://tv.naver.com/v/32796876</guid>
+            <pubDate>Thu, 02 Feb 2023 01:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_226/qU3ml_1675247494608CoLaP_JPEG/1675247229075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 격투기 선배를 이겨라, 추성훈 대 신동국 | 피지컬: 100]]></title>
             <link>https://tv.naver.com/v/32782336</link>
             <guid>https://tv.naver.com/v/32782336</guid>
             <pubDate>Wed, 01 Feb 2023 08:19:46 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_82/xCN9V_1675219667273OeGfE_JPEG/1675219665754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_159/HEgND_1675298187872N1dFq_JPEG/1675298185829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 진짜 강함을 뻘컵에게 가르쳐주는 김상욱 | 피지컬: 100]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 16 Jan 2023 02:42:19 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_161/8eEQv_1673590231158IcHG7_JPEG/1673590065452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이토 준지: 매니악 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/32344307</link>
-            <guid>https://tv.naver.com/v/32344307</guid>
-            <pubDate>Fri, 13 Jan 2023 03:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_132/Zysnu_1673572354284i43Qg_JPEG/1673572259880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
