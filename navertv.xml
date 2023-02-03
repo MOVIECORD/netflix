@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 01:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 02:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 울트라맨 | 파이널 시즌 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/32844752</link>
+            <guid>https://tv.naver.com/v/32844752</guid>
+            <pubDate>Fri, 03 Feb 2023 02:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_293/wG4O7_1675392142705QGe2t_JPEG/1675392024328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 아우터뱅크스 3 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/32844646</link>
+            <guid>https://tv.naver.com/v/32844646</guid>
+            <pubDate>Fri, 03 Feb 2023 02:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_39/iyZdc_1675391978997kCbwD_JPEG/1675391909803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 동종업계는 외나무 다리에서 만난다 남경진vs장은실 | 피지컬: 100]]></title>
+            <link>https://tv.naver.com/v/32844620</link>
+            <guid>https://tv.naver.com/v/32844620</guid>
+            <pubDate>Fri, 03 Feb 2023 02:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_116/S4Car_1675391905448yGI4j_JPEG/1675391902160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 여기서 운동 못할까 봐 걱정했네... | 피지컬: 100]]></title>
             <link>https://tv.naver.com/v/32818983</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 16 Jan 2023 02:42:19 GMT</pubDate>
             <content:encoded><![CDATA[4:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230116_162/ZnnOU_1673833838809p4HoJ_JPEG/1673833636439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미공개 클립] 슬기 때문에 정신 못차리는 종우 | 솔로지옥2]]></title>
-            <link>https://tv.naver.com/v/32408348</link>
-            <guid>https://tv.naver.com/v/32408348</guid>
-            <pubDate>Mon, 16 Jan 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_56/Ij1BK_1673834310605WapYi_JPEG/1673834308275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 슬기와 진영의 마지막 데이트 | 솔로지옥2]]></title>
-            <link>https://tv.naver.com/v/32408344</link>
-            <guid>https://tv.naver.com/v/32408344</guid>
-            <pubDate>Mon, 16 Jan 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_54/YDwGW_1673833791330rDmOV_JPEG/1673833678758.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이나딘은 완벽하다는 것이 학계의 정설 | 솔로지옥2]]></title>
-            <link>https://tv.naver.com/v/32408340</link>
-            <guid>https://tv.naver.com/v/32408340</guid>
-            <pubDate>Mon, 16 Jan 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_299/XWV61_1673834270309BCqjp_JPEG/1673834267255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
