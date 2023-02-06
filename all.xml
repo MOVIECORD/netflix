@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 23:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 01:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A.I. 전투용병 <정이>
             <pubDate>Fri, 09 Dec 2022 08:19:29 GMT</pubDate>
             <content:encoded><![CDATA[“바로 내일, 우린 여길 탈출한다” D-0&lt;종이의 집: 공동경제구역&gt;드디어 오늘, 파트2 공개!뭐어~?! 두-근♡(심박수 올라가는 중)그럼 볼 수밖에 없겠네!W0W (출처: MBC) 파트1에 이어, 파트2에서는더 확장된 이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMTE4/MDAxNjcwNDEzODAxNzcy.JVSaOGwuvjQ_TqHBklskfZ-Ho1Vc1c6lSioVmRhPDIog.pSPagT99QE5dxkih-kEwjqWfYejmhudDn0coQ3OqElYg.GIF/IS32MJ2HktrK30TFBAKtdz_OM3PY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 모래주머니를 들고 흔들 다리를 건너라 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32908694</link>
+            <guid>https://tv.naver.com/v/32908694</guid>
+            <pubDate>Mon, 06 Feb 2023 01:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_154/avO7U_1675645372434JrAQw_JPEG/1675645370797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 울트라맨 | 파이널 시즌 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Tue, 17 Jan 2023 01:12:16 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_87/hnuhU_1673917699532K89L3_JPEG/1673917579239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개 클립] 누나가 둘인 융재와 소이가 신경 쓰이는 세준 | 솔로지옥2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32408357</link>
-            <guid>https://tv.naver.com/v/32408357</guid>
-            <pubDate>Mon, 16 Jan 2023 02:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[4:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_162/ZnnOU_1673833838809p4HoJ_JPEG/1673833636439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
