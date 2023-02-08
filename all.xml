@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 08:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 10:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A.I. 전투용병 <정이>
             <pubDate>Fri, 09 Dec 2022 08:19:29 GMT</pubDate>
             <content:encoded><![CDATA[“바로 내일, 우린 여길 탈출한다” D-0&lt;종이의 집: 공동경제구역&gt;드디어 오늘, 파트2 공개!뭐어~?! 두-근♡(심박수 올라가는 중)그럼 볼 수밖에 없겠네!W0W (출처: MBC) 파트1에 이어, 파트2에서는더 확장된 이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMTE4/MDAxNjcwNDEzODAxNzcy.JVSaOGwuvjQ_TqHBklskfZ-Ho1Vc1c6lSioVmRhPDIog.pSPagT99QE5dxkih-kEwjqWfYejmhudDn0coQ3OqElYg.GIF/IS32MJ2HktrK30TFBAKtdz_OM3PY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 힘만으로는 승자가 될 수 없다 추성훈vs호주타잔 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32991804</link>
+            <guid>https://tv.naver.com/v/32991804</guid>
+            <pubDate>Wed, 08 Feb 2023 10:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_44/3NtdC_1675850984291U4QOC_JPEG/1675850960217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 흔들리는 다리, 윤성빈 팀의 운명은? | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Thu, 19 Jan 2023 02:46:11 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_198/75wqV_16740193649873W2s9_JPEG/1674019163663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 어그레시브 레츠코 시즌 5 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32462782</link>
-            <guid>https://tv.naver.com/v/32462782</guid>
-            <pubDate>Wed, 18 Jan 2023 01:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_117/Emx82_1674004327644Vmnja_JPEG/1674004246442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
