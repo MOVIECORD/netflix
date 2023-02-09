@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 23:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 01:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 08 Feb 2023 10:18:22 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230208_44/3NtdC_1675850984291U4QOC_JPEG/1675850960217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 글로리 파트2 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/32983739</link>
+            <guid>https://tv.naver.com/v/32983739</guid>
+            <pubDate>Thu, 09 Feb 2023 01:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_123/XZYOJ_1675837546304nL1Yo_JPEG/1675837463340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 흔들리는 다리, 윤성빈 팀의 운명은? | 피지컬: 100]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 19 Jan 2023 04:19:46 GMT</pubDate>
             <content:encoded><![CDATA[1:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_154/6Hrc1_1674099093994TtuGH_JPEG/1674099011962.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스마트폰을 떨어뜨렸을 뿐인데 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/32469545</link>
-            <guid>https://tv.naver.com/v/32469545</guid>
-            <pubDate>Thu, 19 Jan 2023 02:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_198/75wqV_16740193649873W2s9_JPEG/1674019163663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
