@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 07:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 08:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,6 +212,14 @@ A.I. 전투용병 <정이>
             <pubDate>Thu, 09 Feb 2023 07:15:01 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230209_105/8AfWz_1675924009543WYLPk_JPEG/1675923884654.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 자신의 몸무게 40% 버틸 수 있겠습니까? | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33003180</link>
+            <guid>https://tv.naver.com/v/33003180</guid>
+            <pubDate>Thu, 09 Feb 2023 08:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_177/8VKgk_167590772808659sVI_JPEG/1675907726645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 힘만으로는 승자가 될 수 없다 추성훈vs호주타잔 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
@@ -436,14 +444,6 @@ A.I. 전투용병 <정이>
             <pubDate>Fri, 20 Jan 2023 02:46:10 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_81/GaNCa_16741088446884rP8n_JPEG/1674108831182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 2023년 넷플릭스 영화 라인업 공개 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32495939</link>
-            <guid>https://tv.naver.com/v/32495939</guid>
-            <pubDate>Thu, 19 Jan 2023 04:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_163/7yIn6_1674099174136Nc2ca_JPEG/1674099099149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
