@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 04:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 05:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 도저히 욕 없이는 게임을 진행할 수 없었습니다 | 피지컬: 100]]></title>
+            <link>https://tv.naver.com/v/33035376</link>
+            <guid>https://tv.naver.com/v/33035376</guid>
+            <pubDate>Fri, 10 Feb 2023 05:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_218/z5Y9B_16760056314623XnVu_JPEG/1676005601161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 루터: 태양의 몰락 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/33030550</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 Jan 2023 03:16:23 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_277/GmBcs_1674200764826aJEUr_JPEG/1674200719642.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정이 | 하이라이트 클립 | 무궁화 꽃이 피었습니다]]></title>
-            <link>https://tv.naver.com/v/32500113</link>
-            <guid>https://tv.naver.com/v/32500113</guid>
-            <pubDate>Wed, 25 Jan 2023 02:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_167/V0cs0_16741088935216RudR_JPEG/1674108856322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
