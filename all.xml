@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 01:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 02:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -204,6 +204,14 @@ A.I. 전투용병 <정이>
             <pubDate>Tue, 13 Dec 2022 08:20:33 GMT</pubDate>
             <content:encoded><![CDATA[■■■■■□□□♥ 연애 세포 로딩 중… ~&lt;솔로지옥&gt; 시즌2로 가는 걸음~10월 &lt;테이크 원&gt;, 11월 &lt;코리아 넘버원&gt;까지 매달 다양한 장르로 재미를 선사한 넷플릭스 예능들 12월에도 전격 OPE···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTJfNjEg/MDAxNjcwODI5NzAzNDkx.QqVtFFl_HAjoRR9aYxq2dMFkH2OqdsJqX-apskELuBYg._76if0ekeJqMMwSH9IMhuHyZWa4XV8tPKiW0H7qV1N8g.JPEG/ICAXFSlvY_B_VMRDy3xs2ddcV1M8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 루터: 태양의 몰락 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33030550</link>
+            <guid>https://tv.naver.com/v/33030550</guid>
+            <pubDate>Fri, 10 Feb 2023 02:52:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_60/9kH5w_1675996038650FpwGh_JPEG/1675995957626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 연애대전 | 스페셜 MV 'NCT태일 - Lovey Dovey' (Netflix Korea ─ NAVER TV)]]></title>
@@ -436,14 +444,6 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 25 Jan 2023 02:39:13 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_167/V0cs0_16741088935216RudR_JPEG/1674108856322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정이 | 하이라이트 클립 | 전설의 윤정이 용병 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32499940</link>
-            <guid>https://tv.naver.com/v/32499940</guid>
-            <pubDate>Fri, 20 Jan 2023 02:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_81/GaNCa_16741088446884rP8n_JPEG/1674108831182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
