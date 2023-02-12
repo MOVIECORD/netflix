@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 09:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 10:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] | 연애대전 | 배우 유태오와 변호사 김옥빈의 계약 연애]]></title>
+            <link>https://tv.naver.com/v/33074479</link>
+            <guid>https://tv.naver.com/v/33074479</guid>
+            <pubDate>Sun, 12 Feb 2023 10:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_17/XG8YC_1676193621913urIDG_JPEG/1676193476863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 도저히 욕 없이는 게임을 진행할 수 없었습니다 | 피지컬: 100]]></title>
             <link>https://tv.naver.com/v/33035376</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 01:10:49 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_265/1OxfK_1674209193881Oe0Qt_JPEG/1674208987582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 글로리 | 스페셜 영상: 그리운 연진에게]]></title>
-            <link>https://tv.naver.com/v/32529997</link>
-            <guid>https://tv.naver.com/v/32529997</guid>
-            <pubDate>Mon, 23 Jan 2023 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_277/GmBcs_1674200764826aJEUr_JPEG/1674200719642.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
