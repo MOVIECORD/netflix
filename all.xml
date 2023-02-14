@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 01:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 02:49:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 21 Dec 2022 01:07:05 GMT</pubDate>
             <content:encoded><![CDATA[세계 최고의 첨단기술로 만든 ‘전투형 A.I. 정이’크로노이드 연구소가 만들었습니다&lt;지옥&gt; &lt;부산행&gt; 연상호 감독 X 넷플릭스 SF 영화 &lt;정이&gt; 2023년 1월 20일 | 공개 확정 | 그와 동···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjFfMTc0/MDAxNjcxNTUwNDAyNjU5.ivO4QwvurcZmn4QSUSpBTQnUdeD2gTW41Y_BHCsdf-Eg.PE95bSMWn94nIvUimICaXYfDj81r7jyh1tVPSj8Jv4Ag.JPEG/IK3zZEhm7OzXlpdt9JQnYIpyhEkc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 연애대전 | 스페셜 MV 'BIG Naughty - 그러니까 하고 싶은 내 말은' (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33108918</link>
+            <guid>https://tv.naver.com/v/33108918</guid>
+            <pubDate>Tue, 14 Feb 2023 02:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_206/9j8Wy_1676338844267fsKnR_JPEG/1676338707693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 파이널 퀘스트 진출자는 단 5인 뿐 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 25 Jan 2023 13:21:16 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_228/QycNv_16746508514695dMHB_JPEG/1674650656035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 힘과 힘의 대결, 설기관 VS 에이전트 H | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32614073</link>
-            <guid>https://tv.naver.com/v/32614073</guid>
-            <pubDate>Wed, 25 Jan 2023 09:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_54/TLc56_16746378366288Iy8z_JPEG/1674637816307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
