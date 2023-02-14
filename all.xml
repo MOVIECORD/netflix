@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 23:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 01:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,6 +239,14 @@ A.I. 전투용병 <정이>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_205/Bpz0w_1676253587279hPYx1_JPEG/1676253545853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 누군가 나의 사생활을 훔쳐보고 있다면?ㅣ스마트폰을 떨어뜨렸을 뿐인데 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33083993</link>
+            <guid>https://tv.naver.com/v/33083993</guid>
+            <pubDate>Tue, 14 Feb 2023 01:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_191/jC5PF_1676286923219wHBko_PNG/1676286915528.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] | 연애대전 | 배우 유태오와 변호사 김옥빈의 계약 연애 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33074479</link>
             <guid>https://tv.naver.com/v/33074479</guid>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 25 Jan 2023 09:14:55 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_54/TLc56_16746378366288Iy8z_JPEG/1674637816307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 예고편 #2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32603018</link>
-            <guid>https://tv.naver.com/v/32603018</guid>
-            <pubDate>Wed, 25 Jan 2023 03:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_68/3uIY6_1674615789455rCvkO_JPEG/1674615729825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
