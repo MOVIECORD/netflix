@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 02:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 03:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 21 Dec 2022 01:07:05 GMT</pubDate>
             <content:encoded><![CDATA[세계 최고의 첨단기술로 만든 ‘전투형 A.I. 정이’크로노이드 연구소가 만들었습니다&lt;지옥&gt; &lt;부산행&gt; 연상호 감독 X 넷플릭스 SF 영화 &lt;정이&gt; 2023년 1월 20일 | 공개 확정 | 그와 동···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjFfMTc0/MDAxNjcxNTUwNDAyNjU5.ivO4QwvurcZmn4QSUSpBTQnUdeD2gTW41Y_BHCsdf-Eg.PE95bSMWn94nIvUimICaXYfDj81r7jyh1tVPSj8Jv4Ag.JPEG/IK3zZEhm7OzXlpdt9JQnYIpyhEkc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 집채만 한 돌 들고 90분 버티기 가능? | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33145770</link>
+            <guid>https://tv.naver.com/v/33145770</guid>
+            <pubDate>Wed, 15 Feb 2023 03:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_111/ahMTR_1676431024431iihx2_JPEG/1676431022445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 플루토 | 미리보기 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Sun, 29 Jan 2023 02:45:28 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_127/2EnVv_1674811420564MrjFb_JPEG/1674811160907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하제용에게서 공을 뺏어야하는 임정윤 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32644150</link>
-            <guid>https://tv.naver.com/v/32644150</guid>
-            <pubDate>Thu, 26 Jan 2023 10:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_140/SU2h4_1674724548328d4S2s_JPEG/1674724513361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
