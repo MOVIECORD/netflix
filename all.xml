@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 01:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 02:49:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,22 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 21 Dec 2022 01:07:05 GMT</pubDate>
             <content:encoded><![CDATA[세계 최고의 첨단기술로 만든 ‘전투형 A.I. 정이’크로노이드 연구소가 만들었습니다&lt;지옥&gt; &lt;부산행&gt; 연상호 감독 X 넷플릭스 SF 영화 &lt;정이&gt; 2023년 1월 20일 | 공개 확정 | 그와 동···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjFfMTc0/MDAxNjcxNTUwNDAyNjU5.ivO4QwvurcZmn4QSUSpBTQnUdeD2gTW41Y_BHCsdf-Eg.PE95bSMWn94nIvUimICaXYfDj81r7jyh1tVPSj8Jv4Ag.JPEG/IK3zZEhm7OzXlpdt9JQnYIpyhEkc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 플루토 | 미리보기 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33143199</link>
+            <guid>https://tv.naver.com/v/33143199</guid>
+            <pubDate>Wed, 15 Feb 2023 02:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_250/8Lyx7_16764268358972rllN_JPEG/1676426711316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 샬럿 왕비: 브리저튼 외전 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33143096</link>
+            <guid>https://tv.naver.com/v/33143096</guid>
+            <pubDate>Wed, 15 Feb 2023 02:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_283/6C8F0_1676426691994xjvvJ_JPEG/1676426631453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 장은실 팀과 패자부활 팀 연합, 언더독의 반란? | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
@@ -429,22 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Thu, 26 Jan 2023 10:17:05 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_140/SU2h4_1674724548328d4S2s_JPEG/1674724513361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 자존심을 건 대국민 챌린지 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32641734</link>
-            <guid>https://tv.naver.com/v/32641734</guid>
-            <pubDate>Thu, 26 Jan 2023 08:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_112/cF0Pu_1674720323906998uk_JPEG/1674720290346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 윤성빈 추성훈하고 붙어서 이기기 가능? | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32631999</link>
-            <guid>https://tv.naver.com/v/32631999</guid>
-            <pubDate>Sat, 28 Jan 2023 02:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_297/B0bSm_1675041311947PMKKS_JPEG/1675041310244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
