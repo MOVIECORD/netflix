@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 23:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 01:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 모든 것: 시즌 4 파트 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/33177663</link>
+            <guid>https://tv.naver.com/v/33177663</guid>
+            <pubDate>Thu, 16 Feb 2023 01:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_138/xA01B_16765088436100dKJk_JPEG/1676508815858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 집채만 한 돌 들고 90분 버티기 가능? | 피지컬: 100]]></title>
             <link>https://tv.naver.com/v/33145770</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 15 Feb 2023 03:21:21 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230215_111/ahMTR_1676431024431iihx2_JPEG/1676431022445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 길복순 | 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/33144998</link>
+            <guid>https://tv.naver.com/v/33144998</guid>
+            <pubDate>Thu, 16 Feb 2023 01:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_145/5uqZj_1676444816966wPQaH_PNG/1676444811467.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 플루토 | 미리보기]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 01 Feb 2023 02:55:17 GMT</pubDate>
             <content:encoded><![CDATA[4:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_65/JONMu_1675216760763Yc7oc_JPEG/1675216738536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 머더 미스터리 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/32750764</link>
-            <guid>https://tv.naver.com/v/32750764</guid>
-            <pubDate>Tue, 31 Jan 2023 02:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_48/QiZYf_1675128047588ePCGE_JPEG/1675127947425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 연애대전 | 캐릭터 영상]]></title>
-            <link>https://tv.naver.com/v/32674463</link>
-            <guid>https://tv.naver.com/v/32674463</guid>
-            <pubDate>Sun, 29 Jan 2023 02:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_127/2EnVv_1674811420564MrjFb_JPEG/1674811160907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
