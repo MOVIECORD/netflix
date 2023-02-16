@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 08:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 09:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 국가대표 vs 야구선수 vs 댄서 vs 보디빌더 승자는? | 피지컬: 100]]></title>
+            <link>https://tv.naver.com/v/33195285</link>
+            <guid>https://tv.naver.com/v/33195285</guid>
+            <pubDate>Thu, 16 Feb 2023 09:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_61/yrbcQ_1676535870259SOhWE_JPEG/1676535856597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 데이스 | 공식 티저 예고편]]></title>
             <link>https://tv.naver.com/v/33190104</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Feb 2023 08:19:46 GMT</pubDate>
             <content:encoded><![CDATA[3:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230202_159/HEgND_1675298187872N1dFq_JPEG/1675298185829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 진짜 강함을 뻘컵에게 가르쳐주는 김상욱 | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/32782118</link>
-            <guid>https://tv.naver.com/v/32782118</guid>
-            <pubDate>Wed, 01 Feb 2023 03:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[5:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_39/zhEtN_1675237484072klxdW_JPEG/1675237482575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
