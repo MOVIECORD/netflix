@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 06:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 07:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 21 Dec 2022 01:07:05 GMT</pubDate>
             <content:encoded><![CDATA[세계 최고의 첨단기술로 만든 ‘전투형 A.I. 정이’크로노이드 연구소가 만들었습니다&lt;지옥&gt; &lt;부산행&gt; 연상호 감독 X 넷플릭스 SF 영화 &lt;정이&gt; 2023년 1월 20일 | 공개 확정 | 그와 동···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjFfMTc0/MDAxNjcxNTUwNDAyNjU5.ivO4QwvurcZmn4QSUSpBTQnUdeD2gTW41Y_BHCsdf-Eg.PE95bSMWn94nIvUimICaXYfDj81r7jyh1tVPSj8Jv4Ag.JPEG/IK3zZEhm7OzXlpdt9JQnYIpyhEkc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 데이스 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33190104</link>
+            <guid>https://tv.naver.com/v/33190104</guid>
+            <pubDate>Thu, 16 Feb 2023 07:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_135/fdO0g_1676528821363TNTEg_JPEG/1676528770083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 모든 것: 시즌 4 파트 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A.I. 전투용병 <정이>
             <pubDate>Wed, 01 Feb 2023 03:24:57 GMT</pubDate>
             <content:encoded><![CDATA[5:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_39/zhEtN_1675237484072klxdW_JPEG/1675237482575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 괴력에 스피드까지 갖고 있는 사기캐 윤성빈 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32780911</link>
-            <guid>https://tv.naver.com/v/32780911</guid>
-            <pubDate>Wed, 01 Feb 2023 02:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[4:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_65/JONMu_1675216760763Yc7oc_JPEG/1675216738536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
