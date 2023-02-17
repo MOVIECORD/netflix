@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 01:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 02:51:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 21 Dec 2022 02:33:51 GMT</pubDate>
             <content:encoded><![CDATA[혹시나 했더니 역시나 또 일냈다!!넷플릭스 영화 &lt;나이브스 아웃: 글래스 어니언&gt; 로튼 토마토 지수 93% 달성!전작에 이어 후속편 ‘ 나이브스 아웃: 글래스 어니언 ’까지 ‘대꿀잼 + 팝콘각 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjBfMjQg/MDAxNjcxNTA1NjIxMDY1.A8lNRU08_rMYsaxTQi5nxiMKlQvN-k6fFWF43oV2Fhgg.6XQg6ZZsw298ToR11fpWwzRY4ORiTZNnJXu1kO0547Ig.JPEG/IYGxjGcKhRuQc2fan8l0Pk6MNW64.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 글로리 파트1 I 지난 이야기 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33214480</link>
+            <guid>https://tv.naver.com/v/33214480</guid>
+            <pubDate>Fri, 17 Feb 2023 02:50:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_180/RaSBd_1676597598270byUKI_JPEG/1676597447147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마술사의 코끼리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 03 Feb 2023 02:48:01 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_116/S4Car_1675391905448yGI4j_JPEG/1675391902160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 여기서 운동 못할까 봐 걱정했네... | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32818983</link>
-            <guid>https://tv.naver.com/v/32818983</guid>
-            <pubDate>Thu, 02 Feb 2023 06:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_42/5Nxop_16753158631694PJWV_JPEG/1675315843330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
