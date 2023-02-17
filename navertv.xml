@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 23:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 01:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마술사의 코끼리 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/33214135</link>
+            <guid>https://tv.naver.com/v/33214135</guid>
+            <pubDate>Fri, 17 Feb 2023 01:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_213/gSUMm_16765967473256AFHb_JPEG/1676596626543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] F1, 본능의 질주 시즌 5 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/33214086</link>
+            <guid>https://tv.naver.com/v/33214086</guid>
+            <pubDate>Fri, 17 Feb 2023 01:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_232/i0au0_1676596623319VRrk4_JPEG/1676596571782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 국가대표 vs 야구선수 vs 댄서 vs 보디빌더 승자는? | 피지컬: 100]]></title>
             <link>https://tv.naver.com/v/33195285</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 02 Feb 2023 06:19:35 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230202_42/5Nxop_16753158631694PJWV_JPEG/1675315843330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 길복순 | 날짜공개: 1차 예고편]]></title>
-            <link>https://tv.naver.com/v/32796876</link>
-            <guid>https://tv.naver.com/v/32796876</guid>
-            <pubDate>Thu, 02 Feb 2023 01:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_226/qU3ml_1675247494608CoLaP_JPEG/1675247229075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 격투기 선배를 이겨라, 추성훈 대 신동국 | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/32782336</link>
-            <guid>https://tv.naver.com/v/32782336</guid>
-            <pubDate>Wed, 01 Feb 2023 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_159/HEgND_1675298187872N1dFq_JPEG/1675298185829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
