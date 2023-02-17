@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 03:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 04:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 영원히 끝나지 않는 달리기 | 피지컬: 100]]></title>
+            <link>https://tv.naver.com/v/33219277</link>
+            <guid>https://tv.naver.com/v/33219277</guid>
+            <pubDate>Fri, 17 Feb 2023 04:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_44/jO5jH_167660656712942YPs_JPEG/1676606531664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 파트1 I 지난 이야기]]></title>
             <link>https://tv.naver.com/v/33214480</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Feb 2023 02:48:01 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_39/iyZdc_1675391978997kCbwD_JPEG/1675391909803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 동종업계는 외나무 다리에서 만난다 남경진vs장은실 | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/32844620</link>
-            <guid>https://tv.naver.com/v/32844620</guid>
-            <pubDate>Fri, 03 Feb 2023 02:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_116/S4Car_1675391905448yGI4j_JPEG/1675391902160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
