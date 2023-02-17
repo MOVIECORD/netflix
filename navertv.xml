@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 07:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 08:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 스마트폰을 떨어뜨렸을 뿐인데ㅣ절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/33229119</link>
+            <guid>https://tv.naver.com/v/33229119</guid>
+            <pubDate>Fri, 17 Feb 2023 08:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_232/hUYGT_1676621345629s2Hkc_JPEG/1676621268470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 영원히 끝나지 않는 달리기 | 피지컬: 100]]></title>
             <link>https://tv.naver.com/v/33219277</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Feb 2023 02:48:01 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_293/wG4O7_1675392142705QGe2t_JPEG/1675392024328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아우터뱅크스 3 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/32844646</link>
-            <guid>https://tv.naver.com/v/32844646</guid>
-            <pubDate>Fri, 03 Feb 2023 02:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_39/iyZdc_1675391978997kCbwD_JPEG/1675391909803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
