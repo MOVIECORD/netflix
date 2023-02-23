@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 08:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 27 Dec 2022 03:16:05 GMT</pubDate>
             <content:encoded><![CDATA[끝나버렸다 난 22년 목표 시작도 안해봤는데^^....새해 목표요? 갓생이요?? 느슨해진 우리의 2023년에 긴장감을 주러 온(두둥)#2023 피지컬런 챌린지 ~ 사전 모집 오픈 ~▽▼런데이 챌린지 도전 GO!▼▽ ☞ CLICK···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMTc2/MDAxNjcyMDQyNDUxNzM0.bhxOh-wkkAYHkbjdkQLofiW1tR6xLBNuHWCpahwEYC0g.8F8ZIlBfn7EcGMC7_LF9XRXFLGs0gKXub66m5QG_QcAg.JPEG/IfnXDukZXZc9aa4RvXw6df9EhxXE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마지막 2인, 상금 3억의 주인은 누구? | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33405099</link>
+            <guid>https://tv.naver.com/v/33405099</guid>
+            <pubDate>Thu, 23 Feb 2023 09:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_73/9a1Ma_16771399726372luzY_JPEG/1677139942102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 최후 생존 5인의 진짜 이야기 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 10 Feb 2023 02:52:28 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_60/9kH5w_1675996038650FpwGh_JPEG/1675995957626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 연애대전 | 스페셜 MV 'NCT태일 - Lovey Dovey' (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33009817</link>
-            <guid>https://tv.naver.com/v/33009817</guid>
-            <pubDate>Thu, 09 Feb 2023 07:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_105/8AfWz_1675924009543WYLPk_JPEG/1675923884654.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
