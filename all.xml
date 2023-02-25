@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 02:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 03:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 27 Dec 2022 03:16:05 GMT</pubDate>
             <content:encoded><![CDATA[끝나버렸다 난 22년 목표 시작도 안해봤는데^^....새해 목표요? 갓생이요?? 느슨해진 우리의 2023년에 긴장감을 주러 온(두둥)#2023 피지컬런 챌린지 ~ 사전 모집 오픈 ~▽▼런데이 챌린지 도전 GO!▼▽ ☞ CLICK···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMTc2/MDAxNjcyMDQyNDUxNzM0.bhxOh-wkkAYHkbjdkQLofiW1tR6xLBNuHWCpahwEYC0g.8F8ZIlBfn7EcGMC7_LF9XRXFLGs0gKXub66m5QG_QcAg.JPEG/IfnXDukZXZc9aa4RvXw6df9EhxXE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 베테랑 킬러, 우수 직원 전도연 | 길복순 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33440166</link>
+            <guid>https://tv.naver.com/v/33440166</guid>
+            <pubDate>Sat, 25 Feb 2023 03:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_130/AtpVt_1677287887266HIe6l_JPEG/1677287884353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 나는 신이다: 신이 배신한 사람들 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sun, 12 Feb 2023 10:15:27 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_17/XG8YC_1676193621913urIDG_JPEG/1676193476863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 도저히 욕 없이는 게임을 진행할 수 없었습니다 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33035376</link>
-            <guid>https://tv.naver.com/v/33035376</guid>
-            <pubDate>Fri, 10 Feb 2023 05:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_218/z5Y9B_16760056314623XnVu_JPEG/1676005601161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
