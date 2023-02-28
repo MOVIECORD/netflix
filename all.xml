@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 01:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 02:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 27 Dec 2022 03:16:05 GMT</pubDate>
             <content:encoded><![CDATA[끝나버렸다 난 22년 목표 시작도 안해봤는데^^....새해 목표요? 갓생이요?? 느슨해진 우리의 2023년에 긴장감을 주러 온(두둥)#2023 피지컬런 챌린지 ~ 사전 모집 오픈 ~▽▼런데이 챌린지 도전 GO!▼▽ ☞ CLICK···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjZfMTc2/MDAxNjcyMDQyNDUxNzM0.bhxOh-wkkAYHkbjdkQLofiW1tR6xLBNuHWCpahwEYC0g.8F8ZIlBfn7EcGMC7_LF9XRXFLGs0gKXub66m5QG_QcAg.JPEG/IfnXDukZXZc9aa4RvXw6df9EhxXE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 포켓몬 컨시어지 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33529647</link>
+            <guid>https://tv.naver.com/v/33529647</guid>
+            <pubDate>Tue, 28 Feb 2023 02:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_171/OzRBx_1677550239246DQVAc_JPEG/1677550176819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 베테랑 킬러, 우수 직원 전도연 | 길복순 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 14 Feb 2023 01:16:49 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_191/jC5PF_1676286923219wHBko_PNG/1676286915528.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] | 연애대전 | 배우 유태오와 변호사 김옥빈의 계약 연애 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33074479</link>
-            <guid>https://tv.naver.com/v/33074479</guid>
-            <pubDate>Sun, 12 Feb 2023 10:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_17/XG8YC_1676193621913urIDG_JPEG/1676193476863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
