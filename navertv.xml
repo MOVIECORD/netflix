@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 23:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 01:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 너에게 닿기를 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/33582720</link>
+            <guid>https://tv.naver.com/v/33582720</guid>
+            <pubDate>Thu, 02 Mar 2023 01:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_264/9qOTS_1677719548647bPfFi_JPEG/1677719484116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 포켓몬 컨시어지 | 공식 티저 예고편]]></title>
             <link>https://tv.naver.com/v/33529647</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 02:47:15 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_205/Bpz0w_1676253587279hPYx1_JPEG/1676253545853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 누군가 나의 사생활을 훔쳐보고 있다면?ㅣ스마트폰을 떨어뜨렸을 뿐인데]]></title>
-            <link>https://tv.naver.com/v/33083993</link>
-            <guid>https://tv.naver.com/v/33083993</guid>
-            <pubDate>Tue, 14 Feb 2023 01:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_191/jC5PF_1676286923219wHBko_PNG/1676286915528.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
