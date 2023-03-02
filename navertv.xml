@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 01:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 02:53:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 글로리 과몰입러를 위한 중간고사 개최🎉 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/33583008</link>
+            <guid>https://tv.naver.com/v/33583008</guid>
+            <pubDate>Thu, 02 Mar 2023 02:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_98/gTV8E_1677720300905245Hq_JPEG/1677720162913.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 너에게 닿기를 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/33582720</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 02:47:15 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_186/PI9wd_1676253708165dQMCp_JPEG/1676253707060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 친구와 집을 바꿔 살다가 안구를 찌름 | 유어 플레이스 오어 마인]]></title>
-            <link>https://tv.naver.com/v/33084391</link>
-            <guid>https://tv.naver.com/v/33084391</guid>
-            <pubDate>Mon, 13 Feb 2023 02:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_205/Bpz0w_1676253587279hPYx1_JPEG/1676253545853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
