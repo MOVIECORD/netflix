@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 01:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 02:56:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Mar 2023 01:19:20 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_256/PXU81_1678410865166e0qjf_JPEG/1678410795010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 기어이 박연진의 상자를 여는 하도영 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/33807632</link>
+            <guid>https://tv.naver.com/v/33807632</guid>
+            <pubDate>Fri, 10 Mar 2023 02:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_127/ZzBil_1678358690310cmwHJ_PNG/1678358674903.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 과몰입러를 위한 중간고사 개최🎉 | 더 글로리]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 02:47:15 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_149/06HRI_1676253853020virgv_JPEG/1676253749511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 서전트 점프가 탈인간 급인 윤성빈 | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/33084508</link>
-            <guid>https://tv.naver.com/v/33084508</guid>
-            <pubDate>Mon, 13 Feb 2023 02:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_10/qT4KK_1676253862633AXNg4_JPEG/1676253861059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
