@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 07:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 08:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 10 Mar 2023 01:19:20 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_256/PXU81_1678410865166e0qjf_JPEG/1678410795010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 글로리 파트2ㅣ절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33817112</link>
+            <guid>https://tv.naver.com/v/33817112</guid>
+            <pubDate>Fri, 10 Mar 2023 08:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_241/Hdoi1_1678369418940QFqWi_JPEG/1678369415915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 기어이 박연진의 상자를 여는 하도영 | 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 14 Feb 2023 02:48:41 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_206/9j8Wy_1676338844267fsKnR_JPEG/1676338707693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 파이널 퀘스트 진출자는 단 5인 뿐 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33084519</link>
-            <guid>https://tv.naver.com/v/33084519</guid>
-            <pubDate>Mon, 13 Feb 2023 02:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_149/06HRI_1676253853020virgv_JPEG/1676253749511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
