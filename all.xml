@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 23:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 01:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 29 Dec 2022 05:13:42 GMT</pubDate>
             <content:encoded><![CDATA[종소리 울려라 종소리 울려~♪ 성큼 코 앞으로 다가온 우리들의 연말지옥도&amp;천국도의 연말에도 의문의 ‘종소리’가 울려퍼질 예정이라는데?!시청자들에게 매주 리얼한 감정들을 생생하게 전달하고 있···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjdfNzEg/MDAxNjcyMTExMjI3MTU5.TTtsqkJT1m7tcz8-dVV-hF7ljjCoZpT4YnnDxiP2yvog.XO4VaHitjLL1RH_Pua_5lIt2Um-bKWOPGasmMnGf6K0g.JPEG/IulM39VSMLBIXOsRVa91POp-48lU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 나이트 에이전트 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33837831</link>
+            <guid>https://tv.naver.com/v/33837831</guid>
+            <pubDate>Fri, 10 Mar 2023 01:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_256/PXU81_1678410865166e0qjf_JPEG/1678410795010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 과몰입러를 위한 중간고사 개최🎉 | 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 13 Feb 2023 02:47:15 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_10/qT4KK_1676253862633AXNg4_JPEG/1676253861059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 우리집에 나도 모르는 시체가 있다 | 너의 모든 것 4 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33084440</link>
-            <guid>https://tv.naver.com/v/33084440</guid>
-            <pubDate>Mon, 13 Feb 2023 02:47:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_186/PI9wd_1676253708165dQMCp_JPEG/1676253707060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
