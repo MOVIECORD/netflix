@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 01:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 02:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 당신의 약점을 알고 있는 범인 | 루터: 태양의 몰락]]></title>
+            <link>https://tv.naver.com/v/33912617</link>
+            <guid>https://tv.naver.com/v/33912617</guid>
+            <pubDate>Mon, 13 Mar 2023 02:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_240/aUmZm_1678674620570eXJWw_JPEG/1678674597709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 강현남을 매수하는 박연진 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/33910347</link>
+            <guid>https://tv.naver.com/v/33910347</guid>
+            <pubDate>Mon, 13 Mar 2023 02:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_281/CyfzB_1678670064827lzyQt_JPEG/1678670033040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 나이트 에이전트 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/33837831</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 15 Feb 2023 02:49:25 GMT</pubDate>
             <content:encoded><![CDATA[4:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230215_250/8Lyx7_16764268358972rllN_JPEG/1676426711316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 샬럿 왕비: 브리저튼 외전 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/33143096</link>
-            <guid>https://tv.naver.com/v/33143096</guid>
-            <pubDate>Wed, 15 Feb 2023 02:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_283/6C8F0_1676426691994xjvvJ_JPEG/1676426631453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 장은실 팀과 패자부활 팀 연합, 언더독의 반란? | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/33123116</link>
-            <guid>https://tv.naver.com/v/33123116</guid>
-            <pubDate>Tue, 14 Feb 2023 10:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_27/ds9lA_1676368268861KqXz0_JPEG/1676368083158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
