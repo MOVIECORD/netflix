@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 11:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 12:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 연진이가 만든 동은의 상처를 본 하도영 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/33934186</link>
+            <guid>https://tv.naver.com/v/33934186</guid>
+            <pubDate>Mon, 13 Mar 2023 12:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_267/i0Io4_16787068469044mdJ5_PNG/1678706753439.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 당신의 약점을 알고 있는 범인 | 루터: 태양의 몰락]]></title>
             <link>https://tv.naver.com/v/33912617</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 01:16:46 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230215_145/5uqZj_1676444816966wPQaH_PNG/1676444811467.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 플루토 | 미리보기]]></title>
-            <link>https://tv.naver.com/v/33143199</link>
-            <guid>https://tv.naver.com/v/33143199</guid>
-            <pubDate>Wed, 15 Feb 2023 02:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_250/8Lyx7_16764268358972rllN_JPEG/1676426711316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
