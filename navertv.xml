@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 07:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 08:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 15 Mar 2023 02:37:50 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_286/hgDTs_1678847418670WYs34_JPEG/1678847416282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 하도영과 전재준, 아빠 자리를 둔 싸움 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/33948307</link>
+            <guid>https://tv.naver.com/v/33948307</guid>
+            <pubDate>Wed, 15 Mar 2023 08:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230314_42/DAxmZ_1678801027411ef4in_JPEG/1678801003708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 연진이가 만든 동은의 상처를 본 하도영 | 더 글로리]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 01:16:46 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230216_138/xA01B_16765088436100dKJk_JPEG/1676508815858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 집채만 한 돌 들고 90분 버티기 가능? | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/33145770</link>
-            <guid>https://tv.naver.com/v/33145770</guid>
-            <pubDate>Wed, 15 Feb 2023 03:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_111/ahMTR_1676431024431iihx2_JPEG/1676431022445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
