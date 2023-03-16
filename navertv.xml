@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 16 Mar 2023 01:14:47 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_222/HU9gT_1678846736139xGKSj_JPEG/1678846579923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 문동은이 언제나 보고 싶은 주여정 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/33948342</link>
+            <guid>https://tv.naver.com/v/33948342</guid>
+            <pubDate>Thu, 16 Mar 2023 08:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_158/HRAte_1678930695014v8iAR_JPEG/1678930691137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하도영과 전재준, 아빠 자리를 둔 싸움 | 더 글로리]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Feb 2023 02:43:15 GMT</pubDate>
             <content:encoded><![CDATA[4:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230218_100/p3U1t_1676728232223gCUc7_JPEG/1676728230148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 국가대표 vs 야구선수 vs 댄서 vs 보디빌더 승자는? | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/33195285</link>
-            <guid>https://tv.naver.com/v/33195285</guid>
-            <pubDate>Thu, 16 Feb 2023 09:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_61/yrbcQ_1676535870259SOhWE_JPEG/1676535856597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
