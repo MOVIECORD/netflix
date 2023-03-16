@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 01:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 02:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 성난 사람들(비프) | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/34025274</link>
+            <guid>https://tv.naver.com/v/34025274</guid>
+            <pubDate>Thu, 16 Mar 2023 02:39:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_37/ooU7d_1678934109806OXRYJ_JPEG/1678933996086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 고마워 엄마 하나도 안 변해서 | 더 글로리]]></title>
             <link>https://tv.naver.com/v/33988698</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 09:16:56 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230216_61/yrbcQ_1676535870259SOhWE_JPEG/1676535856597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 데이스 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/33190104</link>
-            <guid>https://tv.naver.com/v/33190104</guid>
-            <pubDate>Thu, 16 Feb 2023 07:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_135/fdO0g_1676528821363TNTEg_JPEG/1676528770083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
