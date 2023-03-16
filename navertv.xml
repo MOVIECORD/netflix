@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 23:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 01:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 15 Mar 2023 02:37:50 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_286/hgDTs_1678847418670WYs34_JPEG/1678847416282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 길복순 | 파이널 예고편]]></title>
+            <link>https://tv.naver.com/v/33988261</link>
+            <guid>https://tv.naver.com/v/33988261</guid>
+            <pubDate>Thu, 16 Mar 2023 01:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_222/HU9gT_1678846736139xGKSj_JPEG/1678846579923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하도영과 전재준, 아빠 자리를 둔 싸움 | 더 글로리]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 07:14:43 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230216_135/fdO0g_1676528821363TNTEg_JPEG/1676528770083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너의 모든 것: 시즌 4 파트 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/33177663</link>
-            <guid>https://tv.naver.com/v/33177663</guid>
-            <pubDate>Thu, 16 Feb 2023 01:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_138/xA01B_16765088436100dKJk_JPEG/1676508815858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
