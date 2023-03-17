@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 09:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 10:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,7 +212,7 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://tv.naver.com/v/34026442</guid>
             <pubDate>Fri, 17 Mar 2023 01:13:22 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_90/NbxLO_1678935553459xqKPR_JPEG/1678935495195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_126/915DV_1679045459448M905R_JPEG/1679045457706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 성난 사람들(비프) | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
