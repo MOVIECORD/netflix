@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 23:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 01:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 살인범이 주여정의 아버지를 죽인 이유 | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/34133938</link>
+            <guid>https://tv.naver.com/v/34133938</guid>
+            <pubDate>Mon, 20 Mar 2023 01:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_68/Px3OV_1679274707186iTqKI_JPEG/1679274478267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 퀸메이커 | 티저 예고편]]></title>
             <link>https://tv.naver.com/v/34026442</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Feb 2023 01:19:36 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_213/gSUMm_16765967473256AFHb_JPEG/1676596626543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] F1, 본능의 질주 시즌 5 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/33214086</link>
-            <guid>https://tv.naver.com/v/33214086</guid>
-            <pubDate>Fri, 17 Feb 2023 01:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_232/i0au0_1676596623319VRrk4_JPEG/1676596571782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
