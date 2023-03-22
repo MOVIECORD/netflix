@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 01:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 02:32:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 30 Dec 2022 08:18:03 GMT</pubDate>
             <content:encoded><![CDATA[드디어 오늘!&nbsp;많은 분들이기다리고 기다리고 기다렸던넷플릭스 시리즈&lt;더 글로리&gt;공개!중요한 건 꺾이지 않는 기대감.격໒꒰ྀི ੭ ˃̵ᴗ˂̵ ꒱ྀི੭&lt;더 글로리&gt;만의 거룩한 비극을제.대.로 볼 수 있게 준비한관전···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjlfMjc3/MDAxNjcyMzI1NDA0NDM5.ZQ_5qjkkE6-xwB2VNZYs6KIum8IJES5RzY41Eu6yifMg.VxvZMcXQw9saWw0xXFcv86dC49Qg2MCrdXFOboGauiQg.GIF/I4Q1lZfg-DB23o8JSdFBbdM1XrKQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <스위트 투스: 사슴뿔을 가진 소년> 시즌 2 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34209621</link>
+            <guid>https://tv.naver.com/v/34209621</guid>
+            <pubDate>Wed, 22 Mar 2023 02:32:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_103/sv7yc_1679447671321c92OA_JPEG/1679447595897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 살인범이 주여정의 아버지를 죽인 이유 | 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 17 Feb 2023 02:50:59 GMT</pubDate>
             <content:encoded><![CDATA[5:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_180/RaSBd_1676597598270byUKI_JPEG/1676597447147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마술사의 코끼리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33214135</link>
-            <guid>https://tv.naver.com/v/33214135</guid>
-            <pubDate>Fri, 17 Feb 2023 01:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_213/gSUMm_16765967473256AFHb_JPEG/1676596626543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
