@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 01:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 02:32:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 30 Dec 2022 08:18:03 GMT</pubDate>
             <content:encoded><![CDATA[드디어 오늘!&nbsp;많은 분들이기다리고 기다리고 기다렸던넷플릭스 시리즈&lt;더 글로리&gt;공개!중요한 건 꺾이지 않는 기대감.격໒꒰ྀི ੭ ˃̵ᴗ˂̵ ꒱ྀི੭&lt;더 글로리&gt;만의 거룩한 비극을제.대.로 볼 수 있게 준비한관전···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjlfMjc3/MDAxNjcyMzI1NDA0NDM5.ZQ_5qjkkE6-xwB2VNZYs6KIum8IJES5RzY41Eu6yifMg.VxvZMcXQw9saWw0xXFcv86dC49Qg2MCrdXFOboGauiQg.GIF/I4Q1lZfg-DB23o8JSdFBbdM1XrKQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 엑스오, 키티 | 퍼스트룩 영상 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34247580</link>
+            <guid>https://tv.naver.com/v/34247580</guid>
+            <pubDate>Thu, 23 Mar 2023 02:31:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_171/qajAG_1679533836283shI3y_JPEG/1679533694323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 설경구에게 요구하는 전도연의 재계약 조건 | 길복순 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 17 Feb 2023 08:20:23 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_232/hUYGT_1676621345629s2Hkc_JPEG/1676621268470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 영원히 끝나지 않는 달리기 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33219277</link>
-            <guid>https://tv.naver.com/v/33219277</guid>
-            <pubDate>Fri, 17 Feb 2023 04:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_44/jO5jH_167660656712942YPs_JPEG/1676606531664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
