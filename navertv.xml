@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 05:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 06:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 스페셜 MV '폴킴 - 너는 기억한다' | 더 글로리]]></title>
+            <link>https://tv.naver.com/v/34366079</link>
+            <guid>https://tv.naver.com/v/34366079</guid>
+            <pubDate>Mon, 27 Mar 2023 06:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_68/xbok3_16798941018675OYyg_JPEG/1679893934966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 엑스오, 키티 | 퍼스트룩 영상]]></title>
             <link>https://tv.naver.com/v/34247580</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 02:50:34 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_137/vbkH1_16768607738536HqnD_JPEG/1676860754050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스마트폰을 떨어뜨렸을 뿐인데ㅣ절찬 스트리밍 중]]></title>
-            <link>https://tv.naver.com/v/33229119</link>
-            <guid>https://tv.naver.com/v/33229119</guid>
-            <pubDate>Fri, 17 Feb 2023 08:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_232/hUYGT_1676621345629s2Hkc_JPEG/1676621268470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
