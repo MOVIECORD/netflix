@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 01:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 02:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 길복순 속으로 | 길복순]]></title>
+            <link>https://tv.naver.com/v/34398880</link>
+            <guid>https://tv.naver.com/v/34398880</guid>
+            <pubDate>Tue, 28 Mar 2023 02:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_138/7NMrO_1679968793220Ny4zi_JPEG/1679968681539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '폴킴 - 너는 기억한다' | 더 글로리]]></title>
             <link>https://tv.naver.com/v/34366079</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 05:15:38 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_255/8OCPJ_16768674232806zoj3_JPEG/1676867378687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 뒷담화 해놓고 해킹이라고? | 스마트폰을 떨어뜨렸을 뿐인데]]></title>
-            <link>https://tv.naver.com/v/33289329</link>
-            <guid>https://tv.naver.com/v/33289329</guid>
-            <pubDate>Mon, 20 Feb 2023 02:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_137/vbkH1_16768607738536HqnD_JPEG/1676860754050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
