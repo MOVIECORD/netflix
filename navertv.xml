@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 07:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 08:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 절찬 스트리밍 중 | 길복순]]></title>
+            <link>https://tv.naver.com/v/34516422</link>
+            <guid>https://tv.naver.com/v/34516422</guid>
+            <pubDate>Fri, 31 Mar 2023 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_115/ZY2h3_1680249194281jjSF0_JPEG/1680249006800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 길복순 속으로 | 길복순]]></title>
             <link>https://tv.naver.com/v/34408200</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 11:13:45 GMT</pubDate>
             <content:encoded><![CDATA[4:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_65/fHfZW_167697466481726heN_JPEG/1676974635439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 마지막 생존자 5인의 마지막 게임 | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/33292937</link>
-            <guid>https://tv.naver.com/v/33292937</guid>
-            <pubDate>Mon, 20 Feb 2023 05:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_165/C3E7O_1676867467054jM8Ii_JPEG/1676867454355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
