@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 01:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 02:31:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 31 Mar 2023 08:18:49 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_115/ZY2h3_1680249194281jjSF0_JPEG/1680249006800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 야쿠자 황정민을 처리하는 킬러 전도연의 A급 작품 | 길복순]]></title>
+            <link>https://tv.naver.com/v/34514988</link>
+            <guid>https://tv.naver.com/v/34514988</guid>
+            <pubDate>Sat, 01 Apr 2023 02:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_286/uLBRO_1680249924095nbcdr_JPEG/1680249825006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 길복순 속으로 | 길복순]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Feb 2023 01:13:50 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230222_7/Ad8cC_1677070467872tuIJG_JPEG/1677070464570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 생존이 달린 5각 줄다리기 게임 | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/33342079</link>
-            <guid>https://tv.naver.com/v/33342079</guid>
-            <pubDate>Tue, 21 Feb 2023 11:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[4:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_65/fHfZW_167697466481726heN_JPEG/1676974635439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
