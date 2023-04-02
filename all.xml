@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 01:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 02:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -223,6 +223,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_115/ZY2h3_1680249194281jjSF0_JPEG/1680249006800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 포장마차 킬러 세계관 | 길복순 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34515892</link>
+            <guid>https://tv.naver.com/v/34515892</guid>
+            <pubDate>Sun, 02 Apr 2023 02:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_274/WJ8TD_1680250162915u10kT_JPEG/1680249940120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 야쿠자 황정민을 처리하는 킬러 전도연의 A급 작품 | 길복순 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34514988</link>
             <guid>https://tv.naver.com/v/34514988</guid>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 23 Feb 2023 09:15:49 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230223_73/9a1Ma_16771399726372luzY_JPEG/1677139942102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 최후 생존 5인의 진짜 이야기 | 피지컬: 100 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33394320</link>
-            <guid>https://tv.naver.com/v/33394320</guid>
-            <pubDate>Thu, 23 Feb 2023 04:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_217/FjuvR_1677123094123SH5NQ_JPEG/1677123068755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
