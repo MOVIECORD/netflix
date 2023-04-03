@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 가메라: 부활 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/34577368</link>
+            <guid>https://tv.naver.com/v/34577368</guid>
+            <pubDate>Mon, 03 Apr 2023 06:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_276/6apYJ_1680501632046QIHPt_JPEG/1680501549403.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 데이스 | 공식 티저 예고편 #2]]></title>
+            <link>https://tv.naver.com/v/34577264</link>
+            <guid>https://tv.naver.com/v/34577264</guid>
+            <pubDate>Mon, 03 Apr 2023 06:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_148/eJhFQ_1680501493397RvBII_JPEG/1680501460116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 3월 31일 대개봉 | 길복순]]></title>
             <link>https://tv.naver.com/v/34535647</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 25 Feb 2023 03:19:44 GMT</pubDate>
             <content:encoded><![CDATA[3:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_130/AtpVt_1677287887266HIe6l_JPEG/1677287884353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나는 신이다: 신이 배신한 사람들 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/33425009</link>
-            <guid>https://tv.naver.com/v/33425009</guid>
-            <pubDate>Fri, 24 Feb 2023 01:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_239/3BbKQ_1677200685356EtIPI_JPEG/1677200629776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마지막 2인, 상금 3억의 주인은 누구? | 피지컬: 100]]></title>
-            <link>https://tv.naver.com/v/33405099</link>
-            <guid>https://tv.naver.com/v/33405099</guid>
-            <pubDate>Thu, 23 Feb 2023 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_73/9a1Ma_16771399726372luzY_JPEG/1677139942102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
