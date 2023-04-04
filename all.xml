@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 13:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 14:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -228,7 +228,7 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://tv.naver.com/v/34570997</guid>
             <pubDate>Mon, 03 Apr 2023 14:13:46 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_9/icOzU_16805705165334lzfx_JPEG/1680570512174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_190/4W7lo_16806175890161FsT9_JPEG/1680617586625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 3월 31일 대개봉 | 길복순 (Netflix Korea ─ NAVER TV)]]></title>
