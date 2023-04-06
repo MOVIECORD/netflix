@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 05:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 06:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,6 +205,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 05 Jan 2023 01:13:30 GMT</pubDate>
             <content:encoded><![CDATA[미래 인류에게 닥친 위기를 해결할 유일한 희망, 전투용병 A.I. ‘정이’가 온다!넷플릭스 영화 &lt;정이&gt; ※2023년 1월 20일 공개※ (설 연휴에 ‘정이’ 넘칠 예정~!) 전장에서 전투···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDRfMTE1/MDAxNjcyODEyMjExMTc4.6p9ZpieLvMSh8zLbmDa6_Z1uYJ-1YbgOfpIbYZH2D8Ug.P2rb_V_QX_VuymEzIpieI9pKRJ-e0CJHn_emq06ewYsg.JPEG/IvV50l0VrklJV5A_SlwmwYHCpw80.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 4월 신작 소개 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34685402</link>
+            <guid>https://tv.naver.com/v/34685402</guid>
+            <pubDate>Thu, 06 Apr 2023 06:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_31/eApUy_1680758401645f3xaz_JPEG/1680758376874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 전도연을 처리하면 취업시켜드릴게요 | 길복순 (Netflix Korea ─ NAVER TV)]]></title>
@@ -437,14 +445,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 11 Mar 2023 02:35:26 GMT</pubDate>
             <content:encoded><![CDATA[4:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_260/SccIx_1678411038450gkaWI_PNG/1678411011317.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 기어이 박연진의 상자를 여는 하도영 | 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33807632</link>
-            <guid>https://tv.naver.com/v/33807632</guid>
-            <pubDate>Fri, 10 Mar 2023 02:55:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_127/ZzBil_1678358690310cmwHJ_PNG/1678358674903.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
