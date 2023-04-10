@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 01:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 02:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35747470&amp;memberNo=25425763</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35747470&amp;memberNo=25425763</guid>
             <pubDate>Mon, 10 Apr 2023 01:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[" 큰일났네요... 당신은 심각한'넷플릭스 과몰입 증후군'입니다 "" 흥, 웃기는 소리근데 재준아, 넌 모르잖아올해 넷플릭스 예능 라인업 " 선공개된 스틸부터 느껴지는★웅장한 대작들의 포···]]></content:encoded>
+            <content:encoded><![CDATA[" 큰일났네요... 당신은 심각한 '넷플릭스 과몰입 증후군'입니다 " " 흥, 웃기는 소리 근데 재준아, 넌 모르잖아 올해 넷플릭스 예능 라인업 "선공개된 스틸부터 느껴지는 ★웅장한 대작들의 포···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDdfNDUg/MDAxNjgwODM2MDg1NjE4.QmuNO05eTJmqQalO5-GMXWqUd4O3qQl4z_6QdNwlml0g.kADMSawD1ffbqG_oWkuj1ycWVKwTH-hXuh5KYoJG5g4g.JPEG/IhzuqR27rcF0POueNc5HtYTSiifY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -207,6 +207,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 06 Jan 2023 12:28:31 GMT</pubDate>
             <content:encoded><![CDATA[[의사] 치료가 필요할 정도로 심각한 &lt;솔로지옥&gt; 시즌2 중독증입니다. [나] 흥, 웃기는 소리. 책상 선 넘어도 돼요?솔로들은 물론, 커플들의 마음까지 들었다!놨다! 마음껏 몰입하게 만든다는 화제의 그.예.능···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDZfOTUg/MDAxNjczMDAyMTMyMDIy.6d42YRxM9xaJpKdeQcvCaWNUyvxrbQP5KXwrpHDFWjwg.m0cSMdTB36B310YmQ-oh269hpZs-lxu7lGaYqaM4Cv4g.PNG/I6PlqcfvK6ND7XxAFIR8UMVKYM_Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 복수는 원초적으로 해야 제맛 | 성난 사람들(비프) (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34791854</link>
+            <guid>https://tv.naver.com/v/34791854</guid>
+            <pubDate>Mon, 10 Apr 2023 02:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_222/1NWtf_1681089074680PFCQA_JPEG/1681089071007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙 클로버: 마법제의 검 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -439,14 +447,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 13 Mar 2023 02:38:50 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_281/CyfzB_1678670064827lzyQt_JPEG/1678670033040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나이트 에이전트 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33837831</link>
-            <guid>https://tv.naver.com/v/33837831</guid>
-            <pubDate>Fri, 10 Mar 2023 01:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_256/PXU81_1678410865166e0qjf_JPEG/1678410795010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
