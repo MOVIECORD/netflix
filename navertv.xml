@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 23:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 01:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 택배기사 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/34798287</link>
+            <guid>https://tv.naver.com/v/34798287</guid>
+            <pubDate>Tue, 11 Apr 2023 01:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_202/T3fUp_1681123694300DUc1L_JPEG/1681123691259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 복수는 원초적으로 해야 제맛 | 성난 사람들(비프)]]></title>
             <link>https://tv.naver.com/v/34791854</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Mar 2023 02:38:50 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_240/aUmZm_1678674620570eXJWw_JPEG/1678674597709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 강현남을 매수하는 박연진 | 더 글로리]]></title>
-            <link>https://tv.naver.com/v/33910347</link>
-            <guid>https://tv.naver.com/v/33910347</guid>
-            <pubDate>Mon, 13 Mar 2023 02:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_281/CyfzB_1678670064827lzyQt_JPEG/1678670033040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
