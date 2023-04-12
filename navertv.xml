@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 23:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 01:07:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 내 이름은 마더 | 제니퍼 로페즈 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/34866233</link>
+            <guid>https://tv.naver.com/v/34866233</guid>
+            <pubDate>Wed, 12 Apr 2023 01:06:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_107/FDVsU_1681261461774jrGhg_JPEG/1681261387874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 택배기사 | 티저 예고편]]></title>
             <link>https://tv.naver.com/v/34798287</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Mar 2023 12:30:46 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_267/i0Io4_16787068469044mdJ5_PNG/1678706753439.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 당신의 약점을 알고 있는 범인 | 루터: 태양의 몰락]]></title>
-            <link>https://tv.naver.com/v/33912617</link>
-            <guid>https://tv.naver.com/v/33912617</guid>
-            <pubDate>Mon, 13 Mar 2023 02:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_240/aUmZm_1678674620570eXJWw_JPEG/1678674597709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
