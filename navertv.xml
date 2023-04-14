@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 06:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 07:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 14 Apr 2023 04:17:01 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_113/G29A1_1681442647657nDb3h_JPEG/1681442536752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 퀸메이커 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/34914379</link>
+            <guid>https://tv.naver.com/v/34914379</guid>
+            <pubDate>Fri, 14 Apr 2023 07:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_96/pk9QC_1681364278016LuaiJ_PNG/1681364274529.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 내 이름은 마더 | 제니퍼 로페즈 | 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Mar 2023 01:14:47 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_222/HU9gT_1678846736139xGKSj_JPEG/1678846579923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 문동은이 언제나 보고 싶은 주여정 | 더 글로리]]></title>
-            <link>https://tv.naver.com/v/33948342</link>
-            <guid>https://tv.naver.com/v/33948342</guid>
-            <pubDate>Thu, 16 Mar 2023 08:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_158/HRAte_1678930695014v8iAR_JPEG/1678930691137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
