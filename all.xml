@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 03:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 04:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,22 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 06 Jan 2023 12:28:31 GMT</pubDate>
             <content:encoded><![CDATA[[의사] 치료가 필요할 정도로 심각한 &lt;솔로지옥&gt; 시즌2 중독증입니다. [나] 흥, 웃기는 소리. 책상 선 넘어도 돼요?솔로들은 물론, 커플들의 마음까지 들었다!놨다! 마음껏 몰입하게 만든다는 화제의 그.예.능···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDZfOTUg/MDAxNjczMDAyMTMyMDIy.6d42YRxM9xaJpKdeQcvCaWNUyvxrbQP5KXwrpHDFWjwg.m0cSMdTB36B310YmQ-oh269hpZs-lxu7lGaYqaM4Cv4g.PNG/I6PlqcfvK6ND7XxAFIR8UMVKYM_Q.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 러브 빌리지 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34947834</link>
+            <guid>https://tv.naver.com/v/34947834</guid>
+            <pubDate>Fri, 14 Apr 2023 04:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_71/wzKp4_1681442803348q2UXB_JPEG/1681442716444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 네버 해브 아이 에버 - 마지막 시즌 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34947758</link>
+            <guid>https://tv.naver.com/v/34947758</guid>
+            <pubDate>Fri, 14 Apr 2023 04:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_113/G29A1_1681442647657nDb3h_JPEG/1681442536752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 내 이름은 마더 | 제니퍼 로페즈 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -431,22 +447,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 16 Mar 2023 08:19:45 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_158/HRAte_1678930695014v8iAR_JPEG/1678930691137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하도영과 전재준, 아빠 자리를 둔 싸움 | 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33948307</link>
-            <guid>https://tv.naver.com/v/33948307</guid>
-            <pubDate>Wed, 15 Mar 2023 08:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230314_42/DAxmZ_1678801027411ef4in_JPEG/1678801003708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 연진이가 만든 동은의 상처를 본 하도영 | 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33934186</link>
-            <guid>https://tv.naver.com/v/33934186</guid>
-            <pubDate>Mon, 13 Mar 2023 12:30:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_267/i0Io4_16787068469044mdJ5_PNG/1678706753439.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
