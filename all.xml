@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 08:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 09:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,6 +233,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_96/pk9QC_1681364278016LuaiJ_PNG/1681364274529.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 김희애와 문소리 두 배우의 만남 | 퀸메이커 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34914300</link>
+            <guid>https://tv.naver.com/v/34914300</guid>
+            <pubDate>Sat, 15 Apr 2023 09:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[5:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_11/YorAF_1681364168658vrPqt_PNG/1681364162411.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 문소리는 류수영의 범행을 알고 있다 | 퀸메이커 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34914204</link>
             <guid>https://tv.naver.com/v/34914204</guid>
@@ -439,14 +447,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 16 Mar 2023 02:39:13 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_37/ooU7d_1678934109806OXRYJ_JPEG/1678933996086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 고마워 엄마 하나도 안 변해서 | 더 글로리 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33988698</link>
-            <guid>https://tv.naver.com/v/33988698</guid>
-            <pubDate>Wed, 15 Mar 2023 02:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_286/hgDTs_1678847418670WYs34_JPEG/1678847416282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
