@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 01:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 02:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 11 Jan 2023 04:18:55 GMT</pubDate>
             <content:encoded><![CDATA[HOXY, 새해 목표를 운동로 잡은 사람이 있나요? ⌜단 1g도 사라지지 마! 우리 더욱 (건)강해지자!⌟티저 예고편 공개 이후, 네티즌들에게 ‘근징어게임’, ‘갑오징어 게임’ 애칭으로 불···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTBfMTcg/MDAxNjczMzM4MzYxNjM0.D2oxtAoHOwFnL-jbZOvciCafuHJposb151fbp3Go_Wgg.dKkfXHvT6qk6H-ZgtvV2N7hO4r5scVEdzV4lnrEqnJgg.JPEG/IADAral1uDOZ3utRKOBd9Ha7r5LE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스위트 투스: 사슴뿔을 가진 소년 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35058775</link>
+            <guid>https://tv.naver.com/v/35058775</guid>
+            <pubDate>Tue, 18 Apr 2023 02:30:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_290/KU0nL_1681780073332HldzB_JPEG/1681780007296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 리키시 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -439,14 +447,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 20 Mar 2023 01:15:26 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230320_68/Px3OV_1679274707186iTqKI_JPEG/1679274478267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 퀸메이커 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34026442</link>
-            <guid>https://tv.naver.com/v/34026442</guid>
-            <pubDate>Fri, 17 Mar 2023 01:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_126/915DV_1679045459448M905R_JPEG/1679045457706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
