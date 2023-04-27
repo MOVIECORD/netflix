@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 01:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 02:32:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 블랙 미러: 시즌 6 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/35367433</link>
+            <guid>https://tv.naver.com/v/35367433</guid>
+            <pubDate>Thu, 27 Apr 2023 02:32:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_264/VXQJd_1682558318403zndMx_JPEG/1682558249412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 택배기사 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/35342942</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 02 Apr 2023 02:30:16 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_55/GUhbV_1680484099908xVDMT_JPEG/1680484093303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 야쿠자 황정민을 처리하는 킬러 전도연의 A급 작품 | 길복순]]></title>
-            <link>https://tv.naver.com/v/34514988</link>
-            <guid>https://tv.naver.com/v/34514988</guid>
-            <pubDate>Sat, 01 Apr 2023 02:31:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_19/ERC0m_1680403394464svqCG_JPEG/1680403385211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
