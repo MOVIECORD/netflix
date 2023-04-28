@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 07:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 08:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 18 Jan 2023 06:19:37 GMT</pubDate>
             <content:encoded><![CDATA[얼굴합만으로도 이미 로맨스 한편 뚝딱이라는 김옥빈 X 유태오 자다가도 벌떡 일어나 졸린 눈을 비비고 클릭한다는 혐관 맛집! 로맨스 인간 둘이 만나 사람들 심쿵시킬 넷플릭스 시리즈 &lt;연애대전&gt; 2월 10일 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMThfOTIg/MDAxNjc0MDA0NDUwNTcz.HbduLU0WO6RXzlbIj1JUt8IWJEMUHOf3SQmCTQwIH9kg.9OFfLt1TtzxkKoM72jxTdseXqLQUNEWDJPPD8gmI1Zgg.JPEG/IxBTBXIHudMxeNtx7h0YLCTeLWVY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 뷰티풀 라이프 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35420090</link>
+            <guid>https://tv.naver.com/v/35420090</guid>
+            <pubDate>Fri, 28 Apr 2023 08:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_68/XoUin_1682667773845B7s35_JPEG/1682667716135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 샬럿 왕비: 브리저튼 외전 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,14 +448,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 03 Apr 2023 14:13:46 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230404_190/4W7lo_16806175890161FsT9_JPEG/1680617586625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 3월 31일 대개봉 | 길복순 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34535647</link>
-            <guid>https://tv.naver.com/v/34535647</guid>
-            <pubDate>Sat, 01 Apr 2023 06:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_220/Sm44S_1680327273060CfjPD_JPEG/1680327142716.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
