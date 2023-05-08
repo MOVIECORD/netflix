@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 01:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 02:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sun, 07 May 2023 02:35:53 GMT</pubDate>
             <content:encoded><![CDATA[얼굴합만으로도 이미 로맨스 한편 뚝딱이라는 김옥빈 X 유태오 자다가도 벌떡 일어나 졸린 눈을 비비고 클릭한다는 혐관 맛집! 로맨스 인간 둘이 만나 사람들 심쿵시킬 넷플릭스 시리즈 &lt;연애대전&gt; 2월 10일 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMThfOTIg/MDAxNjc0MDA0NDUwNTcz.HbduLU0WO6RXzlbIj1JUt8IWJEMUHOf3SQmCTQwIH9kg.9OFfLt1TtzxkKoM72jxTdseXqLQUNEWDJPPD8gmI1Zgg.JPEG/IxBTBXIHudMxeNtx7h0YLCTeLWVY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 나쁜엄마 배우들의 베스트 신은? | 나쁜엄마 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35694219</link>
+            <guid>https://tv.naver.com/v/35694219</guid>
+            <pubDate>Mon, 08 May 2023 02:32:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_65/uOdsm_1683508127272hu2cQ_JPEG/1683507989074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 탑 보이: 시즌 3 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,14 +448,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 03 Apr 2023 06:18:37 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_276/6apYJ_1680501632046QIHPt_JPEG/1680501549403.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 데이스 | 공식 티저 예고편 #2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34577264</link>
-            <guid>https://tv.naver.com/v/34577264</guid>
-            <pubDate>Mon, 03 Apr 2023 06:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_148/eJhFQ_1680501493397RvBII_JPEG/1680501460116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
