@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 04:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 05:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 샬럿 왕비와 조지의 첫 만남 | 샬럿 왕비: 브리저튼 외전]]></title>
+            <link>https://tv.naver.com/v/35700786</link>
+            <guid>https://tv.naver.com/v/35700786</guid>
+            <pubDate>Mon, 08 May 2023 05:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_213/qcLBF_1683521057622DReMN_JPEG/1683520958249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 나쁜엄마 배우들의 베스트 신은? | 나쁜엄마]]></title>
             <link>https://tv.naver.com/v/35694219</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Apr 2023 02:29:56 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230406_151/dWqWz_16807433969678B8z4_JPEG/1680743320709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 가메라: 부활 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/34577368</link>
-            <guid>https://tv.naver.com/v/34577368</guid>
-            <pubDate>Mon, 03 Apr 2023 06:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_276/6apYJ_1680501632046QIHPt_JPEG/1680501549403.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
