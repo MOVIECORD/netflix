@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 01:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 02:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 네버 해브 아이 에버 - 마지막 시즌 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/35773249</link>
+            <guid>https://tv.naver.com/v/35773249</guid>
+            <pubDate>Wed, 10 May 2023 02:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_154/6ZkOD_1683682367700p1RM9_JPEG/1683682313518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 버드 박스: 바르셀로나 | 발표]]></title>
+            <link>https://tv.naver.com/v/35773210</link>
+            <guid>https://tv.naver.com/v/35773210</guid>
+            <pubDate>Wed, 10 May 2023 02:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_78/uwnFx_1683682296545SafRB_JPEG/1683682140418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 뷰티풀 라이프 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/35773126</link>
+            <guid>https://tv.naver.com/v/35773126</guid>
+            <pubDate>Wed, 10 May 2023 02:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_135/T2vzm_1683682123554g5sGT_JPEG/1683682048477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 택배기사 | 작품 속으로]]></title>
             <link>https://tv.naver.com/v/35737683</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 10 Apr 2023 01:06:33 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_300/YlERE_1680835077543alrzx_JPEG/1680835074287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 4월 신작 소개]]></title>
-            <link>https://tv.naver.com/v/34685402</link>
-            <guid>https://tv.naver.com/v/34685402</guid>
-            <pubDate>Thu, 06 Apr 2023 06:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_31/eApUy_1680758401645f3xaz_JPEG/1680758376874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 전도연을 처리하면 취업시켜드릴게요 | 길복순]]></title>
-            <link>https://tv.naver.com/v/34676557</link>
-            <guid>https://tv.naver.com/v/34676557</guid>
-            <pubDate>Thu, 06 Apr 2023 02:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_142/tD2W0_168074409728550YDC_JPEG/1680744005113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 외교관 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/34676283</link>
-            <guid>https://tv.naver.com/v/34676283</guid>
-            <pubDate>Thu, 06 Apr 2023 02:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_77/JHX0k_1680743506679sk2Pn_JPEG/1680743407112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
