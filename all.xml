@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 23:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 01:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 09 May 2023 23:14:51 GMT</pubDate>
             <content:encoded><![CDATA[얼굴합만으로도 이미 로맨스 한편 뚝딱이라는 김옥빈 X 유태오 자다가도 벌떡 일어나 졸린 눈을 비비고 클릭한다는 혐관 맛집! 로맨스 인간 둘이 만나 사람들 심쿵시킬 넷플릭스 시리즈 &lt;연애대전&gt; 2월 10일 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMThfOTIg/MDAxNjc0MDA0NDUwNTcz.HbduLU0WO6RXzlbIj1JUt8IWJEMUHOf3SQmCTQwIH9kg.9OFfLt1TtzxkKoM72jxTdseXqLQUNEWDJPPD8gmI1Zgg.JPEG/IxBTBXIHudMxeNtx7h0YLCTeLWVY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 택배기사 | 작품 속으로 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35737683</link>
+            <guid>https://tv.naver.com/v/35737683</guid>
+            <pubDate>Wed, 10 May 2023 01:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[6:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230509_107/QL9t5_1683606158028oVCqY_JPEG/1683606153311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 샬럿 왕비와 조지의 첫 만남 | 샬럿 왕비: 브리저튼 외전 (Netflix Korea ─ NAVER TV)]]></title>
@@ -440,14 +448,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 06 Apr 2023 02:29:56 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230406_77/JHX0k_1680743506679sk2Pn_JPEG/1680743407112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 운전자라면 뚜껑 열리는 상황 | 성난 사람들(비프) (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34676231</link>
-            <guid>https://tv.naver.com/v/34676231</guid>
-            <pubDate>Thu, 06 Apr 2023 02:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_151/dWqWz_16807433969678B8z4_JPEG/1680743320709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
