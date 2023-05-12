@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 23:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 01:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 사냥개들 | 1차 예고편]]></title>
+            <link>https://tv.naver.com/v/35813149</link>
+            <guid>https://tv.naver.com/v/35813149</guid>
+            <pubDate>Fri, 12 May 2023 01:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_245/GJpVE_1683770834481tt068_JPEG/1683770475005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 《한마 바키》 시즌 2 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/35811182</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 01:06:41 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_202/T3fUp_1681123694300DUc1L_JPEG/1681123691259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 복수는 원초적으로 해야 제맛 | 성난 사람들(비프)]]></title>
-            <link>https://tv.naver.com/v/34791854</link>
-            <guid>https://tv.naver.com/v/34791854</guid>
-            <pubDate>Mon, 10 Apr 2023 02:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_222/1NWtf_1681089074680PFCQA_JPEG/1681089071007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
