@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 06:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 07:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 12 May 2023 05:13:30 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230512_242/6cJvo_168386780170928g4G_JPEG/1683867798104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 택배기사 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/35832405</link>
+            <guid>https://tv.naver.com/v/35832405</guid>
+            <pubDate>Fri, 12 May 2023 07:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_66/sHcSc_16838000140204vXW7_JPEG/1683800001228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 사냥개들 | 1차 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 15 Apr 2023 02:30:39 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_293/oiNiu_1681364008204T5nIC_JPEG/1681363974602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 내 이름은 마더 | 제니퍼 로페즈 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/34866233</link>
-            <guid>https://tv.naver.com/v/34866233</guid>
-            <pubDate>Wed, 12 Apr 2023 01:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_107/FDVsU_1681261461774jrGhg_JPEG/1681261387874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
