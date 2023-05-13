@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 02:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 03:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 11 May 2023 01:09:31 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_153/BThsi_1683767287634IEIwO_JPEG/1683767214897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 택배기사 김우빈과 그룹 대표 송승헌의 대립 | 택배기사]]></title>
+            <link>https://tv.naver.com/v/35791109</link>
+            <guid>https://tv.naver.com/v/35791109</guid>
+            <pubDate>Sat, 13 May 2023 03:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_230/1g86B_1683886951110PUrmd_PNG/1683886492559.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 택배 도둑에게서 물건을 지켜라 | 택배기사]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 15 Apr 2023 09:13:52 GMT</pubDate>
             <content:encoded><![CDATA[5:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_11/YorAF_1681364168658vrPqt_PNG/1681364162411.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 문소리는 류수영의 범행을 알고 있다 | 퀸메이커]]></title>
-            <link>https://tv.naver.com/v/34914204</link>
-            <guid>https://tv.naver.com/v/34914204</guid>
-            <pubDate>Sat, 15 Apr 2023 02:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_293/oiNiu_1681364008204T5nIC_JPEG/1681363974602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
