@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 01:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 02:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 11 May 2023 01:09:31 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_153/BThsi_1683767287634IEIwO_JPEG/1683767214897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 김우빈에게 특급 훈련을 받는 강유석 | 택배기사]]></title>
+            <link>https://tv.naver.com/v/35791239</link>
+            <guid>https://tv.naver.com/v/35791239</guid>
+            <pubDate>Sun, 14 May 2023 02:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_209/OLrO1_1683887091483bA8Xz_PNG/1683887077572.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 택배기사 김우빈과 그룹 대표 송승헌의 대립 | 택배기사]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Apr 2023 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_96/pk9QC_1681364278016LuaiJ_PNG/1681364274529.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 김희애와 문소리 두 배우의 만남 | 퀸메이커]]></title>
-            <link>https://tv.naver.com/v/34914300</link>
-            <guid>https://tv.naver.com/v/34914300</guid>
-            <pubDate>Sat, 15 Apr 2023 09:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_11/YorAF_1681364168658vrPqt_PNG/1681364162411.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
