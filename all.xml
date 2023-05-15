@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 08:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 10:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -243,6 +243,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_153/BThsi_1683767287634IEIwO_JPEG/1683767214897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 택배기사의 가장 중요한 요건 레이싱 | 택배기사 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35791395</link>
+            <guid>https://tv.naver.com/v/35791395</guid>
+            <pubDate>Mon, 15 May 2023 10:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_111/71PVq_1684115456421hCFg0_JPEG/1684115451755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 김우빈에게 특급 훈련을 받는 강유석 | 택배기사 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35791239</link>
             <guid>https://tv.naver.com/v/35791239</guid>
@@ -441,14 +449,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 14 Apr 2023 04:17:01 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_113/G29A1_1681442647657nDb3h_JPEG/1681442536752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 퀸메이커 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34914379</link>
-            <guid>https://tv.naver.com/v/34914379</guid>
-            <pubDate>Fri, 14 Apr 2023 07:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_96/pk9QC_1681364278016LuaiJ_PNG/1681364274529.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
