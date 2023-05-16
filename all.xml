@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 23:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 01:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,6 +209,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 15 May 2023 18:17:25 GMT</pubDate>
             <content:encoded><![CDATA[일상의 처음과 끝을 나와 함께 하는 스마트폰 그런 스마트폰을 활용한 끔찍한 해킹, 사칭 범죄를 담고 있는 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 지난 런칭 포스터 공개 후 당신을 놀라게 할 공식 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMThfODkg/MDAxNjc0MDM3OTIwNDM0.fT6q0e1BRmlLlHpG7ov_mmJOP0NzXo31hZTzLlQZ5qIg.8wuNPSCIvHaxj8Z-qwG9HytaipsgihKwz27LauRP_UEg.JPEG/I1vSiyDhPPceVo9v2bAtQMFT9q14.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 사이렌: 불의 섬 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35945797</link>
+            <guid>https://tv.naver.com/v/35945797</guid>
+            <pubDate>Tue, 16 May 2023 01:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_54/dQgHz_1684143742189vMwwj_JPEG/1684143275458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 데이스 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -441,14 +449,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 14 Apr 2023 04:17:01 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_71/wzKp4_1681442803348q2UXB_JPEG/1681442716444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 네버 해브 아이 에버 - 마지막 시즌 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34947758</link>
-            <guid>https://tv.naver.com/v/34947758</guid>
-            <pubDate>Fri, 14 Apr 2023 04:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_113/G29A1_1681442647657nDb3h_JPEG/1681442536752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
