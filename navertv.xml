@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 09:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 10:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 납치범에게서 딸을 지키는 군인 출신 엄마 | 내 이름은 마더]]></title>
+            <link>https://tv.naver.com/v/35986107</link>
+            <guid>https://tv.naver.com/v/35986107</guid>
+            <pubDate>Tue, 16 May 2023 10:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230516_235/9qtID_1684228648460IH2E3_JPEG/1684228596361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 사이렌: 불의 섬 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/35945797</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Apr 2023 02:32:19 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_158/qsrdy_16816938182421YcQI_JPEG/1681693756292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 러브 빌리지 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/34947834</link>
-            <guid>https://tv.naver.com/v/34947834</guid>
-            <pubDate>Fri, 14 Apr 2023 04:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_71/wzKp4_1681442803348q2UXB_JPEG/1681442716444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
