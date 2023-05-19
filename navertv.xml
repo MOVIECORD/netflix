@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 01:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 02:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 이혼 좀 합시다 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/36086357</link>
+            <guid>https://tv.naver.com/v/36086357</guid>
+            <pubDate>Fri, 19 May 2023 02:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_296/QcZqc_16844587321096OCyt_JPEG/1684458478185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 매니페스트 | 마지막 이야기들 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/36086234</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Apr 2023 01:09:36 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_116/CWPa2_1682384159074DvglM_JPEG/1682383985587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 푸바 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/35138186</link>
-            <guid>https://tv.naver.com/v/35138186</guid>
-            <pubDate>Thu, 20 Apr 2023 02:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_238/unjoP_1681953346620aa9PP_JPEG/1681953276198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
