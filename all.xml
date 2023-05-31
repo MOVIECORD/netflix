@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 23:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 01:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,6 +209,22 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 30 May 2023 10:14:52 GMT</pubDate>
             <content:encoded><![CDATA[일상의 처음과 끝을 나와 함께 하는 스마트폰 그런 스마트폰을 활용한 끔찍한 해킹, 사칭 범죄를 담고 있는 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 지난 런칭 포스터 공개 후 당신을 놀라게 할 공식 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMThfODkg/MDAxNjc0MDM3OTIwNDM0.fT6q0e1BRmlLlHpG7ov_mmJOP0NzXo31hZTzLlQZ5qIg.8wuNPSCIvHaxj8Z-qwG9HytaipsgihKwz27LauRP_UEg.JPEG/I1vSiyDhPPceVo9v2bAtQMFT9q14.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 생존에 가장 유리한 기지를 선점하라 | 사이렌: 불의 섬 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36484577</link>
+            <guid>https://tv.naver.com/v/36484577</guid>
+            <pubDate>Wed, 31 May 2023 01:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_82/EEUoN_1685495489187oVxAl_JPEG/1685495399332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 셀러브리티 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36456084</link>
+            <guid>https://tv.naver.com/v/36456084</guid>
+            <pubDate>Wed, 31 May 2023 01:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_42/6Wxhh_1685428693235tmy4N_JPEG/1685428411731.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 인정사정 없이 부숴버리는 첫 번째 기지전 | 사이렌: 불의 섬 (Netflix Korea ─ NAVER TV)]]></title>
@@ -433,22 +449,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 27 Apr 2023 02:32:11 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_264/VXQJd_1682558318403zndMx_JPEG/1682558249412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 택배기사 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35342942</link>
-            <guid>https://tv.naver.com/v/35342942</guid>
-            <pubDate>Thu, 27 Apr 2023 01:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_58/sVtSb_1682493619867LtBw8_JPEG/1682493497215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 엑스오, 키티 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35329844</link>
-            <guid>https://tv.naver.com/v/35329844</guid>
-            <pubDate>Wed, 26 Apr 2023 02:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_51/ShQoy_1682471592003Ly7c0_JPEG/1682471585238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
