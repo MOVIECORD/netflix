@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 04:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 05:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 익스트랙션 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/36575427</link>
+            <guid>https://tv.naver.com/v/36575427</guid>
+            <pubDate>Fri, 02 Jun 2023 05:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_22/MRPpU_1685681986235v9B9m_JPEG/1685681903344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] TUDUM: 브라질 생중계 | 6월 18일 | 이벤트 공식 예고편]]></title>
             <link>https://tv.naver.com/v/36567618</link>
@@ -22,14 +30,6 @@
             <pubDate>Thu, 01 Jun 2023 13:17:57 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_217/wT8Ls_16856231667998i4rA_JPEG/1685622982805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 익스트랙션 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/36544218</link>
-            <guid>https://tv.naver.com/v/36544218</guid>
-            <pubDate>Thu, 01 Jun 2023 08:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_183/SaR1h_1685606827646GXat5_JPEG/1685606751576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 6월 신작 소개]]></title>
