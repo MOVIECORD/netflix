@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 23:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 01:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,6 +209,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 01 Jun 2023 22:12:47 GMT</pubDate>
             <content:encoded><![CDATA[일상의 처음과 끝을 나와 함께 하는 스마트폰 그런 스마트폰을 활용한 끔찍한 해킹, 사칭 범죄를 담고 있는 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 지난 런칭 포스터 공개 후 당신을 놀라게 할 공식 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMThfODkg/MDAxNjc0MDM3OTIwNDM0.fT6q0e1BRmlLlHpG7ov_mmJOP0NzXo31hZTzLlQZ5qIg.8wuNPSCIvHaxj8Z-qwG9HytaipsgihKwz27LauRP_UEg.JPEG/I1vSiyDhPPceVo9v2bAtQMFT9q14.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] TUDUM: 브라질 생중계 | 6월 18일 | 이벤트 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36567618</link>
+            <guid>https://tv.naver.com/v/36567618</guid>
+            <pubDate>Fri, 02 Jun 2023 01:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_277/QOg8B_1685668761025jOVAt_JPEG/1685668744192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 불이 꺼지지 않도록 지키는 소방관 | 사이렌: 불의 섬 (Netflix Korea ─ NAVER TV)]]></title>
@@ -441,14 +449,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 08 May 2023 05:14:12 GMT</pubDate>
             <content:encoded><![CDATA[3:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_213/qcLBF_1683521057622DReMN_JPEG/1683520958249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나쁜엄마 배우들의 베스트 신은? | 나쁜엄마 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35694219</link>
-            <guid>https://tv.naver.com/v/35694219</guid>
-            <pubDate>Mon, 08 May 2023 02:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_65/uOdsm_1683508127272hu2cQ_JPEG/1683507989074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
