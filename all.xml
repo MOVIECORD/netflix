@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 23:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 01:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -209,6 +209,22 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 06 Jun 2023 05:13:45 GMT</pubDate>
             <content:encoded><![CDATA[일상의 처음과 끝을 나와 함께 하는 스마트폰 그런 스마트폰을 활용한 끔찍한 해킹, 사칭 범죄를 담고 있는 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 지난 런칭 포스터 공개 후 당신을 놀라게 할 공식 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMThfODkg/MDAxNjc0MDM3OTIwNDM0.fT6q0e1BRmlLlHpG7ov_mmJOP0NzXo31hZTzLlQZ5qIg.8wuNPSCIvHaxj8Z-qwG9HytaipsgihKwz27LauRP_UEg.JPEG/I1vSiyDhPPceVo9v2bAtQMFT9q14.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 사냥개들 | 액션 비하인드 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36720322</link>
+            <guid>https://tv.naver.com/v/36720322</guid>
+            <pubDate>Wed, 07 Jun 2023 01:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_131/WRV7Z_1686100379872qTebN_JPEG/1686100248453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 버드 박스: 바르셀로나 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36720203</link>
+            <guid>https://tv.naver.com/v/36720203</guid>
+            <pubDate>Wed, 07 Jun 2023 01:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_65/5VAYl_1686100167122YbanY_JPEG/1686100119526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 크리스토퍼가 한국에서 버스킹을 한다면? | 우리들의 아름다운 노래 (Netflix Korea ─ NAVER TV)]]></title>
@@ -433,22 +449,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230510_154/6ZkOD_1683682367700p1RM9_JPEG/1683682313518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 버드 박스: 바르셀로나 | 발표 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35773210</link>
-            <guid>https://tv.naver.com/v/35773210</guid>
-            <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_78/uwnFx_1683682296545SafRB_JPEG/1683682140418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 뷰티풀 라이프 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35773126</link>
-            <guid>https://tv.naver.com/v/35773126</guid>
-            <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_135/T2vzm_1683682123554g5sGT_JPEG/1683682048477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

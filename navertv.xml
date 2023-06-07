@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 23:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 01:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 사냥개들 | 액션 비하인드]]></title>
+            <link>https://tv.naver.com/v/36720322</link>
+            <guid>https://tv.naver.com/v/36720322</guid>
+            <pubDate>Wed, 07 Jun 2023 01:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_131/WRV7Z_1686100379872qTebN_JPEG/1686100248453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 버드 박스: 바르셀로나 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/36720203</link>
+            <guid>https://tv.naver.com/v/36720203</guid>
+            <pubDate>Wed, 07 Jun 2023 01:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_65/5VAYl_1686100167122YbanY_JPEG/1686100119526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 크리스토퍼가 한국에서 버스킹을 한다면? | 우리들의 아름다운 노래]]></title>
             <link>https://tv.naver.com/v/36649726</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 10 May 2023 02:31:11 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230510_154/6ZkOD_1683682367700p1RM9_JPEG/1683682313518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 버드 박스: 바르셀로나 | 발표]]></title>
-            <link>https://tv.naver.com/v/35773210</link>
-            <guid>https://tv.naver.com/v/35773210</guid>
-            <pubDate>Wed, 10 May 2023 02:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_78/uwnFx_1683682296545SafRB_JPEG/1683682140418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 뷰티풀 라이프 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/35773126</link>
-            <guid>https://tv.naver.com/v/35773126</guid>
-            <pubDate>Wed, 10 May 2023 02:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_135/T2vzm_1683682123554g5sGT_JPEG/1683682048477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
