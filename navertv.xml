@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 02:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 03:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 딜리트 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/36767307</link>
+            <guid>https://tv.naver.com/v/36767307</guid>
+            <pubDate>Thu, 08 Jun 2023 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_205/Bzfwk_16861937887276kSGD_JPEG/1686193722179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 우물 파기 미션, 숨 막히는 신경전 | 사이렌: 불의 섬]]></title>
             <link>https://tv.naver.com/v/36766481</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 14 May 2023 02:33:18 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230512_209/OLrO1_1683887091483bA8Xz_PNG/1683887077572.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 택배기사 김우빈과 그룹 대표 송승헌의 대립 | 택배기사]]></title>
-            <link>https://tv.naver.com/v/35791109</link>
-            <guid>https://tv.naver.com/v/35791109</guid>
-            <pubDate>Sat, 13 May 2023 03:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_230/1g86B_1683886951110PUrmd_PNG/1683886492559.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
