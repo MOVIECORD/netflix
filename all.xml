@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 02:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 03:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 09 Jun 2023 02:55:20 GMT</pubDate>
             <content:encoded><![CDATA[신선한 충격을 선사할넷플릭스 SF영화 &lt;정이&gt;드디어 ★공 개★ 어디서 훅 들어올지 모르는 반전,예측 불가한 상상력으로10점 만점에 10점! 드립니다 ------------------ “고민하며 많은 생각을 하게 만드는 영화···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfODMg/MDAxNjc0MTk4NDIyMDM5.KqKU9w79WCxF6yhae7Ae0nyNt4tLUvAyCne4z8engfQg.me9UrbiAL1PIT0wvDt96ub7reRm3GZ56MYRtolG2BZQg.JPEG/IdOo8ZpSz5MqEM9s2gSPNGY6495A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 나는 지금 크리스틴 스튜어트다 | 네버 해브 아이 에버 - 마지막 시즌 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36809769</link>
+            <guid>https://tv.naver.com/v/36809769</guid>
+            <pubDate>Fri, 09 Jun 2023 03:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_23/Oxn4C_1686280479054dBhLl_JPEG/1686280463328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -442,14 +450,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_66/sHcSc_16838000140204vXW7_JPEG/1683800001228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 사냥개들 | 1차 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35813149</link>
-            <guid>https://tv.naver.com/v/35813149</guid>
-            <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_245/GJpVE_1683770834481tt068_JPEG/1683770475005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
