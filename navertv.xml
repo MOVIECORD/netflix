@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 07:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 08:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 09 Jun 2023 02:55:29 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_81/ZxSvA_1686275272497qDBW8_JPEG/1686275243923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 사냥개들 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/36779772</link>
+            <guid>https://tv.naver.com/v/36779772</guid>
+            <pubDate>Fri, 09 Jun 2023 08:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_289/BQ9m8_1686210021072Nlo2R_JPEG/1686209989705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 번개 치는 밤 기지전이 중단됐다? | 사이렌: 불의 섬]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 May 2023 05:13:30 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230512_242/6cJvo_168386780170928g4G_JPEG/1683867798104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 택배기사 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.naver.com/v/35832405</link>
-            <guid>https://tv.naver.com/v/35832405</guid>
-            <pubDate>Fri, 12 May 2023 07:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_66/sHcSc_16838000140204vXW7_JPEG/1683800001228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
