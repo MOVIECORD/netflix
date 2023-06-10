@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 02:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 조폭들과 맨주먹으로 싸우는 권투 선수들 | 사냥개들]]></title>
+            <link>https://tv.naver.com/v/36818129</link>
+            <guid>https://tv.naver.com/v/36818129</guid>
+            <pubDate>Sat, 10 Jun 2023 03:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_90/qQxKC_168629305000740nPx_JPEG/1686293023483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 나는 지금 크리스틴 스튜어트다 | 네버 해브 아이 에버 - 마지막 시즌]]></title>
             <link>https://tv.naver.com/v/36809769</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 May 2023 01:09:16 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230515_54/dQgHz_1684143742189vMwwj_JPEG/1684143275458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 데이스 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/35857932</link>
-            <guid>https://tv.naver.com/v/35857932</guid>
-            <pubDate>Fri, 12 May 2023 05:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_242/6cJvo_168386780170928g4G_JPEG/1683867798104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
