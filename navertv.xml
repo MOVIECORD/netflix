@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 08:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 09:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<사냥개들> 팬 이벤트]]></title>
+            <link>https://tv.naver.com/v/36872809</link>
+            <guid>https://tv.naver.com/v/36872809</guid>
+            <pubDate>Sun, 11 Jun 2023 09:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[59:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230611_6/B4YXb_1686473770680m4noy_JPEG/ac4d25cb-0835-11ee-8d97-b4055da548d1_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 조폭들과 맨주먹으로 싸우는 권투 선수들 | 사냥개들]]></title>
             <link>https://tv.naver.com/v/36818129</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 May 2023 10:15:13 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230516_235/9qtID_1684228648460IH2E3_JPEG/1684228596361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 익스트랙션 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/35967113</link>
-            <guid>https://tv.naver.com/v/35967113</guid>
-            <pubDate>Wed, 17 May 2023 01:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_174/IGMcJ_1684373490137NFSeP_JPEG/1684373487436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
