@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 01:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 03:01:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 10 Jun 2023 03:14:15 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_90/qQxKC_168629305000740nPx_JPEG/1686293023483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 결승 링 위 우도환과 이상이 | 사냥개들]]></title>
+            <link>https://tv.naver.com/v/36816559</link>
+            <guid>https://tv.naver.com/v/36816559</guid>
+            <pubDate>Sun, 11 Jun 2023 03:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_85/lRsQq_1686290917385LrVzs_JPEG/1686290824998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 나는 지금 크리스틴 스튜어트다 | 네버 해브 아이 에버 - 마지막 시즌]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 17 May 2023 01:11:27 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230518_174/IGMcJ_1684373490137NFSeP_JPEG/1684373487436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 사이렌: 불의 섬 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/35945797</link>
-            <guid>https://tv.naver.com/v/35945797</guid>
-            <pubDate>Tue, 16 May 2023 01:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_54/dQgHz_1684143742189vMwwj_JPEG/1684143275458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
