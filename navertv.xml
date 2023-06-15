@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 23:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 01:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 셀러브리티 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/36982125</link>
+            <guid>https://tv.naver.com/v/36982125</guid>
+            <pubDate>Thu, 15 Jun 2023 01:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_225/rrQVC_1686726200247jNREn_JPEG/1686725955813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 사냥개들이 되기 위한 배우들의 노력 | 사냥개들]]></title>
             <link>https://tv.naver.com/v/36892461</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 May 2023 02:32:37 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_296/QcZqc_16844587321096OCyt_JPEG/1684458478185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 매니페스트 | 마지막 이야기들 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/36086234</link>
-            <guid>https://tv.naver.com/v/36086234</guid>
-            <pubDate>Fri, 19 May 2023 01:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_223/0IjJb_1684458439161NsWxV_JPEG/1684458375778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 23:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 01:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 14 Jun 2023 13:17:05 GMT</pubDate>
             <content:encoded><![CDATA[바로 오늘부터! ▼전 국민에게 질문 GOGO!▼Q. 저기요, 지금 어떤 예능 보고 계세요? A. 넷플릭스의 &lt;피지컬: 100&gt;이요! 모두 같은 대답 생각했다면~ 소리 질러ㅓㅓㅓㅓ!!!전 세계에 공개된 1:99 화제의 ‘근징···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfNDYg/MDAxNjc0MTgxNDEzNjY3.Xz-aAx5qbtJHRWc55A18hJXVgQr3o6R7OqxyIdhwN_Yg.w0J4797RyNZwfYhXIyVQXvH8H5xFwLzk_Q0NYPsp388g.JPEG/IhmWt-S9A4esj676mXzHqlQd3HdI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 셀러브리티 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36982125</link>
+            <guid>https://tv.naver.com/v/36982125</guid>
+            <pubDate>Thu, 15 Jun 2023 01:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_225/rrQVC_1686726200247jNREn_JPEG/1686725955813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 사냥개들이 되기 위한 배우들의 노력 | 사냥개들 (Netflix Korea ─ NAVER TV)]]></title>
@@ -442,14 +450,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_296/QcZqc_16844587321096OCyt_JPEG/1684458478185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 매니페스트 | 마지막 이야기들 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36086234</link>
-            <guid>https://tv.naver.com/v/36086234</guid>
-            <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_223/0IjJb_1684458439161NsWxV_JPEG/1684458375778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
