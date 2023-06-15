@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 04:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 05:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -210,6 +210,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 14 Jun 2023 13:17:05 GMT</pubDate>
             <content:encoded><![CDATA[바로 오늘부터! ▼전 국민에게 질문 GOGO!▼Q. 저기요, 지금 어떤 예능 보고 계세요? A. 넷플릭스의 &lt;피지컬: 100&gt;이요! 모두 같은 대답 생각했다면~ 소리 질러ㅓㅓㅓㅓ!!!전 세계에 공개된 1:99 화제의 ‘근징···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfNDYg/MDAxNjc0MTgxNDEzNjY3.Xz-aAx5qbtJHRWc55A18hJXVgQr3o6R7OqxyIdhwN_Yg.w0J4797RyNZwfYhXIyVQXvH8H5xFwLzk_Q0NYPsp388g.JPEG/IhmWt-S9A4esj676mXzHqlQd3HdI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 우도환&이상이 궁극의 액션 합 | 사냥개들 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37017067</link>
+            <guid>https://tv.naver.com/v/37017067</guid>
+            <pubDate>Thu, 15 Jun 2023 05:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[7:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_296/YJvnY_16868054566717k0z9_JPEG/1686805427204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 니모나 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -442,14 +450,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_47/gP0SH_1685014682725g6DLV_JPEG/1685014664615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오오쿠 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36225075</link>
-            <guid>https://tv.naver.com/v/36225075</guid>
-            <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_15/Kfigz_1684826906005ewbYc_JPEG/1684826797608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
