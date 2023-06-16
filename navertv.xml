@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 06:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 07:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 액션 제작기 영상 | 익스트랙션 2]]></title>
+            <link>https://tv.naver.com/v/37063159</link>
+            <guid>https://tv.naver.com/v/37063159</guid>
+            <pubDate>Fri, 16 Jun 2023 07:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_182/tq5xc_1686897110222jgnC3_JPEG/1686897096403.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 나의 행복한 결혼 | 공식 예고편 #2]]></title>
             <link>https://tv.naver.com/v/37051186</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 May 2023 01:19:01 GMT</pubDate>
             <content:encoded><![CDATA[4:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230531_82/EEUoN_1685495489187oVxAl_JPEG/1685495399332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 셀러브리티 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/36456084</link>
-            <guid>https://tv.naver.com/v/36456084</guid>
-            <pubDate>Wed, 31 May 2023 01:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_42/6Wxhh_1685428693235tmy4N_JPEG/1685428411731.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
