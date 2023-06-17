@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 02:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 03:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -237,6 +237,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_270/5nAMa_1686878472067tTGY1_JPEG/1686878416877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 달리는 열차 속, 원 테이크 액션 | 익스트랙션 2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37028130</link>
+            <guid>https://tv.naver.com/v/37028130</guid>
+            <pubDate>Sat, 17 Jun 2023 03:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_40/4pVdE_1686879345797uGBb1_JPEG/1686879325288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 우도환&이상이 궁극의 액션 합 | 사냥개들 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37017067</link>
             <guid>https://tv.naver.com/v/37017067</guid>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_21/ngS7h_1685581350813MrxAe_JPEG/1685581316836.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 소방 대원과 군인의 대결 | 사이렌: 불의 섬 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36506916</link>
-            <guid>https://tv.naver.com/v/36506916</guid>
-            <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_32/lzUp9_1685526083197mgyaL_JPEG/1685525994801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
