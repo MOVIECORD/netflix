@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 01:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 02:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Fri, 09 Jun 2023 03:20:51 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_23/Oxn4C_1686280479054dBhLl_JPEG/1686280463328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 빌런에 맞서 싸우는 우도환과 이상이 | 사냥개들]]></title>
+            <link>https://tv.naver.com/v/36805995</link>
+            <guid>https://tv.naver.com/v/36805995</guid>
+            <pubDate>Sat, 17 Jun 2023 02:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230613_199/1bCn3_1686643886475BQQTz_JPEG/1686643882682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스트레이트 취업에 성공한 우도환과 이상이  | 사냥개들]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 May 2023 10:20:11 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230531_32/lzUp9_1685526083197mgyaL_JPEG/1685525994801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 생존에 가장 유리한 기지를 선점하라 | 사이렌: 불의 섬]]></title>
-            <link>https://tv.naver.com/v/36484577</link>
-            <guid>https://tv.naver.com/v/36484577</guid>
-            <pubDate>Wed, 31 May 2023 01:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_82/EEUoN_1685495489187oVxAl_JPEG/1685495399332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
