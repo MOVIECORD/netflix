@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 02:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 03:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sun, 18 Jun 2023 02:53:08 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_25/F0641_1686879255034ibepu_JPEG/1686879252121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 목숨을 건 세 명의 전투 미션 | 익스트랙션 2]]></title>
+            <link>https://tv.naver.com/v/37028137</link>
+            <guid>https://tv.naver.com/v/37028137</guid>
+            <pubDate>Sun, 18 Jun 2023 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_167/3LHgw_1686916851391MM6ir_JPEG/1686916791945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 달리는 열차 속, 원 테이크 액션 | 익스트랙션 2]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Jun 2023 01:20:39 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_277/QOg8B_1685668761025jOVAt_JPEG/1685668744192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 불이 꺼지지 않도록 지키는 소방관 | 사이렌: 불의 섬]]></title>
-            <link>https://tv.naver.com/v/36554316</link>
-            <guid>https://tv.naver.com/v/36554316</guid>
-            <pubDate>Thu, 01 Jun 2023 13:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_217/wT8Ls_16856231667998i4rA_JPEG/1685622982805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
