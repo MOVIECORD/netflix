@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 23:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 01:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.naver.com/v/37069866</guid>
             <pubDate>Sun, 18 Jun 2023 02:53:08 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_248/7lxB4_1686905465386yuHE4_JPEG/1686905315272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_157/ey62p_1687137022477UhpN7_JPEG/1687137019893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 액션 제작기 영상 | 익스트랙션 2 (Netflix Korea ─ NAVER TV)]]></title>
@@ -45,7 +45,7 @@
             <guid>https://tv.naver.com/v/37028433</guid>
             <pubDate>Sun, 18 Jun 2023 02:53:08 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_25/F0641_1686879255034ibepu_JPEG/1686879252121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_138/IgGz9_1687137004822aodA8_JPEG/1687137002157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 목숨을 건 세 명의 전투 미션 | 익스트랙션 2 (Netflix Korea ─ NAVER TV)]]></title>
