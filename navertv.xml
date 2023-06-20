@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 02:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 03:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 미타라이 가, 불타다 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/37174009</link>
+            <guid>https://tv.naver.com/v/37174009</guid>
+            <pubDate>Tue, 20 Jun 2023 03:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_81/faoGC_1687229937758fcVgq_JPEG/1687229879337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 비하인드 컷 | Rebel Moon]]></title>
             <link>https://tv.naver.com/v/37069866</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Jun 2023 05:13:16 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_22/MRPpU_1685681986235v9B9m_JPEG/1685681903344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] TUDUM: 브라질 생중계 | 6월 18일 | 이벤트 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/36567618</link>
-            <guid>https://tv.naver.com/v/36567618</guid>
-            <pubDate>Fri, 02 Jun 2023 01:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_277/QOg8B_1685668761025jOVAt_JPEG/1685668744192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
