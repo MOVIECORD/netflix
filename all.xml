@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:04:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sun, 25 Jun 2023 23:15:18 GMT</pubDate>
             <content:encoded><![CDATA[그리운 연진에게. 매일 생각했어, 연진아. 난 너를 어디서 재회해야 할까?동은이의 편지는 다들 잘 받아보셨나요?이번 겨울, 몰아치는 전개와 배우들의 소름 돋는 연기로 전 세계를 뜨겁게, 아니 '차갑게' 달구었던 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTZfMTUx/MDAxNjc2NTM0MDk4MTA0.rS2Eppb4SAixn4WDhYV-8tAeCA07P5y3yq347GbW6DEg.Ck_CEqtHaMG9K9FJ-o4wZ3ZrHMr_xbDGEOr13M9QSd4g.JPEG/Ihy8qa17QUIrWIRwIPWKKopg79xQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 나의 인생이 스트리밍되고 있다 | 블랙 미러 6 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37372020</link>
+            <guid>https://tv.naver.com/v/37372020</guid>
+            <pubDate>Mon, 26 Jun 2023 03:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_195/vQxqK_1687747316101wGtqi_JPEG/1687747290326.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 19/20 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 05 Jun 2023 02:50:43 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_188/JfH96_1685930250385GNsms_JPEG/1685930072675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 기지를 그냥 부숴버리는 연합 팀 | 사이렌: 불의 섬 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36590865</link>
-            <guid>https://tv.naver.com/v/36590865</guid>
-            <pubDate>Sat, 03 Jun 2023 23:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_139/SVKgk_1685702692519Ng6XB_JPEG/1685702599074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
