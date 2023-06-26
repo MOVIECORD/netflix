@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 23:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 01:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 19/20 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/37304692</link>
+            <guid>https://tv.naver.com/v/37304692</guid>
+            <pubDate>Mon, 26 Jun 2023 01:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_190/zr9iZ_1687505765931bWe6i_JPEG/1687505702386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 미타라이 가, 불타다 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/37174009</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Jun 2023 11:12:18 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_139/SVKgk_1685702692519Ng6XB_JPEG/1685702599074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 익스트랙션 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/36575427</link>
-            <guid>https://tv.naver.com/v/36575427</guid>
-            <pubDate>Fri, 02 Jun 2023 05:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_22/MRPpU_1685681986235v9B9m_JPEG/1685681903344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
