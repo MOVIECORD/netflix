@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 23:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 01:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,12 +213,28 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTZfMTUx/MDAxNjc2NTM0MDk4MTA0.rS2Eppb4SAixn4WDhYV-8tAeCA07P5y3yq347GbW6DEg.Ck_CEqtHaMG9K9FJ-o4wZ3ZrHMr_xbDGEOr13M9QSd4g.JPEG/Ihy8qa17QUIrWIRwIPWKKopg79xQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 4 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37730336</link>
+            <guid>https://tv.naver.com/v/37730336</guid>
+            <pubDate>Thu, 06 Jul 2023 01:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_189/VDloX_1688606378502OWHGs_JPEG/1688606291046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 밀리언 셀럽이 되는 방법 | 셀러브리티 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37688448</link>
             <guid>https://tv.naver.com/v/37688448</guid>
             <pubDate>Wed, 05 Jul 2023 01:26:16 GMT</pubDate>
             <content:encoded><![CDATA[9:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_172/QtxoU_1688519098316lfrOX_JPEG/1688519010865.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] D.P. | 지난 이야기 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37668028</link>
+            <guid>https://tv.naver.com/v/37668028</guid>
+            <pubDate>Thu, 06 Jul 2023 01:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_291/tIj71_1688551256025Ou5UM_JPEG/1688551253848.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 예고편 #3 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 10 Jun 2023 03:14:15 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_90/qQxKC_168629305000740nPx_JPEG/1686293023483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 결승 링 위 우도환과 이상이 | 사냥개들 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36816559</link>
-            <guid>https://tv.naver.com/v/36816559</guid>
-            <pubDate>Sun, 11 Jun 2023 03:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_85/lRsQq_1686290917385LrVzs_JPEG/1686290824998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나는 지금 크리스틴 스튜어트다 | 네버 해브 아이 에버 - 마지막 시즌 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36809769</link>
-            <guid>https://tv.naver.com/v/36809769</guid>
-            <pubDate>Fri, 09 Jun 2023 03:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_23/Oxn4C_1686280479054dBhLl_JPEG/1686280463328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
