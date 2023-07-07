@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 23:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 01:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 미라큘러스: 레이디버그와 블랙캣, 더 무비 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/37771235</link>
+            <guid>https://tv.naver.com/v/37771235</guid>
+            <pubDate>Fri, 07 Jul 2023 01:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_89/uWM0U_1688692156808yeLA6_JPEG/1688692102170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 4 | 공식 티저 예고편]]></title>
             <link>https://tv.naver.com/v/37730336</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 11 Jun 2023 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[59:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230611_6/B4YXb_1686473770680m4noy_JPEG/ac4d25cb-0835-11ee-8d97-b4055da548d1_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 조폭들과 맨주먹으로 싸우는 권투 선수들 | 사냥개들]]></title>
-            <link>https://tv.naver.com/v/36818129</link>
-            <guid>https://tv.naver.com/v/36818129</guid>
-            <pubDate>Sat, 10 Jun 2023 03:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_90/qQxKC_168629305000740nPx_JPEG/1686293023483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
