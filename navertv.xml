@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 06:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 07:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 19/20 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/37865292</link>
+            <guid>https://tv.naver.com/v/37865292</guid>
+            <pubDate>Tue, 11 Jul 2023 07:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_100/tEt1Q_1688975719453dKJwX_JPEG/1688975682448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀비버스 | 티저 예고편]]></title>
             <link>https://tv.naver.com/v/37790569</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Jun 2023 01:15:49 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_225/rrQVC_1686726200247jNREn_JPEG/1686725955813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 사냥개들이 되기 위한 배우들의 노력 | 사냥개들]]></title>
-            <link>https://tv.naver.com/v/36892461</link>
-            <guid>https://tv.naver.com/v/36892461</guid>
-            <pubDate>Mon, 12 Jun 2023 04:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_181/3EbA0_16865405381862YFLm_JPEG/1686540510071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
