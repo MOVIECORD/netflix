@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 02:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 03:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -253,6 +253,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_205/BCUny_16892145349568tgBL_JPEG/1689214533093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 운명의 전학생이 등장했다 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37865266</link>
+            <guid>https://tv.naver.com/v/37865266</guid>
+            <pubDate>Fri, 14 Jul 2023 03:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_161/6SDma_1689296987106qAc80_JPEG/1689296902682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 눈만 마주쳐도 설레는 도서관 데이트 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37865260</link>
             <guid>https://tv.naver.com/v/37865260</guid>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 16 Jun 2023 02:40:11 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_40/YuTCy_1686879276327itiuA_JPEG/1686879274782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 링컨 차를 타는 변호사 | 시즌 2 파트 1 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37051125</link>
-            <guid>https://tv.naver.com/v/37051125</guid>
-            <pubDate>Fri, 16 Jun 2023 02:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_270/5nAMa_1686878472067tTGY1_JPEG/1686878416877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
