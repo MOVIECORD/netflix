@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 05:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 06:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,6 +261,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230710_100/tEt1Q_1688975719453dKJwX_JPEG/1688975682448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 네 얼굴만 보면 부끄러워져 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37865287</link>
+            <guid>https://tv.naver.com/v/37865287</guid>
+            <pubDate>Sat, 15 Jul 2023 06:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_142/Q668s_1689359830077ke0WL_JPEG/1689359827248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 전학생 지우에게 홀딱 반한 정윤 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37865276</link>
             <guid>https://tv.naver.com/v/37865276</guid>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 26 Jun 2023 01:25:54 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_10/AoaGV_1687834933907x8w3R_JPEG/1687834930070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 미타라이 가, 불타다 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37174009</link>
-            <guid>https://tv.naver.com/v/37174009</guid>
-            <pubDate>Tue, 20 Jun 2023 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_81/faoGC_1687229937758fcVgq_JPEG/1687229879337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
