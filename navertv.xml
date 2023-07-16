@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 01:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 03:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sat, 15 Jul 2023 06:19:05 GMT</pubDate>
             <content:encoded><![CDATA[4:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_142/Q668s_1689359830077ke0WL_JPEG/1689359827248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [미공개] 두근두근 설레는 게임 | 19/20]]></title>
+            <link>https://tv.naver.com/v/37865282</link>
+            <guid>https://tv.naver.com/v/37865282</guid>
+            <pubDate>Sun, 16 Jul 2023 03:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_199/fmti0_1689313675194SU08E_JPEG/1689313667158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 전학생 지우에게 홀딱 반한 정윤 | 19/20]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 01:26:17 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_22/aPIeH_1687760488875iYYbI_JPEG/1687760483883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 19/20 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/37304692</link>
-            <guid>https://tv.naver.com/v/37304692</guid>
-            <pubDate>Mon, 26 Jun 2023 01:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_10/AoaGV_1687834933907x8w3R_JPEG/1687834930070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
