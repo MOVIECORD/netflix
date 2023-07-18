@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 08:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 09:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 18 Jul 2023 02:59:59 GMT</pubDate>
             <content:encoded><![CDATA[그리운 연진에게. 매일 생각했어, 연진아. 난 너를 어디서 재회해야 할까?동은이의 편지는 다들 잘 받아보셨나요?이번 겨울, 몰아치는 전개와 배우들의 소름 돋는 연기로 전 세계를 뜨겁게, 아니 '차갑게' 달구었던 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTZfMTUx/MDAxNjc2NTM0MDk4MTA0.rS2Eppb4SAixn4WDhYV-8tAeCA07P5y3yq347GbW6DEg.Ck_CEqtHaMG9K9FJ-o4wZ3ZrHMr_xbDGEOr13M9QSd4g.JPEG/Ihy8qa17QUIrWIRwIPWKKopg79xQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 요리는 안 하고 사랑에 빠져버림 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38118689</link>
+            <guid>https://tv.naver.com/v/38118689</guid>
+            <pubDate>Tue, 18 Jul 2023 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_268/Auc24_1689642703324l0i8H_JPEG/1689642701106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 29 Jun 2023 03:02:34 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230629_115/3XEDI_1688001022806y0EWp_JPEG/1688001020993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 1부 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37409008</link>
-            <guid>https://tv.naver.com/v/37409008</guid>
-            <pubDate>Tue, 27 Jun 2023 01:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_280/M2Yom_1687829078838JHmJK_JPEG/1687829058455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

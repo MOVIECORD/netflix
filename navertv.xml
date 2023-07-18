@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 08:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 09:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 요리는 안 하고 사랑에 빠져버림 | 19/20]]></title>
+            <link>https://tv.naver.com/v/38118689</link>
+            <guid>https://tv.naver.com/v/38118689</guid>
+            <pubDate>Tue, 18 Jul 2023 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_268/Auc24_1689642703324l0i8H_JPEG/1689642701106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/38114686</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Jun 2023 03:02:34 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230629_115/3XEDI_1688001022806y0EWp_JPEG/1688001020993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 1부]]></title>
-            <link>https://tv.naver.com/v/37409008</link>
-            <guid>https://tv.naver.com/v/37409008</guid>
-            <pubDate>Tue, 27 Jun 2023 01:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230627_280/M2Yom_1687829078838JHmJK_JPEG/1687829058455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
