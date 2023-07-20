@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 02:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 03:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 20 Jul 2023 01:13:41 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230719_70/jcIxk_168976363665738MVx_JPEG/1689763252047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 다 같이 넷컷 사진 찍기 | 19/20]]></title>
+            <link>https://tv.naver.com/v/38118713</link>
+            <guid>https://tv.naver.com/v/38118713</guid>
+            <pubDate>Thu, 20 Jul 2023 03:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_176/McJIL_1689816597876gHfww_JPEG/1689816580004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 요리는 안 하고 사랑에 빠져버림 | 19/20]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 02 Jul 2023 03:02:18 GMT</pubDate>
             <content:encoded><![CDATA[4:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_30/GFavC_1688179211660OfJV9_JPEG/1688179209618.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 셀럽들의 진짜 모습을 알고 있다 | 셀러브리티]]></title>
-            <link>https://tv.naver.com/v/37466758</link>
-            <guid>https://tv.naver.com/v/37466758</guid>
-            <pubDate>Sat, 01 Jul 2023 03:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_35/TX1ck_1688179173220RJnTS_JPEG/1688179170000.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
