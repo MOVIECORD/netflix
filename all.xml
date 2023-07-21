@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 04:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 05:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -237,6 +237,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_197/i3chK_1689816733533yLhPB_JPEG/1689816726116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] [미공개] 예린만 가질 수 있는 세연의 유니폼 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38118749</link>
+            <guid>https://tv.naver.com/v/38118749</guid>
+            <pubDate>Fri, 21 Jul 2023 05:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_243/n7C99_1689843773739wGRuU_JPEG/1689843770818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 다 같이 넷컷 사진 찍기 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/38118713</link>
             <guid>https://tv.naver.com/v/38118713</guid>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 03 Jul 2023 01:27:22 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_246/z8hmA_1688346570105wi4Gv_JPEG/1688346555609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 버드 박스: 바르셀로나 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37488917</link>
-            <guid>https://tv.naver.com/v/37488917</guid>
-            <pubDate>Thu, 29 Jun 2023 03:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_59/7QClY_1688003229735PJJ41_JPEG/1688003196428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
