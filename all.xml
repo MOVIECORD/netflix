@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 05:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 06:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 20 Jul 2023 16:19:01 GMT</pubDate>
             <content:encoded><![CDATA[그리운 연진에게. 매일 생각했어, 연진아. 난 너를 어디서 재회해야 할까?동은이의 편지는 다들 잘 받아보셨나요?이번 겨울, 몰아치는 전개와 배우들의 소름 돋는 연기로 전 세계를 뜨겁게, 아니 '차갑게' 달구었던 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTZfMTUx/MDAxNjc2NTM0MDk4MTA0.rS2Eppb4SAixn4WDhYV-8tAeCA07P5y3yq347GbW6DEg.Ck_CEqtHaMG9K9FJ-o4wZ3ZrHMr_xbDGEOr13M9QSd4g.JPEG/Ihy8qa17QUIrWIRwIPWKKopg79xQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 원망의 에든버러 파트 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38279665</link>
+            <guid>https://tv.naver.com/v/38279665</guid>
+            <pubDate>Fri, 21 Jul 2023 06:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_57/5O0tZ_1689919161350DsWBm_JPEG/1689919123156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 바스타드: 암흑의 파괴신 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 03 Jul 2023 01:27:22 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_34/DNaoQ_1688346698749cOMdu_JPEG/1688346629013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 7월 신작 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37605417</link>
-            <guid>https://tv.naver.com/v/37605417</guid>
-            <pubDate>Mon, 03 Jul 2023 01:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_246/z8hmA_1688346570105wi4Gv_JPEG/1688346555609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
