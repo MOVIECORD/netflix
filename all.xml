@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 23:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 01:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,22 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 24 Jul 2023 23:13:32 GMT</pubDate>
             <content:encoded><![CDATA[그리운 연진에게. 매일 생각했어, 연진아. 난 너를 어디서 재회해야 할까?동은이의 편지는 다들 잘 받아보셨나요?이번 겨울, 몰아치는 전개와 배우들의 소름 돋는 연기로 전 세계를 뜨겁게, 아니 '차갑게' 달구었던 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTZfMTUx/MDAxNjc2NTM0MDk4MTA0.rS2Eppb4SAixn4WDhYV-8tAeCA07P5y3yq347GbW6DEg.Ck_CEqtHaMG9K9FJ-o4wZ3ZrHMr_xbDGEOr13M9QSd4g.JPEG/Ihy8qa17QUIrWIRwIPWKKopg79xQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 2부 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38381441</link>
+            <guid>https://tv.naver.com/v/38381441</guid>
+            <pubDate>Tue, 25 Jul 2023 01:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_138/Vf2CD_16902473152561MrC5_JPEG/1690247280432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 좀비버스 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38354141</link>
+            <guid>https://tv.naver.com/v/38354141</guid>
+            <pubDate>Tue, 25 Jul 2023 01:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_73/y3EPp_1690178970785vSkui_JPEG/1690178261842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 가메라: 부활 | 공식 예고편 #2 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 10 Jul 2023 01:25:09 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_196/fbgQn_1688720080904HLKzQ_JPEG/1688719443151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 미라큘러스: 레이디버그와 블랙캣, 더 무비 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37771235</link>
-            <guid>https://tv.naver.com/v/37771235</guid>
-            <pubDate>Fri, 07 Jul 2023 01:27:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_89/uWM0U_1688692156808yeLA6_JPEG/1688692102170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 4 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37730336</link>
-            <guid>https://tv.naver.com/v/37730336</guid>
-            <pubDate>Thu, 06 Jul 2023 01:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_189/VDloX_1688606378502OWHGs_JPEG/1688606291046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
