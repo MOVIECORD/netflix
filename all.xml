@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 02:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 03:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 26 Jul 2023 02:35:49 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_110/G5BIp_1690336823688TysIY_JPEG/1690336727666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [미공개] 나는 어제 데이트가 불만족스러웠다? | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38419971</link>
+            <guid>https://tv.naver.com/v/38419971</guid>
+            <pubDate>Wed, 26 Jul 2023 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_116/vDhgS_16903340493732VT1R_JPEG/1690334042370.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 2부 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 14 Jul 2023 03:29:06 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_161/6SDma_1689296987106qAc80_JPEG/1689296902682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 눈만 마주쳐도 설레는 도서관 데이트 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37865260</link>
-            <guid>https://tv.naver.com/v/37865260</guid>
-            <pubDate>Wed, 12 Jul 2023 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_171/eWLVJ_1689131226133w3r2R_JPEG/1689131173249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
