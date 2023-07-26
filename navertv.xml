@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 01:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 02:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 하트스토퍼: 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/38421538</link>
+            <guid>https://tv.naver.com/v/38421538</guid>
+            <pubDate>Wed, 26 Jul 2023 02:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_110/G5BIp_1690336823688TysIY_JPEG/1690336727666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 2부]]></title>
             <link>https://tv.naver.com/v/38381441</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 06:20:04 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_171/eWLVJ_1689131226133w3r2R_JPEG/1689131173249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 남녀공학을 처음 와 본 남학생 | 19/20]]></title>
-            <link>https://tv.naver.com/v/37865258</link>
-            <guid>https://tv.naver.com/v/37865258</guid>
-            <pubDate>Tue, 11 Jul 2023 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_54/Lljol_168903707729132gGO_JPEG/1689037038243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
