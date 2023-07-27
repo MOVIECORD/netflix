@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 09:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 10:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 26 Jul 2023 17:11:42 GMT</pubDate>
             <content:encoded><![CDATA[그리운 연진에게. 매일 생각했어, 연진아. 난 너를 어디서 재회해야 할까?동은이의 편지는 다들 잘 받아보셨나요?이번 겨울, 몰아치는 전개와 배우들의 소름 돋는 연기로 전 세계를 뜨겁게, 아니 '차갑게' 달구었던 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTZfMTUx/MDAxNjc2NTM0MDk4MTA0.rS2Eppb4SAixn4WDhYV-8tAeCA07P5y3yq347GbW6DEg.Ck_CEqtHaMG9K9FJ-o4wZ3ZrHMr_xbDGEOr13M9QSd4g.JPEG/Ihy8qa17QUIrWIRwIPWKKopg79xQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 하트 오브 스톤 | 갤 가돗 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38476020</link>
+            <guid>https://tv.naver.com/v/38476020</guid>
+            <pubDate>Thu, 27 Jul 2023 10:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_138/prhRV_1690450020675el8No_JPEG/1690450009323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하트스토퍼: 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 15 Jul 2023 03:01:23 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_260/RSSRJ_1689359736719OfrzQ_JPEG/1689359733186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너의 등 뒤에서 설레는 짝피구 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37865271</link>
-            <guid>https://tv.naver.com/v/37865271</guid>
-            <pubDate>Thu, 13 Jul 2023 09:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_205/BCUny_16892145349568tgBL_JPEG/1689214533093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
