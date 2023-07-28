@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 06:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 07:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Thu, 20 Jul 2023 01:13:41 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230719_70/jcIxk_168976363665738MVx_JPEG/1689763252047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] D.P. 시즌 2 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/38200715</link>
+            <guid>https://tv.naver.com/v/38200715</guid>
+            <pubDate>Fri, 28 Jul 2023 07:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_1/PvrFY_1690421561079ljHlc_JPEG/1690421517224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 드디어 술을 마실 수 있는 나이 스무 살 | 19/20]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Jul 2023 07:14:58 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230710_100/tEt1Q_1688975719453dKJwX_JPEG/1688975682448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 네 얼굴만 보면 부끄러워져 | 19/20]]></title>
-            <link>https://tv.naver.com/v/37865287</link>
-            <guid>https://tv.naver.com/v/37865287</guid>
-            <pubDate>Sat, 15 Jul 2023 06:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[4:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_142/Q668s_1689359830077ke0WL_JPEG/1689359827248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
