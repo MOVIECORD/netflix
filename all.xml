@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 03:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 04:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 27 Jul 2023 10:14:22 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_138/prhRV_1690450020675el8No_JPEG/1690450009323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] D.P. 2 | 체크 포인트 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38423220</link>
+            <guid>https://tv.naver.com/v/38423220</guid>
+            <pubDate>Fri, 28 Jul 2023 04:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[4:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_85/AD0S8_16903395338542AgQW_JPEG/1690339532196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하트스토퍼: 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 15 Jul 2023 06:19:05 GMT</pubDate>
             <content:encoded><![CDATA[4:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_142/Q668s_1689359830077ke0WL_JPEG/1689359827248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개] 두근두근 설레는 게임 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37865282</link>
-            <guid>https://tv.naver.com/v/37865282</guid>
-            <pubDate>Sun, 16 Jul 2023 03:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_117/qu7Qj_1689576800110bIVeo_JPEG/1689576797172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
