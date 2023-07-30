@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 02:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,6 +216,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_284/jYKBd_1689225748357y2hsB_JPEG/1689225695598.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 준호와 호열의 재결합 | D.P. 시즌 2]]></title>
+            <link>https://tv.naver.com/v/37963709</link>
+            <guid>https://tv.naver.com/v/37963709</guid>
+            <pubDate>Sun, 30 Jul 2023 03:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_38/cojfD_1690530840701XqdVj_JPEG/1690530836641.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 새로운 디피조, 준호의 새로운 짝이 생겼다 | D.P. 시즌 2]]></title>
             <link>https://tv.naver.com/v/37963566</link>
             <guid>https://tv.naver.com/v/37963566</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 02:56:07 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_75/TqXSJ_1689130549394yHyGu_JPEG/1689130446352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] D.P. 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/37908695</link>
-            <guid>https://tv.naver.com/v/37908695</guid>
-            <pubDate>Thu, 13 Jul 2023 01:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_48/CyaaA_16890533826298vcpm_JPEG/1689053331410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
