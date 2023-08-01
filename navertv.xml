@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 01:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 02:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 8월 신작 소개]]></title>
+            <link>https://tv.naver.com/v/38602564</link>
+            <guid>https://tv.naver.com/v/38602564</guid>
+            <pubDate>Tue, 01 Aug 2023 02:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_10/88S8Y_1690857331342FfC9n_JPEG/1690857297897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 굿 나이트 월드 | 공식 예고편 #1]]></title>
             <link>https://tv.naver.com/v/38581310</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jul 2023 06:20:20 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_284/jYKBd_1689225748357y2hsB_JPEG/1689225695598.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 실시간 라이브 중, 아무도 쏠 수 없다 | D.P. 시즌 2]]></title>
-            <link>https://tv.naver.com/v/37963711</link>
-            <guid>https://tv.naver.com/v/37963711</guid>
-            <pubDate>Mon, 31 Jul 2023 03:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_237/GpNQ1_1690592332764bXE2f_JPEG/1690592329239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

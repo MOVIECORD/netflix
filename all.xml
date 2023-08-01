@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 01:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 02:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 31 Jul 2023 18:17:53 GMT</pubDate>
             <content:encoded><![CDATA[★요새 헬스장 붐비는 이유 TOP 3 공개 ★ 1. 봄이 오면 옷이 얇아질 예정 2. 실내 마스크 해제 그리고.. 3. &lt;피지컬: 100&gt; 절찬 스트리밍 중 (크으~ 이게 찐 이유지!)국적 불문! 연령 불문! 모두를 서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTBfNjkg/MDAxNjc2MDA5MTczMjEz.FlilZ-R_GzeER1tCdIV0YDDDmVF2LvbmgUxSw8_m5ksg.9ear_yWVU7FWEd8i7IlVWycnNKeRdkvdywgqjVsjrjwg.PNG/IvDtpDQZH1Wim6AqtzInYK-SSmSQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 8월 신작 소개 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38602564</link>
+            <guid>https://tv.naver.com/v/38602564</guid>
+            <pubDate>Tue, 01 Aug 2023 02:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_10/88S8Y_1690857331342FfC9n_JPEG/1690857297897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 굿 나이트 월드 | 공식 예고편 #1 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 13 Jul 2023 06:20:20 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_284/jYKBd_1689225748357y2hsB_JPEG/1689225695598.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 실시간 라이브 중, 아무도 쏠 수 없다 | D.P. 시즌 2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37963711</link>
-            <guid>https://tv.naver.com/v/37963711</guid>
-            <pubDate>Mon, 31 Jul 2023 03:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_237/GpNQ1_1690592332764bXE2f_JPEG/1690592329239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
