@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 05:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 06:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 31 Jul 2023 02:31:24 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_222/9uIAe_1690768519098cxhnR_JPEG/1690768515754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 너와 함께 있어도 내 마음속엔 다른 사람이 있어 | 19/20]]></title>
+            <link>https://tv.naver.com/v/38511429</link>
+            <guid>https://tv.naver.com/v/38511429</guid>
+            <pubDate>Wed, 02 Aug 2023 06:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_232/1emG5_1690899621861zP77F_JPEG/1690899599323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 설렘주의 평석❤️희지 첫 뽀뽀 | 19/20]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 16 Jul 2023 09:13:53 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_24/7QN01_1689359631457gHion_JPEG/1689359621202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 링컨 차를 타는 변호사: 시즌 2 | 파트 2 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/38036725</link>
-            <guid>https://tv.naver.com/v/38036725</guid>
-            <pubDate>Fri, 14 Jul 2023 05:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_212/ZHYAL_1689309933600fQKSk_JPEG/1689309901812.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
