@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 02:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 03:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 01 Aug 2023 02:38:22 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230801_10/88S8Y_1690857331342FfC9n_JPEG/1690857297897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 하트 오브 스톤 I 액션 예고편]]></title>
+            <link>https://tv.naver.com/v/38581721</link>
+            <guid>https://tv.naver.com/v/38581721</guid>
+            <pubDate>Wed, 02 Aug 2023 03:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_155/Xs0Tl_1690795490117Q9n8D_JPEG/1690795363644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 굿 나이트 월드 | 공식 예고편 #1]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 05:15:34 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_212/ZHYAL_1689309933600fQKSk_JPEG/1689309901812.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 공식 예고편 #2]]></title>
-            <link>https://tv.naver.com/v/38036662</link>
-            <guid>https://tv.naver.com/v/38036662</guid>
-            <pubDate>Fri, 14 Jul 2023 05:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_198/0ijGu_1689309840393NdtJc_JPEG/1689309818802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
