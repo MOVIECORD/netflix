@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 23:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 01:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마스크걸 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/38635977</link>
+            <guid>https://tv.naver.com/v/38635977</guid>
+            <pubDate>Thu, 03 Aug 2023 01:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_16/FpDnY_1690939076319l0QOC_JPEG/1690938815159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 8월 신작 소개]]></title>
             <link>https://tv.naver.com/v/38602564</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Jul 2023 03:03:35 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230717_127/2pHIm_1689562468805CqSND_JPEG/1689562429485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 나 지금 흔들리고 있어 | 19/20]]></title>
-            <link>https://tv.naver.com/v/38040893</link>
-            <guid>https://tv.naver.com/v/38040893</guid>
-            <pubDate>Sun, 16 Jul 2023 09:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_24/7QN01_1689359631457gHion_JPEG/1689359621202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
