@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 03:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 04:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 02 Aug 2023 06:17:58 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230801_232/1emG5_1690899621861zP77F_JPEG/1690899599323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스무 살, 첫사랑을 이루어준 직진 고백법💕 | 19/20]]></title>
+            <link>https://tv.naver.com/v/38511414</link>
+            <guid>https://tv.naver.com/v/38511414</guid>
+            <pubDate>Sun, 06 Aug 2023 04:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[5:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_70/ODu4D_1691141181194CTlna_JPEG/1691141172511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 설렘주의 평석❤️희지 첫 뽀뽀 | 19/20]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Jul 2023 03:14:52 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_176/McJIL_1689816597876gHfww_JPEG/1689816580004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 요리는 안 하고 사랑에 빠져버림 | 19/20]]></title>
-            <link>https://tv.naver.com/v/38118689</link>
-            <guid>https://tv.naver.com/v/38118689</guid>
-            <pubDate>Tue, 18 Jul 2023 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_268/Auc24_1689642703324l0i8H_JPEG/1689642701106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
