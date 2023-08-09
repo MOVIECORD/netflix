@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 22:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 23:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 09 Aug 2023 21:12:45 GMT</pubDate>
             <content:encoded><![CDATA[★요새 헬스장 붐비는 이유 TOP 3 공개 ★ 1. 봄이 오면 옷이 얇아질 예정 2. 실내 마스크 해제 그리고.. 3. &lt;피지컬: 100&gt; 절찬 스트리밍 중 (크으~ 이게 찐 이유지!)국적 불문! 연령 불문! 모두를 서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTBfNjkg/MDAxNjc2MDA5MTczMjEz.FlilZ-R_GzeER1tCdIV0YDDDmVF2LvbmgUxSw8_m5ksg.9ear_yWVU7FWEd8i7IlVWycnNKeRdkvdywgqjVsjrjwg.PNG/IvDtpDQZH1Wim6AqtzInYK-SSmSQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 성+인물: 대만편 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/38889742</link>
+            <guid>https://tv.naver.com/v/38889742</guid>
+            <pubDate>Wed, 09 Aug 2023 23:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_185/9A00g_1691577984152iL3Qc_JPEG/1691577981143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 빨간 모자, 여행을 떠나 시체를 만났습니다 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 21 Jul 2023 06:18:07 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_57/5O0tZ_1689919161350DsWBm_JPEG/1689919123156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 바스타드: 암흑의 파괴신 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38232403</link>
-            <guid>https://tv.naver.com/v/38232403</guid>
-            <pubDate>Thu, 20 Jul 2023 02:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_258/6gYf4_1689816847847AsxM9_JPEG/1689816801260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
