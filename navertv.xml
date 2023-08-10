@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 08:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 09:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 08 Aug 2023 02:28:24 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230808_71/3F5LE_1691458097325lFS7O_JPEG/1691458058292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 사기캐들의 활약상 모음 | 좀비버스]]></title>
+            <link>https://tv.naver.com/v/38806172</link>
+            <guid>https://tv.naver.com/v/38806172</guid>
+            <pubDate>Thu, 10 Aug 2023 09:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[5:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_134/P6XHq_1691631846417Tgpr4_JPEG/1691631843258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개] 달달함 한도 초과하는 지우❤정윤 |  19/20]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 23 Jul 2023 09:12:35 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230723_283/6kjTc_1690087302796oQ9VJ_JPEG/1690087265299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 원망의 에든버러 파트 2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/38279665</link>
-            <guid>https://tv.naver.com/v/38279665</guid>
-            <pubDate>Fri, 21 Jul 2023 06:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_57/5O0tZ_1689919161350DsWBm_JPEG/1689919123156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
