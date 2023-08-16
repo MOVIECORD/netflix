@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 02:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 03:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 16 Aug 2023 00:56:36 GMT</pubDate>
             <content:encoded><![CDATA[★요새 헬스장 붐비는 이유 TOP 3 공개 ★ 1. 봄이 오면 옷이 얇아질 예정 2. 실내 마스크 해제 그리고.. 3. &lt;피지컬: 100&gt; 절찬 스트리밍 중 (크으~ 이게 찐 이유지!)국적 불문! 연령 불문! 모두를 서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTBfNjkg/MDAxNjc2MDA5MTczMjEz.FlilZ-R_GzeER1tCdIV0YDDDmVF2LvbmgUxSw8_m5ksg.9ear_yWVU7FWEd8i7IlVWycnNKeRdkvdywgqjVsjrjwg.PNG/IvDtpDQZH1Wim6AqtzInYK-SSmSQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 밤마다 마스크걸과 함께하는 안재홍 | 마스크걸 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39080444</link>
+            <guid>https://tv.naver.com/v/39080444</guid>
+            <pubDate>Wed, 16 Aug 2023 03:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230816_188/t8Sdu_1692153604986652G4_JPEG/1692153535739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 늑대 양에게는 속지 않아 | 공식 예고편(주제가: BTS 'Lights') (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 25 Jul 2023 01:18:52 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230725_138/Vf2CD_16902473152561MrC5_JPEG/1690247280432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이젠 네가 친구로 보이지 않아 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38354759</link>
-            <guid>https://tv.naver.com/v/38354759</guid>
-            <pubDate>Tue, 25 Jul 2023 09:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_223/gleP7_16902121458745BIta_JPEG/1690212141233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
