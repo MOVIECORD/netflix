@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 06:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 07:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마스크걸 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/39190001</link>
+            <guid>https://tv.naver.com/v/39190001</guid>
+            <pubDate>Fri, 18 Aug 2023 07:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_91/xh8Kl_1692324255295rGWON_JPEG/1692324017098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 밤마다 마스크걸과 함께하는 안재홍 | 마스크걸]]></title>
             <link>https://tv.naver.com/v/39080444</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 03:14:11 GMT</pubDate>
             <content:encoded><![CDATA[2:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_246/4DmOr_1690363806077CUD4y_JPEG/1690363802670.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 2부]]></title>
-            <link>https://tv.naver.com/v/38381441</link>
-            <guid>https://tv.naver.com/v/38381441</guid>
-            <pubDate>Tue, 25 Jul 2023 01:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_138/Vf2CD_16902473152561MrC5_JPEG/1690247280432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
