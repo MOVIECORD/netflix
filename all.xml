@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 06:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 07:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,22 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 21 Aug 2023 05:12:42 GMT</pubDate>
             <content:encoded><![CDATA[★요새 헬스장 붐비는 이유 TOP 3 공개 ★ 1. 봄이 오면 옷이 얇아질 예정 2. 실내 마스크 해제 그리고.. 3. &lt;피지컬: 100&gt; 절찬 스트리밍 중 (크으~ 이게 찐 이유지!)국적 불문! 연령 불문! 모두를 서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTBfNjkg/MDAxNjc2MDA5MTczMjEz.FlilZ-R_GzeER1tCdIV0YDDDmVF2LvbmgUxSw8_m5ksg.9ear_yWVU7FWEd8i7IlVWycnNKeRdkvdywgqjVsjrjwg.PNG/IvDtpDQZH1Wim6AqtzInYK-SSmSQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 어느 과장님의 소름돋는 실체 | 마스크걸 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39289940</link>
+            <guid>https://tv.naver.com/v/39289940</guid>
+            <pubDate>Mon, 21 Aug 2023 07:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_99/cOMaw_1692600989766YwLov_JPEG/1692600923389.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 김모미의 파란만장한 일대기 | 마스크걸 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39289828</link>
+            <guid>https://tv.naver.com/v/39289828</guid>
+            <pubDate>Mon, 21 Aug 2023 07:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_58/FvcXx_1692600857291CUr4f_JPEG/1692600778950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마스크걸 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 26 Jul 2023 02:35:49 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_110/G5BIp_1690336823688TysIY_JPEG/1690336727666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개] 나는 어제 데이트가 불만족스러웠다? | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38419971</link>
-            <guid>https://tv.naver.com/v/38419971</guid>
-            <pubDate>Wed, 26 Jul 2023 03:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_116/vDhgS_16903340493732VT1R_JPEG/1690334042370.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개] 희지 말고는 궁금한 사람이 없는 평석 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38419936</link>
-            <guid>https://tv.naver.com/v/38419936</guid>
-            <pubDate>Fri, 28 Jul 2023 03:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_246/4DmOr_1690363806077CUD4y_JPEG/1690363802670.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
