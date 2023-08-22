@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 11:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 12:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,22 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 22 Aug 2023 10:13:50 GMT</pubDate>
             <content:encoded><![CDATA[★요새 헬스장 붐비는 이유 TOP 3 공개 ★ 1. 봄이 오면 옷이 얇아질 예정 2. 실내 마스크 해제 그리고.. 3. &lt;피지컬: 100&gt; 절찬 스트리밍 중 (크으~ 이게 찐 이유지!)국적 불문! 연령 불문! 모두를 서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTBfNjkg/MDAxNjc2MDA5MTczMjEz.FlilZ-R_GzeER1tCdIV0YDDDmVF2LvbmgUxSw8_m5ksg.9ear_yWVU7FWEd8i7IlVWycnNKeRdkvdywgqjVsjrjwg.PNG/IvDtpDQZH1Wim6AqtzInYK-SSmSQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마스크걸을 향한 처절한 복수의 밤 | 마스크걸 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39340939</link>
+            <guid>https://tv.naver.com/v/39340939</guid>
+            <pubDate>Tue, 22 Aug 2023 12:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230822_65/S5usc_1692703173364Bm11R_JPEG/1692703107022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 염혜란이 마스크걸을 찾아내야만 했던 이유 | 마스크걸 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39340883</link>
+            <guid>https://tv.naver.com/v/39340883</guid>
+            <pubDate>Tue, 22 Aug 2023 12:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230822_75/8NJVo_1692703052958VSoz1_JPEG/1692703051022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 탈피(렙타일) | 베니시오 델 토로 & 저스틴 팀버레이크 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 01 Aug 2023 04:17:03 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_295/DBRVh_1690535881910MIpXr_JPEG/1690535875535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하트 오브 스톤 | 갤 가돗 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38476020</link>
-            <guid>https://tv.naver.com/v/38476020</guid>
-            <pubDate>Thu, 27 Jul 2023 10:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_138/prhRV_1690450020675el8No_JPEG/1690450009323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] D.P. 2 | 체크 포인트 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38423220</link>
-            <guid>https://tv.naver.com/v/38423220</guid>
-            <pubDate>Fri, 28 Jul 2023 04:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_85/AD0S8_16903395338542AgQW_JPEG/1690339532196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
