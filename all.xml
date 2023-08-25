@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 23:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 00:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 24 Aug 2023 02:18:00 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230824_49/j0bzx_1692842721174iMQdP_JPEG/1692842589682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39400747</link>
+            <guid>https://tv.naver.com/v/39400747</guid>
+            <pubDate>Fri, 25 Aug 2023 00:57:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230824_97/K2pBx_16928411889929N0dH_JPEG/1692841136104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 31 Jul 2023 02:31:24 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_222/9uIAe_1690768519098cxhnR_JPEG/1690768515754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 미공개] 한 침대에서 꿀잠 잔 평석❤️희지 | 19/20 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38511444</link>
-            <guid>https://tv.naver.com/v/38511444</guid>
-            <pubDate>Sat, 05 Aug 2023 04:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_120/F0ZJg_1691141121672InlWn_JPEG/1691141118176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
