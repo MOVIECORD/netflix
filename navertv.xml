@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 01:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 02:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 안데스 설원의 생존자들 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/39445617</link>
+            <guid>https://tv.naver.com/v/39445617</guid>
+            <pubDate>Fri, 25 Aug 2023 02:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230825_18/Xwkd4_1692928330675neXCH_JPEG/1692928267214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 지구 위의 생명 | 공식 티저 예고편]]></title>
             <link>https://tv.naver.com/v/39401892</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 31 Jul 2023 09:15:03 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_187/pJn59_1690794713799HyHPJ_JPEG/1690794708657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 좀비버스 | 캐릭터 예고편]]></title>
-            <link>https://tv.naver.com/v/38565956</link>
-            <guid>https://tv.naver.com/v/38565956</guid>
-            <pubDate>Mon, 31 Jul 2023 02:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_222/9uIAe_1690768519098cxhnR_JPEG/1690768515754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
