@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 00:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 02:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 대만 청춘들이 정의하는 썸의 기준 | 성+인물: 대만 편]]></title>
+            <link>https://tv.naver.com/v/39579838</link>
+            <guid>https://tv.naver.com/v/39579838</guid>
+            <pubDate>Tue, 29 Aug 2023 02:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_269/31e5M_1693271486434Ic5p4_JPEG/1693271360012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 연쇄 살인범이 탈옥할 수 밖에 없었던 이유 | 마스크걸]]></title>
             <link>https://tv.naver.com/v/39456860</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Aug 2023 02:38:22 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230801_10/88S8Y_1690857331342FfC9n_JPEG/1690857297897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하트 오브 스톤 I 액션 예고편]]></title>
-            <link>https://tv.naver.com/v/38581721</link>
-            <guid>https://tv.naver.com/v/38581721</guid>
-            <pubDate>Wed, 02 Aug 2023 03:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_155/Xs0Tl_1690795490117Q9n8D_JPEG/1690795363644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
