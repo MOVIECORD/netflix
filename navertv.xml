@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 00:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 01:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 킬러 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/39626618</link>
+            <guid>https://tv.naver.com/v/39626618</guid>
+            <pubDate>Wed, 30 Aug 2023 01:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_85/hc7ym_1693358011028Wkwmu_JPEG/1693357958533.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 두 남자를 진땀 나게 만든 대만 속옷가게 | 성+인물: 대만 편]]></title>
             <link>https://tv.naver.com/v/39626107</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Aug 2023 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230807_252/fPhjW_1691377941404KitPY_JPEG/1691377918068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 생존이 걸린 초고난도 퀘스트 | 좀비버스]]></title>
-            <link>https://tv.naver.com/v/38654489</link>
-            <guid>https://tv.naver.com/v/38654489</guid>
-            <pubDate>Tue, 08 Aug 2023 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_2/Ihgyy_1691411189161zI4DJ_JPEG/1691411114221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
