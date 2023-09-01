@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 03:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 04:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 9월 신작 소개]]></title>
+            <link>https://tv.naver.com/v/39721375</link>
+            <guid>https://tv.naver.com/v/39721375</guid>
+            <pubDate>Fri, 01 Sep 2023 04:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_161/jHOIA_1693538909061UiCej_JPEG/1693538833279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV 'NewJeans - 아름다운 구속'ㅣ너의 시간 속으로]]></title>
             <link>https://tv.naver.com/v/39688515</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Aug 2023 02:28:24 GMT</pubDate>
             <content:encoded><![CDATA[1:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230807_118/EZkhw_1691398369073GYLBb_JPEG/1691398366783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 시즌 2 현재 제작 중]]></title>
-            <link>https://tv.naver.com/v/38796806</link>
-            <guid>https://tv.naver.com/v/38796806</guid>
-            <pubDate>Mon, 07 Aug 2023 04:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_212/eFXAm_1691378392204O5r5Q_JPEG/1691378355180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
