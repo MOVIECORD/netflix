@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 09:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 10:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 칼도 안 뽑고 전부 휩쓸어버리는 조로 | 원피스]]></title>
+            <link>https://tv.naver.com/v/39836153</link>
+            <guid>https://tv.naver.com/v/39836153</guid>
+            <pubDate>Mon, 04 Sep 2023 10:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230904_291/uqnFK_16938215337413pYcl_JPEG/1693821493874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 9월 신작 소개]]></title>
             <link>https://tv.naver.com/v/39721375</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Aug 2023 09:12:55 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230810_199/3E2Vo_1691669344198G286N_JPEG/1691669330696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개] 달달함 한도 초과하는 지우❤정윤 |  19/20]]></title>
-            <link>https://tv.naver.com/v/38804874</link>
-            <guid>https://tv.naver.com/v/38804874</guid>
-            <pubDate>Tue, 08 Aug 2023 02:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_118/EZkhw_1691398369073GYLBb_JPEG/1691398366783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
