@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 00:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 01:50:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,22 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 05 Sep 2023 17:13:37 GMT</pubDate>
             <content:encoded><![CDATA[-속보-죽었던 연애세포도(두-근) 심폐 소생시키는넷플릭스 시리즈&lt;연애대전&gt;전 격 공 개!! 티격태격 혐관 &gt; 달다구리 로맨스그 과정이 궁금하다면,♥&lt;연애대전&gt; 바로보기♥ 동영상  버튼을 누르면 현재···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDhfMjc4/MDAxNjc1ODQwNTUyODEw.4DyhuDDTbDKRkQrojcZ5-ZtJN7jtIYM805F5tN7XpOIg.OxYsr28u9qxU3IiUzr5PZfhxW3VtJh3-ETO2r7vq_zkg.JPEG/IqDUvh18hckg-djjrWYDvGkaUJnM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 3 지난 줄거리 | 밀번 박사의 돌아온 상담 시간 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39908866</link>
+            <guid>https://tv.naver.com/v/39908866</guid>
+            <pubDate>Wed, 06 Sep 2023 01:50:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_62/Mth71_1693963694397C8dIJ_JPEG/1693963667579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 치킨 런: 너겟의 탄생 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39908797</link>
+            <guid>https://tv.naver.com/v/39908797</guid>
+            <pubDate>Wed, 06 Sep 2023 01:50:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_81/88AIu_1693963625491R0Ebj_JPEG/1693963559560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 08 Aug 2023 02:28:24 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230808_68/GKD6c_1691458194121eAVzp_JPEG/1691458139959.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하트스토퍼: 시즌 2 | 파리 비하인드 컷 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38830607</link>
-            <guid>https://tv.naver.com/v/38830607</guid>
-            <pubDate>Tue, 08 Aug 2023 02:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230808_71/3F5LE_1691458097325lFS7O_JPEG/1691458058292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 사기캐들의 활약상 모음 | 좀비버스 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38806172</link>
-            <guid>https://tv.naver.com/v/38806172</guid>
-            <pubDate>Thu, 10 Aug 2023 09:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[5:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_134/P6XHq_1691631846417Tgpr4_JPEG/1691631843258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
