@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 23:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 00:58:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 05 Sep 2023 17:13:37 GMT</pubDate>
             <content:encoded><![CDATA[-속보-죽었던 연애세포도(두-근) 심폐 소생시키는넷플릭스 시리즈&lt;연애대전&gt;전 격 공 개!! 티격태격 혐관 &gt; 달다구리 로맨스그 과정이 궁금하다면,♥&lt;연애대전&gt; 바로보기♥ 동영상  버튼을 누르면 현재···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDhfMjc4/MDAxNjc1ODQwNTUyODEw.4DyhuDDTbDKRkQrojcZ5-ZtJN7jtIYM805F5tN7XpOIg.OxYsr28u9qxU3IiUzr5PZfhxW3VtJh3-ETO2r7vq_zkg.JPEG/IqDUvh18hckg-djjrWYDvGkaUJnM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39859596</link>
+            <guid>https://tv.naver.com/v/39859596</guid>
+            <pubDate>Wed, 06 Sep 2023 00:58:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_285/imMN8_1693878761369ogEaw_JPEG/1693878732005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 칼도 안 뽑고 전부 휩쓸어버리는 조로 | 원피스 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 10 Aug 2023 09:15:39 GMT</pubDate>
             <content:encoded><![CDATA[5:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230810_134/P6XHq_1691631846417Tgpr4_JPEG/1691631843258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 좀비에게 팀원을 버린 배신자들 | 좀비버스 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38806060</link>
-            <guid>https://tv.naver.com/v/38806060</guid>
-            <pubDate>Fri, 11 Aug 2023 09:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_199/3E2Vo_1691669344198G286N_JPEG/1691669330696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
