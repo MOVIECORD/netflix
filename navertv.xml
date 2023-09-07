@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 23:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 00:57:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 06 Sep 2023 01:50:18 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230906_81/88AIu_1693963625491R0Ebj_JPEG/1693963559560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 발레리나 | 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/39884702</link>
+            <guid>https://tv.naver.com/v/39884702</guid>
+            <pubDate>Thu, 07 Sep 2023 00:57:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_74/kCqOd_1693908282832Pt7pg_PNG/1693907985846.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Aug 2023 23:13:21 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_185/9A00g_1691577984152iL3Qc_JPEG/1691577981143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 빨간 모자, 여행을 떠나 시체를 만났습니다 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/38830668</link>
-            <guid>https://tv.naver.com/v/38830668</guid>
-            <pubDate>Tue, 08 Aug 2023 02:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230808_68/GKD6c_1691458194121eAVzp_JPEG/1691458139959.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
