@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 00:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 01:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 뤼팽: 파트 3 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/39959786</link>
+            <guid>https://tv.naver.com/v/39959786</guid>
+            <pubDate>Thu, 07 Sep 2023 01:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_275/BuGiC_1694049571388WXuww_JPEG/1694049552650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 3 지난 줄거리 | 밀번 박사의 돌아온 상담 시간]]></title>
             <link>https://tv.naver.com/v/39908866</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Aug 2023 00:56:23 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_177/71LwB_1691578058312X4J03_JPEG/1691577830375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 성+인물: 대만편 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/38889742</link>
-            <guid>https://tv.naver.com/v/38889742</guid>
-            <pubDate>Wed, 09 Aug 2023 23:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_185/9A00g_1691577984152iL3Qc_JPEG/1691577981143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
