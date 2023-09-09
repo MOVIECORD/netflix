@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 02:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 03:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,12 +213,28 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfNDEg/MDAxNjc2NTkzNjMwMDE1.791A2Lnu_1_CsVsKpP85MsYeR_5MSyc-ehNwei4xAe0g.BHBiXDfa9KxhecXaHqcqeX81a9plEO4-iZEzwpwAjgMg.JPEG/Iuq5fZjC_6-jMkIFzw8sejw7RL6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 범행 현장에서 발견된 강훈의 보청기 | 너의 시간 속으로 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40025444</link>
+            <guid>https://tv.naver.com/v/40025444</guid>
+            <pubDate>Sat, 09 Sep 2023 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_37/I3RqS_1694160007002fpdBB_JPEG/1694159978359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40018037</link>
             <guid>https://tv.naver.com/v/40018037</guid>
             <pubDate>Fri, 08 Sep 2023 07:12:47 GMT</pubDate>
             <content:encoded><![CDATA[0:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_187/1chTJ_1694151666661W86CB_JPEG/1694151586490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스페셜 MV '김민석(멜로망스) - Never Ending Story'ㅣ너의 시간 속으로 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40011752</link>
+            <guid>https://tv.naver.com/v/40011752</guid>
+            <pubDate>Sat, 09 Sep 2023 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_32/Eqb5b_1694144428570NFs27_JPEG/1694144423291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 뤼팽: 파트 3 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 18 Aug 2023 07:13:03 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_91/xh8Kl_1692324255295rGWON_JPEG/1692324017098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 밤마다 마스크걸과 함께하는 안재홍 | 마스크걸 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39080444</link>
-            <guid>https://tv.naver.com/v/39080444</guid>
-            <pubDate>Wed, 16 Aug 2023 03:14:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230816_188/t8Sdu_1692153604986652G4_JPEG/1692153535739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 늑대 양에게는 속지 않아 | 공식 예고편(주제가: BTS 'Lights') (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39037632</link>
-            <guid>https://tv.naver.com/v/39037632</guid>
-            <pubDate>Mon, 14 Aug 2023 02:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_163/FuO0B_1691978340598Ezsdy_JPEG/1691978246460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
