@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 02:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 03:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 06 Sep 2023 01:50:18 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230906_81/88AIu_1693963625491R0Ebj_JPEG/1693963559560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 안효섭❤️전여빈 CC시절 달달한 러브스토리 | 너의 시간 속으로]]></title>
+            <link>https://tv.naver.com/v/39908544</link>
+            <guid>https://tv.naver.com/v/39908544</guid>
+            <pubDate>Sun, 10 Sep 2023 03:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[5:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_174/Eb8ZW_169415978197398iLU_JPEG/1694159759711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 그토록 그리던 죽은 옛 연인을 다시 만난 전여빈 | 너의 시간 속으로]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Aug 2023 07:13:06 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230821_58/FvcXx_1692600857291CUr4f_JPEG/1692600778950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마스크걸 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.naver.com/v/39190001</link>
-            <guid>https://tv.naver.com/v/39190001</guid>
-            <pubDate>Fri, 18 Aug 2023 07:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_91/xh8Kl_1692324255295rGWON_JPEG/1692324017098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
