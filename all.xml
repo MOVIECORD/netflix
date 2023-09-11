@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 09:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 10:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 11 Sep 2023 06:18:01 GMT</pubDate>
             <content:encoded><![CDATA[“사람 죽이는 건 심플해 애 키우는 거에 비하면”킬러 업계 꽉 잡은 성공률 100% A랭커 &lt;길복순&gt; 3월 31일 공개!공개된 2차 포스터 속 그녀의 한 손에는 장을 본 듯 식료품이 한 가득, 다른 한 손···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfNDEg/MDAxNjc2NTkzNjMwMDE1.791A2Lnu_1_CsVsKpP85MsYeR_5MSyc-ehNwei4xAe0g.BHBiXDfa9KxhecXaHqcqeX81a9plEO4-iZEzwpwAjgMg.JPEG/Iuq5fZjC_6-jMkIFzw8sejw7RL6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 동시에 같은 여자를 좋아하게 된 안효섭과 강훈 | 너의 시간 속으로 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40126428</link>
+            <guid>https://tv.naver.com/v/40126428</guid>
+            <pubDate>Mon, 11 Sep 2023 10:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_109/QCerP_1694426373257b8dcg_JPEG/1694426280174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 범행 현장에서 발견된 강훈의 보청기 | 너의 시간 속으로 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 21 Aug 2023 07:13:06 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230821_99/cOMaw_1692600989766YwLov_JPEG/1692600923389.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 김모미의 파란만장한 일대기 | 마스크걸 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39289828</link>
-            <guid>https://tv.naver.com/v/39289828</guid>
-            <pubDate>Mon, 21 Aug 2023 07:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[4:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_58/FvcXx_1692600857291CUr4f_JPEG/1692600778950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
