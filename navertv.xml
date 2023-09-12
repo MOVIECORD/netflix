@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 10:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 11:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 잠든 전여빈에게 솔직하게 고백하는 안효섭 | 너의 시간 속으로]]></title>
+            <link>https://tv.naver.com/v/40175850</link>
+            <guid>https://tv.naver.com/v/40175850</guid>
+            <pubDate>Tue, 12 Sep 2023 11:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[5:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230912_170/Oitog_1694514831772DFXGS_JPEG/1694514766418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 동시에 같은 여자를 좋아하게 된 안효섭과 강훈 | 너의 시간 속으로]]></title>
             <link>https://tv.naver.com/v/40126428</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Aug 2023 12:24:57 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230822_75/8NJVo_1692703052958VSoz1_JPEG/1692703051022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 탈피(렙타일) | 베니시오 델 토로 & 저스틴 팀버레이크 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/39316427</link>
-            <guid>https://tv.naver.com/v/39316427</guid>
-            <pubDate>Tue, 22 Aug 2023 02:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230822_247/PVZQQ_1692668905084vQV8g_JPEG/1692668808616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
