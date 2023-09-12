@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 23:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 00:56:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 09 Sep 2023 03:13:30 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_37/I3RqS_1694160007002fpdBB_JPEG/1694159978359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 데블스 플랜 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/40021348</link>
+            <guid>https://tv.naver.com/v/40021348</guid>
+            <pubDate>Tue, 12 Sep 2023 00:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_183/b3Mwv_1694155298742vgs0P_JPEG/1694155295798.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 절찬 스트리밍 중]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Aug 2023 02:18:12 GMT</pubDate>
             <content:encoded><![CDATA[2:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230822_247/PVZQQ_1692668905084vQV8g_JPEG/1692668808616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 어느 과장님의 소름돋는 실체 | 마스크걸]]></title>
-            <link>https://tv.naver.com/v/39289940</link>
-            <guid>https://tv.naver.com/v/39289940</guid>
-            <pubDate>Mon, 21 Aug 2023 07:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_99/cOMaw_1692600989766YwLov_JPEG/1692600923389.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
