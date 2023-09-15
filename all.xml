@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 00:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 01:53:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 14 Sep 2023 04:15:50 GMT</pubDate>
             <content:encoded><![CDATA[“사람 죽이는 건 심플해 애 키우는 거에 비하면”킬러 업계 꽉 잡은 성공률 100% A랭커 &lt;길복순&gt; 3월 31일 공개!공개된 2차 포스터 속 그녀의 한 손에는 장을 본 듯 식료품이 한 가득, 다른 한 손···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfNDEg/MDAxNjc2NTkzNjMwMDE1.791A2Lnu_1_CsVsKpP85MsYeR_5MSyc-ehNwei4xAe0g.BHBiXDfa9KxhecXaHqcqeX81a9plEO4-iZEzwpwAjgMg.JPEG/Iuq5fZjC_6-jMkIFzw8sejw7RL6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 원피스 | 시즌 2 발표 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40290187</link>
+            <guid>https://tv.naver.com/v/40290187</guid>
+            <pubDate>Fri, 15 Sep 2023 01:53:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_76/pLVx8_16947396629013ya67_JPEG/1694739644458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 어셔가의 몰락 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 24 Aug 2023 00:56:44 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_263/tFzF4_1692759761700cKmh6_JPEG/1692759646179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] Rebel Moon | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39354552</link>
-            <guid>https://tv.naver.com/v/39354552</guid>
-            <pubDate>Wed, 23 Aug 2023 00:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_76/8NB9Q_1692751644673pPeLc_JPEG/1692751580207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
