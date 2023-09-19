@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 00:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 01:54:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 베를린 | 공개일 발표]]></title>
+            <link>https://tv.naver.com/v/40437626</link>
+            <guid>https://tv.naver.com/v/40437626</guid>
+            <pubDate>Tue, 19 Sep 2023 01:53:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230919_23/io1oG_1695086287965UiqFi_JPEG/1695086237721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 데블스 플랜 | 캐릭터 예고편]]></title>
             <link>https://tv.naver.com/v/40301942</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Aug 2023 02:18:00 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230824_49/j0bzx_1692842721174iMQdP_JPEG/1692842589682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/39400747</link>
-            <guid>https://tv.naver.com/v/39400747</guid>
-            <pubDate>Fri, 25 Aug 2023 00:57:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230824_97/K2pBx_16928411889929N0dH_JPEG/1692841136104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
