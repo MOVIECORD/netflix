@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 01:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 02:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 19 Sep 2023 01:53:51 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230919_23/io1oG_1695086287965UiqFi_JPEG/1695086237721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40410468</link>
+            <guid>https://tv.naver.com/v/40410468</guid>
+            <pubDate>Tue, 19 Sep 2023 02:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_224/FwUrQ_1695027907238PlzFB_JPEG/1695027904005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 데블스 플랜 | 캐릭터 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 25 Aug 2023 02:19:08 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230825_18/Xwkd4_1692928330675neXCH_JPEG/1692928267214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지구 위의 생명 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39401892</link>
-            <guid>https://tv.naver.com/v/39401892</guid>
-            <pubDate>Thu, 24 Aug 2023 02:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230824_49/j0bzx_1692842721174iMQdP_JPEG/1692842589682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
