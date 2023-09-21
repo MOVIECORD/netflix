@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 03:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 04:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 20 Sep 2023 20:14:15 GMT</pubDate>
             <content:encoded><![CDATA[“사람 죽이는 건 심플해 애 키우는 거에 비하면”킬러 업계 꽉 잡은 성공률 100% A랭커 &lt;길복순&gt; 3월 31일 공개!공개된 2차 포스터 속 그녀의 한 손에는 장을 본 듯 식료품이 한 가득, 다른 한 손···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfNDEg/MDAxNjc2NTkzNjMwMDE1.791A2Lnu_1_CsVsKpP85MsYeR_5MSyc-ehNwei4xAe0g.BHBiXDfa9KxhecXaHqcqeX81a9plEO4-iZEzwpwAjgMg.JPEG/Iuq5fZjC_6-jMkIFzw8sejw7RL6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 겐간 아슈라 시즌 2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40544780</link>
+            <guid>https://tv.naver.com/v/40544780</guid>
+            <pubDate>Thu, 21 Sep 2023 04:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_184/8Kel5_1695266248708LxYfC_JPEG/1695266184552.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 귀무자 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 30 Aug 2023 01:50:24 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_85/hc7ym_1693358011028Wkwmu_JPEG/1693357958533.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 두 남자를 진땀 나게 만든 대만 속옷가게 | 성+인물: 대만 편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39626107</link>
-            <guid>https://tv.naver.com/v/39626107</guid>
-            <pubDate>Wed, 30 Aug 2023 00:57:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_270/zRjth_16933569508747te3T_JPEG/1693356863161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
