@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 02:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 03:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,6 +245,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_224/FwUrQ_1695027907238PlzFB_JPEG/1695027904005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] [선공개] 포병대 올킬하는 저승사자 김남길 | 도적: 칼의 소리 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40400999</link>
+            <guid>https://tv.naver.com/v/40400999</guid>
+            <pubDate>Thu, 21 Sep 2023 03:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_81/T6Di2_1695177219105iiPek_JPEG/1695177216634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 발레리나 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40390166</link>
             <guid>https://tv.naver.com/v/40390166</guid>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 30 Aug 2023 00:57:48 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_270/zRjth_16933569508747te3T_JPEG/1693356863161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 대만 청춘들이 정의하는 썸의 기준 | 성+인물: 대만 편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39579838</link>
-            <guid>https://tv.naver.com/v/39579838</guid>
-            <pubDate>Tue, 29 Aug 2023 02:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_269/31e5M_1693271486434Ic5p4_JPEG/1693271360012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
