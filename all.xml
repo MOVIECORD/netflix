@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 00:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 01:52:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -234,7 +234,7 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://tv.naver.com/v/40500471</guid>
             <pubDate>Thu, 21 Sep 2023 00:58:24 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_182/yosIi_1695188284228QbqUE_JPEG/1695187301704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_75/8jrX0_1695344934141E8ADc_JPEG/1695344931538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 베를린 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
