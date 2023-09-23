@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 03:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 04:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -269,6 +269,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_224/FwUrQ_1695027907238PlzFB_JPEG/1695027904005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 독립군이냐고요? 아뇨 우리는 도적인데요ㅎ | 도적: 칼의 소리 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40401085</link>
+            <guid>https://tv.naver.com/v/40401085</guid>
+            <pubDate>Sat, 23 Sep 2023 04:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_6/gWPPH_1695177333542I1xgv_PNG/1695177331185.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40401009</link>
             <guid>https://tv.naver.com/v/40401009</guid>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 04 Sep 2023 10:14:43 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230904_291/uqnFK_16938215337413pYcl_JPEG/1693821493874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 9월 신작 소개 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39721375</link>
-            <guid>https://tv.naver.com/v/39721375</guid>
-            <pubDate>Fri, 01 Sep 2023 04:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_161/jHOIA_1693538909061UiCej_JPEG/1693538833279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
