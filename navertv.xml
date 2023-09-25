@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 08:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 09:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Tue, 19 Sep 2023 02:21:08 GMT</pubDate>
             <content:encoded><![CDATA[4:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_224/FwUrQ_1695027907238PlzFB_JPEG/1695027904005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 조선총독부 과장으로 위장한 OOO? 서현의 진짜 정체 | 도적: 칼의 소리]]></title>
+            <link>https://tv.naver.com/v/40401193</link>
+            <guid>https://tv.naver.com/v/40401193</guid>
+            <pubDate>Mon, 25 Sep 2023 09:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_192/xmeIX_1695344806188mQTdV_JPEG/1695344801134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 독립군이냐고요? 아뇨 우리는 도적인데요ㅎ | 도적: 칼의 소리]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Sep 2023 09:13:37 GMT</pubDate>
             <content:encoded><![CDATA[7:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230907_6/gFf6Z_1694074543662enThn_JPEG/1694074509099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 발레리나 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/39884702</link>
-            <guid>https://tv.naver.com/v/39884702</guid>
-            <pubDate>Thu, 07 Sep 2023 00:57:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_74/kCqOd_1693908282832Pt7pg_PNG/1693907985846.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
