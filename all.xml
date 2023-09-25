@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 03:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 04:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 23 Sep 2023 14:11:00 GMT</pubDate>
             <content:encoded><![CDATA[“사람 죽이는 건 심플해 애 키우는 거에 비하면”킬러 업계 꽉 잡은 성공률 100% A랭커 &lt;길복순&gt; 3월 31일 공개!공개된 2차 포스터 속 그녀의 한 손에는 장을 본 듯 식료품이 한 가득, 다른 한 손···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfNDEg/MDAxNjc2NTkzNjMwMDE1.791A2Lnu_1_CsVsKpP85MsYeR_5MSyc-ehNwei4xAe0g.BHBiXDfa9KxhecXaHqcqeX81a9plEO4-iZEzwpwAjgMg.JPEG/Iuq5fZjC_6-jMkIFzw8sejw7RL6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40684275</link>
+            <guid>https://tv.naver.com/v/40684275</guid>
+            <pubDate>Mon, 25 Sep 2023 04:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_241/iGbCC_1695614906121K5MBg_JPEG/1695614904012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 그리셀다 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 07 Sep 2023 00:57:47 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_74/kCqOd_1693908282832Pt7pg_PNG/1693907985846.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39859596</link>
-            <guid>https://tv.naver.com/v/39859596</guid>
-            <pubDate>Wed, 06 Sep 2023 00:58:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_285/imMN8_1693878761369ogEaw_JPEG/1693878732005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
