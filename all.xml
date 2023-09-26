@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 23:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 00:59:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Mon, 25 Sep 2023 22:12:50 GMT</pubDate>
             <content:encoded><![CDATA[“사람 죽이는 건 심플해 애 키우는 거에 비하면”킬러 업계 꽉 잡은 성공률 100% A랭커 &lt;길복순&gt; 3월 31일 공개!공개된 2차 포스터 속 그녀의 한 손에는 장을 본 듯 식료품이 한 가득, 다른 한 손···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfNDEg/MDAxNjc2NTkzNjMwMDE1.791A2Lnu_1_CsVsKpP85MsYeR_5MSyc-ehNwei4xAe0g.BHBiXDfa9KxhecXaHqcqeX81a9plEO4-iZEzwpwAjgMg.JPEG/Iuq5fZjC_6-jMkIFzw8sejw7RL6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 노란문: 세기말 시네필 다이어리 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40689470</link>
+            <guid>https://tv.naver.com/v/40689470</guid>
+            <pubDate>Tue, 26 Sep 2023 00:59:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_281/8b1ff_1695621010804YH1eT_JPEG/1695621009136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sun, 10 Sep 2023 03:13:32 GMT</pubDate>
             <content:encoded><![CDATA[5:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_174/Eb8ZW_169415978197398iLU_JPEG/1694159759711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 그토록 그리던 죽은 옛 연인을 다시 만난 전여빈 | 너의 시간 속으로 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39908373</link>
-            <guid>https://tv.naver.com/v/39908373</guid>
-            <pubDate>Thu, 07 Sep 2023 09:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[7:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_6/gFf6Z_1694074543662enThn_JPEG/1694074509099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
