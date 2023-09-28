@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 02:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 03:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Tue, 19 Sep 2023 02:21:08 GMT</pubDate>
             <content:encoded><![CDATA[4:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_224/FwUrQ_1695027907238PlzFB_JPEG/1695027904005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 이름은 언년이고요. 돈 받고 사람 죽여드려요.🔫 | 도적: 칼의 소리]]></title>
+            <link>https://tv.naver.com/v/40401260</link>
+            <guid>https://tv.naver.com/v/40401260</guid>
+            <pubDate>Thu, 28 Sep 2023 03:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_73/MPLMq_16953625705278uLq5_JPEG/1695362568983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 조선총독부 과장으로 위장한 OOO? 서현의 진짜 정체 | 도적: 칼의 소리]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Sep 2023 07:12:47 GMT</pubDate>
             <content:encoded><![CDATA[0:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_187/1chTJ_1694151666661W86CB_JPEG/1694151586490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스페셜 MV '김민석(멜로망스) - Never Ending Story'ㅣ너의 시간 속으로]]></title>
-            <link>https://tv.naver.com/v/40011752</link>
-            <guid>https://tv.naver.com/v/40011752</guid>
-            <pubDate>Sat, 09 Sep 2023 03:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_32/Eqb5b_1694144428570NFs27_JPEG/1694144423291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
