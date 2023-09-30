@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 02:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 03:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 27 Sep 2023 04:16:43 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_5/qUqzS_1695791502874PlSIV_JPEG/1695791481824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 혼자서 정답 다 맞혀버리는 서동주? | 데블스 플랜]]></title>
+            <link>https://tv.naver.com/v/40749174</link>
+            <guid>https://tv.naver.com/v/40749174</guid>
+            <pubDate>Sat, 30 Sep 2023 03:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[6:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_14/GCCRw_16959011934887INHQ_JPEG/1695901155390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 노란문: 세기말 시네필 다이어리 | 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Sep 2023 10:14:38 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230911_109/QCerP_1694426373257b8dcg_JPEG/1694426280174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 범행 현장에서 발견된 강훈의 보청기 | 너의 시간 속으로]]></title>
-            <link>https://tv.naver.com/v/40025444</link>
-            <guid>https://tv.naver.com/v/40025444</guid>
-            <pubDate>Sat, 09 Sep 2023 03:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_37/I3RqS_1694160007002fpdBB_JPEG/1694159978359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
