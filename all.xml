@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 06:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 07:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -349,6 +349,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_224/FwUrQ_1695027907238PlzFB_JPEG/1695027904005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 일본군 싸게싸게 거시기해버리는 도적단 | 도적: 칼의 소리 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40401350</link>
+            <guid>https://tv.naver.com/v/40401350</guid>
+            <pubDate>Sat, 30 Sep 2023 07:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_209/0DXlA_1695362615869wgBiC_JPEG/1695362608077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 이름은 언년이고요. 돈 받고 사람 죽여드려요.🔫 | 도적: 칼의 소리 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40401260</link>
             <guid>https://tv.naver.com/v/40401260</guid>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 12 Sep 2023 11:12:09 GMT</pubDate>
             <content:encoded><![CDATA[5:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230912_170/Oitog_1694514831772DFXGS_JPEG/1694514766418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 동시에 같은 여자를 좋아하게 된 안효섭과 강훈 | 너의 시간 속으로 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40126428</link>
-            <guid>https://tv.naver.com/v/40126428</guid>
-            <pubDate>Mon, 11 Sep 2023 10:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_109/QCerP_1694426373257b8dcg_JPEG/1694426280174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
