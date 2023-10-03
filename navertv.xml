@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 11:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 12:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 누구를, 어디까지 믿으시겠습니까 | 데블스 플랜]]></title>
+            <link>https://tv.naver.com/v/40916608</link>
+            <guid>https://tv.naver.com/v/40916608</guid>
+            <pubDate>Tue, 03 Oct 2023 12:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[6:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231003_163/yePoH_16963029463132uNjX_JPEG/1696302888488.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스][선공개] 결국 피스의 비밀을 찾아낸 하석진과 이시원 | 데블스 플랜]]></title>
             <link>https://tv.naver.com/v/40886601</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Sep 2023 01:53:21 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230913_276/bwUOV_1694567728816v9CEk_JPEG/1694567676639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 4 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/40196128</link>
-            <guid>https://tv.naver.com/v/40196128</guid>
-            <pubDate>Wed, 13 Sep 2023 01:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_174/UUJGU_1694567626527yqovh_JPEG/1694567606193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
