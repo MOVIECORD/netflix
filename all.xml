@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 23:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 01:00:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -253,6 +253,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230928_72/VjdlE_1695888506133bKKkn_JPEG/1695888406773.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 이두나! | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40776176</link>
+            <guid>https://tv.naver.com/v/40776176</guid>
+            <pubDate>Wed, 04 Oct 2023 00:59:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_21/SqGpI_1695792265590mbrMw_JPEG/1695792260502.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 발레리나 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40769059</link>
             <guid>https://tv.naver.com/v/40769059</guid>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 15 Sep 2023 01:53:32 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230915_76/pLVx8_16947396629013ya67_JPEG/1694739644458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 어셔가의 몰락 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40196178</link>
-            <guid>https://tv.naver.com/v/40196178</guid>
-            <pubDate>Wed, 13 Sep 2023 01:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_276/bwUOV_1694567728816v9CEk_JPEG/1694567676639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
