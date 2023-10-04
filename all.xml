@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 10:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 11:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -330,7 +330,7 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <guid>https://tv.naver.com/v/40776176</guid>
             <pubDate>Wed, 04 Oct 2023 00:59:52 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_21/SqGpI_1695792265590mbrMw_JPEG/1695792260502.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_192/QAf7i_1696415955008qBiqz_JPEG/1696415950688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 발레리나 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
