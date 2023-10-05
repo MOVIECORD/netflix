@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 00:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 01:56:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 요리 서바이벌 참가자 모집]]></title>
+            <link>https://tv.naver.com/v/40992380</link>
+            <guid>https://tv.naver.com/v/40992380</guid>
+            <pubDate>Thu, 05 Oct 2023 01:56:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_286/BiKmm_1696469773576ilA3w_JPEG/1696469654574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 노란문: 세기말 시네필 다이어리 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/40959121</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Sep 2023 01:53:51 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230919_23/io1oG_1695086287965UiqFi_JPEG/1695086237721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 제작기 영상]]></title>
-            <link>https://tv.naver.com/v/40410468</link>
-            <guid>https://tv.naver.com/v/40410468</guid>
-            <pubDate>Tue, 19 Sep 2023 02:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[4:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_224/FwUrQ_1695027907238PlzFB_JPEG/1695027904005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
