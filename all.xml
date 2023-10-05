@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 23:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 00:59:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Wed, 04 Oct 2023 06:18:39 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_257/ksDFL_1696400136679iGYUz_JPEG/1696400134897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40951411</link>
+            <guid>https://tv.naver.com/v/40951411</guid>
+            <pubDate>Thu, 05 Oct 2023 00:59:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_102/BNie0_1696388626907NtaGa_JPEG/1696388465485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 우리가 볼 수 없는 모든 빛 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 19 Sep 2023 02:21:08 GMT</pubDate>
             <content:encoded><![CDATA[4:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_224/FwUrQ_1695027907238PlzFB_JPEG/1695027904005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 일본군 싸게싸게 거시기해버리는 도적단 | 도적: 칼의 소리 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40401350</link>
-            <guid>https://tv.naver.com/v/40401350</guid>
-            <pubDate>Sat, 30 Sep 2023 07:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_209/0DXlA_1695362615869wgBiC_JPEG/1695362608077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
