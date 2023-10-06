@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 02:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 03:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,6 +301,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_202/InQme_1696387340856kKYHd_JPEG/1696387315294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 피스를 조립하면 ◯◯◯가 나온다? | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40916846</link>
+            <guid>https://tv.naver.com/v/40916846</guid>
+            <pubDate>Fri, 06 Oct 2023 03:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_162/QBaVW_1696561346082V1PIw_JPEG/1696561339606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 다수를 위해 승관을 포기하는 궤도? | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40916798</link>
             <guid>https://tv.naver.com/v/40916798</guid>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Thu, 21 Sep 2023 04:16:18 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230921_184/8Kel5_1695266248708LxYfC_JPEG/1695266184552.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 귀무자 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40511966</link>
-            <guid>https://tv.naver.com/v/40511966</guid>
-            <pubDate>Fri, 06 Oct 2023 01:53:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_65/DwSP1_16952001586480vC9m_JPEG/1695200100242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
