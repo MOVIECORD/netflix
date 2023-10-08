@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 02:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 03:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 07 Oct 2023 12:23:41 GMT</pubDate>
             <content:encoded><![CDATA[“사람 죽이는 건 심플해 애 키우는 거에 비하면”킬러 업계 꽉 잡은 성공률 100% A랭커 &lt;길복순&gt; 3월 31일 공개!공개된 2차 포스터 속 그녀의 한 손에는 장을 본 듯 식료품이 한 가득, 다른 한 손···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfNDEg/MDAxNjc2NTkzNjMwMDE1.791A2Lnu_1_CsVsKpP85MsYeR_5MSyc-ehNwei4xAe0g.BHBiXDfa9KxhecXaHqcqeX81a9plEO4-iZEzwpwAjgMg.JPEG/Iuq5fZjC_6-jMkIFzw8sejw7RL6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 초밥, 간장.. 무엇을 뜻하는 암호일까? | 발레리나 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41086054</link>
+            <guid>https://tv.naver.com/v/41086054</guid>
+            <pubDate>Sun, 08 Oct 2023 03:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_40/0qlqt_16966606255567yYeS_JPEG/1696660500180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 발레리나 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Fri, 22 Sep 2023 07:12:59 GMT</pubDate>
             <content:encoded><![CDATA[0:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_22/bfMW5_1695364629241iglGM_JPEG/1695364562696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 4 | 파이널 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40599728</link>
-            <guid>https://tv.naver.com/v/40599728</guid>
-            <pubDate>Fri, 22 Sep 2023 07:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_281/aWhIh_1695364547802ka6tc_JPEG/1695364527553.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
