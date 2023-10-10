@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 10:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 11:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Tue, 10 Oct 2023 07:13:00 GMT</pubDate>
             <content:encoded><![CDATA[“사람 죽이는 건 심플해 애 키우는 거에 비하면”킬러 업계 꽉 잡은 성공률 100% A랭커 &lt;길복순&gt; 3월 31일 공개!공개된 2차 포스터 속 그녀의 한 손에는 장을 본 듯 식료품이 한 가득, 다른 한 손···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfNDEg/MDAxNjc2NTkzNjMwMDE1.791A2Lnu_1_CsVsKpP85MsYeR_5MSyc-ehNwei4xAe0g.BHBiXDfa9KxhecXaHqcqeX81a9plEO4-iZEzwpwAjgMg.JPEG/Iuq5fZjC_6-jMkIFzw8sejw7RL6A.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 단 한 번의 기회로 탈락과 생존이 결정된다! 하석진의 운명은? | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41195329</link>
+            <guid>https://tv.naver.com/v/41195329</guid>
+            <pubDate>Tue, 10 Oct 2023 11:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[5:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_24/Qez2C_1696935313376i63hU_JPEG/1696935267847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 크라운: 시즌 6 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@ A급 킬러 <길복순>이 온다! (Netflix Korea ─ NAVER POST)]]></title>
             <pubDate>Sat, 30 Sep 2023 03:13:41 GMT</pubDate>
             <content:encoded><![CDATA[6:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230928_14/GCCRw_16959011934887INHQ_JPEG/1695901155390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40684275</link>
-            <guid>https://tv.naver.com/v/40684275</guid>
-            <pubDate>Mon, 25 Sep 2023 04:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_241/iGbCC_1695614906121K5MBg_JPEG/1695614904012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
