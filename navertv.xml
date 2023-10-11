@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 02:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 03:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 곽준빈을 오열하게 만든 탈락자는? | 데블스 플랜]]></title>
+            <link>https://tv.naver.com/v/41220877</link>
+            <guid>https://tv.naver.com/v/41220877</guid>
+            <pubDate>Wed, 11 Oct 2023 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_297/0ob71_1696993424370VVLwv_JPEG/1696993395599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 단 한 번의 기회로 탈락과 생존이 결정된다! 하석진의 운명은? | 데블스 플랜]]></title>
             <link>https://tv.naver.com/v/41195329</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 04:16:43 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_5/qUqzS_1695791502874PlSIV_JPEG/1695791481824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 혼자서 정답 다 맞혀버리는 서동주? | 데블스 플랜]]></title>
-            <link>https://tv.naver.com/v/40749174</link>
-            <guid>https://tv.naver.com/v/40749174</guid>
-            <pubDate>Sat, 30 Sep 2023 03:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[6:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_14/GCCRw_16959011934887INHQ_JPEG/1695901155390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
