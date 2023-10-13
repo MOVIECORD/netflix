@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 02:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 03:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@
             <pubDate>Fri, 13 Oct 2023 01:57:57 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231013_141/RpMCg_1697159793582Kt2sV_JPEG/1697159746197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 드디어 결승전😈 무섭게 하석진을 따라잡는 궤도 | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41273638</link>
+            <guid>https://tv.naver.com/v/41273638</guid>
+            <pubDate>Fri, 13 Oct 2023 03:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_228/pxiGX_1697080723163WXtb9_JPEG/1697080691394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 발레리나 | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Thu, 28 Sep 2023 08:17:42 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230928_72/VjdlE_1695888506133bKKkn_JPEG/1695888406773.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 전종서VS김지훈, 목숨을 건 근접 액션 | 발레리나 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40777291</link>
-            <guid>https://tv.naver.com/v/40777291</guid>
-            <pubDate>Thu, 05 Oct 2023 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_57/BVkIa_1696493816768Ea7k1_JPEG/1696493808507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
