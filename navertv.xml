@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 01:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 01:58:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 레오 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/41320786</link>
+            <guid>https://tv.naver.com/v/41320786</guid>
+            <pubDate>Fri, 13 Oct 2023 01:57:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_141/RpMCg_1697159793582Kt2sV_JPEG/1697159746197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 발레리나 | 제작기 영상]]></title>
             <link>https://tv.naver.com/v/41273303</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Oct 2023 09:14:43 GMT</pubDate>
             <content:encoded><![CDATA[1:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_57/BVkIa_1696493816768Ea7k1_JPEG/1696493808507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이두나! | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/40776176</link>
-            <guid>https://tv.naver.com/v/40776176</guid>
-            <pubDate>Wed, 04 Oct 2023 00:59:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_192/QAf7i_1696415955008qBiqz_JPEG/1696415950688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
