@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 01:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 01:55:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 요즘 넷플 뭐봄?]]></title>
+            <link>https://tv.naver.com/v/41473041</link>
+            <guid>https://tv.naver.com/v/41473041</guid>
+            <pubDate>Tue, 17 Oct 2023 01:55:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_256/ASGWW_1697504682266OQxFm_JPEG/1697504660600.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 레오 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/41320786</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Sep 2023 07:12:57 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230928_1/puyZB_1695900665805TzW3p_JPEG/1695900599763.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 협동 게임 속 각자의 욕심 | 데블스 플랜]]></title>
-            <link>https://tv.naver.com/v/40791451</link>
-            <guid>https://tv.naver.com/v/40791451</guid>
-            <pubDate>Thu, 28 Sep 2023 08:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_72/VjdlE_1695888506133bKKkn_JPEG/1695888406773.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
