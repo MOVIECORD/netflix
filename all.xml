@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 01:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 01:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,22 @@
             <pubDate>Tue, 17 Oct 2023 23:13:49 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] Geeked Week 2023 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41527531</link>
+            <guid>https://tv.naver.com/v/41527531</guid>
+            <pubDate>Wed, 18 Oct 2023 01:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_247/5GpAg_1697591356305cHqbA_JPEG/1697591340585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 엘리트들: 시즌 7 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41527494</link>
+            <guid>https://tv.naver.com/v/41527494</guid>
+            <pubDate>Wed, 18 Oct 2023 01:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_144/GtvTV_1697591295810kxG6i_JPEG/1697591240189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 요즘 넷플 뭐봄? (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@
             <pubDate>Mon, 02 Oct 2023 04:16:27 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231002_295/10H7a_1696212941354SAI8x_JPEG/1696212915697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 궤도 연합 VS 하석진 연합, 누가 웃을 것인가 | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40792394</link>
-            <guid>https://tv.naver.com/v/40792394</guid>
-            <pubDate>Sun, 01 Oct 2023 10:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_2/abDns_16959031505119UenH_JPEG/1695903142665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아이돌과 단둘이 감옥에 갇혔습니다 | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40792272</link>
-            <guid>https://tv.naver.com/v/40792272</guid>
-            <pubDate>Fri, 29 Sep 2023 07:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_1/puyZB_1695900665805TzW3p_JPEG/1695900599763.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
