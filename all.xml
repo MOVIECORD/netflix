@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 23:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 00:59:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -229,6 +229,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231018_144/GtvTV_1697591295810kxG6i_JPEG/1697591240189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41479607</link>
+            <guid>https://tv.naver.com/v/41479607</guid>
+            <pubDate>Thu, 19 Oct 2023 00:59:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_67/R96M1_1697512838958LdhUX_JPEG/1697512668617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 요즘 넷플 뭐봄? (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/41473041</link>
             <guid>https://tv.naver.com/v/41473041</guid>
@@ -443,14 +451,6 @@
             <pubDate>Tue, 03 Oct 2023 12:27:25 GMT</pubDate>
             <content:encoded><![CDATA[6:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231003_163/yePoH_16963029463132uNjX_JPEG/1696302888488.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스][선공개] 결국 피스의 비밀을 찾아낸 하석진과 이시원 | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40886601</link>
-            <guid>https://tv.naver.com/v/40886601</guid>
-            <pubDate>Mon, 02 Oct 2023 04:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231002_295/10H7a_1696212941354SAI8x_JPEG/1696212915697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
