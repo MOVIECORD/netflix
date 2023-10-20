@@ -4,16 +4,24 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 00:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 01:54:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 음양사 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/41632635</link>
+            <guid>https://tv.naver.com/v/41632635</guid>
+            <pubDate>Fri, 20 Oct 2023 01:53:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_207/7y27C_1697764207560cKYq3_JPEG/1697764149029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 존재 자체가 플러팅인 수지 | 이두나!]]></title>
             <link>https://tv.naver.com/v/41539384</link>
             <guid>https://tv.naver.com/v/41539384</guid>
             <pubDate>Thu, 19 Oct 2023 03:14:35 GMT</pubDate>
             <content:encoded><![CDATA[5:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_148/sbjjz_1697607042703IUfPA_JPEG/1697605742454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_10/uFTah_16977666957786kmPr_JPEG/1697766692525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] Geeked Week 2023 | 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Oct 2023 04:16:46 GMT</pubDate>
             <content:encoded><![CDATA[5:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_191/lP8mC_1696477569143zw2iE_JPEG/1696477561012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 상금 1억 원까지 남은 시간은 1분 | 데블스 플랜]]></title>
-            <link>https://tv.naver.com/v/40916726</link>
-            <guid>https://tv.naver.com/v/40916726</guid>
-            <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[5:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231003_186/ELIqs_1696303239735p4WRT_JPEG/1696303125148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
