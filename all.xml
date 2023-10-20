@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 04:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 05:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Fri, 20 Oct 2023 02:21:05 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스페셜 MV '드림스윗 - 네 꿈에 숨어들어가' | 이두나! (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41642673</link>
+            <guid>https://tv.naver.com/v/41642673</guid>
+            <pubDate>Fri, 20 Oct 2023 05:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_11/SyBdK_1697777797275iDvsW_JPEG/1697777563568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 음양사 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Fri, 06 Oct 2023 03:14:12 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_162/QBaVW_1696561346082V1PIw_JPEG/1696561339606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 다수를 위해 승관을 포기하는 궤도? | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40916798</link>
-            <guid>https://tv.naver.com/v/40916798</guid>
-            <pubDate>Thu, 05 Oct 2023 04:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[5:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_191/lP8mC_1696477569143zw2iE_JPEG/1696477561012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
