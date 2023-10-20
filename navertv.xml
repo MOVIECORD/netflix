@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 06:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 07:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 이두나! | 절찬 스트리밍 중]]></title>
+            <link>https://tv.naver.com/v/41647335</link>
+            <guid>https://tv.naver.com/v/41647335</guid>
+            <pubDate>Fri, 20 Oct 2023 07:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_247/wqEJ5_1697782749111Bjln2_JPEG/1697782744827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '드림스윗 - 네 꿈에 숨어들어가' | 이두나!]]></title>
             <link>https://tv.naver.com/v/41642673</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Oct 2023 03:13:48 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231007_96/yMeOc_1696647791866zv9Ng_JPEG/1696647789270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 피스를 조립하면 ◯◯◯가 나온다? | 데블스 플랜]]></title>
-            <link>https://tv.naver.com/v/40916846</link>
-            <guid>https://tv.naver.com/v/40916846</guid>
-            <pubDate>Fri, 06 Oct 2023 03:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_162/QBaVW_1696561346082V1PIw_JPEG/1696561339606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
