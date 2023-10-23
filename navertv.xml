@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 01:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 01:55:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 안데스 설원의 생존자들 | 공식 티저 예고편 #2]]></title>
+            <link>https://tv.naver.com/v/41737843</link>
+            <guid>https://tv.naver.com/v/41737843</guid>
+            <pubDate>Mon, 23 Oct 2023 01:55:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_229/L6bIB_169802557245554jAJ_JPEG/1698025546853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 이두나! | 절찬 스트리밍 중]]></title>
             <link>https://tv.naver.com/v/41647335</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_197/MFon4_1696387408454nS8k0_JPEG/1696387392717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지구 위의 생명 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/40950553</link>
-            <guid>https://tv.naver.com/v/40950553</guid>
-            <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_202/InQme_1696387340856kKYHd_JPEG/1696387315294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
