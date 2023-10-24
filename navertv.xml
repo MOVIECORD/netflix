@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 02:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 03:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 23 Oct 2023 03:14:48 GMT</pubDate>
             <content:encoded><![CDATA[2:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231024_96/M72CB_16981127864405zmbW_JPEG/1698112783615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 친구 말고 좋아하는 사람이라고 해주면 안 돼? | 이두나!]]></title>
+            <link>https://tv.naver.com/v/41655594</link>
+            <guid>https://tv.naver.com/v/41655594</guid>
+            <pubDate>Tue, 24 Oct 2023 03:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_65/sMX8h_1697851049076lr1tP_JPEG/1697851045564.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이두나! | 절찬 스트리밍 중]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_142/mmNkO_1696387840209zhssQ_JPEG/1696387835869.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 리브 더 월드 비하인드 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/40950830</link>
-            <guid>https://tv.naver.com/v/40950830</guid>
-            <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_110/tgLY0_1696387711854kREc3_JPEG/1696387690611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
