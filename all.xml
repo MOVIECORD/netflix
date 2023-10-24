@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 09:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 10:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,7 +250,7 @@
             <guid>https://tv.naver.com/v/41655594</guid>
             <pubDate>Tue, 24 Oct 2023 03:14:51 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_65/sMX8h_1697851049076lr1tP_JPEG/1697851045564.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_275/oMZLk_1698141639716ABdPc_JPEG/1698141637321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이두나! | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
