@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 00:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 01:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,22 @@
             <pubDate>Mon, 23 Oct 2023 19:12:30 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41788909</link>
+            <guid>https://tv.naver.com/v/41788909</guid>
+            <pubDate>Tue, 24 Oct 2023 01:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_187/qtjkG_1698109751155WlmeS_JPEG/1698109734835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 이두나! | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41788195</link>
+            <guid>https://tv.naver.com/v/41788195</guid>
+            <pubDate>Tue, 24 Oct 2023 01:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[7:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_126/iTXPO_1698108394234qwo7J_JPEG/1698108273580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안데스 설원의 생존자들 | 공식 티저 예고편 #2 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@
             <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_110/tgLY0_1696387711854kREc3_JPEG/1696387690611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 10월 신작 소개 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40950722</link>
-            <guid>https://tv.naver.com/v/40950722</guid>
-            <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_98/IKxFi_1696387579412lGVAV_JPEG/1696387564075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 빅 마우스 시즌 7 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/40950676</link>
-            <guid>https://tv.naver.com/v/40950676</guid>
-            <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_153/W9Y0B_1696387507631QJpvw_JPEG/1696387506086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
