@@ -4,9 +4,33 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 02:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 03:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 《SPY×FAMILY 스파이 패밀리》 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/41851091</link>
+            <guid>https://tv.naver.com/v/41851091</guid>
+            <pubDate>Wed, 25 Oct 2023 03:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_75/hldG2_1698201869678sKonO_JPEG/1698201868606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 리브 더 월드 비하인드 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/41850989</link>
+            <guid>https://tv.naver.com/v/41850989</guid>
+            <pubDate>Wed, 25 Oct 2023 03:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_256/LsC73_1698201759869nTdgL_JPEG/1698201758063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 친구랑은 키스 안 한다며 | 이두나!]]></title>
+            <link>https://tv.naver.com/v/41801421</link>
+            <guid>https://tv.naver.com/v/41801421</guid>
+            <pubDate>Wed, 25 Oct 2023 03:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_283/xzTzj_1698124942123oTnc8_JPEG/1698124211135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/41788909</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 04 Oct 2023 06:18:39 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_257/ksDFL_1696400136679iGYUz_JPEG/1696400134897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/40951411</link>
-            <guid>https://tv.naver.com/v/40951411</guid>
-            <pubDate>Thu, 05 Oct 2023 00:59:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_102/BNie0_1696388626907NtaGa_JPEG/1696388465485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 우리가 볼 수 없는 모든 빛 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/40951136</link>
-            <guid>https://tv.naver.com/v/40951136</guid>
-            <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_142/rQr1U_1696388165808OxXXB_JPEG/1696388101169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 플루토 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/40950919</link>
-            <guid>https://tv.naver.com/v/40950919</guid>
-            <pubDate>Wed, 04 Oct 2023 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_142/mmNkO_1696387840209zhssQ_JPEG/1696387835869.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
