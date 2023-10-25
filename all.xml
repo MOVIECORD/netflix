@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 10:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 11:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -234,7 +234,7 @@
             <guid>https://tv.naver.com/v/41801421</guid>
             <pubDate>Wed, 25 Oct 2023 03:14:20 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_283/xzTzj_1698124942123oTnc8_JPEG/1698124211135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_193/dzu5u_1698229136648iceJO_JPEG/1698229133586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
