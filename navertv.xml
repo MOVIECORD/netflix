@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 00:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 01:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 크라운: 시즌 6 | 파트 1 예고편]]></title>
+            <link>https://tv.naver.com/v/41954026</link>
+            <guid>https://tv.naver.com/v/41954026</guid>
+            <pubDate>Fri, 27 Oct 2023 01:51:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231027_247/Df0Y5_1698368300809jrjD7_JPEG/1698368240012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 크레이지 크루즈 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/41903267</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Oct 2023 03:14:39 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_51/TtWrI_1696474957360idQTn_JPEG/1696474908665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 요리 서바이벌 참가자 모집]]></title>
-            <link>https://tv.naver.com/v/40992380</link>
-            <guid>https://tv.naver.com/v/40992380</guid>
-            <pubDate>Thu, 05 Oct 2023 01:56:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_286/BiKmm_1696469773576ilA3w_JPEG/1696469654574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
