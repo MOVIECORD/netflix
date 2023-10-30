@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 02:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 03:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 변화구 없음. 무조건 돌직구 날려버리는 수지😎 | 이두나!]]></title>
+            <link>https://tv.naver.com/v/42061879</link>
+            <guid>https://tv.naver.com/v/42061879</guid>
+            <pubDate>Mon, 30 Oct 2023 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[8:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_152/ebFxO_1698633400647Od6rF_JPEG/1698633397092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스페셜 MV '수지 - Undercover' | 이두나!]]></title>
+            <link>https://tv.naver.com/v/42061815</link>
+            <guid>https://tv.naver.com/v/42061815</guid>
+            <pubDate>Mon, 30 Oct 2023 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_281/uk0f8_1698633299685JIO2N_JPEG/1698633292981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 킬러 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/42058540</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 09 Oct 2023 10:16:34 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231009_118/QqIA5_1696827661347QvMlz_JPEG/1696827656664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 초밥, 간장.. 무엇을 뜻하는 암호일까? | 발레리나]]></title>
-            <link>https://tv.naver.com/v/41086054</link>
-            <guid>https://tv.naver.com/v/41086054</guid>
-            <pubDate>Sun, 08 Oct 2023 03:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_40/0qlqt_16966606255567yYeS_JPEG/1696660500180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 발레리나 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.naver.com/v/41085830</link>
-            <guid>https://tv.naver.com/v/41085830</guid>
-            <pubDate>Sat, 07 Oct 2023 07:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_148/scS2F_1696660048137y4h26_JPEG/1696659967261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
