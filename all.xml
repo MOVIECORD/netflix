@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 08:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 09:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@
             <pubDate>Mon, 30 Oct 2023 05:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_160/B8zGt_1698641720395oFSm4_JPEG/1698641680719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 두나 앞에선 멍뭉이🐶 양세종의 대형견 모먼트 | 이두나! (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42063570</link>
+            <guid>https://tv.naver.com/v/42063570</guid>
+            <pubDate>Mon, 30 Oct 2023 09:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[12:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_82/rASqX_1698635801830Y4S4v_JPEG/1698635795517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 변화구 없음. 무조건 돌직구 날려버리는 수지😎 | 이두나! (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Tue, 10 Oct 2023 11:11:50 GMT</pubDate>
             <content:encoded><![CDATA[5:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231010_24/Qez2C_1696935313376i63hU_JPEG/1696935267847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 크라운: 시즌 6 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41168348</link>
-            <guid>https://tv.naver.com/v/41168348</guid>
-            <pubDate>Tue, 10 Oct 2023 01:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_53/N8yfs_1696900807158de4xg_JPEG/1696900720355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
