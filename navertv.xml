@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 23:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 00:59:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 코미디 로얄 | 공식 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/42096112</link>
+            <guid>https://tv.naver.com/v/42096112</guid>
+            <pubDate>Tue, 31 Oct 2023 00:59:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_236/g9Ycg_1698671671224Baagj_JPEG/1698671669076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 마에스트로 번스타인 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/42068156</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Oct 2023 03:15:01 GMT</pubDate>
             <content:encoded><![CDATA[4:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231011_297/0ob71_1696993424370VVLwv_JPEG/1696993395599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 단 한 번의 기회로 탈락과 생존이 결정된다! 하석진의 운명은? | 데블스 플랜]]></title>
-            <link>https://tv.naver.com/v/41195329</link>
-            <guid>https://tv.naver.com/v/41195329</guid>
-            <pubDate>Tue, 10 Oct 2023 11:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_24/Qez2C_1696935313376i63hU_JPEG/1696935267847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
