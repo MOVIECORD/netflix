@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 23:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 01:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Tue, 31 Oct 2023 16:18:06 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42122232</link>
+            <guid>https://tv.naver.com/v/42122232</guid>
+            <pubDate>Wed, 01 Nov 2023 01:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_43/CkG9t_1698734788973kChDP_JPEG/1698734785317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 코미디 로얄 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Thu, 12 Oct 2023 03:14:16 GMT</pubDate>
             <content:encoded><![CDATA[6:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_205/eMcSD_1697079726013grecX_JPEG/1697079697107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 곽준빈을 오열하게 만든 탈락자는? | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41220877</link>
-            <guid>https://tv.naver.com/v/41220877</guid>
-            <pubDate>Wed, 11 Oct 2023 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_297/0ob71_1696993424370VVLwv_JPEG/1696993395599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
