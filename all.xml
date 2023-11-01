@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 11월 신작 소개 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42167311</link>
+            <guid>https://tv.naver.com/v/42167311</guid>
+            <pubDate>Wed, 01 Nov 2023 03:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_6/tl7UV_1698807827567n8Nd0_JPEG/1698807807140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42122232</link>
             <guid>https://tv.naver.com/v/42122232</guid>
@@ -227,6 +235,14 @@
             <pubDate>Tue, 31 Oct 2023 00:59:44 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_236/g9Ycg_1698671671224Baagj_JPEG/1698671669076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42084179</link>
+            <guid>https://tv.naver.com/v/42084179</guid>
+            <pubDate>Wed, 01 Nov 2023 03:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[5:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_31/FVofg_1698659640997nykwd_JPEG/1698659635673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마에스트로 번스타인 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@
             <pubDate>Fri, 13 Oct 2023 03:15:00 GMT</pubDate>
             <content:encoded><![CDATA[5:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_228/pxiGX_1697080723163WXtb9_JPEG/1697080691394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 발레리나 | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41273303</link>
-            <guid>https://tv.naver.com/v/41273303</guid>
-            <pubDate>Thu, 12 Oct 2023 04:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[14:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_51/PasVL_1697080227124D5SAr_JPEG/1697080160554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 최후의 3인 확정 | 데블스 플랜 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41272910</link>
-            <guid>https://tv.naver.com/v/41272910</guid>
-            <pubDate>Thu, 12 Oct 2023 03:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[6:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_205/eMcSD_1697079726013grecX_JPEG/1697079697107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
