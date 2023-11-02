@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 09:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 10:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 30 Oct 2023 09:14:25 GMT</pubDate>
             <content:encoded><![CDATA[12:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_82/rASqX_1698635801830Y4S4v_JPEG/1698635795517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 간호사 박보영의 멀고도 험한 정신병동 적응기 | 정신병동에도 아침이 와요]]></title>
+            <link>https://tv.naver.com/v/42063194</link>
+            <guid>https://tv.naver.com/v/42063194</guid>
+            <pubDate>Thu, 02 Nov 2023 10:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_55/KUhev_1698900836164t9yvh_JPEG/1698900805837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 변화구 없음. 무조건 돌직구 날려버리는 수지😎 | 이두나!]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 18 Oct 2023 01:55:06 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231018_144/GtvTV_1697591295810kxG6i_JPEG/1697591240189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/41479607</link>
-            <guid>https://tv.naver.com/v/41479607</guid>
-            <pubDate>Thu, 19 Oct 2023 00:59:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_67/R96M1_1697512838958LdhUX_JPEG/1697512668617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
