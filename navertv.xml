@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 23:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 00:59:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 독전 2 | 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/42172133</link>
+            <guid>https://tv.naver.com/v/42172133</guid>
+            <pubDate>Thu, 02 Nov 2023 00:59:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_30/webYe_1698814087126G6Fzm_JPEG/1698814077817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 11월 신작 소개]]></title>
             <link>https://tv.naver.com/v/42167311</link>
@@ -21,7 +29,7 @@
             <guid>https://tv.naver.com/v/42122232</guid>
             <pubDate>Wed, 01 Nov 2023 01:03:18 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_43/CkG9t_1698734788973kChDP_JPEG/1698734785317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_223/Y31E2_1698886162394ksaXY_JPEG/1698886160121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 코미디 로얄 | 공식 티저 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Oct 2023 01:57:57 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231013_141/RpMCg_1697159793582Kt2sV_JPEG/1697159746197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 드디어 결승전😈 무섭게 하석진을 따라잡는 궤도 | 데블스 플랜]]></title>
-            <link>https://tv.naver.com/v/41273638</link>
-            <guid>https://tv.naver.com/v/41273638</guid>
-            <pubDate>Fri, 13 Oct 2023 03:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[5:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_228/pxiGX_1697080723163WXtb9_JPEG/1697080691394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
