@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 00:59:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 01:54:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Thu, 02 Nov 2023 00:59:21 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 펜타닐이 세계적으로 확산된 이유? | 페인 허슬러 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42216834</link>
+            <guid>https://tv.naver.com/v/42216834</guid>
+            <pubDate>Thu, 02 Nov 2023 01:54:15 GMT</pubDate>
+            <content:encoded><![CDATA[6:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_206/p2F6A_1698887096991rLCCd_JPEG/1698887035047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 독전 2 | 메인 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Tue, 17 Oct 2023 01:55:25 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231017_256/ASGWW_1697504682266OQxFm_JPEG/1697504660600.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 레오 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41320786</link>
-            <guid>https://tv.naver.com/v/41320786</guid>
-            <pubDate>Fri, 13 Oct 2023 01:57:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_141/RpMCg_1697159793582Kt2sV_JPEG/1697159746197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
