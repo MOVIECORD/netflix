@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 07:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 08:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -290,7 +290,7 @@
             <guid>https://tv.naver.com/v/42063227</guid>
             <pubDate>Fri, 03 Nov 2023 07:12:30 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_169/O6ssh_1698987238709dx7Py_JPEG/1698987237034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_288/otV8k_1698999074599yOuwO_JPEG/1698999072936.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 간호사 박보영의 멀고도 험한 정신병동 적응기 | 정신병동에도 아침이 와요 (Netflix Korea ─ NAVER TV)]]></title>
