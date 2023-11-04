@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 02:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 03:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,6 +285,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_82/rASqX_1698635801830Y4S4v_JPEG/1698635795517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 망상 환자에게 도둑으로 몰리게 된 박보영 | 정신병동에도 아침이 와요 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42063274</link>
+            <guid>https://tv.naver.com/v/42063274</guid>
+            <pubDate>Sat, 04 Nov 2023 03:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_280/DNopf_1699005270509IzTzM_JPEG/1699005259494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 절찬 스트리밍 중 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42063227</link>
             <guid>https://tv.naver.com/v/42063227</guid>
@@ -443,14 +451,6 @@
             <pubDate>Thu, 19 Oct 2023 03:14:35 GMT</pubDate>
             <content:encoded><![CDATA[5:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_10/uFTah_16977666957786kmPr_JPEG/1697766692525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] Geeked Week 2023 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41527531</link>
-            <guid>https://tv.naver.com/v/41527531</guid>
-            <pubDate>Wed, 18 Oct 2023 01:55:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_247/5GpAg_1697591356305cHqbA_JPEG/1697591340585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
