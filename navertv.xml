@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 04:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 05:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 30 Oct 2023 09:14:25 GMT</pubDate>
             <content:encoded><![CDATA[12:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_82/rASqX_1698635801830Y4S4v_JPEG/1698635795517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마치 10초 뒤에 죽을 것 같았어요 | 정신병동에도 아침이 와요]]></title>
+            <link>https://tv.naver.com/v/42063353</link>
+            <guid>https://tv.naver.com/v/42063353</guid>
+            <pubDate>Mon, 06 Nov 2023 05:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[5:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_143/ksD5t_1699005301076Tqfe1_JPEG/1699005294065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 망상 환자에게 도둑으로 몰리게 된 박보영 | 정신병동에도 아침이 와요]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Oct 2023 01:53:56 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_207/7y27C_1697764207560cKYq3_JPEG/1697764149029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 선 넘는 양세종 학교 선배 참교육 하는 수지 | 이두나!]]></title>
-            <link>https://tv.naver.com/v/41542963</link>
-            <guid>https://tv.naver.com/v/41542963</guid>
-            <pubDate>Sat, 21 Oct 2023 03:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_115/DoeZm_1697935236096xMfgb_JPEG/1697935232443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
