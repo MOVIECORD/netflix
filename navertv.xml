@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 02:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 03:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 리프트: 비행기를 털어라 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/42389093</link>
+            <guid>https://tv.naver.com/v/42389093</guid>
+            <pubDate>Mon, 06 Nov 2023 03:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_36/hxVey_1699239216728wyAwj_JPEG/1699239214448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] K-드라마 같은 사랑을 하고 싶어 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/42236645</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 21 Oct 2023 03:13:35 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231022_115/DoeZm_1697935236096xMfgb_JPEG/1697935232443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 존재 자체가 플러팅인 수지 | 이두나!]]></title>
-            <link>https://tv.naver.com/v/41539384</link>
-            <guid>https://tv.naver.com/v/41539384</guid>
-            <pubDate>Thu, 19 Oct 2023 03:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[5:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_10/uFTah_16977666957786kmPr_JPEG/1697766692525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
