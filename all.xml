@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 21:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 22:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -237,6 +237,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_111/zmEJV_1699580245557ORG3l_JPEG/1699580231843.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 경성크리처 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42578618</link>
+            <guid>https://tv.naver.com/v/42578618</guid>
+            <pubDate>Sat, 11 Nov 2023 22:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_63/9FpLx_1699513300346kC3Ba_JPEG/1699513240589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42558572</link>
             <guid>https://tv.naver.com/v/42558572</guid>
@@ -443,14 +451,6 @@
             <pubDate>Wed, 25 Oct 2023 03:14:20 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231025_193/dzu5u_1698229136648iceJO_JPEG/1698229133586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41788909</link>
-            <guid>https://tv.naver.com/v/41788909</guid>
-            <pubDate>Tue, 24 Oct 2023 01:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_187/qtjkG_1698109751155WlmeS_JPEG/1698109734835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
