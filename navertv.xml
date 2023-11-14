@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 23:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 01:00:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 코미디 로얄 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/42771633</link>
+            <guid>https://tv.naver.com/v/42771633</guid>
+            <pubDate>Tue, 14 Nov 2023 01:00:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_266/Nb7R0_1699870730366As6hS_JPEG/1699870622022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 원피스 | NG 열전]]></title>
             <link>https://tv.naver.com/v/42753755</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Nov 2023 13:16:39 GMT</pubDate>
             <content:encoded><![CDATA[4:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231103_280/DNopf_1699005270509IzTzM_JPEG/1699005259494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.naver.com/v/42063227</link>
-            <guid>https://tv.naver.com/v/42063227</guid>
-            <pubDate>Tue, 07 Nov 2023 13:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_288/otV8k_1698999074599yOuwO_JPEG/1698999072936.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
