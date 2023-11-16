@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 01:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 02:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 치킨 런: 너겟의 탄생 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42917266</link>
+            <guid>https://tv.naver.com/v/42917266</guid>
+            <pubDate>Thu, 16 Nov 2023 02:27:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_254/TCiUd_1700097901847mBh2C_JPEG/1700097860030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 솔로지옥3 | 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Thu, 09 Nov 2023 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[4:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231108_127/tPk8b_16994298955861jRAH_JPEG/1699429894174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 두나 앞에선 멍뭉이🐶 양세종의 대형견 모먼트 | 이두나! (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42063570</link>
-            <guid>https://tv.naver.com/v/42063570</guid>
-            <pubDate>Mon, 30 Oct 2023 09:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[12:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_82/rASqX_1698635801830Y4S4v_JPEG/1698635795517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
