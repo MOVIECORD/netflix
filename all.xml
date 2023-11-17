@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 08:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -219,6 +219,14 @@
             <pubDate>Thu, 16 Nov 2023 07:13:09 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_47/Ze2Rv_1700117221620gv3lO_JPEG/1700117075802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 변요한이 한효주를 살려둔 이유 | 독전 2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42930162</link>
+            <guid>https://tv.naver.com/v/42930162</guid>
+            <pubDate>Fri, 17 Nov 2023 09:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_145/15Sua_17001123696623LL9m_JPEG/1700112349820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 치킨 런: 너겟의 탄생 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Tue, 31 Oct 2023 00:59:44 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_236/g9Ycg_1698671671224Baagj_JPEG/1698671669076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 제작기 영상 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42084179</link>
-            <guid>https://tv.naver.com/v/42084179</guid>
-            <pubDate>Wed, 01 Nov 2023 03:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[5:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_31/FVofg_1698659640997nykwd_JPEG/1698659635673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
