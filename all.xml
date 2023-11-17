@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 23:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 01:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -250,7 +250,7 @@
             <guid>https://tv.naver.com/v/42859644</guid>
             <pubDate>Thu, 16 Nov 2023 01:02:39 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_17/sS9gs_1700010885834Sns0i_JPEG/1700010704084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_158/GsfXC_1700180460873P5ofD_JPEG/1700180451638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 포켓몬 컨시어지 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
