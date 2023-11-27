@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 09:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 10:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43469484</link>
+            <guid>https://tv.naver.com/v/43469484</guid>
+            <pubDate>Mon, 27 Nov 2023 10:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_37/A2lNA_1701076660161NDDcc_JPEG/1701076184894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 출연자 소개 | 코미디 로얄 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Fri, 10 Nov 2023 01:00:03 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231113_52/tUYmO_1699836056110MwHCC_JPEG/1699836053309.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 <정신병동에도 아침이 와요> 힐링 토크 이벤트 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42477037</link>
-            <guid>https://tv.naver.com/v/42477037</guid>
-            <pubDate>Tue, 07 Nov 2023 12:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:05:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_21/25q1q_1699358785495nQ1Bn_JPEG/1699358675700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
