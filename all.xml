@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 01:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 02:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,22 @@
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 출연자 소개 | 코미디 로얄 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43441052</link>
+            <guid>https://tv.naver.com/v/43441052</guid>
+            <pubDate>Mon, 27 Nov 2023 02:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_248/JpqMy_1701047129197c0Ghv_JPEG/1701046862941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마보로시 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43441043</link>
+            <guid>https://tv.naver.com/v/43441043</guid>
+            <pubDate>Mon, 27 Nov 2023 02:26:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_8/r248G_1701047113067cNbOU_JPEG/1701047033585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 솔로지옥3 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@
             <pubDate>Tue, 07 Nov 2023 12:26:20 GMT</pubDate>
             <content:encoded><![CDATA[1:05:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231107_21/25q1q_1699358785495nQ1Bn_JPEG/1699358675700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 리프트: 비행기를 털어라 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42389093</link>
-            <guid>https://tv.naver.com/v/42389093</guid>
-            <pubDate>Mon, 06 Nov 2023 03:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_36/hxVey_1699239216728wyAwj_JPEG/1699239214448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] K-드라마 같은 사랑을 하고 싶어 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42236645</link>
-            <guid>https://tv.naver.com/v/42236645</guid>
-            <pubDate>Thu, 02 Nov 2023 08:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_173/55aGh_1698909590024JIg55_JPEG/1698909572976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
