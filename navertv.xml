@@ -4,9 +4,25 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 01:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 02:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 안데스 설원의 생존자들 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/43500548</link>
+            <guid>https://tv.naver.com/v/43500548</guid>
+            <pubDate>Tue, 28 Nov 2023 02:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_270/NBz8j_1701134877187NDyPN_JPEG/1701134816446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 그린홈 밖으로 나오다]]></title>
+            <link>https://tv.naver.com/v/43471208</link>
+            <guid>https://tv.naver.com/v/43471208</guid>
+            <pubDate>Tue, 28 Nov 2023 02:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_253/qY4jv_1701078835372KDKrV_JPEG/1701078662404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/43469484</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 10 Nov 2023 01:56:32 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_111/zmEJV_1699580245557ORG3l_JPEG/1699580231843.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 경성크리처 | 공개일 발표]]></title>
-            <link>https://tv.naver.com/v/42578618</link>
-            <guid>https://tv.naver.com/v/42578618</guid>
-            <pubDate>Sat, 11 Nov 2023 22:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_63/9FpLx_1699513300346kC3Ba_JPEG/1699513240589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/42558572</link>
-            <guid>https://tv.naver.com/v/42558572</guid>
-            <pubDate>Fri, 10 Nov 2023 01:00:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_52/tUYmO_1699836056110MwHCC_JPEG/1699836053309.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
