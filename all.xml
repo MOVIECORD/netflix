@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 06:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 07:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -237,7 +237,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231128_270/NBz8j_1701134877187NDyPN_JPEG/1701134816446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 그린홈 밖으로 나오다 (Netflix Korea ─ NAVER TV)]]></title>
+            <title><![CDATA[그린홈 밖으로 나오다 I 넷플릭스 스위트홈 시즌2 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43471208</link>
             <guid>https://tv.naver.com/v/43471208</guid>
             <pubDate>Tue, 28 Nov 2023 02:27:59 GMT</pubDate>
@@ -349,7 +349,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_38/zlM7X_1700032120640JKeDC_JPEG/1700031945050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <title><![CDATA[공식 예고편 I 넷플릭스 스위트홈 시즌2 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42859644</link>
             <guid>https://tv.naver.com/v/42859644</guid>
             <pubDate>Thu, 16 Nov 2023 01:02:39 GMT</pubDate>
