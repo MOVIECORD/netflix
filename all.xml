@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 01:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 02:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,22 @@
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 베를린 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43558307</link>
+            <guid>https://tv.naver.com/v/43558307</guid>
+            <pubDate>Wed, 29 Nov 2023 02:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_99/GW02T_1701219983601wPJly_JPEG/1701219955838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] K-드라마 같은 사랑을 하고 싶어 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43558278</link>
+            <guid>https://tv.naver.com/v/43558278</guid>
+            <pubDate>Wed, 29 Nov 2023 02:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_251/2uLtu_1701219920376l10H8_JPEG/1701219863484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안데스 설원의 생존자들 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -435,22 +451,6 @@
             <pubDate>Fri, 10 Nov 2023 01:56:32 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_246/BZ5Zt_1699580387072EWKrt_JPEG/1699580318819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 울트라맨: 라이징 | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42623231</link>
-            <guid>https://tv.naver.com/v/42623231</guid>
-            <pubDate>Fri, 10 Nov 2023 01:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_13/g1bCx_16995803075101K4o0_JPEG/1699580294827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 《오징어 게임》 황동혁 감독과 함께하는 비하인드 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42623184</link>
-            <guid>https://tv.naver.com/v/42623184</guid>
-            <pubDate>Fri, 10 Nov 2023 01:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_111/zmEJV_1699580245557ORG3l_JPEG/1699580231843.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
