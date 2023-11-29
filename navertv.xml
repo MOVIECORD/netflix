@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 08:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 09:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 29 Nov 2023 02:26:38 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231129_251/2uLtu_1701219920376l10H8_JPEG/1701219863484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[괴물화 사태 취재하다 OO된 문상 기자 (레전드 방송사고) I 넷플릭스 스위트홈 시즌2]]></title>
+            <link>https://tv.naver.com/v/43548783</link>
+            <guid>https://tv.naver.com/v/43548783</guid>
+            <pubDate>Wed, 29 Nov 2023 09:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_178/9ZZ5y_17012231378338N36c_PNG/1701223132571.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안데스 설원의 생존자들 | 공식 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 12 Nov 2023 23:12:58 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_214/60OD0_1699601588223omg5r_JPEG/1699601313078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아바타: 아앙의 전설 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/42623294</link>
-            <guid>https://tv.naver.com/v/42623294</guid>
-            <pubDate>Fri, 10 Nov 2023 01:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_246/BZ5Zt_1699580387072EWKrt_JPEG/1699580318819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
