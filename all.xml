@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 06:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 07:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[딩디디디리딩~♪ 딩디디디딩~♪ (알람 소리) 기다리고 기다리던 우리의 스마트폰에 알람이 울리며 넷플릭스 영화 &lt;스마트폰을 떨어뜨렸을 뿐인데&gt; 전.격.공.개!공개 전부터 스마트폰이 손에 착붙된 우리···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTdfMTE1/MDAxNjc2NTk3NDUwNDU1.a8ZBBsikoBxTfdSW7qcVCBi1otcznsdOc-_iMpGu6Ewg.YnC6eaSHdxLofJm_mYiT5EKcPiRsuYQDPII9pj1Y0XAg.GIF/IVk4cgvvUZ24BG782op_V0Ewe5Ys.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스위트홈> 시즌2 팬 이벤트 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43763839</link>
+            <guid>https://tv.naver.com/v/43763839</guid>
+            <pubDate>Sun, 03 Dec 2023 07:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:10:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231203_240/QP8HK_17015874708018yoNl_JPEG/01aa5805-91ab-11ee-89bd-80615f0bcd14_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Mon, 13 Nov 2023 06:18:37 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231113_114/wAeJ6_1699853277699zwkQq_JPEG/1699853221884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] The Witcher: Sirens of The Deep | 공개 발표 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42752479</link>
-            <guid>https://tv.naver.com/v/42752479</guid>
-            <pubDate>Mon, 13 Nov 2023 06:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_239/VcYnL_1699853199067qkSly_JPEG/1699853191304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

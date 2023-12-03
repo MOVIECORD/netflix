@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 06:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 07:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스위트홈> 시즌2 팬 이벤트]]></title>
+            <link>https://tv.naver.com/v/43763839</link>
+            <guid>https://tv.naver.com/v/43763839</guid>
+            <pubDate>Sun, 03 Dec 2023 07:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:10:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231203_240/QP8HK_17015874708018yoNl_JPEG/01aa5805-91ab-11ee-89bd-80615f0bcd14_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/43703956</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Nov 2023 06:18:37 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231113_114/wAeJ6_1699853277699zwkQq_JPEG/1699853221884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] The Witcher: Sirens of The Deep | 공개 발표]]></title>
-            <link>https://tv.naver.com/v/42752479</link>
-            <guid>https://tv.naver.com/v/42752479</guid>
-            <pubDate>Mon, 13 Nov 2023 06:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_239/VcYnL_1699853199067qkSly_JPEG/1699853191304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
