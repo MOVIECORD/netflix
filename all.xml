@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 02:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 03:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -253,6 +253,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231204_294/O2REx_1701654366437OQEYT_JPEG/1701654318020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송강과 이진욱의 피 튀기는 대결 |  넷플릭스 스위트홈 시즌2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43789236</link>
+            <guid>https://tv.naver.com/v/43789236</guid>
+            <pubDate>Mon, 04 Dec 2023 03:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_122/UVUqC_1701652849665fMQJR_JPEG/1701652846129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<스위트홈> 시즌2 팬 이벤트 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43763839</link>
             <guid>https://tv.naver.com/v/43763839</guid>
@@ -443,14 +451,6 @@
             <pubDate>Wed, 15 Nov 2023 02:27:02 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_80/gKb6y_17000102679413ibNN_JPEG/1700010194779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 코미디 로얄 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42771633</link>
-            <guid>https://tv.naver.com/v/42771633</guid>
-            <pubDate>Tue, 14 Nov 2023 01:00:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_266/Nb7R0_1699870730366As6hS_JPEG/1699870622022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
