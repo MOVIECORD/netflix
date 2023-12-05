@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 06:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 07:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[&lt;더 글로리&gt; 파트2를 향한 이 엄청난 기대감! 어디까지 올↗라↗가↗는↗거↗에↗요↘↗?티저 예고편과 보도스틸 공개 직후 쏟아지는 떡밥과 강렬한 복수가 예견되면서 전 세계의 꿈은 &lt;더 글로리&gt; 파트2 공개가···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfMTkg/MDAxNjc3MDMzODk5Mjgy.oNZww1BlWl5dh0VPYiVYsEpP7lD_cPpxZpMQ2lE0WyYg.808ujhDLwFq-2kGsnuC79_g-aMjQ5-6Nit9IwZSw0Ucg.JPEG/Iwm-8hpSPwx29fDths5cL4pPR1Yk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 돌아온 은유의 오빠? ∣ 넷플릭스 스위트홈 시즌2 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/43849265</link>
+            <guid>https://tv.naver.com/v/43849265</guid>
+            <pubDate>Tue, 05 Dec 2023 07:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_41/sHqKk_1701751081967wP1Aq_JPEG/1701751068668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 크라운: 시즌 6 | 파트 2 예고편 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Thu, 16 Nov 2023 01:02:39 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_158/GsfXC_1700180460873P5ofD_JPEG/1700180451638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 포켓몬 컨시어지 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42859195</link>
-            <guid>https://tv.naver.com/v/42859195</guid>
-            <pubDate>Wed, 15 Nov 2023 02:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_80/gKb6y_17000102679413ibNN_JPEG/1700010194779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
