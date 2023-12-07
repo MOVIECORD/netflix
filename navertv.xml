@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 23:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 01:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 05 Dec 2023 07:13:17 GMT</pubDate>
             <content:encoded><![CDATA[4:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231205_41/sHqKk_1701751081967wP1Aq_JPEG/1701751068668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 경성크리처 | 공식 예고편]]></title>
+            <link>https://tv.naver.com/v/43847891</link>
+            <guid>https://tv.naver.com/v/43847891</guid>
+            <pubDate>Thu, 07 Dec 2023 01:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_227/TUiRX_1701740693785X09hi_JPEG/1701740690547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 크라운: 시즌 6 | 파트 2 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Nov 2023 02:27:16 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_254/TCiUd_1700097901847mBh2C_JPEG/1700097860030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 조진웅VS한효주, 서영락을 손에 넣을 자는? | 독전 2]]></title>
-            <link>https://tv.naver.com/v/42890269</link>
-            <guid>https://tv.naver.com/v/42890269</guid>
-            <pubDate>Sun, 19 Nov 2023 03:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_179/UDzNA_1700202135937qEAkb_JPEG/1700202128012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
