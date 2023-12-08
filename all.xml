@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 06:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 07:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -314,7 +314,7 @@
             <guid>https://tv.naver.com/v/43763839</guid>
             <pubDate>Sun, 03 Dec 2023 07:12:05 GMT</pubDate>
             <content:encoded><![CDATA[1:06:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231203_240/QP8HK_17015874708018yoNl_JPEG/01aa5805-91ab-11ee-89bd-80615f0bcd14_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_130/eQE3m_1702019318855TAqWk_PNG/1702019316433.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
