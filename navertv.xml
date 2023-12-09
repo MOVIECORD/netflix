@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 08:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 09:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가 젠가를 이렇게 해? 그거 스홈즈🏠 ∣ 넷플릭스 스위트홈 시즌2]]></title>
+            <link>https://tv.naver.com/v/44028979</link>
+            <guid>https://tv.naver.com/v/44028979</guid>
+            <pubDate>Sat, 09 Dec 2023 09:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[10:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_185/Mx8n2_1702026066182gu9Y6_JPEG/1702026064294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 선 브라더스 | 공식 예고편]]></title>
             <link>https://tv.naver.com/v/44014295</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Nov 2023 03:15:09 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_23/sJBQn_1700447683876WQojW_JPEG/1700447654558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/42935915</link>
-            <guid>https://tv.naver.com/v/42935915</guid>
-            <pubDate>Thu, 16 Nov 2023 07:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_47/Ze2Rv_1700117221620gv3lO_JPEG/1700117075802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
