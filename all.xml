@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 06:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 07:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -421,7 +421,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_8/r248G_1701047113067cNbOU_JPEG/1701047033585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 솔로지옥3 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <title><![CDATA[공식 예고편 ∣ 넷플릭스 솔로지옥3 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/43353912</link>
             <guid>https://tv.naver.com/v/43353912</guid>
             <pubDate>Mon, 27 Nov 2023 01:02:33 GMT</pubDate>
