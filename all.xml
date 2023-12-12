@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 04:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 05:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[&lt;더 글로리&gt; 파트2를 향한 이 엄청난 기대감! 어디까지 올↗라↗가↗는↗거↗에↗요↘↗?티저 예고편과 보도스틸 공개 직후 쏟아지는 떡밥과 강렬한 복수가 예견되면서 전 세계의 꿈은 &lt;더 글로리&gt; 파트2 공개가···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfMTkg/MDAxNjc3MDMzODk5Mjgy.oNZww1BlWl5dh0VPYiVYsEpP7lD_cPpxZpMQ2lE0WyYg.808ujhDLwFq-2kGsnuC79_g-aMjQ5-6Nit9IwZSw0Ucg.JPEG/Iwm-8hpSPwx29fDths5cL4pPR1Yk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 경성크리처 | 출연진 인사말 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44203969</link>
+            <guid>https://tv.naver.com/v/44203969</guid>
+            <pubDate>Tue, 12 Dec 2023 05:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_223/T95AK_1702357286883AzKb9_PNG/1702357283407.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[누가 젠가를 이렇게 해? 그거 스홈즈🏠 ∣ 넷플릭스 스위트홈 시즌2 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Thu, 23 Nov 2023 01:01:44 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231121_126/NEHDm_1700543434129YEdTw_JPEG/1700543334139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 묵시록의 4기사 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43091225</link>
-            <guid>https://tv.naver.com/v/43091225</guid>
-            <pubDate>Mon, 20 Nov 2023 03:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_23/sJBQn_1700447683876WQojW_JPEG/1700447654558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
