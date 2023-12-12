@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 06:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 07:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[선공개] OOO가 솔로지옥에 왜 나와? ∣ 넷플릭스 솔로지옥3]]></title>
+            <link>https://tv.naver.com/v/44204602</link>
+            <guid>https://tv.naver.com/v/44204602</guid>
+            <pubDate>Tue, 12 Dec 2023 07:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_22/mMm5m_1702357923119yE8Il_JPEG/1702357877951.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 경성크리처 | 출연진 인사말]]></title>
             <link>https://tv.naver.com/v/44203969</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 03:14:28 GMT</pubDate>
             <content:encoded><![CDATA[5:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_275/ddx91_1700792786945iqvsg_JPEG/1700792742710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 경성크리처 | 공식 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/43158870</link>
-            <guid>https://tv.naver.com/v/43158870</guid>
-            <pubDate>Thu, 23 Nov 2023 01:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_126/NEHDm_1700543434129YEdTw_JPEG/1700543334139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
