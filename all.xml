@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 01:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 02:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[&lt;더 글로리&gt; 파트2를 향한 이 엄청난 기대감! 어디까지 올↗라↗가↗는↗거↗에↗요↘↗?티저 예고편과 보도스틸 공개 직후 쏟아지는 떡밥과 강렬한 복수가 예견되면서 전 세계의 꿈은 &lt;더 글로리&gt; 파트2 공개가···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfMTkg/MDAxNjc3MDMzODk5Mjgy.oNZww1BlWl5dh0VPYiVYsEpP7lD_cPpxZpMQ2lE0WyYg.808ujhDLwFq-2kGsnuC79_g-aMjQ5-6Nit9IwZSw0Ucg.JPEG/Iwm-8hpSPwx29fDths5cL4pPR1Yk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 브리저튼 시즌 3 | 공개일 발표 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44252215</link>
+            <guid>https://tv.naver.com/v/44252215</guid>
+            <pubDate>Wed, 13 Dec 2023 02:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_242/0Qxam_1702430335241EiQ1x_JPEG/1702430328332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] OOO가 솔로지옥에 왜 나와? ∣ 넷플릭스 솔로지옥3 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Mon, 27 Nov 2023 01:02:33 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_13/ndAbv_1700820638751jBcsY_PNG/1700820298458.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 달고나 우산 고르기 싫어서 싸우는 외국인들 | 오징어 게임: 더 챌린지 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43325600</link>
-            <guid>https://tv.naver.com/v/43325600</guid>
-            <pubDate>Fri, 24 Nov 2023 03:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_275/ddx91_1700792786945iqvsg_JPEG/1700792742710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
