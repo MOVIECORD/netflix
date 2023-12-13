@@ -4,7 +4,7 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 05:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 06:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 13 Dec 2023 02:27:40 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231213_242/0Qxam_1702430335241EiQ1x_JPEG/1702430328332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지옥도가 2개라고?👀 ∣ 넷플릭스 솔로지옥3]]></title>
+            <link>https://tv.naver.com/v/44214062</link>
+            <guid>https://tv.naver.com/v/44214062</guid>
+            <pubDate>Wed, 13 Dec 2023 06:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_139/ZTyst_1702434638906QpgEY_JPEG/1702434634175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] OOO가 솔로지옥에 왜 나와? ∣ 넷플릭스 솔로지옥3]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Nov 2023 02:26:48 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_8/r248G_1701047113067cNbOU_JPEG/1701047033585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공식 예고편 ∣ 넷플릭스 솔로지옥3]]></title>
-            <link>https://tv.naver.com/v/43353912</link>
-            <guid>https://tv.naver.com/v/43353912</guid>
-            <pubDate>Mon, 27 Nov 2023 01:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_13/ndAbv_1700820638751jBcsY_PNG/1700820298458.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
