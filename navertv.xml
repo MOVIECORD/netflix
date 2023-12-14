@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 02:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 03:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 다른 지옥도의 출연자를 소개합니다 ∣ 넷플릭스 솔로지옥3]]></title>
+            <link>https://tv.naver.com/v/44275797</link>
+            <guid>https://tv.naver.com/v/44275797</guid>
+            <pubDate>Thu, 14 Dec 2023 03:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231214_124/OTXwA_1702522836527h9ufj_JPEG/1702516752245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 브리저튼 시즌 3 | 공개일 발표]]></title>
             <link>https://tv.naver.com/v/44252215</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Nov 2023 02:26:48 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_248/JpqMy_1701047129197c0Ghv_JPEG/1701046862941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마보로시 | 공식 예고편]]></title>
-            <link>https://tv.naver.com/v/43441043</link>
-            <guid>https://tv.naver.com/v/43441043</guid>
-            <pubDate>Mon, 27 Nov 2023 02:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_8/r248G_1701047113067cNbOU_JPEG/1701047033585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
