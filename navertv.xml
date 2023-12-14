@@ -4,9 +4,17 @@
         <title>Netflix Korea ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 09:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 10:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 대낮에 벌어진 요괴와 영계탐정의 싸움 | 유유백서]]></title>
+            <link>https://tv.naver.com/v/44337440</link>
+            <guid>https://tv.naver.com/v/44337440</guid>
+            <pubDate>Thu, 14 Dec 2023 10:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231214_92/dE9PL_1702545672766EFsUh_JPEG/1702545670604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[또 다른 지옥도의 출연자를 소개합니다 ∣ 넷플릭스 솔로지옥3]]></title>
             <link>https://tv.naver.com/v/44275797</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Nov 2023 10:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_37/A2lNA_1701076660161NDDcc_JPEG/1701076184894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 출연자 소개 | 코미디 로얄]]></title>
-            <link>https://tv.naver.com/v/43441052</link>
-            <guid>https://tv.naver.com/v/43441052</guid>
-            <pubDate>Mon, 27 Nov 2023 02:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_248/JpqMy_1701047129197c0Ghv_JPEG/1701046862941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
