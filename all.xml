@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 02:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 03:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -229,6 +229,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231214_92/dE9PL_1702545672766EFsUh_JPEG/1702545670604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[썸 타는 거야? 기싸움 하는 거야? ∣ 넷플릭스 솔로지옥3 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44278589</link>
+            <guid>https://tv.naver.com/v/44278589</guid>
+            <pubDate>Fri, 15 Dec 2023 03:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[5:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_294/yvSS4_1702601810383T4EIu_JPEG/1702601801841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[또 다른 지옥도의 출연자를 소개합니다 ∣ 넷플릭스 솔로지옥3 (Netflix Korea ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/44275797</link>
             <guid>https://tv.naver.com/v/44275797</guid>
@@ -443,14 +451,6 @@
             <pubDate>Tue, 28 Nov 2023 02:27:59 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231128_270/NBz8j_1701134877187NDyPN_JPEG/1701134816446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그린홈 밖으로 나오다 I 넷플릭스 스위트홈 시즌2 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43471208</link>
-            <guid>https://tv.naver.com/v/43471208</guid>
-            <pubDate>Tue, 28 Nov 2023 02:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_253/qY4jv_1701078835372KDKrV_JPEG/1701078662404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
