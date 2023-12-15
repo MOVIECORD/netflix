@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 01:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 02:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -211,6 +211,14 @@
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[&lt;더 글로리&gt; 파트2를 향한 이 엄청난 기대감! 어디까지 올↗라↗가↗는↗거↗에↗요↘↗?티저 예고편과 보도스틸 공개 직후 쏟아지는 떡밥과 강렬한 복수가 예견되면서 전 세계의 꿈은 &lt;더 글로리&gt; 파트2 공개가···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfMTkg/MDAxNjc3MDMzODk5Mjgy.oNZww1BlWl5dh0VPYiVYsEpP7lD_cPpxZpMQ2lE0WyYg.808ujhDLwFq-2kGsnuC79_g-aMjQ5-6Nit9IwZSw0Ucg.JPEG/Iwm-8hpSPwx29fDths5cL4pPR1Yk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 비버리 힐스 캅: 액셀 F | 공식 티저 예고편 (Netflix Korea ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/44366195</link>
+            <guid>https://tv.naver.com/v/44366195</guid>
+            <pubDate>Fri, 15 Dec 2023 02:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_30/l4kcS_1702602588660UVKOa_JPEG/1702602585666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 대낮에 벌어진 요괴와 영계탐정의 싸움 | 유유백서 (Netflix Korea ─ NAVER TV)]]></title>
@@ -443,14 +451,6 @@
             <pubDate>Tue, 28 Nov 2023 02:27:59 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_253/qY4jv_1701078835372KDKrV_JPEG/1701078662404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공식 예고편 (Netflix Korea ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/43469484</link>
-            <guid>https://tv.naver.com/v/43469484</guid>
-            <pubDate>Mon, 27 Nov 2023 10:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_37/A2lNA_1701076660161NDDcc_JPEG/1701076184894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
