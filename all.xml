@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 00:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 01:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간처럼 보일 것,
+생각할 것, 행동할 것
+넷플릭스 시리즈 <기생수: 더 그레이> (Netflix Korea ─ NAVER POST)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37522516&amp;memberNo=25425763</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37522516&amp;memberNo=25425763</guid>
+            <pubDate>Fri, 22 Mar 2024 01:50:36 GMT</pubDate>
+            <content:encoded><![CDATA[“인간들 사이에 완벽하게 파고들어라”&lt;지옥&gt; &lt;부산행&gt; 연상호 감독의 강렬한 신작 넷플릭스 시리즈 &lt;기생수: 더 그레이&gt; 4월 5일 공개!(っ'-')╮=͟͟͞♡ 예고편만 공개됐을 뿐인···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjJfNzkg/MDAxNzExMDcwNzc1ODI2.QU8TZ9CWmHCmjdat6PRNE433mK_FOyTKTFRBDcHfXQIg.Fh5d02xNG0clVGW55Y8eYQLecZEHWjlHNoSjZs-Wqhgg.JPEG/IOnxtYMVG93PWyp337aFJOVffmIM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온 우주를 뒤흔들 전쟁
 Rebel Moon: 파트1 불의 아이
@@ -201,16 +211,6 @@ Rebel Moon: 파트1 불의 아이
             <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
             <content:encoded><![CDATA[매일 생각했어, 연진아 파트2가 얼른 공개되기를..드디어 많은 사람들이 기다렸던 넷플릭스 시리즈 &lt;더 글로리&gt; 파트2 오늘 공개!2년 같았던 2달을 기다린 여러분들을 위해 &lt;더 글로리&gt; 파트2에서 집중···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDlfMzIg/MDAxNjc4MzcwOTA0ODQ1.Tiv124Pu6aQ6LXi5jtNS6HdMyNGSaJyrs5C9cvAQpBMg.82_S16eBVMGI3fGLxZ4zjUIRaavfFDQBg5tsndSPdmIg.JPEG/I0g6-RjKb_m2ICUsBuI_F942u6EI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치명적 매력 MK 킬러들!
-전도연X설경구X이솜X구교환
-<길복순> 캐릭터 포스터 공개 (Netflix Korea ─ NAVER POST)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=35558179&amp;memberNo=25425763</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=35558179&amp;memberNo=25425763</guid>
-            <pubDate>Tue, 14 Nov 2023 04:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[ก็็็็็็็็็็็็็ʕ•͡ᴥ•ʔ ก้้้้้้้้้้้ 엄청난 소식이 몰려오고 있는 듯… 심상치 않은 기운! “ 과하지 않지만 황홀한 액션, 아름답고 창의적으로 그려낸 폭력” (출처: The Upcoming&amp;#···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDJfMjIy/MDAxNjc3NzI4MTc2OTcw.ctzy13W1Y2jPZ1hYFLV5qwck24GhZ948nmB0eKe_Qrwg.OXIqdMMfTakUWpgTtVCzH3bl5g6tA9ul4JTNVari6pQg.JPEG/IPs2GjIDDHbDnwsNICRGmvN0dZow.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
